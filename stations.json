@@ -80,7 +80,7 @@
      },
      {
      "name": "ProFM",
-     "streamURL": "http://5.2.240.133:8000/live",
+     "streamURL": "https://edge76.rcs-rds.ro/profm/profm.mp3",
      "imageURL": "pro_fm.png",
      "desc": "Top 40 Hits",
      "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.."
