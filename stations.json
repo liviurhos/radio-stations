@@ -30,6 +30,13 @@
      "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999."
      },
      {
+     "name": "Play Urban",
+     "streamURL": "https://live.playradio.org:8443/UrbanHD",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/playurban.png",
+     "desc": "Hip-Hop & R&B",
+     "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street."
+     },
+     {
      "name": "Radio ProB Romania",
      "streamURL": "https://live.radioprob.ro:8888/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprob.png",
@@ -42,6 +49,20 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
      "desc": "Muzica Bulgareasca",
      "longDesc": "Muzica de petrecere din Bulgaria"
+     },
+     {
+     "name": "One FM",
+     "streamURL": "https://live.onefm.ro/onefm.aacp",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/onefm.png",
+     "desc": "Dance & Party Hits",
+     "longDesc": "One FM este postul de radio dedicat muzicii dance și party, aducând cele mai fresh hituri electronice și dance din România și străinătate. Cu DJs profesioniști și mixuri energice, One FM creează atmosfera perfectă pentru petrecere. Este alegerea ideală pentru cei care iubesc muzica electronică și vor să fie la curent cu ultimele tendințe din clubbing."
+     },
+     {
+     "name": "Deep House Radio",
+     "streamURL": "https://streaming-01.xtservers.com:7000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/deephouse.png",
+     "desc": "Deep House & Chill",
+     "longDesc": "Deep House Radio este stația perfectă pentru iubitorii de muzică electronică sofisticată. Specializată în deep house, nu jazz, chillout și downtempo, oferă o atmosferă relaxantă și elegantă. Ideală pentru momentele de lucru, relaxare sau petreceri intime, Deep House Radio aduce cele mai selective track-uri din underground-ul electronic mondial."
      },
      {
      "name": "Radio Bubuiala",
@@ -86,6 +107,13 @@
      "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum."
      },
      {
+     "name": "Virgin Radio",
+     "streamURL": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
+     "desc": "Rock & Alternative",
+     "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent."
+     },
+     {
      "name": "Radio MagicFM",
      "streamURL": "https://live.magicfm.ro/magicfm.aacp",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/magic_fm.png",
@@ -105,34 +133,6 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocluj.png",
      "desc": "Muzică & Cultură",
      "longDesc": "Radio România Cluj este postul public de radio din Cluj-Napoca, parte a trustului Radio România. Oferă un mix de muzică românească și internațională, emisiuni culturale, știri locale și naționale. Cu o programare diversificată, susține valorile culturale românești și promovează artiști locali, fiind o voce importantă în peisajul mediatic al Transilvaniei."
-     },
-     {
-     "name": "One FM",
-     "streamURL": "https://live.onefm.ro/onefm.aacp",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/onefm.png",
-     "desc": "Dance & Party Hits",
-     "longDesc": "One FM este postul de radio dedicat muzicii dance și party, aducând cele mai fresh hituri electronice și dance din România și străinătate. Cu DJs profesioniști și mixuri energice, One FM creează atmosfera perfectă pentru petrecere. Este alegerea ideală pentru cei care iubesc muzica electronică și vor să fie la curent cu ultimele tendințe din clubbing."
-     },
-     {
-     "name": "Play Urban",
-     "streamURL": "https://live.playradio.org:8443/UrbanHD",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/playurban.png",
-     "desc": "Hip-Hop & R&B",
-     "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street."
-     },
-     {
-     "name": "Virgin Radio",
-     "streamURL": "https://astreaming.edi.ro:8443/VirginRadio_aac",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
-     "desc": "Rock & Alternative",
-     "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent."
-     },
-     {
-     "name": "Deep House Radio",
-     "streamURL": "https://streaming-01.xtservers.com:7000/stream",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/deephouse.png",
-     "desc": "Deep House & Chill",
-     "longDesc": "Deep House Radio este stația perfectă pentru iubitorii de muzică electronică sofisticată. Specializată în deep house, nu jazz, chillout și downtempo, oferă o atmosferă relaxantă și elegantă. Ideală pentru momentele de lucru, relaxare sau petreceri intime, Deep House Radio aduce cele mai selective track-uri din underground-ul electronic mondial."
      },
      {
      "name": "Radio AS Petrecere",
