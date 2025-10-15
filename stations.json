@@ -1,0 +1,103 @@
+{
+    "station":
+    [
+     {
+     "name": "Kiss FM Romania",
+     "streamURL": "https://live.kissfm.ro/kissfm.aacp",
+     "imageURL": "kiss_fm.png",
+     "desc": "No 1 Radio Station",
+     "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR)."
+     },
+     {
+     "name": "Radio ZU",
+     "streamURL": "http://zuicast.digitalag.ro:9420/zu",
+     "imageURL": "radio_zu.png",
+     "desc": "Pop & Dance",
+     "longDesc": "Radio ZU este un post de radio din România, lansat la data de 29 septembrie 2008 de trustul media Intact. Radio ZU se axează pe formatul de Contemporary Hit Radio și are un program generalist, cu 60% producție proprie."
+     },
+     {
+     "name": "Play 90's Romania st.1",
+     "streamURL": "https://live.playradio.org:8443/90HD",
+     "imageURL": "play_radio.png",
+     "desc": "Muzica Anilor 90",
+     "longDesc": "Canalul Play 90’s este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii ’90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999."
+     },
+     {
+     "name": "Play 90's Romania st.2",
+     "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
+     "imageURL": "play_radio.png",
+     "desc": "Muzica Anilor 90",
+     "longDesc": "Canalul Play 90’s este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii ’90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999. "
+     },
+     {
+     "name": "Radio ProB Romania",
+     "streamURL": "https://live.radioprob.ro:8888/stream",
+     "imageURL": "radioprob.png",
+     "desc": "HIT Clubbing Station",
+     "longDesc": "Fondat în 1997, Radio Pro-B a început să emită pe 103,5 FM în București, trecând ulterior la difuzarea online. A devenit o comunitate muzicală activă, apreciată pentru interactivitatea cu ascultătorii, promovarea muzicii românești autentice și diversitatea programelor, fiind astăzi un pilon al radioului din România."
+     },
+     {
+     "name": "Radio Folk BG",
+     "streamURL": "http://listen.folkbg.net:8001/folkbg",
+     "imageURL": "folkbg.png",
+     "desc": "Muzica Bulgareasca",
+     "longDesc": "Muzica de petrecere din Bulgaria"
+     },
+     {
+     "name": "Radio Bubuiala",
+     "streamURL": "https://ssl.omegahost.ro:8022/stream",
+     "imageURL": "bubuiala.png",
+     "desc": "O Melodie Pentru Fiecare",
+     "longDesc": "Radio Bubuiala aduce energia muzicii autentice, cu cele mai recente manele și hituri românești, adaptate preferințelor fiecărui ascultător. Muzica ta, ritmul tău!"
+     },
+     {
+     "name": "Radio Tequila",
+     "streamURL": "https://ssl.servereradio.ro/7000/stream",
+     "imageURL": "tequila.png",
+     "desc": "Muzica Non-Stop",
+     "longDesc": "Radio Tequila Romania este un post de radio online 100% fara publicitate. Difuzeaza Manele vechi, Dance, Hip-Hop si muzica de Petrecere."
+     },
+     {
+     "name": "Radio Hot Style",
+     "streamURL": "https://live.radiohot.ro/8000/stream",
+     "imageURL": "hotstyle.png",
+     "desc": "Fiti Hot...Fiti Ca Noi",
+     "longDesc": "Radio Hot Style este un post de radio online din România, înființat în 2010, care difuzează muzică dance, house, club și hituri internaționale și din Top 40 România. Radio-ul este cunoscut pentru playlist-ul său zilnic, cu muzică ce are rolul de a îmbunătăți starea de spirit a ascultătorilor. "
+     },
+     {
+     "name": "Digi 24 FM",
+     "streamURL": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+     "imageURL": "digi24.png",
+     "desc": "Stiri & Ceva Muzica",
+     "longDesc": "Lansat la 1 octombrie 2021, Digi 24 FM a înlocuit Chill FM și emite pe 103,8 FM în București și împrejurimi, fiind disponibil și online. Postul are un profil axat pe știri, ca extensie radio a canalului Digi24: aproximativ 80% din conținut este redifuzat din TV, iar restul de 20% reprezintă spațiu publicitar. Digi 24 FM oferă informații clare și precise din actualitatea națională și internațională."
+     },
+     {
+     "name": "Europa FM",
+     "streamURL": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+     "imageURL": "europafm.png",
+     "desc": "Cea mai buna muzica de ieri si de azi",
+     "longDesc": "Europa FM - Stația cu cea mai tânără și cea mai vibrantă audiență, cu muzică din toti anii dar si cu cunoscuta emisiune Romania In Direct - acum moderata de Catalin Striblea."
+     },
+     {
+     "name": "ProFM",
+     "streamURL": "http://5.2.240.133:8000/live",
+     "imageURL": "pro_fm.png",
+     "desc": "Top 40 Hits",
+     "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.."
+     },
+     {
+     "name": "Radio MagicFM",
+     "streamURL": "https://live.magicfm.ro/magicfm.aacp",
+     "imageURL": "magic_fm.png",
+     "desc": "Retro & Blues & Love",
+     "longDesc": "Magic FM este un post de radio apreciat în România pentru selecția sa muzicală relaxantă și diversă. Cu accent pe muzică ușoară și melodii clasice, creează o atmosferă plăcută pentru ascultători de toate vârstele. Pe lângă muzică, oferă emisiuni despre viața cotidiană, știri și informații utile. Cu un ton cald și profesional, Magic FM rămâne alegerea ideală pentru cei care caută relaxare și stare de bine prin muzică."
+     },
+     {
+     "name": "Rock FM",
+     "streamURL": "https://live.rockfm.ro:8443/rockfm.aacp",
+     "imageURL": "rock_fm.png",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s."
+     }
+    ]
+}
