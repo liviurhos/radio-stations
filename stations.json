@@ -6,147 +6,168 @@
      "streamURL": "https://live.kissfm.ro/kissfm.aacp",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
      "desc": "No 1 Radio Station",
-     "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR)."
+     "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR).",
+     "country": "RO"
      },
      {
      "name": "Radio ZU",
      "streamURL": "http://zuicast.digitalag.ro:9420/zu",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_zu.png",
      "desc": "Hiturile se ascultă la ZU",
-     "longDesc": "Radio ZU este un post de radio din România, lansat la data de 29 septembrie 2008 de trustul media Intact. Radio ZU se axează pe formatul de Contemporary Hit Radio și are un program generalist, cu 60% producție proprie."
+     "longDesc": "Radio ZU este un post de radio din România, lansat la data de 29 septembrie 2008 de trustul media Intact. Radio ZU se axează pe formatul de Contemporary Hit Radio și are un program generalist, cu 60% producție proprie.",
+     "country": "RO"
      },
      {
      "name": "Play 90's Romania st.1",
      "streamURL": "https://live.playradio.org:8443/90HD",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
-     "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999."
+     "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999.",
+     "country": "RO"
      },
      {
      "name": "Play 90's Romania st.2",
      "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
-     "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999."
+     "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999.",
+     "country": "RO"
      },
      {
      "name": "Play Urban",
      "streamURL": "https://live.playradio.org:8443/UrbanHD",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/playurban.png",
      "desc": "Ritmul Anilor Tăi",
-     "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street."
+     "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street.",
+     "country": "RO"
      },
      {
      "name": "Radio ProB Romania",
      "streamURL": "https://live.radioprob.ro:8888/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprob.png",
      "desc": "HIT Clubbing Station",
-     "longDesc": "Fondat în 1997, Radio Pro-B a început să emită pe 103,5 FM în București, trecând ulterior la difuzarea online. A devenit o comunitate muzicală activă, apreciată pentru interactivitatea cu ascultătorii, promovarea muzicii românești autentice și diversitatea programelor, fiind astăzi un pilon al radioului din România."
+     "longDesc": "Fondat în 1997, Radio Pro-B a început să emită pe 103,5 FM în București, trecând ulterior la difuzarea online. A devenit o comunitate muzicală activă, apreciată pentru interactivitatea cu ascultătorii, promovarea muzicii românești autentice și diversitatea programelor, fiind astăzi un pilon al radioului din România.",
+     "country": "RO"
      },
      {
      "name": "Radio Folk BG",
      "streamURL": "http://listen.folkbg.net:8001/folkbg",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/folkbg.png",
      "desc": "Muzica Bulgareasca",
-     "longDesc": "Muzica de petrecere din Bulgaria"
+     "longDesc": "Muzica de petrecere din Bulgaria",
+     "country": "BG"
      },
      {
      "name": "One FM",
      "streamURL": "https://live.onefm.ro/onefm.aacp",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/onefm.png",
      "desc": "This is The Party Station",
-     "longDesc": "One FM este postul de radio dedicat muzicii dance și party, aducând cele mai fresh hituri electronice și dance din România și străinătate. Cu DJs profesioniști și mixuri energice, One FM creează atmosfera perfectă pentru petrecere. Este alegerea ideală pentru cei care iubesc muzica electronică și vor să fie la curent cu ultimele tendințe din clubbing."
+     "longDesc": "One FM este postul de radio dedicat muzicii dance și party, aducând cele mai fresh hituri electronice și dance din România și străinătate. Cu DJs profesioniști și mixuri energice, One FM creează atmosfera perfectă pentru petrecere. Este alegerea ideală pentru cei care iubesc muzica electronică și vor să fie la curent cu ultimele tendințe din clubbing.",
+     "country": "RO"
      },
      {
      "name": "Deep House Radio",
      "streamURL": "https://streaming-01.xtservers.com:7000/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/deephouse.png",
      "desc": "Your Deep House Music Source",
-     "longDesc": "Deep House Radio este stația perfectă pentru iubitorii de muzică electronică sofisticată. Specializată în deep house, nu jazz, chillout și downtempo, oferă o atmosferă relaxantă și elegantă. Ideală pentru momentele de lucru, relaxare sau petreceri intime, Deep House Radio aduce cele mai selective track-uri din underground-ul electronic mondial."
+     "longDesc": "Deep House Radio este stația perfectă pentru iubitorii de muzică electronică sofisticată. Specializată în deep house, nu jazz, chillout și downtempo, oferă o atmosferă relaxantă și elegantă. Ideală pentru momentele de lucru, relaxare sau petreceri intime, Deep House Radio aduce cele mai selective track-uri din underground-ul electronic mondial.",
+     "country": "RO"
      },
      {
      "name": "Radio Bubuiala",
      "streamURL": "https://ssl.omegahost.ro:8022/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/bubiala.png",
      "desc": "O Melodie Pentru Fiecare",
-     "longDesc": "Radio Bubuiala aduce energia muzicii autentice, cu cele mai recente manele și hituri românești, adaptate preferințelor fiecărui ascultător. Muzica ta, ritmul tău!"
+     "longDesc": "Radio Bubuiala aduce energia muzicii autentice, cu cele mai recente manele și hituri românești, adaptate preferințelor fiecărui ascultător. Muzica ta, ritmul tău!",
+     "country": "RO"
      },
      {
      "name": "Radio Tequila",
      "streamURL": "https://ssl.servereradio.ro/7000/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
      "desc": "Muzica așa cum îți place",
-     "longDesc": "Radio Tequila Romania este un post de radio online 100% fara publicitate. Difuzeaza Manele vechi, Dance, Hip-Hop si muzica de Petrecere."
+     "longDesc": "Radio Tequila Romania este un post de radio online 100% fara publicitate. Difuzeaza Manele vechi, Dance, Hip-Hop si muzica de Petrecere.",
+     "country": "RO"
      },
      {
      "name": "Radio Hot Style",
      "streamURL": "https://live.radiohot.ro/8000/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/hotstyle.png",
      "desc": "Fiti Hot...Fiti Ca Noi",
-     "longDesc": "Radio Hot Style este un post de radio online din România, înființat în 2010, care difuzează muzică dance, house, club și hituri internaționale și din Top 40 România. Radio-ul este cunoscut pentru playlist-ul său zilnic, cu muzică ce are rolul de a îmbunătăți starea de spirit a ascultătorilor."
+     "longDesc": "Radio Hot Style este un post de radio online din România, înființat în 2010, care difuzează muzică dance, house, club și hituri internaționale și din Top 40 România. Radio-ul este cunoscut pentru playlist-ul său zilnic, cu muzică ce are rolul de a îmbunătăți starea de spirit a ascultătorilor.",
+     "country": "RO"
      },
      {
      "name": "Digi 24 FM",
      "streamURL": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/digi24.png",
      "desc": "Informația la putere",
-     "longDesc": "Lansat la 1 octombrie 2021, Digi 24 FM a înlocuit Chill FM și emite pe 103,8 FM în București și împrejurimi, fiind disponibil și online. Postul are un profil axat pe știri, ca extensie radio a canalului Digi24: aproximativ 80% din conținut este redifuzat din TV, iar restul de 20% reprezintă spațiu publicitar. Digi 24 FM oferă informații clare și precise din actualitatea națională și internațională."
+     "longDesc": "Lansat la 1 octombrie 2021, Digi 24 FM a înlocuit Chill FM și emite pe 103,8 FM în București și împrejurimi, fiind disponibil și online. Postul are un profil axat pe știri, ca extensie radio a canalului Digi24: aproximativ 80% din conținut este redifuzat din TV, iar restul de 20% reprezintă spațiu publicitar. Digi 24 FM oferă informații clare și precise din actualitatea națională și internațională.",
+     "country": "RO"
      },
      {
      "name": "Europa FM",
      "streamURL": "https://astreaming.edi.ro:8443/EuropaFM_aac",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/europafm.png",
      "desc": "Cea mai buna muzica de ieri si de azi",
-     "longDesc": "Europa FM - Stația cu cea mai tânără și cea mai vibrantă audiență, cu muzică din toti anii dar si cu cunoscuta emisiune Romania In Direct - acum moderata de Catalin Striblea."
+     "longDesc": "Europa FM - Stația cu cea mai tânără și cea mai vibrantă audiență, cu muzică din toti anii dar si cu cunoscuta emisiune Romania In Direct - acum moderata de Catalin Striblea.",
+     "country": "RO"
      },
      {
      "name": "ProFM",
      "streamURL": "https://edge76.rcs-rds.ro/profm/profm.mp3",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/pro_fm.png",
      "desc": "Open Radio",
-     "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum."
+     "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.",
+     "country": "RO"
      },
      {
      "name": "Virgin Radio",
      "streamURL": "https://astreaming.edi.ro:8443/VirginRadio_aac",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
      "desc": "Pop & Electro Hits",
-     "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent."
+     "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent.",
+     "country": "RO"
      },
      {
      "name": "Radio MagicFM",
      "streamURL": "https://live.magicfm.ro/magicfm.aacp",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/magic_fm.png",
      "desc": "Always Great Music",
-     "longDesc": "Magic FM este un post de radio apreciat în România pentru selecția sa muzicală relaxantă și diversă. Cu accent pe muzică ușoară și melodii clasice, creează o atmosferă plăcută pentru ascultători de toate vârstele. Pe lângă muzică, oferă emisiuni despre viața cotidiană, știri și informații utile. Cu un ton cald și profesional, Magic FM rămâne alegerea ideală pentru cei care caută relaxare și stare de bine prin muzică."
+     "longDesc": "Magic FM este un post de radio apreciat în România pentru selecția sa muzicală relaxantă și diversă. Cu accent pe muzică ușoară și melodii clasice, creează o atmosferă plăcută pentru ascultători de toate vârstele. Pe lângă muzică, oferă emisiuni despre viața cotidiană, știri și informații utile. Cu un ton cald și profesional, Magic FM rămâne alegerea ideală pentru cei care caută relaxare și stare de bine prin muzică.",
+     "country": "RO"
      },
      {
      "name": "Rock FM",
      "streamURL": "https://live.rockfm.ro:8443/rockfm.aacp",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/rock_fm.png",
      "desc": "Classic Rock Hits",
-     "longDesc": "Rock FM este postul de radio rock din România, dedicat iubitorilor de muzică rock autentică. Cu o selecție variată ce include rock clasic, rock alternativ și cele mai noi lansări rock, Rock FM aduce energia și pasiunea rock-ului românesc și internațional."
+     "longDesc": "Rock FM este postul de radio rock din România, dedicat iubitorilor de muzică rock autentică. Cu o selecție variată ce include rock clasic, rock alternativ și cele mai noi lansări rock, Rock FM aduce energia și pasiunea rock-ului românesc și internațional.",
+     "country": "RO"
      },
      {
      "name": "FM Radio Manele",
      "streamURL": "https://ssl.servereradio.ro/8054/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/fmradiomanele.png",
      "desc": "Cel Mai Ascultat Radio de Manele!",
-     "longDesc": "Fm Radio Manele, cel mai ascultat post de radio online dedicat manelelor noi și vechi din România! Radio Manele FM este unul dintre posturile online românești care difuzează muzică de petrecere, fiind lansat în prima zi a anului 2012. Este un post 100% online, dedicat în exclusivitate manelelor și știrilor din industrie. Fm Radio Manele se adresează tuturor celor care iubesc manelele, muzica de petrecere, dar și hiturile românești actuale din alte genuri muzicale."
+     "longDesc": "Fm Radio Manele, cel mai ascultat post de radio online dedicat manelelor noi și vechi din România! Radio Manele FM este unul dintre posturile online românești care difuzează muzică de petrecere, fiind lansat în prima zi a anului 2012. Este un post 100% online, dedicat în exclusivitate manelelor și știrilor din industrie. Fm Radio Manele se adresează tuturor celor care iubesc manelele, muzica de petrecere, dar și hiturile românești actuale din alte genuri muzicale.",
+     "country": "RO"
      },
      {
      "name": "Radio AS Petrecere",
      "streamURL": "https://stream.zeno.fm/zp999wm4tm0uv",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioas.png",
      "desc": "Manele & Petrecere",
-     "longDesc": "Radio AS Petrecere funcționează din anul 2005 prin Fm. Muzică dance, manele, muzică populară dar și înregistrări de la petreceri și concerte aduc întotdeauna buna-dispoziție. Astfel, putem lua parte mereu la petrecere, chiar și atunci când ne simțim singuri. Acest radio emite muzică de petrecere (manele și muzică populară de joc mixate, live-uri de la evenimente cu muzică cântată live)."
+     "longDesc": "Radio AS Petrecere funcționează din anul 2005 prin Fm. Muzică dance, manele, muzică populară dar și înregistrări de la petreceri și concerte aduc întotdeauna buna-dispoziție. Astfel, putem lua parte mereu la petrecere, chiar și atunci când ne simțim singuri. Acest radio emite muzică de petrecere (manele și muzică populară de joc mixate, live-uri de la evenimente cu muzică cântată live).",
+     "country": "RO"
      },
      {
      "name": "Radio Impuls",
      "streamURL": "https://live.radio-impuls.ro/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioimpuls.png",
      "desc": "Nu te poți abține!",
-     "longDesc": "Radio Impuls live, înființat în anul 2001 și este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii ’90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile."
+     "longDesc": "Radio Impuls live, înființat în anul 2001 și este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii '90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile.",
+     "country": "RO"
      }
     ]
 }
