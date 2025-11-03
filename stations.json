@@ -100,7 +100,7 @@
      {
      "name": "Radio Romanian Manele",
      "streamURL": "https://asculta.radioromanian.net/manele",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniandance.png",
      "desc": "Pulsul Muzicii Românești!",
      "longDesc": "Radio Romanian - Manele este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen manele. Primul post de radio online unde se redă doar muzică românească.",
      "country": "RO"
@@ -108,7 +108,7 @@
      {
      "name": "Radio Romanian Dance",
      "streamURL": "https://asculta.radioromanian.net/dance",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniandance.png",
      "desc": "Muzica dance la tine acasa.",
      "longDesc": "Radio Romanian - Dance este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen Dance.",
      "country": "RO"
@@ -116,7 +116,7 @@
      {
      "name": "Radio Xtream Romanian",
      "streamURL": "https://radioexcentric.com/xtream.m3u",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioxtream.png",
      "desc": "Xtream Sound Quality",
      "longDesc": "Radio Xtream Romania a aparut din placerea de a impartasi cu oamenii pasiunea muzicala. Proiectul a fost creat de Myky in anul 2019 si de atunci incercam sa ne facem auziti in casele dumneavoastra si sa va binedispunem.",
      "country": "RO"
@@ -124,7 +124,7 @@
      {
      "name": "Mix Music Radio Romania",
      "streamURL": "http://asculta.mixmusicradio.ro:8890/",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/mixmusic.png",
      "desc": "Intra cine vrea, pleaca cine poate!",
      "longDesc": "MixMusic Radio Romania este mixmusic-radio în România, care difuzează diferite genuri de muzica online, la fel ca dance, trance, house, clubbing, latino, rap, hip-hop.",
      "country": "RO"
@@ -148,7 +148,7 @@
      {
      "name": "Radio A-Tentat",
      "streamURL": "https://ssl.omegahost.ro/8066/stream",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/atentat.png",
      "desc": "Un radio din suflet pentru voi",
      "longDesc": "Radio Atentat Bucuresti is an internet radio station from Bucharest, Romania, providing Romanian Adult Contemporary Pop Hits music with Manele Dance and Petrecere selections.",
      "country": "RO"
