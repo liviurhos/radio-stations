@@ -90,6 +90,38 @@
      "country": "RO"
      },
      {
+     "name": "Radio Romanian Hip-Hop",
+     "streamURL": "https://asculta.radioromanian.net:8400/",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "desc": "Muzica de cartier la tine acasa",
+     "longDesc": "Radio Romanian - Hip Hop este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen rap și hip hop. Primul post de radio online unde se redă doar muzică românească.",
+     "country": "RO"
+     },
+     {
+     "name": "Radio Romanian Manele",
+     "streamURL": "https://asculta.radioromanian.net:8300/",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "desc": "Muzica de cartier la tine acasa, versiunea manle",
+     "longDesc": "Radio Romanian - Manele este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen manele. Primul post de radio online unde se redă doar muzică românească.",
+     "country": "RO"
+     },
+     {
+     "name": "Radio Tequila Dance",
+     "streamURL": "https://dance.radiotequila.ro/7000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "desc": "Muzica buna la tine in boxe",
+     "longDesc": "Radio Tequila Dance este destinația perfectă pentru toți pasionații de muzică dance, oferind un mix exploziv de hituri care te fac să vibrezi de la prima notă.",
+     "country": "RO"
+     },
+     {
+     "name": "Radio Tequila Petrecere",
+     "streamURL": "https://petrecere.radiotequila.ro/7000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
+     "desc": "Muzica buna de petrecere pentru volum la maxim",
+     "longDesc": "Radio Tequila Romania este un radio fara publicitate ce emite doar online non-stop pe internet si difuzeaza manele vechi, dance, hip-hop si muzica de petrecere.",
+     "country": "RO"
+     },
+     {
      "name": "Radio Hot Style",
      "streamURL": "https://live.radiohot.ro/8000/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/hotstyle.png",
