@@ -74,6 +74,14 @@
      "country": "RO"
      },
      {
+     "name": "Dance FM",
+     "streamURL": "https://edge76.rcs-rds.ro/profm/dancefm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/dancefm.png",
+     "desc": "The Beat of Romania",
+     "longDesc": "Dance FM este un post de radio de clubbing din România, coordonat de Marius Onuc și parte a grupului RCS & RDS. Emite pe 89,5 FM în București și online, fiind lansat pe 21 februarie 2011 în cadrul unui eveniment The Mission. Dedicat tinerilor pasionați de muzică electronică, Dance FM difuzează seturi ale unor DJ renumiți precum Armin Van Buuren, Tiësto, John Digweed, Claptone sau Manuel Riva. Postul a devenit parte oficială a portofoliului RCS & RDS în decembrie 2014.",
+     "country": "RO"
+     },
+     {
      "name": "Radio Bubuiala",
      "streamURL": "https://ssl.omegahost.ro:8022/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/bubiala.png",
