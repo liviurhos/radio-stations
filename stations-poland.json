@@ -1,1 +1,23 @@
+{
+  "station": [
+    {
+      "name": "Vox FM",
+      "streamURL": "https://liveradio.timesa.pl/3990-1.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/voxfm.png",
+      "country": "pl"
+    },
+    {
+      "name": "Life4Club",
+      "streamURL": "https://life4club.online/listen/live/l4c.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/life4club.png",
+      "country": "pl"
+    },
+    {
+      "name": "Radio Party",
+      "streamURL": "https://s2.radioparty.pl:8015/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioparty.png",
+      "country": "pl"
+    }
+  ]
+}
 
