@@ -2,7 +2,7 @@
   "station": [
     {
       "name": "BBC Radio 1",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio1.png",
       "country": "uk"
     },
@@ -32,27 +32,27 @@
     },
     {
       "name": "BBC Radio 6 Music",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_6music",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/cf/bbc_6music.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbc6music.png",
       "country": "uk"
     },
     {
       "name": "BBC Radio 1Xtra",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_low_sbr_v1/cfs/bbc_1xtra.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbc1xtra.png",
       "country": "uk"
     },
     {
       "name": "BBC Asian Network",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_asian_network",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_asian_network.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcasian.png",
       "country": "uk"
     },
 
     {
-      "name": "Heart UK",
+      "name": "Heart FM",
       "streamURL": "https://media-ssl.musicradio.com/HeartUK",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/heartuk.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/heartfm.png",
       "country": "uk"
     },
     {
@@ -68,9 +68,9 @@
       "country": "uk"
     },
     {
-      "name": "Capital UK",
+      "name": "Capital FM",
       "streamURL": "https://media-ssl.musicradio.com/CapitalMP3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/capitaluk.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalfm.png",
       "country": "uk"
     },
     {
