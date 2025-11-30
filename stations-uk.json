@@ -8,25 +8,25 @@
     },
     {
       "name": "BBC Radio 2",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_two.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio2.png",
       "country": "uk"
     },
     {
       "name": "BBC Radio 3",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_three.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio3.png",
       "country": "uk"
     },
     {
       "name": "BBC Radio 4",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_fourfm.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio4.png",
       "country": "uk"
     },
     {
       "name": "BBC Radio 5 Live",
-      "streamURL": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live",
+      "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_five_live.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio5live.png",
       "country": "uk"
     },
@@ -51,7 +51,7 @@
 
     {
       "name": "Heart FM",
-      "streamURL": "https://media-ssl.musicradio.com/HeartUK",
+      "streamURL": "https://media-ssl.musicradio.com/HeartLondon",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/heartfm.png",
       "country": "uk"
     },
@@ -75,7 +75,7 @@
     },
     {
       "name": "Capital XTRA",
-      "streamURL": "https://media-ssl.musicradio.com/CapitalXTRA",
+      "streamURL": "https://media-ssl.musicradio.com/CapitalXTRANational",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalxtra.png",
       "country": "uk"
     },
@@ -115,35 +115,10 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lbcnews.png",
       "country": "uk"
     },
-
-    {
-      "name": "Magic Radio",
-      "streamURL": "https://stream-mz.planetradio.co.uk/magicnational.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/magicradio.png",
-      "country": "uk"
-    },
     {
       "name": "Kiss",
-      "streamURL": "https://stream-kiss.planetradio.co.uk/kissnational.mp3",
+      "streamURL": "https://edge-baueralll-01-gos2.sharp-stream.com/kissnational.aac?time=1764520735891",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/kissuk.png",
-      "country": "uk"
-    },
-    {
-      "name": "Kisstory",
-      "streamURL": "https://stream-kiss.planetradio.co.uk/kisstory.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/kisstory.png",
-      "country": "uk"
-    },
-    {
-      "name": "Absolute Radio",
-      "streamURL": "https://stream-ar.planetradio.co.uk/absoluteradio.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/absoluteradio.png",
-      "country": "uk"
-    },
-    {
-      "name": "Absolute 80s",
-      "streamURL": "https://stream-ar.planetradio.co.uk/absolute80s.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/absolute80s.png",
       "country": "uk"
     },
     {
@@ -166,7 +141,7 @@
     },
     {
       "name": "Virgin Radio UK",
-      "streamURL": "https://stream.virginradio.co.uk/virginradio.mp3",
+      "streamURL": "https://radio.virginradio.co.uk/stream#.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/virginuk.png",
       "country": "uk"
     },
