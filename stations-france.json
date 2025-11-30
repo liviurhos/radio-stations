@@ -1,0 +1,190 @@
+{
+  "station": [
+    {
+      "name": "France Inter",
+      "streamURL": "https://direct.franceinter.fr/live/franceinter-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/france_inter.png",
+      "country": "fr"
+    },
+    {
+      "name": "France Info",
+      "streamURL": "https://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/france_info.png",
+      "country": "fr"
+    },
+    {
+      "name": "France Culture",
+      "streamURL": "https://direct.franceculture.fr/live/franceculture-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/france_culture.png",
+      "country": "fr"
+    },
+    {
+      "name": "France Musique",
+      "streamURL": "https://direct.francemusique.fr/live/francemusique-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/france_musique.png",
+      "country": "fr"
+    },
+    {
+      "name": "FIP",
+      "streamURL": "https://direct.fipradio.fr/live/fip-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fip.png",
+      "country": "fr"
+    },
+    {
+      "name": "France Bleu",
+      "streamURL": "https://direct.francebleu.fr/live/fb1071-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/france_bleu.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "RTL",
+      "streamURL": "https://streaming.radio.rtl.fr/rtl-1-44-128",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rtl_fr.png",
+      "country": "fr"
+    },
+    {
+      "name": "RMC",
+      "streamURL": "https://rmc.bfmtv.com/rmcinfo-mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmc.png",
+      "country": "fr"
+    },
+    {
+      "name": "Europe 1",
+      "streamURL": "https://stream.europe1.fr/europe1.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/europe1.png",
+      "country": "fr"
+    },
+    {
+      "name": "Radio Classique",
+      "streamURL": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_classique.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "NRJ",
+      "streamURL": "https://scdn.nrjaudio.fm/adwz1/fr/30001/mp3_128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/nrj.png",
+      "country": "fr"
+    },
+    {
+      "name": "Nostalgie",
+      "streamURL": "https://scdn.nrjaudio.fm/adwz1/fr/30601/mp3_128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/nostalgie.png",
+      "country": "fr"
+    },
+    {
+      "name": "Chérie FM",
+      "streamURL": "https://scdn.nrjaudio.fm/adwz1/fr/30201/mp3_128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cherie_fm.png",
+      "country": "fr"
+    },
+    {
+      "name": "Rire & Chansons",
+      "streamURL": "https://scdn.nrjaudio.fm/adwz1/fr/30401/mp3_128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rire_chansons.png",
+      "country": "fr"
+    },
+    {
+      "name": "RFM",
+      "streamURL": "https://stream.rfm.fr/rfm.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rfm.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "Skyrock",
+      "streamURL": "https://icecast.skyrock.net/s/natio_mp3_128k",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/skyrock.png",
+      "country": "fr"
+    },
+    {
+      "name": "Fun Radio",
+      "streamURL": "https://streaming.radio.funradio.fr/funradio-1-44-128",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fun_radio.png",
+      "country": "fr"
+    },
+    {
+      "name": "Virgin Radio France",
+      "streamURL": "https://ais-live.cloud-services.paris:8443/virgin.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/virgin_fr.png",
+      "country": "fr"
+    },
+    {
+      "name": "Radio Nova",
+      "streamURL": "https://nova-stream.radiofrance.fr/novanational.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_nova.png",
+      "country": "fr"
+    },
+    {
+      "name": "TSF Jazz",
+      "streamURL": "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tsf_jazz.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "FIP Rock",
+      "streamURL": "https://direct.fipradio.fr/live/fiprock-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fip_rock.png",
+      "country": "fr"
+    },
+    {
+      "name": "FIP Jazz",
+      "streamURL": "https://direct.fipradio.fr/live/fipjazz-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fip_jazz.png",
+      "country": "fr"
+    },
+    {
+      "name": "FIP Groove",
+      "streamURL": "https://direct.fipradio.fr/live/fipgroove-midfi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fip_groove.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "RFI Monde",
+      "streamURL": "https://live02.rfi.fr/rfimonde-64.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rfi_monde.png",
+      "country": "fr"
+    },
+    {
+      "name": "RFI Afrique",
+      "streamURL": "https://live02.rfi.fr/rfiafrique-64.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rfi_afrique.png",
+      "country": "fr"
+    },
+
+    {
+      "name": "M Radio",
+      "streamURL": "https://mfm.ice.infomaniak.ch/mfm-128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/m_radio.png",
+      "country": "fr"
+    },
+    {
+      "name": "Radio FG",
+      "streamURL": "https://stream.radiofg.com/fg",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_fg.png",
+      "country": "fr"
+    },
+    {
+      "name": "Latina",
+      "streamURL": "https://stream.regenbogen.de/latina",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/latina_fr.png",
+      "country": "fr"
+    },
+    {
+      "name": "Radio Scoop",
+      "streamURL": "https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-high.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_scoop.png",
+      "country": "fr"
+    },
+    {
+      "name": "Radio FG Deep Dance",
+      "streamURL": "https://stream.radiofg.com/fgdeep",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_fg_deep.png",
+      "country": "fr"
+    }
+  ]
+}
