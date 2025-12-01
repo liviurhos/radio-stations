@@ -1,22 +1,172 @@
 {
   "station": [
     {
-      "name": "Radio Bruno",
-      "streamURL": "https://stream7.xdevel.com/audio4s975355-396/stream/icecast.audio",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobruno.png",
-      "country": "IT"
+      "name": "Radio 105",
+      "streamURL": "https://icecast.unitedradio.it/105.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio105.png",
+      "country": "it"
     },
     {
-      "name": "Radio Dimensione Suone",
-      "streamURL": "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodimensione.png",
-      "country": "IT"
+      "name": "RTL 102.5",
+      "streamURL": "https://streamingv2.shoutcast.com/rtl1025",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rtl1025.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Deejay",
+      "streamURL": "https://deejay.streaming.timedia.it/deejay.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodeejay.png",
+      "country": "it"
+    },
+    {
+      "name": "RDS 100% Grandi Successi",
+      "streamURL": "https://rdsdiretta.streaming.mnd.om/en_AU/stream/audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rds.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Italia Solo Musica Italiana",
+      "streamURL": "https://radioitalia.bestperformer.com/live/radioitalia.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioitalia.png",
+      "country": "it"
+    },
+    {
+      "name": "M2O",
+      "streamURL": "https://m2o.streaming.timedia.it/m2o.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/m2o.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Capital",
+      "streamURL": "https://capital.streaming.timedia.it/capital.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocapitalitalia.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Monte Carlo",
+      "streamURL": "https://icecast.unitedradio.it/rmc.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomontecarlo.png",
+      "country": "it"
+    },
+    {
+      "name": "Radiofreccia",
+      "streamURL": "https://icecast.unitedradio.it/radiofreccia.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofreccia.png",
+      "country": "it"
+    },
+    {
+      "name": "Subasio",
+      "streamURL": "https://streaming.radio.subasio.it/subasio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosubasio.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Norba",
+      "streamURL": "https://radionorba.streaming.timedia.it/radionorba.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radionorba.png",
+      "country": "it"
+    },
+    {
+      "name": "Discoradio",
+      "streamURL": "https://discoradio.streaming.mnd.fm/discoradio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/discoradio.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Bruno",
+      "streamURL": "https://icecast.radio.bruno.it/brunostream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobruno.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Margherita",
+      "streamURL": "https://onair22.xdevel.com:8130/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomargherita.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Zeta",
+      "streamURL": "https://icecast.unitedradio.it/radiozeta.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozeta.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Dimensione Suono Roma",
+      "streamURL": "https://rdsroma.streaming.mnd.fm/rdsroma.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rdiodimensione.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio 24",
+      "streamURL": "https://radiolive24.streaming.media24.it/radio24.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio24.png",
+      "country": "it"
+    },
+    {
+      "name": "LatteMiele",
+      "streamURL": "https://lattemiele.streaming.timedia.it/lattemiele.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lattemiele.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Suby",
+      "streamURL": "https://icecast.radio.suby.it/suby.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosuby.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Studio Più",
+      "streamURL": "https://radiostudiopiu.streaming.timedia.it/studiopiu.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiostudiopiu.png",
+      "country": "it"
     },
     {
       "name": "Radio Company",
-      "streamURL": "https://sphera.fluidstream.eu/company.aac",
+      "streamURL": "https://players.cplaza.it/company.m3u",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocompany.png",
-      "country": "IT"
+      "country": "it"
+    },
+    {
+      "name": "Radio Birikina",
+      "streamURL": "https://players.cplaza.it/birikina.m3u",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobirikina.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Ibiza",
+      "streamURL": "https://icecast.radioibizaitalia.it:8000/ibiza128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioibiza.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Kiss Kiss Italia",
+      "streamURL": "https://radiokisskiss.ikatv.com/stream.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kisskissitalia.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Manà Manà",
+      "streamURL": "http://onair15.xdevel.com:10068/",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomanamana.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Studio Delta",
+      "streamURL": "http://icestream.radio-studiodelta.it:8200/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiostudiodelta.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Play Capital",
+      "streamURL": "https://capital.streaming.timedia.it/playcapital.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/playcapital.png",
+      "country": "it"
+    },
+    {
+      "name": "Radio Taormina",
+      "streamURL": "https://stream.radio.dj/radiotaormina.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotaormina.png",
+      "country": "it"
     }
   ]
 }
