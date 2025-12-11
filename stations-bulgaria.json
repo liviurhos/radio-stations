@@ -2,175 +2,145 @@
   "station": [
     {
       "name": "BG Radio",
-      "streamURL": "https://149.13.0.81/bgradio.mp3",
+      "streamURL": "http://stream80.metacast.eu:8000/bgradiohi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bg_radio.png",
       "country": "bg"
     },
     {
       "name": "Radio 1",
-      "streamURL": "https://199.193.119.136/radio1.ogg",
+      "streamURL": "https://play.global.audio/radio1-koledahi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio1_bg.png",
       "country": "bg"
     },
     {
       "name": "Radio 1 Rock",
-      "streamURL": "https://199.193.119.136/radio1rock.ogg",
+      "streamURL": "https://play.global.audio/radio1rockhi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio1rock.png",
       "country": "bg"
     },
     {
       "name": "Radio Veselina",
-      "streamURL": "https://149.13.0.80:80/veselina.mp3",
+      "streamURL": "https://bss1.neterra.tv/veselina/veselina.m3u8 ",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_veselina.png",
       "country": "bg"
     },
     {
       "name": "Radio Veronika",
-      "streamURL": "https://stream.radioreklama.bg:8000/veronika.mp3",
+      "streamURL": "https://play.global.audio:443/veronikahi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_veronika.png",
       "country": "bg"
     },
     {
       "name": "Radio Fresh",
-      "streamURL": "https://149.13.0.81/fresh.mp3",
+      "streamURL": "http://streamer.atlantis.bg:8000/fresh",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_fresh.png",
       "country": "bg"
     },
     {
       "name": "Radio N-Joy",
-      "streamURL": "https://46.10.150.243/njoy.mp3",
+      "streamURL": "http://cdn.bweb.bg/radio/njoy.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_njoy.png",
       "country": "bg"
     },
     {
-      "name": "FM+",
-      "streamURL": "https://149.13.0.80/fmplus.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/fmplus.png",
-      "country": "bg"
-    },
-    {
       "name": "Magic FM",
-      "streamURL": "https://149.13.0.81/magic.mp3",
+      "streamURL": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/magic_fm_bg.png",
       "country": "bg"
     },
     {
       "name": "The Voice",
-      "streamURL": "https://thevoice.live.audio.lanistar.com/thevoice128",
+      "streamURL": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/the_voice_bg.png",
       "country": "bg"
     },
     {
       "name": "Radio City",
-      "streamURL": "https://149.13.0.81/city.mp3",
+      "streamURL": "http://stream.metacast.eu/cityhi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_city_bg.png",
       "country": "bg"
     },
     {
       "name": "Z-Rock",
-      "streamURL": "https://stream.radioreklama.bg:8000/z-rock.mp3",
+      "streamURL": "http://cdn.bweb.bg/radio/z-rock.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/zrock_bg.png",
       "country": "bg"
     },
     {
-      "name": "Darik Radio",
-      "streamURL": "https://darikradio.by.host.bg:8000/darik",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/darik_radio.png",
-      "country": "bg"
-    },
-    {
       "name": "Bulgaria ON AIR",
-      "streamURL": "https://stream.bgonair.bg:8443/bgonair.mp3",
+      "streamURL": "https://live.radio.bgonair.bg/RadioBOA",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bulgaria_on_air.png",
       "country": "bg"
     },
     {
       "name": "Radio Energy (NRJ Bulgaria)",
-      "streamURL": "https://149.13.0.81/energy.mp3",
+      "streamURL": "https://stream.metacast.eu/nrjhi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/energy_bg.png",
       "country": "bg"
     },
     {
       "name": "Radio Vitosha",
-      "streamURL": "https://149.13.0.80/vitosha.mp3",
+      "streamURL": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_vitosha.png",
       "country": "bg"
     },
     {
       "name": "Radio Nova",
-      "streamURL": "https://149.13.0.80/nova.mp3",
+      "streamURL": "http://stream80.metacast.eu:8000/nova.opus",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_nova_bg.png",
       "country": "bg"
     },
     {
       "name": "Jazz FM Bulgaria",
-      "streamURL": "https://live.btvradio.bg/jazz-fm.mp3",
+      "streamURL": "https://cdn.bweb.bg/radio/jazz-fm.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/jazz_fm_bg.png",
       "country": "bg"
     },
     {
       "name": "bTV Radio",
-      "streamURL": "https://live.btvradio.bg/btv-radio.mp3",
+      "streamURL": "https://cdn.bweb.bg/radio/btv-radio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/btv_radio.png",
       "country": "bg"
     },
     {
       "name": "Radio Melody",
-      "streamURL": "https://stream.radioreklama.bg:8000/melody.mp3",
+      "streamURL": "http://g5.turbohost.eu:8010/stream128_autodj",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/melody_bg.png",
       "country": "bg"
     },
     {
       "name": "Avto Radio",
-      "streamURL": "https://149.13.0.80/avtoradio.mp3",
+      "streamURL": "https://play.global.audio/avtoradiohi.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/avtoradio_bg.png",
       "country": "bg"
     },
     {
-      "name": "Radio Ultra Blagoevgrad",
-      "streamURL": "https://live.ultra.bg:8000/blagoevgrad",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/ultra_blagoevgrad.png",
-      "country": "bg"
-    },
-    {
-      "name": "Radio Ultra Petrich",
-      "streamURL": "https://live.ultra.bg:8000/petrich",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/ultra_petrich.png",
-      "country": "bg"
-    },
-    {
       "name": "Radio Maia",
-      "streamURL": "https://radiomaia.com:8000/live",
+      "streamURL": "https://radio.rn-tv.com:8000/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_maia.png",
       "country": "bg"
     },
     {
       "name": "Radio Folk BG",
-      "streamURL": "https://radiofolkbg.com:8000/folk",
+      "streamURL": "http://listen.folkbg.net:8001/folkbg",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_folk_bg.png",
       "country": "bg"
     },
     {
-      "name": "Radio Balkanika",
-      "streamURL": "https://149.13.0.81/balkanika.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_balkanika.png",
-      "country": "bg"
-    },
-    {
       "name": "Maxx FM Bulgaria",
-      "streamURL": "https://maxxfm.eu:8000/stream",
+      "streamURL": "http://play.radiomaxxfm.com/maxx-high",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/maxx_fm_bg.png",
       "country": "bg"
     },
     {
       "name": "Deep Radio Europe (BG)",
-      "streamURL": "https://stream.deepradio.eu/320.mp3",
+      "streamURL": "http://79.98.108.174:8000/stream2",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/deep_radio_eu.png",
       "country": "bg"
     },
     {
       "name": "Metro Hits Radio",
-      "streamURL": "https://stream.metroradio.bg/hits.mp3",
+      "streamURL": "http://radio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/metro_hits_bg.png",
       "country": "bg"
     }
