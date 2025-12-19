@@ -238,7 +238,127 @@
      "streamURL": "https://live.radio-impuls.ro/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioimpuls.png",
      "desc": "Nu te poți abține!",
-     "longDesc": "Radio Impuls live, înființat în anul 2001 și este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii '90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile.",
+     "longDesc": "Radio Impuls live, înființat în anul 2001, este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii '90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile.",
+     "country": "RO"
+     },
+	 {
+     "name": "Digi FM",
+     "streamURL": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
+     "desc": "Ca Sa Stii",
+     "longDesc": "Post de radio romanesc - parte din trustul DIGI",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Popular",
+     "streamURL": "https://livessl.radiopopular.ro:7777/live",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopopular.png",
+     "desc": "Orice zi e sărbătoare",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Cafe",
+     "streamURL": "https://live.radiocafe.ro:8443/",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocafe.png",
+     "desc": "Muzică de poveste",
+     "longDesc": "Post de radio romanesc - parte din trustul DIGI",
+     "country": "RO"
+     },
+	 {
+     "name": "National FM",
+     "streamURL": "https://asculta.nationalfm.ro:9102/nfm2",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/nationalfm.png",
+     "desc": "Muzică românească",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Manele Vechi",
+     "streamURL": "https://ssl.servereradio.ro/8054/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/manelevechi.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Disco Mix",
+     "streamURL": "https://play.discomix.ro/8002/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodiscomix.png",
+     "desc": "Hiturile anilor 70, 80, 90",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Urban FM",
+     "streamURL": "https://urbanfm.ro:8777/live",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/urbanfm.png",
+     "desc": "The Sound of the City",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Chill FM",
+     "streamURL": "https://edge76.rcs-rds.ro/profm/chillfm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/chillfm.png",
+     "desc": "Muzică de la A la Zen",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Hit FM",
+     "streamURL": "https://live.radiohitfm.net/8989/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocafe.png",
+     "desc": "Suntem HiT FM România - Suntem Preferații Voștrii!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Sport Total FM",
+     "streamURL": "https://livesptfm.com/SPTFM/Audio128/playlist.m3u8",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/sporttotalfm.png",
+     "desc": "Mai mult decât fotbal!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Super FM",
+     "streamURL": "https://live.superfm.ro/stream.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/superfm.png",
+     "desc": "Recunoaște, îți place!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Vibe FM",
+     "streamURL": "https://astreaming.vibefm.ro:8443/vibe_ro64",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/vibefm.png",
+     "desc": "Vibe De România. Doar Hituri",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Mynele",
+     "streamURL": "https://live.radiomynele.ro/8000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomynele.png",
+     "desc": "Ritmul care te ține conectat!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Guerilla",
+     "streamURL": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioguerilla.png",
+     "desc": "Binili învinge",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Pro Music",
+     "streamURL": "https://stream.adradio.ro/8414",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopromusic.png",
+     "desc": "",
+     "longDesc": "",
      "country": "RO"
      }
     ]
