@@ -41,6 +41,14 @@
      "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street.",
      "country": "RO"
      },
+	 {
+     "name": "Radio Pro Music 90s",
+     "streamURL": "https://stream.adradio.ro/8414",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
+     "desc": "",
+     "longDesc": "Radio Pro Music 90s, lansat pe 1 ianuarie 2008, se adresează ascultătorilor din România și din străinătate, oferind muzică, idei și informații transformate în conținut sonor captivant. Din 1 decembrie 2017 face parte din portofoliul Play Radio Hit '90s, si este dedicat exclusiv italo-disco și euro-disco din anii '80-'90.",
+     "country": "RO"
+     },
      {
      "name": "Radio ProB Romania",
      "streamURL": "https://live.radioprob.ro:8888/stream",
@@ -386,19 +394,11 @@
      "country": "RO"
      },
 	 {
-     "name": "Itsy Bitsy",
-     "streamURL": "http://live.itsybitsy.ro:8443/satelit",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/itsybitsy.png",
-     "desc": "Bucurie în familie",
-     "longDesc": "",
-     "country": "RO"
-     },
-	 {
-     "name": "Radio Pro Music 90s",
-     "streamURL": "https://stream.adradio.ro/8414",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
-     "desc": "",
-     "longDesc": "",
+     "name": "Capital FM Romania",
+     "streamURL": "https://ssl.omegahost.ro/8020/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalfmromania.png",
+     "desc": "Muzică fără reclame",
+     "longDesc": "Capital FM România, lansat în București în 2009, oferă muzică non-stop fără reclame sau publicitate, cu hituri vechi și noi din toate genurile – manele, etno, hip-hop. Ascultă 24/7 cu cei mai tineri DJ-i, exclusiv online.",
      "country": "RO"
      },
 	 {
@@ -434,10 +434,10 @@
      "country": "RO"
      },
 	 {
-     "name": "",
-     "streamURL": "https://s18.myradiostream.com/13384/listen.mp3?time=1767718750385",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/vipdiaspora.png",
-     "desc": "",
+     "name": "Extravaganta Radio",
+     "streamURL": "https://s3.radio.co/s1492c0564/low",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/extravagantaradio.png",
+     "desc": "The finest music selection",
      "longDesc": "",
      "country": "RO"
      },
