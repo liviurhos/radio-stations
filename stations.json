@@ -379,7 +379,7 @@
      },
 	 {
      "name": "Radio Taraf",
-     "streamURL": "https://stream3.rdstrm.com/prx-http/live.radiotaraf.ro:8181/;",
+     "streamURL": "https://ddos.radiotaraf.ro/7100/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotaraf.png",
      "desc": "Numărul 1 în MANELE!",
      "longDesc": "",
@@ -387,7 +387,7 @@
      },
 	 {
      "name": "Itsy Bitsy",
-     "streamURL": "https://stream3.rdstrm.com/prx-http/live.itsybitsy.ro:8000/itsybitsy",
+     "streamURL": "http://live.itsybitsy.ro:8443/satelit",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/itsybitsy.png",
      "desc": "Bucurie în familie",
      "longDesc": "",
@@ -418,10 +418,42 @@
      "country": "RO"
      },
 	 {
-     "name": "Radio Pro Music",
-     "streamURL": "https://stream.adradio.ro/8414",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopromusic.png",
+     "name": "Electro Manele",
+     "streamURL": "https://stream.radioem.ro/8046/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/electromanele.png",
      "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Infinit",
+     "streamURL": "http://86.127.68.115:18000/infinit64.ogg",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioinfinit.png",
+     "desc": "Ascultă la infinit",
+     "longDesc": "Radio Infinit, lansat în 2007, a devenit rapid cel mai ascultat post din Gorj, fapt reflectat de numărul mare de accesări și apeluri ale ascultătorilor. Emite pe 87,8 FM, este dedicat în totalitate județului Gorj și se adresează în principal publicului de până la 40 de ani.",
+     "country": "RO"
+     },
+	 {
+     "name": "",
+     "streamURL": "https://s18.myradiostream.com/13384/listen.mp3?time=1767718750385",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/vipdiaspora.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Trapanele",
+     "streamURL": "https://live.radiotrapanele.ro:8132/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotrapanele.png",
+     "desc": "",
+     "longDesc": "Radio Trapanele propune un stil muzical nou pe scena radio din România, combinând manelele cu trapul într-un format tot mai popular la nivel național. Postul emite exclusiv online, difuzează non-stop cele mai noi și apreciate „trapanele” și manele, fără întreruperi publicitare, pentru cei care iubesc acest gen.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Flo Manele",
+     "streamURL": "https://live.radioflomanele.ro/8084/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
+     "desc": "Manele La Maxim!",
      "longDesc": "",
      "country": "RO"
      }
