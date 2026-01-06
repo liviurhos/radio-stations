@@ -308,7 +308,7 @@
 	 {
      "name": "Radio Hit FM",
      "streamURL": "https://live.radiohitfm.net/8989/stream",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocafe.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/hitfm.png",
      "desc": "Suntem HiT FM România - Suntem Preferații Voștrii!",
      "longDesc": "",
      "country": "RO"
@@ -350,6 +350,70 @@
      "streamURL": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioguerilla.png",
      "desc": "Binili învinge",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Manele",
+     "streamURL": "https://play.wrhradios.com/8044/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomanele.png",
+     "desc": "Cel mai ascultat radio cu manele",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Smart Radio",
+     "streamURL": "https://live.smartradio.ro:8443/live",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/smartradio.png",
+     "desc": "Ascultă ce gândești",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Pro Manele",
+     "streamURL": "https://sonica.cloudstreaming.eu/8000/stream;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/promanele.png",
+     "desc": "Manele",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Taraf",
+     "streamURL": "https://stream3.rdstrm.com/prx-http/live.radiotaraf.ro:8181/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotaraf.png",
+     "desc": "Numărul 1 în MANELE!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Itsy Bitsy",
+     "streamURL": "https://stream3.rdstrm.com/prx-http/live.itsybitsy.ro:8000/itsybitsy",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/itsybitsy.png",
+     "desc": "Bucurie în familie",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Pro Music 90s",
+     "streamURL": "https://stream.adradio.ro/8414",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "DJ Radio Romania",
+     "streamURL": "https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/djradio.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio VIP Diaspora",
+     "streamURL": "https://s18.myradiostream.com/13384/listen.mp3?time=1767718750385",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/vipdiaspora.png",
+     "desc": "ASCULTA DIFERENTA! Muzica buna, nu se opreste niciodata!",
      "longDesc": "",
      "country": "RO"
      },
