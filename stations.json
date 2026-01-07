@@ -450,6 +450,70 @@
      "country": "RO"
      },
 	 {
+     "name": "Radio Boom",
+     "streamURL": "https://stream3.rdstrm.com/prx-https/stream.radioboom.ro:8520/radio.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioboom.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Deep",
+     "streamURL": "https://stream.radiojar.com/8q8770pucfhvv",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodeep.png",
+     "desc": "Non-Stop Dancing!",
+     "longDesc": ",
+     "country": "RO"
+     },
+	 {
+     "name": "Metronom FM",
+     "streamURL": "https://metronom-fm.ro/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/metronomfm.png",
+     "desc": "Radioul Care Face Diferenta!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romanian - Dance",
+     "streamURL": "https://asculta.radioromanian.net/dance",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
+     "desc": "Pulsul Muzicii Românești!",
+     "longDesc": ",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romanian - Hip-Hop",
+     "streamURL": "https://asculta.radioromanian.net/hiphop",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
+     "desc": "Pulsul Muzicii Românești!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romanian - Manele",
+     "streamURL": "https://asculta.radioromanian.net/manele",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
+     "desc": "Pulsul Muzicii Românești!",
+     "longDesc": ",
+     "country": "RO"
+     },
+	 {
+     "name": "Romantic FM",
+     "streamURL": "https://radio-romantik.ro/listen/radio_romantic/radio.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/romanitcfm.png",
+     "desc": "Muzică, nu zgomot",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Expert FM",
+     "streamURL": "http://expertfm.zapto.org:8000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/expertfm.png",
+     "desc": "Expertul Tau in Muzica",
+     "longDesc": ",
+     "country": "RO"
+     },
+	 {
      "name": "Radio Flo Manele",
      "streamURL": "https://live.radioflomanele.ro/8084/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
