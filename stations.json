@@ -492,7 +492,7 @@
 	 {
      "name": "Romantic FM",
      "streamURL": "https://radio-romantik.ro/listen/radio_romantic/radio.mp3",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/romanticfm.png",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/romanitcfm.png",
      "desc": "Muzică, nu zgomot",
      "longDesc": "",
      "country": "RO"
@@ -503,6 +503,118 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/expertfm.png",
      "desc": "Expertul Tau in Muzica",
      "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Mega Hit - Dance",
+     "streamURL": "https://live.radiomegahit.eu:8080/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
+     "desc": "Aici Muzica Face Diferenta!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Mega Hit - Popular",
+     "streamURL": "https://popular.radiomegahit.eu:9000/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
+     "desc": "Aici Muzica Face Diferenta!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Mega Hit",
+     "streamURL": "https://stream2.rdstrm.com/prx-https/live.radiomegahit.eu:8080/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/fmegahit.png",
+     "desc": "Aici Muzica Face Diferenta!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio 90 Hit",
+     "streamURL": "https://live.90hit.ro:8000/radio.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radio90hit.png",
+     "desc": "Se aude bine!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "PRO Dj Radio",
+     "streamURL": "https://live.prodjradio.net:8065/radio",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/prodj.png",
+     "desc": "Simte Ritmul, Simte Hitul!",
+     "longDesc": "PRO Dj Radio, lansat în vara lui 2012 de producătorul Flavi Lester, este un radio online axat pe muzică Top 40, dance și house. Emite preponderent muzică europeană (inclusiv producții românești și din Republica Moldova), aducând bună dispoziție prin cele mai noi hituri pentru un public cât mai larg.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Relax",
+     "streamURL": "https://stream.dixi.md:9443/RadioRelax",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
+     "desc": "Un radio plăcut și liniștit",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Relax - Instrumental",
+     "streamURL": "https://radio1.dixi.md/listen/relax_instrumental/relaxinstrumental128.aac",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
+     "desc": "Un radio plăcut și liniștit",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "RFI Romania",
+     "streamURL": "https://asculta.radiorfi.ro/live.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/rfiromania.png",
+     "desc": "Vocile Lumii",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Ciresarii",
+     "streamURL": "https://s3.radio.co/s6c0a773ad/listen",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiociresarii.png",
+     "desc": "Click pe frecvențe înalte",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Supra Vibe Radio",
+     "streamURL": "https://supraviberadio-radiohosting.radioca.st/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/supravibe.png",
+     "desc": "Your Supra Sound is Here!",
+     "longDesc": "Supravibe Radio este un post exclusiv online de muzică electronică, lansat în România pe 1 octombrie 2022, care emite stereo la o calitate de 192 kbps. Difuzează non-stop piese dance, club, house și deep house, completate de mixuri proprii și seturi ale invitaților, atent selectate pentru publicul său.",
+     "country": "RO"
+     },
+	 {
+     "name": "Jazz FM",
+     "streamURL": "https://s4.radio.co/s1e25bf273/listen",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/jazzfm.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romance 21 - Eurodance",
+     "streamURL": "https://live.radioromance21.ro:9950/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
+     "desc": "Suntem Preferații Voștri!",
+     "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romance 21 - Manele",
+     "streamURL": "https://manele.radioromance21.ro:8014/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
+     "desc": "Suntem Preferații Voștri!",
+     "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romance 21 - Etno",
+     "streamURL": "https://etno.radioromance21.ro:8012/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
+     "desc": "Suntem Preferații Voștri!",
+     "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
      "country": "RO"
      },
 	 {
