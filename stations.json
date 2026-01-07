@@ -522,14 +522,6 @@
      "country": "RO"
      },
 	 {
-     "name": "Radio Mega Hit",
-     "streamURL": "https://live.radiomegahit.eu:8080/stream",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
-     "desc": "Aici Muzica Face Diferenta!",
-     "longDesc": "",
-     "country": "RO"
-     },
-	 {
      "name": "Radio 90 Hit",
      "streamURL": "https://live.90hit.ro:8000/radio.mp3",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio90hit.png",
