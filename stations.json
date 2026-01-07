@@ -523,7 +523,7 @@
      },
 	 {
      "name": "Radio Mega Hit",
-     "streamURL": "https://stream2.rdstrm.com/prx-https/live.radiomegahit.eu:8080/stream",
+     "streamURL": "https://live.radiomegahit.eu:8080/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
      "desc": "Aici Muzica Face Diferenta!",
      "longDesc": "",
