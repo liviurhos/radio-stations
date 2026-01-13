@@ -610,6 +610,102 @@
      "country": "RO"
      },
 	 {
+     "name": "Focus FM",
+     "streamURL": "http://live.focusfm.ro:8000/focusfmhigh.ogg",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/focusfm.png",
+     "desc": "Facem atmosferă!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Trinitas",
+     "streamURL": "https://live.radiotrinitas.ro:8003/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotrinitas.png",
+     "desc": "Un radio pentru sufletul dumneavoastră!",
+     "longDesc": "Radio Trinitas este postul de radio al Patriarhiei Române, fondat în 1996 la Iași ca primul radio ortodox din țară, cu acoperire națională pe zeci de frecvențe și online. Difuzează zilnic slujbe, rugăciuni, muzică (folclor, clasică, religioasă) și emisiuni de educație religioasă, cultură, știri și dezbateri pentru publicul de toate vârstele.",
+     "country": "RO"
+     },
+	 {
+     "name": "Antena Satelor",
+     "streamURL": "https://stream4.srr.ro:8443/antena-satelor",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/antenasatelor.png",
+     "desc": "Un radio despre viața la țară",
+     "longDesc": "Radio România Antena Satelor este un post al Societății Române de Radiodifuziune, lansat în 1991 și devenit post național în 2006, dedicat în totalitate mediului rural și satului românesc. Oferă în principal muzică populară românească și emisiuni care promovează tradițiile, obiceiurile, viața la sat și problemele comunităților rurale, prin știri, reportaje și transmisiuni în direct.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Somes",
+     "streamURL": "https://radio.mediacp.eu/stream/radiosomes",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosomes.png",
+     "desc": "Tradiții și Folclor",
+     "longDesc": "Radio SOMEȘ este un post de radio axat pe folclor ardelenesc și cultura tradițională din zona Transilvaniei, cu programe orientate spre ascultători din mediul rural și iubitorii de muzică populară. Difuzează muzică populară autentică, obiceiuri, tradiții, informații utile pentru sat și emite atât pe mai multe frecvențe FM, cât și online, aducând folclorul transilvănean în prezent prin emisiuni tematice și programe dedicate comunităților locale.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio PRO Popular",
+     "streamURL": "https://sonica.cloudstreaming.eu/9998/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopropopular.png",
+     "desc": "Se ascultă cu inima!",
+     "longDesc": "Radio Pro Popular este un post de radio online lansat în 2014, dedicat exclusiv muzicii populare și de petrecere românești, cu accent pe lăutărească, sârbe, hore și cântece de voie bună din toate regiunile țării. Postul se adresează românilor din țară și din diaspora, propunându-și să creeze o atmosferă de „acasă” prin programe live, emisiuni interactive de dedicații (precum „Petrece Române”) și o selecție de melodii tradiționale și de petrecere menite să mențină legătura cu identitatea și cultura românească.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Dacia",
+     "streamURL": "https://streaming.napocalive.ro/radio-dacia03",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodacia.png",
+     "desc": "Împreună ridicăm frecvența!",
+     "longDesc": "Radio Dacia Relax este un webradio care difuzează 24/7 muzică de relaxare (pop‑rock soft, oldies, latino, reggae, smooth jazz, lounge, down tempo, clasic, goldies), construită să creeze o stare de liniște și destindere. Postul își propune să inducă o stare de bine, curaj și încredere prin combinația de muzică liniștitoare și mesaje pozitive/motivaționale, promovând ideea de echilibru între minte, trup și suflet și încurajând o atitudine optimistă în viața de zi cu zi.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Badita Popular",
+     "streamURL": "http://89.39.189.29:8000/",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobadita.png",
+     "desc": "Petrece cât trăiești",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Oltenia Craiova",
+     "streamURL": "https://stream1.rdstrm.com/prx-http/stream2.srr.ro:8370/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiooltenia.png",
+     "desc": "Perfect și simplu!",
+     "longDesc": "Radio România Oltenia Craiova este postul regional al Societății Române de Radiodifuziune, lansat la 6 iunie 1954, lider de audiență în Oltenia. Oferă informații utile pentru viața de zi cu zi, știri obiective, programe culturale, economice, sociale și politice, emițând în română și limbile minorităților, cu accent pe rolul educativ și informativ în regiune.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Prahova",
+     "streamURL": "https://streamx.rph.ro:8100/relay",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprahova.png",
+     "desc": "One for fun",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Timisoara",
+     "streamURL": "http://89.238.227.6:8360/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotimisoara.png",
+     "desc": "Pentru Vestul Ţării",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Iasi",
+     "streamURL": "http://89.238.227.6:8202/;stream/1",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioiasi.png",
+     "desc": "Suntem acasă în toată Moldova!",
+     "longDesc": "Radio Iași este postul regional al Societății Române de Radiodifuziune, lansat la 2 noiembrie 1941 sub numele Radio Moldova, lider în Moldova și una dintre cele mai importante voci ale radioului public românesc. Formatul clasic include informații, cultură, muzică de calitate și emisiuni în limbile minorităților (ucraineană, rromani), menținând poziția de top prin profesionalism și acoperire a evenimentelor locale/naționale.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Noroc",
+     "streamURL": "https://stream.noroc.tv/radionoroc_128",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radionoroc.png",
+     "desc": "...din inima Moldovei",
+     "longDesc": "Radio Noroc este un post de radio popular din Republica Moldova, lansat pe 16 noiembrie 2005, care promovează muzica și valorile naționale românești, fiind ascultat pe 16 frecvențe FM și online. Formatul include hituri moldovenești autentice, melodii internaționale apreciate și emisiuni care reflectă identitatea culturală, având o acoperire largă în regiune.",
+     "country": "RO"
+     },
+	 {
      "name": "Radio Flo Manele",
      "streamURL": "https://live.radioflomanele.ro/8084/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
