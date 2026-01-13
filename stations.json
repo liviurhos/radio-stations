@@ -667,7 +667,7 @@
      },
 	 {
      "name": "Radio Oltenia Craiova",
-     "streamURL": "https://stream1.rdstrm.com/prx-http/stream2.srr.ro:8370/;",
+     "streamURL": "http://stream2.srr.ro:8370/;",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiooltenia.png",
      "desc": "Perfect și simplu!",
      "longDesc": "Radio România Oltenia Craiova este postul regional al Societății Române de Radiodifuziune, lansat la 6 iunie 1954, lider de audiență în Oltenia. Oferă informații utile pentru viața de zi cu zi, știri obiective, programe culturale, economice, sociale și politice, emițând în română și limbile minorităților, cu accent pe rolul educativ și informativ în regiune.",
