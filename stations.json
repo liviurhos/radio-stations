@@ -795,7 +795,7 @@
      },
 	 {
      "name": "Radio Crazy",
-     "streamURL": "https://stream2.rdstrm.com/prx-http/live.crazyradio.ro:8024/;",
+     "streamURL": "https://stream2.rdstrm.com/prx-http/live.crazyradio.ro:8024/",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocrazy.png",
      "desc": "",
      "longDesc": "",
