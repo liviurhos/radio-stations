@@ -705,6 +705,102 @@
      "longDesc": "Radio Noroc este un post de radio popular din Republica Moldova, lansat pe 16 noiembrie 2005, care promovează muzica și valorile naționale românești, fiind ascultat pe 16 frecvențe FM și online. Formatul include hituri moldovenești autentice, melodii internaționale apreciate și emisiuni care reflectă identitatea culturală, având o acoperire largă în regiune.",
      "country": "RO"
      },
+	{
+     "name": "Radio Deea",
+     "streamURL": "https://radiocdn.nxthost.com/radio-deea",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodeea.png",
+     "desc": "Feel good! Feel Dance!",
+     "longDesc": "Radio DEEA este un post de radio online românesc lansat în 1997 la Onești, axat pe un format CHR de tip clubbing (muzică electronică de dans), considerat primul „CHR Party Radio” din România. Difuzează o combinație de muzică de club și genuri variate (pop, rap, rock, hip‑hop, trance, electro house, country, soft), având sloganul „Feel good! Feel Dance!” și poziționându-se ca un radio de stare bună pentru iubitorii de muzică de club",
+     "country": "RO"
+     },
+	 {
+     "name": "Bucuresti FM",
+     "streamURL": "https://stream4.srr.ro:8443/bucuresti-fm",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/bucurestifm.png",
+     "desc": "Aici e Capitala!",
+     "longDesc": "București FM este postul public local dedicat exclusiv vieții din Capitală, în emisie din 1990 și orientat spre informații despre București pentru toate vârstele. Postul oferă știri orare, programe despre administrație, societate, educație, economie, cultură și sport, păstrând un rol de partener al municipalității și al societății civile și promovând consistent muzica românească de calitate și artiștii autohtoni prin lansări, seri speciale și concerte în București.",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Gasca Nebuna",
+     "streamURL": "https://stream.zeno.fm/33t7y7n9gwzuv",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/gascanebuna.png",
+     "desc": "Muzica noastră tratament pentru inima ta.",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio 3Net",
+     "streamURL": "https://media.3netmedia.ro/hls/stream.m3u8",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radio3net.png",
+     "desc": "Un Radio in Culori",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Glasul Nordului",
+     "streamURL": "https://ssl.asculta.live/8096/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/glasulnordului.png",
+     "desc": "Din respect pentru cititorii noștri",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "PlayMusic FM",
+     "streamURL": "https://free.rcast.net/400",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/playmusic.png",
+     "desc": "Hiturile Tale Online!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "SuperSonic Radio",
+     "streamURL": "https://s5.radio.co/s08e5c5875/listen",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/supersonic.png",
+     "desc": "Supermuzică, superidei!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Doza Manele",
+     "streamURL": "https://manele.radiodoza.eu/8100/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/dozamanelelor.png",
+     "desc": "Manele",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Zum",
+     "streamURL": "https://streams.radiozum.md/listen/zum1/ZUM1",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozum.png",
+     "desc": "Play it, Feel it!",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Romania International",
+     "streamURL": "https://stream4.srr.ro:8443/romania-rri1",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniainternational.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Nova 22",
+     "streamURL": "https://s2.myradiostream.com/4520/listen.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/nova22.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
+	 {
+     "name": "Radio Crazy",
+     "streamURL": "https://stream2.rdstrm.com/prx-http/live.crazyradio.ro:8024/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocrazy.png",
+     "desc": "",
+     "longDesc": "",
+     "country": "RO"
+     },
 	 {
      "name": "Radio Flo Manele",
      "streamURL": "https://live.radioflomanele.ro/8084/stream",
