@@ -122,15 +122,9 @@
       "country": "uk"
     },
     {
-      "name": "Greatest Hits Radio",
-      "streamURL": "https://stream-mz.planetradio.co.uk/greatesthitsuk.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/greatesthits.png",
-      "country": "uk"
-    },
-    {
-      "name": "Hits Radio",
-      "streamURL": "https://stream-al.planetradio.co.uk/hitsuk.mp3",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/hitsradio.png",
+      "name": "Joy Hits",
+      "streamURL": "https://joyhits.online/joyhitshq.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/joyhits.png",
       "country": "uk"
     },
     {
