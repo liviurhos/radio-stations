@@ -56,6 +56,12 @@
       "country": "uk"
     },
     {
+      "name": "Heart Dance",
+      "streamURL": "https://media-ssl.musicradio.com/HeartDance",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/heartdance.png",
+      "country": "uk"
+    },
+    {
       "name": "Heart 80s",
       "streamURL": "https://media-ssl.musicradio.com/Heart80s",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/heart80s.png",
@@ -83,6 +89,12 @@
       "name": "Capital Dance",
       "streamURL": "https://media-ssl.musicradio.com/CapitalDance",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/capitaldance.png",
+      "country": "uk"
+    },
+    {
+      "name": "Capital Chill",
+      "streamURL": "https://media-ssl.musicradio.com/CapitalChill",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalchill.png
       "country": "uk"
     },
     {
@@ -137,6 +149,138 @@
       "name": "Virgin Radio UK",
       "streamURL": "https://radio.virginradio.co.uk/stream#.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/virginuk.png",
+      "country": "uk"
+    },
+    {
+      "name": "The Big Buzz Radio",
+      "streamURL": "https://play.radioking.io/big-buzz-radio/825323",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/bigbuzzradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Gold Radio",
+      "streamURL": "https://media-ssl.musicradio.com/Gold",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/goldradio.png",
+      "country": "uk"
+    },
+	  {
+      "name": "Nation Radio",
+      "streamURL": "https://listen-nation.sharp-stream.com/thamesradio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/nationradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "NME Radio",
+      "streamURL": "https://msmn3.co/proxy/x1mp31/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/nmeradio.png",
+      "country": "uk"
+    },
+	  {
+      "name": "STV Radio",
+      "streamURL": "https://stv-dsharp.sharp-stream.com/stv_aberdeen.aac?time=1768922855059",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/stvradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Boomerang Radio",
+      "streamURL": "https://listen.streamaudio.co/proxy/boomerang/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/boomerangradio.png",
+      "country": "uk"
+    },
+	  {
+      "name": "Panjab Radio",
+      "streamURL": "https://lunar.citrus3.com:8016/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/panjabradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Sun FM",
+      "streamURL": "https://listen-nation.sharp-stream.com/sunfm.mp3?time=1768926767664",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/sunfm.png",
+      "country": "uk"
+    },
+	  {
+      "name": "Times Radio",
+      "streamURL": "https://timesradio.wireless.radio/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/timesradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Pureback Sounds",
+      "streamURL": "https://streaming.radio.co/sea45037f6/listen",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/purebacksounds.png",
+      "country": "uk"
+    },
+	{
+      "name": "Original 106",
+      "streamURL": "https://listen-original.sharp-stream.com/original106.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/original106.png",
+      "country": "uk"
+    },
+    {
+      "name": "Cheesy FM",
+      "streamURL": "https://stream.rcs.revma.com/8ebhfmak44uvv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cheesyfm.png",
+      "country": "uk"
+    },
+	{
+      "name": "Radio Caroline",
+      "streamURL": "https://stream1.rdstrm.com/prx-http/sc6.radiocaroline.net:8040/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocaroline.png
+      "country": "uk"
+    },
+    {
+      "name": "Premier Christian Radio",
+      "streamURL": "https://pcr.streamguys1.com/pcrnational-hls/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/premierchristian.png",
+      "country": "uk"
+    },
+	{
+      "name": "U 105",
+      "streamURL": "https://gbradio.cdn.tibus.net/U105",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/u105.png",
+      "country": "uk"
+    },
+    {
+      "name": "GB News Radio",
+      "streamURL": "https://listen-gbnews.sharp-stream.com/gbnews.mp3?time=1768927610941",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/gbnews.png",
+      "country": "uk"
+    },
+	{
+      "name": "Boom Radio",
+      "streamURL": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/boomradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "City Sound Radio",
+      "streamURL": "https://cast5.asurahosting.com/proxy/citysoun/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/citysoundradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Cyndicut Radio",
+      "streamURL": "https://securestreams6.autopo.st:2260/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cyndicut.png",
+      "country": "uk"
+    },
+    {
+      "name": "KM FM",
+      "streamURL": "https://listen-kmfm.sharp-stream.com/kmfmdab.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kmfm.png",
+      "country": "uk"
+    },
+	{
+      "name": "CRFM Radio",
+      "streamURL": "https://stream.rcs.revma.com/rvhtaqdqsy3vv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/crfmradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Dance Anthems Radio",
+      "streamURL": "https://stream3.themediasite.co.uk/stream/danceanthems",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/danceanthems.png",
       "country": "uk"
     },
     {
