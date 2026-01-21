@@ -427,6 +427,78 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/edgeradio.png",
       "country": "uk"
     },
+	{
+      "name": "Mighty Radio",
+      "streamURL": "https://mightyradio.radioca.st/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/mightyradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Radio Essex",
+      "streamURL": "https://stream.aiir.com/ujzy590c3stvv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioessex.png",
+      "country": "uk"
+    },
+	{
+      "name": "3 FM Isle Of Man",
+      "streamURL": "https://stream.rcs.revma.com/0kv9v43t87zuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/3fmisleofman.png",
+      "country": "uk"
+    },
+    {
+      "name": "Welsh Coast Radio",
+      "streamURL": "https://saradiolive.radioca.st/%3B",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/welshcoastradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Isle Of Wight",
+      "streamURL": "https://s2.xrad.io:9598/listen.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/isleofwight.png",
+      "country": "uk"
+    },
+    {
+      "name": "Vanilla Radio",
+      "streamURL": "https://stream.vanillaradio.com:8016/stream/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/vanillaradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Durham On Air",
+      "streamURL": "https://stream3.themediasite.co.uk:8016/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/durhamonair.png",
+      "country": "uk"
+    },
+    {
+      "name": "Pride FM",
+      "streamURL": "https://stream.rcs.revma.com/vn72q8cvkg3vv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/pridefm.png",
+      "country": "uk"
+    },
+	{
+      "name": "SunKiss",
+      "streamURL": "https://uksoutha.streaming.broadcast.radio/sunkiss",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/sunkiss.png",
+      "country": "uk"
+    },
+    {
+      "name": "Gaydio Radio",
+      "streamURL": "https://listen-gaydio.sharp-stream.com/gaydiouk.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/gaydioradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Mi-Soul Radio",
+      "streamURL": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/misoulradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Manx Radio",
+      "streamURL": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/manxradio.png",
+      "country": "uk"
+    },
     {
       "name": "talkSPORT",
       "streamURL": "https://radio.talksport.com/stream",
