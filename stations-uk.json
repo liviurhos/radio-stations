@@ -283,6 +283,150 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/danceanthems.png",
       "country": "uk"
     },
+	{
+      "name": "Sunrise Radio",
+      "streamURL": "https://direct.sharp-stream.com/sunriseradio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/sunriseradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Eirewave",
+      "streamURL": "https://stream.rcs.revma.com/ng2u4zvag5uvv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eirawave.png",
+      "country": "uk"
+    },
+	{
+      "name": "HGV 1",
+      "streamURL": "https://stream4.themediasite.co.uk:8036/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/hgv1.png",
+      "country": "uk"
+    },
+    {
+      "name": "Past Perfect Radio",
+      "streamURL": "https://s2.xrad.io:9646/;stream/1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/pastperfect.png",
+      "country": "uk"
+    },
+	{
+      "name": "House Party Radio",
+      "streamURL": "https://cloud.housepartyradio.net:8000/online.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/houseparty.png",
+      "country": "uk"
+    },
+    {
+      "name": "Laser 558",
+      "streamURL": "https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/laser558.png",
+      "country": "uk"
+    },
+	{
+      "name": "Flex FM",
+      "streamURL": "https://a2.asurahosting.com:7400/radio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/flexfm.png",
+      "country": "uk"
+    },
+    {
+      "name": "BFBS Gurkha Radio",
+      "streamURL": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/bfbsgurkharadio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Erewash Sound",
+      "streamURL": "https://s5.radio.co/s03a528b94/listen",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/erewashsound.png",
+      "country": "uk"
+    },
+    {
+      "name": "Sheffield Live!",
+      "streamURL": "https://stream3.rdstrm.com/prx-http/live.sheffieldlive.org:8000/shefflive.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/sheffieldlive.png",
+      "country": "uk"
+    },
+	{
+      "name": "Derby Sound",
+      "streamURL": "https://uk7.internet-radio.com/proxy/in2derbyradio?mp=%2Fstream%3B",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/derbysound.png",
+      "country": "uk"
+    },
+    {
+      "name": "Breeze Essex",
+      "streamURL": "https://chelmer.btsstream.com/stream/chelmer",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/breezeessex.png",
+      "country": "uk"
+    },
+	{
+      "name": "Soundtrack Radio",
+      "streamURL": "https://stream.rcs.revma.com/nep4pkyctncwv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/soundtrackradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Johnstone Sound",
+      "streamURL": "https://stream1.themediasite.co.uk:8084/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/johnstonesound.png",
+      "country": "uk"
+    },
+	{
+      "name": "Tide Radio",
+      "streamURL": "https://uksoutha.streaming.broadcast.radio/tide-media-group",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tideradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Redrose Radio",
+      "streamURL": "https://listen.red-roseradio.co.uk:8008/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/redroseradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Suffolk Sound",
+      "streamURL": "https://stream.zeno.fm/hk5z353m11zuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/suffolksound.png",
+      "country": "uk"
+    },
+    {
+      "name": "Central Radio North West",
+      "streamURL": "https://stream.central.radio/listen/web/high",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/centralradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Your Harrogate",
+      "streamURL": "https://stream.aiir.com/gxs0oxyllbqtv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/yourharrogate.png",
+      "country": "uk"
+    },
+    {
+      "name": "Bournemouth ONE",
+      "streamURL": "https://stream.aiir.com/nyf6ntgpkcfuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/bournemouthone.png",
+      "country": "uk"
+    },
+	{
+      "name": "Glow Radio",
+      "streamURL": "https://stream.rcs.revma.com/qqmbdzvet3bwv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/glowradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Atlantic 252",
+      "streamURL": "https://stream4.themediasite.co.uk:8042/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/atlantic252.png",
+      "country": "uk"
+    },
+	{
+      "name": "Caravan Radio",
+      "streamURL": "https://stream4.themediasite.co.uk:8044/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/caravanradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Edge Radio",
+      "streamURL": "https://stream.aiir.com/8dhvgxm1kbvuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/edgeradio.png",
+      "country": "uk"
+    },
     {
       "name": "talkSPORT",
       "streamURL": "https://radio.talksport.com/stream",
