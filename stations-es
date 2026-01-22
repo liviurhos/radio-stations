@@ -1,1 +1,95 @@
+{
+  "station": [
+    {
+      "name": "Kiss FM",
+      "streamURL": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kissfmes.png",
+      "country": "es"
+    },
+    {
+      "name": "Cadena SER",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cadenaser.png",
+      "country": "es"
+    },
+	{
+      "name": "CADENA 100",
+      "streamURL": "https://cadena100-cope.flumotion.com/chunks.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cadena100.png",
+      "country": "es"
+    },
+	{
+      "name": "Cadena Dial",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cadenadial.png",
+      "country": "es"
+    },
+	{
+      "name": "COPE",
+      "streamURL": "https://flucast-bl03.flumotion.com/cope/net1.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cope.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio Marca",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomarca.png",
+      "country": "es"
+    },
+    {
+      "name": "Vaughan Radio",
+      "streamURL": "https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/vaughanradio.png",
+      "country": "es"
+    },
+	{
+      "name": "Rock FM",
+      "streamURL": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rockfmes.png",
+      "country": "es"
+    },
+    {
+      "name": "LOS40",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40.png",
+      "country": "es"
+    },
+    {
+      "name": "LOS40 Classic",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40classic.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio Chanquete FM",
+      "streamURL": "https://stream1.rdstrm.com/prx-http/185.23.192.118:8008/;stream.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiochanquete.png",
+      "country": "es"
+    },
+    {
+      "name": "Onda Cero",
+      "streamURL": "https://atres-live.ondacero.es/live/ondacero/master.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/ondacero.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio Nervion",
+      "streamURL": "https://radionervion.streaming-pro.com:6132/radionervion",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radionervion.png",
+      "country": "es"
+    },
+    {
+      "name": "esRadio",
+      "streamURL": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/esradio.png",
+      "country": "es"
+    },
+    {
+      "name": "Hit FM",
+      "streamURL": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/hitfmes.png",
+      "country": "es"
+    }
+  ]
+}
 
