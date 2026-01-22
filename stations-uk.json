@@ -510,6 +510,54 @@
       "streamURL": "https://radio.talksport.com/stream2",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/talksport2.png",
       "country": "uk"
+    },
+	{
+      "name": "45 Radio",
+      "streamURL": "https://stream1.themediasite.co.uk:7009/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/45radio.png",
+      "country": "uk"
+    },
+    {
+      "name": "IBC Tamil Radio",
+      "streamURL": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3?time=1769100344849",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/ibctamilradio.png",
+      "country": "uk"
+    },
+	{
+      "name": "Lincs Sound",
+      "streamURL": "https://stream.aiir.com/8dprqqdsdskuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lincssound.png",
+      "country": "uk"
+    },
+    {
+      "name": "LCR FM Lincoln",
+      "streamURL": "https://ukwesta.streaming.broadcast.radio/lincoln",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lcrfmlincoln.png",
+      "country": "uk"
+    },
+	{
+      "name": "Coast And Country Radio",
+      "streamURL": "https://stream1.superstreaming.co.uk/proxy/coastcounty/streamscar",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/coastandcountry.png",
+      "country": "uk"
+    },
+    {
+      "name": "PulseMix Radio",
+      "streamURL": "https://streaming.live365.com/a17755",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/pulsemix.png",
+      "country": "uk"
+    },
+	{
+      "name": "Jorvik Radio",
+      "streamURL": "https://uksoutha.streaming.broadcast.radio:24780/jorvikradio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/jorvikradio.png",
+      "country": "uk"
+    },
+    {
+      "name": "Lyca Radio",
+      "streamURL": "https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lycaradio.png",
+      "country": "uk"
     }
   ]
 }
