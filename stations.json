@@ -9,6 +9,14 @@
      "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR).",
      "country": "RO"
      },
+	{
+     "name": "Radio Campus Urziceni",
+     "streamURL": "http://5.2.232.99:7000/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocampus.png",
+     "desc": "",
+     "longDesc": "Primul post de radio de dupa revolutie din orasul Urziceni.",
+     "country": "RO"
+     },
      {
      "name": "Radio ZU",
      "streamURL": "http://zuicast.digitalag.ro:9420/zu",
