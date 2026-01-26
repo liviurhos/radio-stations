@@ -1,1 +1,94 @@
-
+{
+  "station": [
+    {
+      "name": "Oxygen Music",
+      "streamURL": "https://oxygenmusic.hu:8000/oxygenmusic_128",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/oxygenmusic.png",
+      "country": "hu"
+    },
+	{
+      "name": "Park FM",
+      "streamURL": "https://s03.diazol.hu:7142/stream.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/parkfm.png",
+      "country": "hu"
+    },
+	{
+      "name": "Deja Vu Rádió",
+      "streamURL": "https://adas.dejavuradio.hu:8178/dejavuradio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/dejavuradio.png",
+      "country": "hu"
+    },
+    {
+      "name": "Retro Rádió",
+      "streamURL": "https://icast.connectmedia.hu/5002/live.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/retroradio.png",
+      "country": "hu"
+    },
+	{
+      "name": "Rádió 1",
+      "streamURL": "https://icast.connectmedia.hu/5202/live.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio1.png",
+      "country": "hu"
+    },
+    {
+      "name": "Petőfi Rádió",
+      "streamURL": "https://icast.connectmedia.hu/4738/mr2.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/petofiradio.png",
+      "country": "hu"
+    },
+	{
+      "name": "Kossuth Rádió",
+      "streamURL": "https://icast.connectmedia.hu/4736/mr1.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kossuthradio.png",
+      "country": "hu"
+    },
+    {
+      "name": "Klubrádió",
+      "streamURL": "https://myonlineradio.hu/ldblncr/klubradio/https-bpstream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/klubradio.png",
+      "country": "hu"
+    },
+	{
+      "name": "Hír FM",
+      "streamURL": "https://stream.rcs.revma.com/wevb267khf9uv?time=1769465909682",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/hirfm.png",
+      "country": "hu"
+    },
+	{
+      "name": "KORONAfm100",
+      "streamURL": "https://stream.koronafm100.hu/listen/koronafm100/stream_sq.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/koronafm.png",
+      "country": "hu"
+    },
+    {
+      "name": "ice GOLD",
+      "streamURL": "https://stream.icegold.pro/stream.mp3?time=1769466062973",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/icegold.png",
+      "country": "hu"
+    },
+    {
+      "name": "Laza Rádió",
+      "streamURL": "https://stream.lazaradio.com/live.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lazaradio.png",
+      "country": "hu"
+    },
+	{
+      "name": "Christmas FM - Karácsonyi rádió",
+      "streamURL": "https://myonlineradio.hu/ldblncr/christmas-fm/live.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/christmasfm.png",
+      "country": "hu"
+    },
+    {
+      "name": "MegaDance Rádió",
+      "streamURL": "https://gamershouse.hu/livemega.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/megadance.png",
+      "country": "hu"
+    },
+	{
+      "name": "BEST FM Debrecen",
+      "streamURL": "https://stream2.rdstrm.com/prx-http/stream1.webthings.hu:8000/fm95-x-128.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/bestfm.png",
+      "country": "hu"
+    }
+  ]
+}
