@@ -1,1 +1,95 @@
+{
+  "station": [
+    {
+      "name": "Alfa 91.3 FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac?time=1769466832322",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/alfa.png",
+      "country": "mx"
+    },
+    {
+      "name": "La Z 107.3 FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FM_SC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/laz.png",
+      "country": "mx"
+    },
+    {
+      "name": "Los 40 México",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40mexico.png",
+      "country": "mx"
+    },
+    {
+      "name": "Radio Felicidad",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAM_ADP.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofelicidad.png",
+      "country": "mx"
+    },
+    {
+      "name": "MIX FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFM_ADP.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/mixfm.png",
+      "country": "mx"
+    },
+    {
+      "name": "Joya 93.7 FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FM_SC",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/joya.png",
+      "country": "mx"
+    },
+    {
+      "name": "Radio Fórmula",
+      "streamURL": "https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioformula.png",
+      "country": "mx"
+    },
+    {
+      "name": "88.9 Noticias",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/889noticias.png",
+      "country": "mx"
+    },
+    {
+      "name": "El Fonógrafo",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AM_SC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/elfonografo.png",
+      "country": "mx"
+    },
+    {
+      "name": "Exa FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/exafm.png",
+      "country": "mx"
+    },
+    {
+      "name": "Universal 88.1 FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/universalfm.png",
+      "country": "mx"
+    },
+    {
+      "name": "Amor FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFM_ADP.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/amorfm.png",
+      "country": "mx"
+    },
+    {
+      "name": "Aristegui Noticias",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC.aac?time=1769466683408",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/aristeguinoticias.png",
+      "country": "mx"
+    },
+    {
+      "name": "W Radio",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/wradiomx.png",
+      "country": "mx"
+    },
+    {
+      "name": "La Ke Buena",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lakebuena.png",
+      "country": "mx"
+    }
+  ]
+}
 
