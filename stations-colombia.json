@@ -1,1 +1,94 @@
-
+{
+  "station": [
+    {
+      "name": "Caracol Radio",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/caracolradio.png",
+      "country": "co"
+    },
+	{
+      "name": "W Radio",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac?time=1769463552746",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/wradio.png",
+      "country": "co"
+    },
+	{
+      "name": "La FM",
+      "streamURL": "https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lafm.png",
+      "country": "co"
+    },
+    {
+      "name": "Olimpica Stereo",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/olimpicastereo.png",
+      "country": "co"
+    },
+	{
+      "name": "Olimpica Stereo Medellin",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?time=1769463885850",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/olimpicastereomedellin.png",
+      "country": "co"
+    },
+    {
+      "name": "La Mega",
+      "streamURL": "https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lamega.png",
+      "country": "co"
+    },
+	{
+      "name": "RCN Radio",
+      "streamURL": "https://mdstrm.com/audio/627c1c39637d89088290f64d/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rcnradio.png",
+      "country": "co"
+    },
+    {
+      "name": "Tropicana",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANAAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tropicana.png",
+      "country": "co"
+    },
+	{
+      "name": "Tropicana Cali",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALIAAC.aac?time=1769464238777",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tropicanacali.png",
+      "country": "co"
+    },
+	{
+      "name": "La Kalle",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE_ADP.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lakalle.png",
+      "country": "co"
+    },
+    {
+      "name": "Radio Tiempo",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_HITAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotiempo.png",
+      "country": "co"
+    },
+    {
+      "name": "Radio Santa Fe",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/QHUBO_BOGOTA.mp3?time=1769464307163",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosantafe.png",
+      "country": "co"
+    },
+	{
+      "name": "Radio Reloj",
+      "streamURL": "https://cdn4.onstream.audio/proxy/radioreloj/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioreloj.png",
+      "country": "co"
+    },
+    {
+      "name": "Radio Uno",
+      "streamURL": "https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiouno.png",
+      "country": "co"
+    },
+	{
+      "name": "",
+      "streamURL": "https://adhandler.ko.cires21.com/bbhitfm.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/hitfmes.png",
+      "country": "co"
+    }
+  ]
+}
