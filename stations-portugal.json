@@ -1,1 +1,95 @@
+{
+  "station": [
+    {
+      "name": "RFM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rfm.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Observador",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?time=1769467728566",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioobservador.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Comercial",
+      "streamURL": "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocomercial.png",
+      "country": "pt"
+    },
+    {
+      "name": "Cidade FM",
+      "streamURL": "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/cidadefm.png",
+      "country": "pt"
+    },
+    {
+      "name": "TSF Rádio Noticias",
+      "streamURL": "https://directo.tsf.pt/tsfdirecto.mp3?time=1769467998063",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tsfradionoticias.png",
+      "country": "pt"
+    },
+    {
+      "name": "Antena 1",
+      "streamURL": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/antena1.png",
+      "country": "pt"
+    },
+	{
+      "name": "Antena 3",
+      "streamURL": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/antena3.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Renascença",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorenascenca.png",
+      "country": "pt"
+    },
+    {
+      "name": "M80 Rádio",
+      "streamURL": "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/m80radio.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Sines",
+      "streamURL": "https://sp0.redeaudio.com/9580/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosines.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Vizela",
+      "streamURL": "https://proxy-audio.ptisp.com:8100/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiovizela.png",
+      "country": "pt"
+    },
+    {
+      "name": "Radio Orbital FM",
+      "streamURL": "https://ec2.yesstreaming.net:3025/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioorbital.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Hertz",
+      "streamURL": "https://radios2.justweb.pt/8042/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiohertz.png",
+      "country": "pt"
+    },
+    {
+      "name": "Rádio Smooth FM",
+      "streamURL": "https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/smoothfmpt.png",
+      "country": "pt"
+    },
+    {
+      "name": "Mega Hits FM",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/megahits.png",
+      "country": "pt"
+    }
+  ]
+}
 
