@@ -54,6 +54,18 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/los40.png",
       "country": "es"
     },
+	{
+      "name": "Los40 Dance",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40dance.png",
+      "country": "es"
+    },
+	{
+      "name": "Los40 Urban",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40urban.png",
+      "country": "es"
+    },
     {
       "name": "LOS40 Classic",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac",
@@ -94,12 +106,6 @@
       "name": "Radiole",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiole.png",
-      "country": "es"
-    },
-    {
-      "name": "Los40 Urban",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40urban.png",
       "country": "es"
     },
 	{
@@ -160,6 +166,78 @@
       "name": "Gozadera FM",
       "streamURL": "https://azura.abcorp.es/radio/8030/live",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/gozaderafm.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio 3",
+      "streamURL": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio3.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio 5",
+      "streamURL": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio5.png",
+      "country": "es"
+    },
+    {
+      "name": "Fiesta Radio",
+      "streamURL": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/fiestaradio.png",
+      "country": "es"
+    },
+	{
+      "name": "Flaix FM",
+      "streamURL": "https://mdstrm.com/audio/65afe4a0357cec56667ac739/icecast.audio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/flaixfm.png",
+      "country": "es"
+    },
+    {
+      "name": "Radio Clasica",
+      "streamURL": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioclasica.png",
+      "country": "es"
+    },
+	{
+      "name": "MegaStar FM",
+      "streamURL": "https://megastar-cope.flumotion.com/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/megastarfm.png",
+      "country": "es"
+    },
+    {
+      "name": "Rac 1",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3?time=1769461960277",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rac1.png",
+      "country": "es"
+    },
+	{
+      "name": "Canal Sur Radio",
+      "streamURL": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/canalsurradio.png",
+      "country": "es"
+    },
+    {
+      "name": "Radio Intereconomia",
+      "streamURL": "https://streaming.intereconomia.com/siliconorg",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiointereconomia.png",
+      "country": "es"
+    },
+	{
+      "name": "Radio Sevilla",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosevilla.png",
+      "country": "es"
+    },
+	{
+      "name": "Kyoto FM",
+      "streamURL": "https://sonic.mediatelekom.net/8148/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kyotofm.png",
+      "country": "es"
+    },
+    {
+      "name": "Radio Teletaxi",
+      "streamURL": "https://radiott-web.streaming-pro.com:6103/radiott.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioteletaxi.png",
       "country": "es"
     },
     {
