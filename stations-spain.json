@@ -84,6 +84,84 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/esradio.png",
       "country": "es"
     },
+	{
+      "name": "Radio Nacional de Espana",
+      "streamURL": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radionacional.png",
+      "country": "es"
+    },
+	{
+      "name": "Radiole",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiole.png",
+      "country": "es"
+    },
+    {
+      "name": "Los40 Urban",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/los40urban.png",
+      "country": "es"
+    },
+	{
+      "name": "Jazz Radio",
+      "streamURL": "http://stream.tunerplay.com/listen/jazz_radio_spain/jazzradiospain.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/jazzradio.png",
+      "country": "es"
+    },
+    {
+      "name": "Tomorrowland One World Radio - Spain - Ibiza Town",
+      "streamURL": "https://likeradiostream.com/owrspain",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tomorrowland.png",
+      "country": "es"
+    },
+	{
+      "name": "Fresh Radio Spain",
+      "streamURL": "https://stream4.themediasite.co.uk/stream/freshspainbenidorm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/freshradio.png",
+      "country": "es"
+    },
+	{
+      "name": "Fresh Radio Spain - Fresh Energy - Benidorm",
+      "streamURL": "https://stream4.themediasite.co.uk:8226/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/freshenergy.png",
+      "country": "es"
+    },
+	{
+      "name": "Fresh Radio Spain - Gold",
+      "streamURL": "https://stream4.themediasite.co.uk/stream/freshgold",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/freshradiogold.png",
+      "country": "es"
+    },
+    {
+      "name": "Splash Radio",
+      "streamURL": "http://c2.auracast.net:8022/radio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/splashradio.png",
+      "country": "es"
+    },
+	{
+      "name": "Formula Disco",
+      "streamURL": "http://one.cloudstreaming.eu:6112/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/formuladisco.png",
+      "country": "es"
+    },
+    {
+      "name": "Loca FM",
+      "streamURL": "https://s3.we4stream.com:2020/stream/locafm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/locafm.png",
+      "country": "es"
+    },
+	{
+      "name": "Loca Urban",
+      "streamURL": "https://stream2.rdstrm.com/prx-http/locafm02.we4stream.com:8015/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/locaurban.png",
+      "country": "es"
+    },
+	{
+      "name": "Gozadera FM",
+      "streamURL": "https://azura.abcorp.es/radio/8030/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/gozaderafm.png",
+      "country": "es"
+    },
     {
       "name": "Hit FM",
       "streamURL": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3",
@@ -92,4 +170,3 @@
     }
   ]
 }
-
