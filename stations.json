@@ -9,14 +9,7 @@
      "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR).",
      "country": "RO"
      },
-	{
-     "name": "Radio Campus Urziceni",
-     "streamURL": "http://5.2.232.99:7000/;",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocampus.png",
-     "desc": "",
-     "longDesc": "Primul post de radio de dupa revolutie din orasul Urziceni.",
-     "country": "RO"
-     },
+	
      {
      "name": "Radio ZU",
      "streamURL": "http://zuicast.digitalag.ro:9420/zu",
@@ -35,7 +28,7 @@
      },
      {
      "name": "Play 90's Romania st.2",
-     "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
+     "streamURL": "https://live.playradio.org:8443/FMHD",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
      "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999.",
@@ -49,14 +42,7 @@
      "longDesc": "Play Urban este stația dedicată culturii urbane, aducând cele mai tari piese de hip-hop, R&B, trap și rap din România și internațional. Cu focus pe artiștii underground și mainstream, Play Urban promovează scena urbană românească și ține ascultătorii la curent cu ultimele lansări. Perfectă pentru iubitorii de cultura street.",
      "country": "RO"
      },
-	 {
-     "name": "Radio Pro Music 90s",
-     "streamURL": "https://stream.adradio.ro/8414",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
-     "desc": "",
-     "longDesc": "Radio Pro Music 90s, lansat pe 1 ianuarie 2008, se adresează ascultătorilor din România și din străinătate, oferind muzică, idei și informații transformate în conținut sonor captivant. Din 1 decembrie 2017 face parte din portofoliul Play Radio Hit '90s, si este dedicat exclusiv italo-disco și euro-disco din anii '80-'90.",
-     "country": "RO"
-     },
+	 
      {
      "name": "Radio ProB Romania",
      "streamURL": "https://live.radioprob.ro:8888/stream",
@@ -139,7 +125,7 @@
      },
      {
      "name": "Radio Xtream Romanian",
-     "streamURL": "https://radioexcentric.com/xtream.m3u",
+     "streamURL": "https://asculta.radioxtream.com/8022/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioxtream.png",
      "desc": "Xtream Sound Quality",
      "longDesc": "Radio Xtream Romania a aparut din placerea de a impartasi cu oamenii pasiunea muzicala. Proiectul a fost creat de Myky in anul 2019 si de atunci incercam sa ne facem auziti in casele dumneavoastra si sa va binedispunem.",
@@ -195,7 +181,7 @@
      },
      {
      "name": "Europa FM",
-     "streamURL": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+     "streamURL": "https://astreaming.edi.ro:8443/europafm_aacp48k",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/europafm.png",
      "desc": "Cea mai buna muzica de ieri si de azi",
      "longDesc": "Europa FM - Stația cu cea mai tânără și cea mai vibrantă audiență, cu muzică din toti anii dar si cu cunoscuta emisiune Romania In Direct - acum moderata de Catalin Striblea.",
@@ -203,7 +189,7 @@
      },
      {
      "name": "ProFM",
-     "streamURL": "https://edge76.rcs-rds.ro/profm/profm.mp3",
+     "streamURL": "https://edge126.rcs-rds.ro/profm/profm.mp3",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/pro_fm.png",
      "desc": "Open Radio",
      "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.",
@@ -211,7 +197,7 @@
      },
      {
      "name": "Virgin Radio",
-     "streamURL": "https://astreaming.edi.ro:8443/VirginRadio_aac",
+     "streamURL": "https://astreaming.edi.ro:8443/virgin_aacp_64k",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
      "desc": "Pop & Electro Hits",
      "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent.",
@@ -259,7 +245,7 @@
      },
 	 {
      "name": "Digi FM",
-     "streamURL": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+     "streamURL": "https://stream2.rdstrm.com/prx-http/edge76.rdsnet.ro:84/digifm/digifm.mp3",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
      "desc": "Ca Sa Stii",
      "longDesc": "Post de radio romanesc - parte din trustul DIGI",
@@ -745,12 +731,28 @@
      "longDesc": "",
      "country": "RO"
      },
+	{
+     "name": "Radio Pro Music 90s",
+     "streamURL": "https://stream.adradio.ro/8414",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
+     "desc": "",
+     "longDesc": "Radio Pro Music 90s, lansat pe 1 ianuarie 2008, se adresează ascultătorilor din România și din străinătate, oferind muzică, idei și informații transformate în conținut sonor captivant. Din 1 decembrie 2017 face parte din portofoliul Play Radio Hit '90s, si este dedicat exclusiv italo-disco și euro-disco din anii '80-'90.",
+     "country": "RO"
+     },
 	 {
      "name": "Glasul Nordului",
      "streamURL": "https://ssl.asculta.live/8096/stream",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/glasulnordului.png",
      "desc": "Din respect pentru cititorii noștri",
      "longDesc": "",
+     "country": "RO"
+     },
+	{
+     "name": "Radio Campus Urziceni",
+     "streamURL": "http://5.2.232.99:7000/;",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocampus.png",
+     "desc": "",
+     "longDesc": "Primul post de radio de dupa revolutie din orasul Urziceni.",
      "country": "RO"
      },
 	 {
