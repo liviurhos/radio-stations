@@ -179,6 +179,14 @@
      "longDesc": "Lansat la 1 octombrie 2021, Digi 24 FM a înlocuit Chill FM și emite pe 103,8 FM în București și împrejurimi, fiind disponibil și online. Postul are un profil axat pe știri, ca extensie radio a canalului Digi24: aproximativ 80% din conținut este redifuzat din TV, iar restul de 20% reprezintă spațiu publicitar. Digi 24 FM oferă informații clare și precise din actualitatea națională și internațională.",
      "country": "RO"
      },
+	{
+     "name": "Digi FM",
+     "streamURL": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
+     "desc": "Ca Sa Stii",
+     "longDesc": "Post de radio romanesc - parte din trustul DIGI",
+     "country": "RO"
+     },
      {
      "name": "Europa FM",
      "streamURL": "https://astreaming.edi.ro:8443/europafm_aacp48k",
@@ -241,14 +249,6 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioimpuls.png",
      "desc": "Nu te poți abține!",
      "longDesc": "Radio Impuls live, înființat în anul 2001, este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii '90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile.",
-     "country": "RO"
-     },
-	 {
-     "name": "Digi FM",
-     "streamURL": "https://stream2.rdstrm.com/prx-http/edge76.rdsnet.ro:84/digifm/digifm.mp3",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
-     "desc": "Ca Sa Stii",
-     "longDesc": "Post de radio romanesc - parte din trustul DIGI",
      "country": "RO"
      },
 	 {
