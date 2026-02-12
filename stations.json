@@ -7,7 +7,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
      "desc": "No 1 Radio Station",
      "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR).",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.213.188.000"
      },
 	
      {
@@ -16,7 +17,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio_zu.png",
      "desc": "Hiturile se ascultă la ZU",
      "longDesc": "Radio ZU este un post de radio din România, lansat la data de 29 septembrie 2008 de trustul media Intact. Radio ZU se axează pe formatul de Contemporary Hit Radio și are un program generalist, cu 60% producție proprie.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.214.091.900"
      },
      {
      "name": "Play 90's Romania st.1",
@@ -50,7 +52,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprob.png",
      "desc": "HIT Clubbing Station",
      "longDesc": "Fondat în 1997, Radio Pro-B a început să emită pe 103,5 FM în București, trecând ulterior la difuzarea online. A devenit o comunitate muzicală activă, apreciată pentru interactivitatea cu ascultătorii, promovarea muzicii românești autentice și diversitatea programelor, fiind astăzi un pilon al radioului din România.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.744.301.501"
      },
      {
      "name": "Radio Folk BG",
@@ -186,7 +189,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
      "desc": "Ca Sa Stii",
      "longDesc": "Post de radio romanesc - parte din trustul DIGI",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.314.002.929"
      },
      {
      "name": "Europa FM",
@@ -194,7 +198,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/europafm.png",
      "desc": "Cea mai buna muzica de ieri si de azi",
      "longDesc": "Europa FM - Stația cu cea mai tânără și cea mai vibrantă audiență, cu muzică din toti anii dar si cu cunoscuta emisiune Romania In Direct - acum moderata de Catalin Striblea.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.372.069.500"
      },
      {
      "name": "ProFM",
@@ -202,7 +207,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/pro_fm.png",
      "desc": "Open Radio",
      "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.212.522.642"
      },
      {
      "name": "Virgin Radio",
@@ -210,7 +216,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/virginradio.png",
      "desc": "Pop & Electro Hits",
      "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40.372.069.501"
      },
      {
      "name": "Radio MagicFM",
