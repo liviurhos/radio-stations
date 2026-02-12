@@ -28,11 +28,12 @@
      },
      {
      "name": "Play 90's Romania st.2",
-     "streamURL": "https://live.playradio.org:8443/FMHD",
+     "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
      "longDesc": "Canalul Play 90's este primul radio din România dedicat exclusiv muzicii dance, techno, house, electronic, rave și eurodance din anii '90. 24 de ore din 24, 7 zile pe săptămână, 365 de zile pe an, Play Radio transmite cele mai bune piese dance lansate între ani 1990 și 1999.",
-     "country": "RO"
+     "country": "RO",
+	 "tel": "+40.722.210.202"
      },
      {
      "name": "Play Urban",
