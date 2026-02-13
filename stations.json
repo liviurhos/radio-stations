@@ -103,7 +103,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/tequila.png",
      "desc": "Muzica așa cum îți place",
      "longDesc": "Radio Tequila Romania este un post de radio online 100% fara publicitate. Difuzeaza Manele vechi, Dance, Hip-Hop si muzica de Petrecere.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40765963013",
+	 "whatsapp": "+40765963013"
      },
      {
      "name": "Radio Romanian Hip-Hop",
@@ -111,7 +113,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/romanianhiphop.png",
      "desc": "Muzica de cartier la tine acasa",
      "longDesc": "Radio Romanian - Hip Hop este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen rap și hip hop. Primul post de radio online unde se redă doar muzică românească.",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp": "+40732865930"
      },
      {
      "name": "Radio Romanian Manele",
@@ -119,7 +122,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniandance.png",
      "desc": "Pulsul Muzicii Românești!",
      "longDesc": "Radio Romanian - Manele este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen manele. Primul post de radio online unde se redă doar muzică românească.",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp": "+40732865930"
      },
      {
      "name": "Radio Romanian Dance",
@@ -127,7 +131,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniandance.png",
      "desc": "Muzica dance la tine acasa.",
      "longDesc": "Radio Romanian - Dance este un canal al postului de radio pe internet Radio Romanian din Găeşti, Dâmboviţa, Romania, care difuzeaza muzica de gen Dance.",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp": "+40732865930"
      },
      {
      "name": "Radio Xtream Romanian",
@@ -171,7 +176,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/atentat.png",
      "desc": "Un radio din suflet pentru voi",
      "longDesc": "Radio Atentat Bucuresti is an internet radio station from Bucharest, Romania, providing Romanian Adult Contemporary Pop Hits music with Manele Dance and Petrecere selections.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40787671408"
      },
      {
      "name": "Radio Hot Style",
@@ -233,7 +239,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/magic_fm.png",
      "desc": "Always Great Music",
      "longDesc": "Magic FM este un post de radio apreciat în România pentru selecția sa muzicală relaxantă și diversă. Cu accent pe muzică ușoară și melodii clasice, creează o atmosferă plăcută pentru ascultători de toate vârstele. Pe lângă muzică, oferă emisiuni despre viața cotidiană, știri și informații utile. Cu un ton cald și profesional, Magic FM rămâne alegerea ideală pentru cei care caută relaxare și stare de bine prin muzică.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213163636"
      },
      {
      "name": "Rock FM",
@@ -241,7 +248,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/rock_fm.png",
      "desc": "Classic Rock Hits",
      "longDesc": "Rock FM este postul de radio rock din România, dedicat iubitorilor de muzică rock autentică. Cu o selecție variată ce include rock clasic, rock alternativ și cele mai noi lansări rock, Rock FM aduce energia și pasiunea rock-ului românesc și internațional.",
-     "country": "RO"
+     "country": "RO",
+	 "tel": "+40729001122"
      },
      {
      "name": "FM Radio Manele",
@@ -257,7 +265,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioas.png",
      "desc": "Manele & Petrecere",
      "longDesc": "Radio AS Petrecere funcționează din anul 2005 prin Fm. Muzică dance, manele, muzică populară dar și înregistrări de la petreceri și concerte aduc întotdeauna buna-dispoziție. Astfel, putem lua parte mereu la petrecere, chiar și atunci când ne simțim singuri. Acest radio emite muzică de petrecere (manele și muzică populară de joc mixate, live-uri de la evenimente cu muzică cântată live).",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp": "+40764425603" 
      },
      {
      "name": "Radio Impuls",
@@ -265,7 +274,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioimpuls.png",
      "desc": "Nu te poți abține!",
      "longDesc": "Radio Impuls live, înființat în anul 2001, este un post care difuzează în special hituri ale artiștilor români și internaționali contemporani, dar și melodii din anii '90. Radio Impuls invită pe toată lumea în casa de divertisment, oferind o experiență radio de neuitat, indiferent dacă te afli în Cluj sau în afara României. Postul este pregătit să aducă în viața ascultătorilor un vibe energic, plin de muzică românească, internațională și atmosferă pozitivă. Radio Impuls este un post care îmbină armonios hituri vechi și noi, oferind divertisment pentru toate gusturile.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40799111005",
+	 "whatsapp": "+40754222999" 
      },
 	 {
      "name": "Radio Popular",
