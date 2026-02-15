@@ -284,7 +284,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopopular.png",
      "desc": "Orice zi e sărbătoare",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40773780522"
      },
 	 {
      "name": "Radio Cafe",
@@ -292,7 +293,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocafe.png",
      "desc": "Muzică de poveste",
      "longDesc": "Post de radio romanesc - parte din trustul DIGI",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40770922716",
+	 "whatsapp": "+40770922716" 
      },
 	 {
      "name": "National FM",
@@ -300,7 +303,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/nationalfm.png",
      "desc": "Muzică românească",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40740503060",
+	 "whatsapp": "+40725333033" 
      },
 	 {
      "name": "Radio Manele Vechi",
@@ -316,7 +321,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodiscomix.png",
      "desc": "Hiturile anilor 70, 80, 90",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40729935536"
      },
 	 {
      "name": "Urban FM",
@@ -324,7 +330,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/urbanfm.png",
      "desc": "The Sound of the City",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40745927927"
      },
 	 {
      "name": "Chill FM",
@@ -332,7 +339,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/chillfm.png",
      "desc": "Muzică de la A la Zen",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40212501730"
      },
 	 {
      "name": "Radio Hit FM",
@@ -348,7 +356,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/sporttotalfm.png",
      "desc": "Mai mult decât fotbal!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40773301058"
      },
 	 {
      "name": "Super FM",
@@ -356,7 +365,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/superfm.png",
      "desc": "Recunoaște, îți place!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40268423292"
      },
 	 {
      "name": "Vibe FM",
@@ -372,7 +382,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomynele.png",
      "desc": "Ritmul care te ține conectat!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp":"+40728633664"
      },
 	 {
      "name": "Radio Guerilla",
@@ -380,7 +391,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioguerilla.png",
      "desc": "Binili învinge",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40758948948",
+	 "whatsapp": "+40758948948" 
      },
 	 {
      "name": "Radio Manele",
@@ -396,7 +409,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/smartradio.png",
      "desc": "Ascultă ce gândești",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40747332200",
+	 "whatsapp": "+40747332200" 
      },
 	 {
      "name": "Pro Manele",
@@ -404,7 +419,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/promanele.png",
      "desc": "Manele",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40763431515"
      },
 	 {
      "name": "Radio Taraf",
@@ -412,7 +428,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotaraf.png",
      "desc": "Numărul 1 în MANELE!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+		 "tel":"+40727617773"
      },
 	 {
      "name": "Capital FM Romania",
@@ -420,7 +437,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalfmromania.png",
      "desc": "Muzică fără reclame",
      "longDesc": "Capital FM România, lansat în București în 2009, oferă muzică non-stop fără reclame sau publicitate, cu hituri vechi și noi din toate genurile – manele, etno, hip-hop. Ascultă 24/7 cu cei mai tineri DJ-i, exclusiv online.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40758425152"
      },
 	 {
      "name": "DJ Radio Romania",
@@ -444,7 +462,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/electromanele.png",
      "desc": "",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40730906935"
      },
 	 {
      "name": "Radio Infinit",
@@ -452,7 +471,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioinfinit.png",
      "desc": "Ascultă la infinit",
      "longDesc": "Radio Infinit, lansat în 2007, a devenit rapid cel mai ascultat post din Gorj, fapt reflectat de numărul mare de accesări și apeluri ale ascultătorilor. Emite pe 87,8 FM, este dedicat în totalitate județului Gorj și se adresează în principal publicului de până la 40 de ani.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40253222004"
      },
 	 {
      "name": "Extravaganta Radio",
@@ -460,7 +480,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/extravagantaradio.png",
      "desc": "The finest music selection",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40725544447",
+	 "whatsapp": "+40725544447" 
      },
 	 {
      "name": "Radio Trapanele",
@@ -476,7 +498,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodeep.png",
      "desc": "Non-Stop Dancing!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40767520655"
      },
 	 {
      "name": "Metronom FM",
@@ -484,31 +507,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/metronomfm.png",
      "desc": "Radioul Care Face Diferenta!",
      "longDesc": "",
-     "country": "RO"
-     },
-	 {
-     "name": "Radio Romanian - Dance",
-     "streamURL": "https://asculta.radioromanian.net/dance",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
-     "desc": "Pulsul Muzicii Românești!",
-     "longDesc": "",
-     "country": "RO"
-     },
-	 {
-     "name": "Radio Romanian - Hip-Hop",
-     "streamURL": "https://asculta.radioromanian.net/hiphop",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
-     "desc": "Pulsul Muzicii Românești!",
-     "longDesc": "",
-     "country": "RO"
-     },
-	 {
-     "name": "Radio Romanian - Manele",
-     "streamURL": "https://asculta.radioromanian.net/manele",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromanian.png",
-     "desc": "Pulsul Muzicii Românești!",
-     "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40250736788"
      },
 	 {
      "name": "Romantic FM",
@@ -516,7 +516,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/romanticfm.png",
      "desc": "Muzică, nu zgomot",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40214091901"
      },
 	 {
      "name": "Radio Expert FM",
@@ -524,7 +525,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/expertfm.png",
      "desc": "Expertul Tau in Muzica",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40764501920",
+	 "whatsapp": "+40764501920" 
      },
 	 {
      "name": "Radio Mega Hit - Dance",
@@ -532,7 +535,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
      "desc": "Aici Muzica Face Diferenta!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40732765141"
      },
 	 {
      "name": "Radio Mega Hit - Popular",
@@ -540,7 +544,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/megahit.png",
      "desc": "Aici Muzica Face Diferenta!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40732765141"
      },
 	 {
      "name": "Radio 90 Hit",
@@ -548,7 +553,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio90hit.png",
      "desc": "Se aude bine!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "whatsapp": "+40727899700" 
      },
 	 {
      "name": "PRO Dj Radio",
@@ -556,7 +562,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/prodj.png",
      "desc": "Simte Ritmul, Simte Hitul!",
      "longDesc": "PRO Dj Radio, lansat în vara lui 2012 de producătorul Flavi Lester, este un radio online axat pe muzică Top 40, dance și house. Emite preponderent muzică europeană (inclusiv producții românești și din Republica Moldova), aducând bună dispoziție prin cele mai noi hituri pentru un public cât mai larg.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+37369210425"
      },
 	 {
      "name": "Radio Relax",
@@ -564,7 +571,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
      "desc": "Un radio plăcut și liniștit",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+37322811200"
      },
 	 {
      "name": "Radio Relax - Instrumental",
@@ -580,7 +588,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/rfiromania.png",
      "desc": "Vocile Lumii",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213184044"
      },
 	 {
      "name": "Radio Ciresarii",
@@ -588,7 +597,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiociresarii.png",
      "desc": "Click pe frecvențe înalte",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40259321693"
      },
 	 {
      "name": "Supra Vibe Radio",
@@ -604,7 +614,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/jazzfm.png",
      "desc": "",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40314334711"
      },
 	 {
      "name": "Radio Romance 21 - Eurodance",
@@ -612,7 +623,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
      "desc": "Suntem Preferații Voștri!",
      "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40760462103"
      },
 	 {
      "name": "Radio Romance 21 - Manele",
@@ -620,7 +632,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
      "desc": "Suntem Preferații Voștri!",
      "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40760462103"
      },
 	 {
      "name": "Radio Romance 21 - Etno",
@@ -628,7 +641,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioromance21.png",
      "desc": "Suntem Preferații Voștri!",
      "longDesc": "Radio Romance 21, disponibil exclusiv online din 19 februarie 2014, oferă emisiuni cu dedicații și preferințe muzicale, mixând hituri din anii '80-'90 cu muzica actuală. Creat cu pasiune pentru sufletele ascultătorilor, urmărește trendurile și permite fiecăruia să asculte ce dorește.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40760462103"
      },
 	 {
      "name": "Focus FM",
@@ -636,7 +650,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/focusfm.png",
      "desc": "Facem atmosferă!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40338401772"
      },
 	 {
      "name": "Radio Trinitas",
@@ -644,7 +659,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotrinitas.png",
      "desc": "Un radio pentru sufletul dumneavoastră!",
      "longDesc": "Radio Trinitas este postul de radio al Patriarhiei Române, fondat în 1996 la Iași ca primul radio ortodox din țară, cu acoperire națională pe zeci de frecvențe și online. Difuzează zilnic slujbe, rugăciuni, muzică (folclor, clasică, religioasă) și emisiuni de educație religioasă, cultură, știri și dezbateri pentru publicul de toate vârstele.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40314251121"
      },
 	 {
      "name": "Antena Satelor",
@@ -652,7 +668,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/antenasatelor.png",
      "desc": "Un radio despre viața la țară",
      "longDesc": "Radio România Antena Satelor este un post al Societății Române de Radiodifuziune, lansat în 1991 și devenit post național în 2006, dedicat în totalitate mediului rural și satului românesc. Oferă în principal muzică populară românească și emisiuni care promovează tradițiile, obiceiurile, viața la sat și problemele comunităților rurale, prin știri, reportaje și transmisiuni în direct.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213111241"
      },
 	 {
      "name": "Radio Somes",
@@ -660,7 +677,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosomes.png",
      "desc": "Tradiții și Folclor",
      "longDesc": "Radio SOMEȘ este un post de radio axat pe folclor ardelenesc și cultura tradițională din zona Transilvaniei, cu programe orientate spre ascultători din mediul rural și iubitorii de muzică populară. Difuzează muzică populară autentică, obiceiuri, tradiții, informații utile pentru sat și emite atât pe mai multe frecvențe FM, cât și online, aducând folclorul transilvănean în prezent prin emisiuni tematice și programe dedicate comunităților locale.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40263212500",
+	 "whatsapp": "+40724212500" 
      },
 	 {
      "name": "Radio PRO Popular",
@@ -668,7 +687,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopropopular.png",
      "desc": "Se ascultă cu inima!",
      "longDesc": "Radio Pro Popular este un post de radio online lansat în 2014, dedicat exclusiv muzicii populare și de petrecere românești, cu accent pe lăutărească, sârbe, hore și cântece de voie bună din toate regiunile țării. Postul se adresează românilor din țară și din diaspora, propunându-și să creeze o atmosferă de „acasă” prin programe live, emisiuni interactive de dedicații (precum „Petrece Române”) și o selecție de melodii tradiționale și de petrecere menite să mențină legătura cu identitatea și cultura românească.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40766627622"
      },
 	 {
      "name": "Radio Dacia",
@@ -684,7 +704,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobadita.png",
      "desc": "Petrece cât trăiești",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40730889443"
      },
 	 {
      "name": "Radio Oltenia Craiova",
@@ -692,7 +713,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiooltenia.png",
      "desc": "Perfect și simplu!",
      "longDesc": "Radio România Oltenia Craiova este postul regional al Societății Române de Radiodifuziune, lansat la 6 iunie 1954, lider de audiență în Oltenia. Oferă informații utile pentru viața de zi cu zi, știri obiective, programe culturale, economice, sociale și politice, emițând în română și limbile minorităților, cu accent pe rolul educativ și informativ în regiune.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40251408612",
+	 "whatsapp": "+40748200063" 
      },
 	 {
      "name": "Radio Prahova",
@@ -700,7 +723,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprahova.png",
      "desc": "One for fun",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40244595018",
+	 "whatsapp": "+40748992992" 
      },
 	 {
      "name": "Radio Timisoara",
@@ -708,7 +733,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiotimisoara.png",
      "desc": "Pentru Vestul Ţării",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40256242414",
+	 "whatsapp": "+40725737373" 
      },
 	 {
      "name": "Radio Iasi",
@@ -716,7 +743,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioiasi.png",
      "desc": "Suntem acasă în toată Moldova!",
      "longDesc": "Radio Iași este postul regional al Societății Române de Radiodifuziune, lansat la 2 noiembrie 1941 sub numele Radio Moldova, lider în Moldova și una dintre cele mai importante voci ale radioului public românesc. Formatul clasic include informații, cultură, muzică de calitate și emisiuni în limbile minorităților (ucraineană, rromani), menținând poziția de top prin profesionalism și acoperire a evenimentelor locale/naționale.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40232255900",
+	 "whatsapp": "+40754053888" 
      },
 	 {
      "name": "Radio Noroc",
@@ -724,7 +753,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radionoroc.png",
      "desc": "...din inima Moldovei",
      "longDesc": "Radio Noroc este un post de radio popular din Republica Moldova, lansat pe 16 noiembrie 2005, care promovează muzica și valorile naționale românești, fiind ascultat pe 16 frecvențe FM și online. Formatul include hituri moldovenești autentice, melodii internaționale apreciate și emisiuni care reflectă identitatea culturală, având o acoperire largă în regiune.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+37322545333"
      },
 	{
      "name": "Radio Deea",
@@ -732,7 +762,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiodeea.png",
      "desc": "Feel good! Feel Dance!",
      "longDesc": "Radio DEEA este un post de radio online românesc lansat în 1997 la Onești, axat pe un format CHR de tip clubbing (muzică electronică de dans), considerat primul „CHR Party Radio” din România. Difuzează o combinație de muzică de club și genuri variate (pop, rap, rock, hip‑hop, trance, electro house, country, soft), având sloganul „Feel good! Feel Dance!” și poziționându-se ca un radio de stare bună pentru iubitorii de muzică de club",
-     "country": "RO"
+     "country": "RO",
+ 	 "tel":"+40765467331"
      },
 	 {
      "name": "Bucuresti FM",
@@ -740,7 +771,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/bucurestifm.png",
      "desc": "Aici e Capitala!",
      "longDesc": "București FM este postul public local dedicat exclusiv vieții din Capitală, în emisie din 1990 și orientat spre informații despre București pentru toate vârstele. Postul oferă știri orare, programe despre administrație, societate, educație, economie, cultură și sport, păstrând un rol de partener al municipalității și al societății civile și promovând consistent muzica românească de calitate și artiștii autohtoni prin lansări, seri speciale și concerte în București.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213031202"
      },
 	 {
      "name": "Radio Gasca Nebuna",
@@ -756,7 +788,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio3net.png",
      "desc": "Un Radio in Culori",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213190594",
+	 "whatsapp": "+40749669977" 
      },
 	{
      "name": "Radio Pro Music 90s",
@@ -764,7 +798,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
      "desc": "",
      "longDesc": "Radio Pro Music 90s, lansat pe 1 ianuarie 2008, se adresează ascultătorilor din România și din străinătate, oferind muzică, idei și informații transformate în conținut sonor captivant. Din 1 decembrie 2017 face parte din portofoliul Play Radio Hit '90s, si este dedicat exclusiv italo-disco și euro-disco din anii '80-'90.",
-     "country": "RO"
+     "country": "RO",
+ 	 "tel":"+40720375131"
      },
 	 {
      "name": "Glasul Nordului",
@@ -772,7 +807,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/glasulnordului.png",
      "desc": "Din respect pentru cititorii noștri",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40730854639",
+	 "whatsapp": "+40730854639" 
      },
 	{
      "name": "Radio Campus Urziceni",
@@ -780,7 +817,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocampus.png",
      "desc": "",
      "longDesc": "Primul post de radio de dupa revolutie din orasul Urziceni.",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40722 559 951"
      },
 	 {
      "name": "PlayMusic FM",
@@ -796,7 +834,9 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/supersonic.png",
      "desc": "Supermuzică, superidei!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40770777222",
+	 "whatsapp": "+40770777222" 
      },
 	 {
      "name": "Radio Doza Manele",
@@ -812,7 +852,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozum.png",
      "desc": "Play it, Feel it!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+37368993933"
      },
 	 {
      "name": "Radio Romania International",
@@ -820,7 +861,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/romaniainternational.png",
      "desc": "",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40213190516"
      },
 	 {
      "name": "Radio Nova 22",
@@ -836,7 +878,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocrazy.png",
      "desc": "",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40742481032"
      },
 	 {
      "name": "Radio Flo Manele",
@@ -844,7 +887,8 @@
      "imageURL": "https://liviurhos.github.io/radio-stations/images/flomanele.png",
      "desc": "Manele La Maxim!",
      "longDesc": "",
-     "country": "RO"
+     "country": "RO",
+	 "tel":"+40772042632"
      }
     ]
 }
