@@ -169,25 +169,31 @@
       "name": "Virgin Radio UK",
       "streamURL": "https://radio.virginradio.co.uk/stream#.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/virginuk.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443330033300",
+	  "whatsapp": "+443330033300" 
     },
     {
       "name": "The Big Buzz Radio",
       "streamURL": "https://play.radioking.io/big-buzz-radio/825323",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bigbuzzradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+35312444650"
     },
     {
       "name": "Gold Radio",
       "streamURL": "https://media-ssl.musicradio.com/Gold",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/goldradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441224460106"
     },
 	  {
       "name": "Nation Radio",
       "streamURL": "https://listen-nation.sharp-stream.com/thamesradio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/nationradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442921414100",
+	  "whatsapp": "+447740938500" 
     },
     {
       "name": "NME Radio",
@@ -211,19 +217,24 @@
       "name": "Panjab Radio",
       "streamURL": "https://lunar.citrus3.com:8016/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/panjabradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442088487979",
+      "whatsapp": "+447425898346" 
     },
     {
       "name": "Sun FM",
       "streamURL": "https://listen-nation.sharp-stream.com/sunfm.mp3?time=1768926767664",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/sunfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442921414100"
     },
-	  {
+	{
       "name": "Times Radio",
       "streamURL": "https://timesradio.wireless.radio/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/timesradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442077823000",
+      "whatsapp": "+443330032353" 
     },
     {
       "name": "Pureback Sounds",
@@ -235,7 +246,8 @@
       "name": "Original 106",
       "streamURL": "https://listen-original.sharp-stream.com/original106.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/original106.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441224460106"
     },
     {
       "name": "Cheesy FM",
@@ -247,19 +259,22 @@
       "name": "Radio Caroline",
       "streamURL": "https://stream1.rdstrm.com/prx-http/sc6.radiocaroline.net:8040/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocaroline.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442083403831"
     },
     {
       "name": "Premier Christian Radio",
       "streamURL": "https://pcr.streamguys1.com/pcrnational-hls/playlist.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/premierchristian.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442073161300"
     },
 	{
       "name": "U 105",
       "streamURL": "https://gbradio.cdn.tibus.net/U105",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/u105.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442890333105"
     },
     {
       "name": "GB News Radio",
@@ -277,25 +292,31 @@
       "name": "City Sound Radio",
       "streamURL": "https://cast5.asurahosting.com/proxy/citysoun/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/citysoundradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+447568771825",
+	  "whatsapp": "+447568771825" 
     },
 	{
       "name": "Cyndicut Radio",
       "streamURL": "https://securestreams6.autopo.st:2260/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/cyndicut.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+447909575425"
     },
     {
       "name": "KM FM",
       "streamURL": "https://listen-kmfm.sharp-stream.com/kmfmdab.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/kmfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441227786106",
+	  "whatsapp": "+441227786106" 
     },
 	{
       "name": "CRFM Radio",
       "streamURL": "https://stream.rcs.revma.com/rvhtaqdqsy3vv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/crfmradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441228586646"
     },
     {
       "name": "Dance Anthems Radio",
@@ -307,7 +328,9 @@
       "name": "Sunrise Radio",
       "streamURL": "https://direct.sharp-stream.com/sunriseradio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/sunriseradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442088138040",
+	  "whatsapp": "+447925700272" 
     },
     {
       "name": "Eirewave",
@@ -319,49 +342,59 @@
       "name": "HGV 1",
       "streamURL": "https://stream4.themediasite.co.uk:8036/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/hgv1.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+447785104224"
     },
     {
       "name": "Past Perfect Radio",
       "streamURL": "https://s2.xrad.io:9646/;stream/1",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/pastperfect.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441869325052"
     },
 	{
       "name": "House Party Radio",
       "streamURL": "https://cloud.housepartyradio.net:8000/online.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/houseparty.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+447593850639" 
     },
     {
       "name": "Laser 558",
       "streamURL": "https://s1.autopo.st/proxy/stfkrnfr_s1?mp=/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/laser558.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+447874425252"
     },
 	{
       "name": "Flex FM",
       "streamURL": "https://a2.asurahosting.com:7400/radio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/flexfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+447888941014",
+      "whatsapp": "+447888941014" 
     },
     {
       "name": "BFBS Gurkha Radio",
       "streamURL": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bfbsgurkharadio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441303246730"
     },
 	{
       "name": "Erewash Sound",
       "streamURL": "https://s5.radio.co/s03a528b94/listen",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/erewashsound.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441159303450",
+	  "whatsapp": "+441159303450" 
     },
     {
       "name": "Sheffield Live!",
       "streamURL": "https://stream3.rdstrm.com/prx-http/live.sheffieldlive.org:8000/shefflive.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/sheffieldlive.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441142814082"
     },
 	{
       "name": "Derby Sound",
@@ -373,7 +406,9 @@
       "name": "Breeze Essex",
       "streamURL": "https://chelmer.btsstream.com/stream/chelmer",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/breezeessex.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+447881678418",
+	  "whatsapp": "+447881678418" 
     },
 	{
       "name": "Soundtrack Radio",
@@ -385,49 +420,62 @@
       "name": "Johnstone Sound",
       "streamURL": "https://stream1.themediasite.co.uk:8084/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/johnstonesound.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441505367602",
+	  "whatsapp": "+447463866186" 
     },
 	{
       "name": "Tide Radio",
       "streamURL": "https://uksoutha.streaming.broadcast.radio/tide-media-group",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/tideradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+447482858592" 
     },
     {
       "name": "Redrose Radio",
       "streamURL": "https://listen.red-roseradio.co.uk:8008/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/redroseradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441772915854",
+	  "whatsapp": "+441772915854" 
     },
 	{
       "name": "Suffolk Sound",
       "streamURL": "https://stream.zeno.fm/hk5z353m11zuv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/suffolksound.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441394248123",
+      "whatsapp": "+447456470771" 
     },
     {
       "name": "Central Radio North West",
       "streamURL": "https://stream.central.radio/listen/web/high",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/centralradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441772977466",
+      "whatsapp": "+447428107107" 
     },
 	{
       "name": "Your Harrogate",
       "streamURL": "https://stream.aiir.com/gxs0oxyllbqtv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/yourharrogate.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441423740993"
     },
     {
       "name": "Bournemouth ONE",
       "streamURL": "https://stream.aiir.com/nyf6ntgpkcfuv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bournemouthone.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+441202374411",
+	  "whatsapp": "+441202374411" 
     },
 	{
       "name": "Glow Radio",
       "streamURL": "https://stream.rcs.revma.com/qqmbdzvet3bwv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/glowradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443331121065"
     },
     {
       "name": "Atlantic 252",
@@ -439,145 +487,179 @@
       "name": "Caravan Radio",
       "streamURL": "https://stream4.themediasite.co.uk:8044/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/caravanradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+4402033754227"
     },
     {
       "name": "Edge Radio",
       "streamURL": "https://stream.aiir.com/8dhvgxm1kbvuv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/edgeradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 131 606 2101",
+	  "whatsapp": "+44 131 606 2101" 
     },
 	{
       "name": "Mighty Radio",
       "streamURL": "https://mightyradio.radioca.st/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/mightyradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 170 432 1079",
+	  "whatsapp": "+44 170 432 1079" 
     },
     {
       "name": "Radio Essex",
       "streamURL": "https://stream.aiir.com/ujzy590c3stvv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radioessex.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 170 245 5060"
     },
 	{
       "name": "3 FM Isle Of Man",
       "streamURL": "https://stream.rcs.revma.com/0kv9v43t87zuv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/3fmisleofman.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 162 461 5333",
+	  "whatsapp": "+44 762 416 6333" 
     },
     {
       "name": "Welsh Coast Radio",
       "streamURL": "https://saradiolive.radioca.st/%3B",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/welshcoastradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 179 222 9050"
     },
 	{
       "name": "Isle Of Wight",
       "streamURL": "https://s2.xrad.io:9598/listen.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/isleofwight.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 198 382 2002",
+	  "whatsapp": "+44 198 382 2002" 
     },
     {
       "name": "Vanilla Radio",
       "streamURL": "https://stream.vanillaradio.com:8016/stream/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/vanillaradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+30 697 284 3669"
     },
 	{
       "name": "Durham On Air",
       "streamURL": "https://stream3.themediasite.co.uk:8016/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/durhamonair.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 191 308 2602",
+	  "whatsapp": "+44 191 308 2602" 
     },
     {
       "name": "Pride FM",
       "streamURL": "https://stream.rcs.revma.com/vn72q8cvkg3vv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/pridefm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 787 443 9085",
+	  "whatsapp": "+44 787 443 9085" 
     },
 	{
       "name": "SunKiss",
       "streamURL": "https://uksoutha.streaming.broadcast.radio/sunkiss",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/sunkiss.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+33 786 838 590"
     },
     {
       "name": "Gaydio Radio",
       "streamURL": "https://listen-gaydio.sharp-stream.com/gaydiouk.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/gaydioradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 333 004 8400"
     },
 	{
       "name": "Mi-Soul Radio",
       "streamURL": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/misoulradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 208 694 0551"
     },
     {
       "name": "Manx Radio",
       "streamURL": "https://listen-manxradio.sharp-stream.com/manxradiofm.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/manxradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 162 466 1368",
+	  "whatsapp": "+44 762 416 6177" 
     },
     {
       "name": "talkSPORT",
       "streamURL": "https://radio.talksport.com/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/talksport.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 371 722 3344"
     },
     {
       "name": "talkSPORT 2",
       "streamURL": "https://radio.talksport.com/stream2",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/talksport2.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 371 722 3344"
     },
 	{
       "name": "45 Radio",
       "streamURL": "https://stream1.themediasite.co.uk:7009/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/45radio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 784 119 7874"
     },
     {
       "name": "IBC Tamil Radio",
       "streamURL": "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3?time=1769100344849",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/ibctamilradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 203 794 3999",
+	  "whatsapp": "+94 773 022 000" 
     },
 	{
       "name": "Lincs Sound",
       "streamURL": "https://stream.aiir.com/8dprqqdsdskuv",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lincssound.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+44 744 144 8899" 
     },
     {
       "name": "LCR FM Lincoln",
       "streamURL": "https://ukwesta.streaming.broadcast.radio/lincoln",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lcrfmlincoln.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 152 226 2680",
+	  "whatsapp": "+44 152 226 2680" 
     },
 	{
       "name": "Coast And Country Radio",
       "streamURL": "https://stream1.superstreaming.co.uk/proxy/coastcounty/streamscar",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/coastandcountry.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 172 366 7974"
     },
     {
       "name": "PulseMix Radio",
       "streamURL": "https://streaming.live365.com/a17755",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/pulsemix.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+44 748 191 6136" 
     },
 	{
       "name": "Jorvik Radio",
       "streamURL": "https://uksoutha.streaming.broadcast.radio:24780/jorvikradio",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/jorvikradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+44 190 489 0141",
+	  "whatsapp": "+44 190 489 0141" 
     },
     {
       "name": "Lyca Radio",
       "streamURL": "https://listen-lycaradio.sharp-stream.com/802_asian_sound_radio_192_mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lycaradio.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+44 742 422 2222" 
     }
   ]
 }
