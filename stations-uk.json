@@ -4,19 +4,23 @@
       "name": "BBC Radio 1",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_one.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio1.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443700100100",
+	  "whatsapp": "+443700100100" 
     },
     {
       "name": "BBC Radio 2",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_two.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio2.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+448000288291" 
     },
     {
       "name": "BBC Radio 3",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_three.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio3.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443700100300"
     },
     {
       "name": "BBC Radio 4",
@@ -28,32 +32,40 @@
       "name": "BBC Radio 5 Live",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_radio_five_live.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcradio5live.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+448085909693",
+      "whatsapp": "+448085909693" 
     },
     {
       "name": "BBC Radio 6 Music",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_sd_abr_v2/cf/bbc_6music.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbc6music.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443700100400",
+	  "whatsapp": "+443700100600" 
     },
     {
       "name": "BBC Radio 1Xtra",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_low_sbr_v1/cfs/bbc_1xtra.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbc1xtra.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443700100100",
+	  "whatsapp": "+443704121111" 
     },
     {
       "name": "BBC Asian Network",
       "streamURL": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/mobile_wifi_main_sd_abr_v2/cfs/bbc_asian_network.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/bbcasian.png",
-      "country": "uk"
+      "country": "uk",
+	  "whatsapp": "+443459440445" 
     },
 
     {
       "name": "Heart FM",
       "streamURL": "https://media-ssl.musicradio.com/HeartLondon",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/heartfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443456051062"
     },
     {
       "name": "Heart Dance",
@@ -65,7 +77,8 @@
       "name": "Heart 80s",
       "streamURL": "https://media-ssl.musicradio.com/Heart80s",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/heart80s.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443330037880"
     },
     {
       "name": "Heart 90s",
@@ -77,7 +90,9 @@
       "name": "Capital FM",
       "streamURL": "https://media-ssl.musicradio.com/CapitalMP3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/capitalfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443456000958",
+	  "whatsapp": "+443456000958" 
     },
     {
       "name": "Capital XTRA",
@@ -89,7 +104,9 @@
       "name": "Capital Dance",
       "streamURL": "https://media-ssl.musicradio.com/CapitalDance",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/capitaldance.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442077666000",
+	  "whatsapp": "+443458150815" 
     },
     {
       "name": "Capital Chill",
@@ -101,7 +118,8 @@
       "name": "Classic FM",
       "streamURL": "https://media-ssl.musicradio.com/ClassicFM",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/classicfm.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+442077666000"
     },
     {
       "name": "Smooth Radio UK",
@@ -119,7 +137,9 @@
       "name": "LBC",
       "streamURL": "https://media-ssl.musicradio.com/LBCUK",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lbc.png",
-      "country": "uk"
+      "country": "uk",
+	  "tel":"+443456060973",
+      "whatsapp": "+443456060973" 
     },
     {
       "name": "LBC News",
