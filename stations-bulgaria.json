@@ -236,15 +236,6 @@
 	  "genre":"Greek Music, Hits"
     },
 	{
-      "name": "Radio Maya",
-      "streamURL": "http://mail.rntel.com:9000/;",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomaya.png",
-      "country": "bg",
-	  "tel":"",
-	  "whatsapp": "",
-	  "genre":"Pop"
-    },
-	{
       "name": "Radio Party Mix BG",
       "streamURL": "http://65.108.198.245:9101/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopartymix.png",
@@ -301,7 +292,7 @@
 	{
       "name": "Radio Plovdiv",
       "streamURL": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioplovdiv.png",
       "country": "bg",
 	  "tel":"",
 	  "whatsapp": "",
