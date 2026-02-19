@@ -150,117 +150,207 @@
       "streamURL": "http://88.80.96.25:8020/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/ultrapernik.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk, Pop"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk, Pop"
     },
 	{
       "name": "Horizont Bnr",
       "streamURL": "https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/chunklist.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/horizontbnr.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk, News, Pop"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk, News, Pop"
     },
 	{
       "name": "Darik Radio",
       "streamURL": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/darikradio.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Culture, News, Talk"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Culture, News, Talk"
     },
 	{
       "name": "Alpha Radio",
       "streamURL": "https://n11.radiojar.com/91zzzhrsf72vv?rj-ttl=5&rj-tok=AAABlfsDMOQA-zdZpDiPFVcBdQ",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/alpharadio.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Dance, Electronic"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Dance, Electronic"
     },
 	{
       "name": "Lele Male",
       "streamURL": "https://play-radio0.jump.bg:7332/stream;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lelemale.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk"
     },
 	{
       "name": "Retro Folk Radio",
       "streamURL": "https://play.global.audio/bgradio128",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/retrofolkbg.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk"
     },
 	{
       "name": "Radio Varna",
       "streamURL": "https://lb-hls.cdn.bg/2032/fls/Varna.stream/playlist.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiovarna.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk, News, Talk"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk, News, Talk"
     },
 	{
       "name": "Radio Hristo Botev",
       "streamURL": "https://bnr.bg/files/uploads/30/251126_News_HrBotev_17.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/hristobotev.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Classical, Jazz, Spoken"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Classical, Jazz, Spoken"
     },
 	{
       "name": "Radio Sofia",
       "streamURL": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosofia.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Culture, News, Talk"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Culture, News, Talk"
     },
 	{
       "name": "Radio Pianica",
       "streamURL": "http://mpc1.mediacp.eu:8024/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopianica.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Greek Music, Hits"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Greek Music, Hits"
     },
 	{
       "name": "Radio Maya",
       "streamURL": "http://mail.rntel.com:9000/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomaya.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Pop"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Pop"
     },
 	{
       "name": "Radio Party Mix BG",
       "streamURL": "http://65.108.198.245:9101/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopartymix.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Mix Genres"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Mix Genres"
     },
 	{
       "name": "Radio Folk",
       "streamURL": "http://83.97.65.98:8000/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofolk.png",
       "country": "bg",
-	    "tel":"",
-	    "whatsapp": "",
-	    "genre":"Folk, Pop, Top 40"
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Folk, Pop, Top 40"
+    },
+	{
+      "name": "Radio Vidin",
+      "streamURL": "http://89.106.110.85:8000/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiovidin.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"News, Spoken"
+    },
+	{
+      "name": "Radio ORV",
+      "streamURL": "https://stream.zeno.fm/8a24ucrtnwzuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioorv.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Pop, Urban"
+    },
+	{
+      "name": "Radio Zorana",
+      "streamURL": "https://radio.jump.bg/proxy/radio12/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozorana.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Adult Contemporary, Love Song, Pop, Top 40"
+    },
+	{
+      "name": "Radio Tangra Mega Rock",
+      "streamURL": "http://stream-03.radiotangra.com/Tangra-middle",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tangramegarock.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Rock, Metal"
+    },
+	{
+      "name": "Radio Plovdiv",
+      "streamURL": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"News, World Talk"
+    },
+	{
+      "name": "Radio FM Plus",
+      "streamURL": "http://193.108.24.21:8000/fmplus",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofmplus.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Adult Contemporary"
+    },
+	{
+      "name": "BG Hip Hop Radio",
+      "streamURL": "http://play.global.audio/bgradio.opus",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/bghiphopradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Hip Hop"
+    },
+	{
+      "name": "Общинско радио Чепеларе",
+      "streamURL": "http://94.26.108.242:9000/;stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomunicipal.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Various"
+    },
+	{
+      "name": "Sweet Radio Bulgaria",
+      "streamURL": "https://stream.sweetradio.online:8001/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/sweetradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Dance, Deep"
+    },
+	{
+      "name": "Tvoeto Radio",
+      "streamURL": "http://79.98.108.173:8010/radio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/tvoetoradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Russian Music"
     },
     {
       "name": "Metro Hits Radio",
