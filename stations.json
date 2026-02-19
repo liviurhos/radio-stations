@@ -8,7 +8,8 @@
      "desc": "No 1 Radio Station",
      "longDesc": "Kiss FM este un post de radio românesc cu acoperire națională, care emite din București în peste 57 de stații locale. Radioul a început să emită pe 5 noiembrie 2003 după ce rețeaua Radio Contact Belgia a renunțat la stațiile locale din România. Formatul muzical este Contemporary Hit Radio (CHR).",
      "country": "RO",
-	 "tel":"+40213188000"
+	 "tel":"+40213188000",
+	 "whatsapp": "0722 20 60 20"
      },
      {
      "name": "Radio ZU",
@@ -21,7 +22,7 @@
 	 "whatsapp": "+40747221815" 
      },
      {
-     "name": "Play 90's Romania st.1",
+     "name": "Play 90's Romania",
      "streamURL": "https://live.playradio.org:8443/90HD",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
@@ -29,7 +30,7 @@
      "country": "RO"
      },
      {
-     "name": "Play 90's Romania st.2",
+     "name": "Play 90's",
      "streamURL": "https://live.playradio.org:8443/FMHD",
      "imageURL": "https://liviurhos.github.io/radio-stations/images/play_radio.png",
      "desc": "Muzica Anilor 90",
@@ -231,7 +232,8 @@
      "desc": "Pop & Electro Hits",
      "longDesc": "Virgin Radio România este postul de radio rock dedicat iubitorilor de muzică alternativă și rock. Cu o selecție diversificată ce include rock clasic, indie, alternative și cele mai noi lansări rock internaționale, Virgin Radio aduce energie și atitudine. Emisiunile prezentate de personalități carismatice fac din Virgin Radio destinația perfectă pentru pasionații de rock autent.",
      "country": "RO",
-	 "tel":"+40372069501"
+	 "tel":"+40372069501",
+	 "whatsapp": "+40734666000"
      },
      {
      "name": "Radio MagicFM",
@@ -240,7 +242,8 @@
      "desc": "Always Great Music",
      "longDesc": "Magic FM este un post de radio apreciat în România pentru selecția sa muzicală relaxantă și diversă. Cu accent pe muzică ușoară și melodii clasice, creează o atmosferă plăcută pentru ascultători de toate vârstele. Pe lângă muzică, oferă emisiuni despre viața cotidiană, știri și informații utile. Cu un ton cald și profesional, Magic FM rămâne alegerea ideală pentru cei care caută relaxare și stare de bine prin muzică.",
      "country": "RO",
-	 "tel":"+40213163636"
+	 "tel":"+40213163636",
+	 "whatsapp": "+40734220044"
      },
      {
      "name": "Rock FM",
@@ -249,7 +252,8 @@
      "desc": "Classic Rock Hits",
      "longDesc": "Rock FM este postul de radio rock din România, dedicat iubitorilor de muzică rock autentică. Cu o selecție variată ce include rock clasic, rock alternativ și cele mai noi lansări rock, Rock FM aduce energia și pasiunea rock-ului românesc și internațional.",
      "country": "RO",
-	 "tel": "+40729001122"
+	 "tel": "+40729001122",
+	 "whatsapp": "+40729001122"
      },
      {
      "name": "FM Radio Manele",
