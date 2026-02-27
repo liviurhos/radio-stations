@@ -343,6 +343,186 @@
 	  "whatsapp": "",
 	  "genre":"Russian Music"
     },
+	{
+      "name": "Radio Disco City",
+      "streamURL": "https://radio.server14.kariha.net/8006/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/discocity.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"80s, 90, Disco"
+    },
+	{
+      "name": "Radio Vega Petrich",
+      "streamURL": "http://88.80.96.25:8040/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiovega.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Music, News"
+    },
+	{
+      "name": "Radio Focus Sofia",
+      "streamURL": "https://focusradio.dataserv.cc/1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofocussofia.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"News, Pop, Talk"
+    },
+	{
+      "name": "Radio Bulgari",
+      "streamURL": "https://radyo1.radyo-dinle.tc/8204/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobulgari.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Music"
+    },
+	{
+      "name": "Eilo Ambient and Chill Radio",
+      "streamURL": "http://eilo.org:8000/ambient",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eiloambient.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Ambient, Chill"
+    },
+	{
+      "name": "Eilo Drum and Bass Radio",
+      "streamURL": "https://eilo.org/streamer.php?ch=jazzfunksoul",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eilodrumandbas.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Music"
+    },
+	{
+      "name": "Eilo Earth and Beat Radio",
+      "streamURL": "http://stream.eilo.org:8000/earthbeat",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eiloearthandbeat.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Various"
+    },
+	{
+      "name": "Hard Techno Radio",
+      "streamURL": "http://stream.eilo.org:8000/hard",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/hardtechnoradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Techno"
+    },
+	{
+      "name": "Divsto Radio",
+      "streamURL": "http://ivorpi.duckdns.org:8000/mpd",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/divstoradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Local Music"
+    },
+	{
+      "name": "Radio Katra FM",
+      "streamURL": "https://live.katrafm.com/",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/katrafm.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Adult Contemporary"
+    },
+	{
+      "name": "Radio TS",
+      "streamURL": "http://www.globcom.net:8008/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiots.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Dance, Pop"
+    },
+	{
+      "name": "All In One Music Radio",
+      "streamURL": "http://streaming.radionomy.com/JamendoLounge?lang=en-US,en;q=0.9,es;q=0.8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/allinonemusic.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Music"
+    },
+	{
+      "name": "Radio Shanel Bg",
+      "streamURL": "https://cast6.asurahosting.com/proxy/neliradi/stream/",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioshanelbg.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Hits"
+    },
+	{
+      "name": "Dance Size",
+      "streamURL": "http://streaming.radionomy.com/DanceSize",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/dancesize.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Dance"
+    },
+	{
+      "name": "Deluxe Radio Bulgaria",
+      "streamURL": "http://play.radiomaxxfm.com:8000/deluxe",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/deluxeradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Chillout"
+    },
+	{
+      "name": "Power FM Bulgaria",
+      "streamURL": "https://a1.vizitec.com:8001/powerfm.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/powerfm.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Pop, Top 40"
+    },
+	{
+      "name": "XRaYdio",
+      "streamURL": "https://xraydio.ddns.net/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/wraydio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Various"
+    },
+	{
+      "name": "Radio Sevlievo",
+      "streamURL": "http://195.68.214.130:8000/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiosevlievo.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Dance, Electronic, Pop, Rock, Top 40"
+    },
+	{
+      "name": "Online DJ Radio",
+      "streamURL": "http://play.onlinedjradio.com:8000/live",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/onlinedjradio.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"DJ"
+    },
+	{
+      "name": "Radio Kanon",
+      "streamURL": "http://79.98.108.170:8059/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokanon.png",
+      "country": "bg",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":"Misc"
+    },
     {
       "name": "Metro Hits Radio",
       "streamURL": "http://radio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA",
@@ -351,4 +531,3 @@
     }
   ]
 }
-
