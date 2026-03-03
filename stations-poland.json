@@ -9,6 +9,24 @@
 	  "whatsapp": "",
 	  "genre":""
     },
+	{
+      "name": "Dance - VOX FM",
+      "streamURL": "https://liveradio.timesa.pl/6180-1.aac/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/voxfm.png",
+      "country": "pl",
+	  "tel":"+48 22/516 4717",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "DJ Mix - VOX FM",
+      "streamURL": "https://waw.ic.smcdn.pl/6020-1.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/voxfm.png",
+      "country": "pl",
+	  "tel":"+48 22/516 4717",
+	  "whatsapp": "",
+	  "genre":""
+    },
     {
       "name": "Life4Club",
       "streamURL": "https://life4club.online/listen/live/l4c.mp3",
@@ -25,6 +43,15 @@
       "country": "pl",
 	  "tel":"",
 	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Dance - Radio Zet",
+      "streamURL": "https://zt.cdn.eurozet.pl/ZETDAN.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozet.png",
+      "country": "pl",
+	  "tel":" +48 321/321 321",
+	  "whatsapp": "+48 506 738 566",
 	  "genre":""
     },
 	{
@@ -64,6 +91,15 @@
 	  "genre":""
     },
 	{
+      "name": "DANCE - RMF ON",
+      "streamURL": "https://rs6-krk2.rmfstream.pl/DANCE",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
+      "country": "pl",
+	  "tel":"+48 12/662 2000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
       "name": "80s - RMF ON",
       "streamURL": "https://rs102-krk.rmfstream.pl/80S",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
@@ -75,6 +111,15 @@
 	{
       "name": "BALLADY - RMF ON",
       "streamURL": "https://rs102-krk-cyfronet.rmfstream.pl/NOSTALGIA",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
+      "country": "pl",
+	  "tel":"+48 12/662 2000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "HIP HOP - RMF ON",
+      "streamURL": "https://rs9-krk2.rmfstream.pl/HIPHOP",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
       "country": "pl",
 	  "tel":"+48 12/662 2000",
@@ -204,6 +249,69 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radioftb.png",
       "country": "pl",
 	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Disco Radio",
+      "streamURL": "https://stream.rcs.revma.com/cvswvmyewzzuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/discoradiopl.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "DjMixes - Radio Party",
+      "streamURL": "https://s2.radioparty.pl:8015/djmixes",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopartypl.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Energy 2000 - Radio Party",
+      "streamURL": "https://s2.radioparty.pl:8015/energy2000",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopartypl.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Dobrze Rockuje - Eska ROCK",
+      "streamURL": "https://waw.ic.smcdn.pl/6060-1.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eskarock.png",
+      "country": "pl",
+	  "tel":"+48 22/516 4717",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Łódź",
+      "streamURL": "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiolódź.png",
+      "country": "pl",
+	  "tel":"+48 60/678 7878",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Electronic Dance Beats - Red7",
+      "streamURL": "https://s.red7.pl/edm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/red7.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Folk Radio - Radio Kielce",
+      "streamURL": "https://streaming.g-news.pl:8030/fr1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/folkradio.png",
+      "country": "pl",
+	  "tel":"+48 41/200 2020",
 	  "whatsapp": "",
 	  "genre":""
     }
