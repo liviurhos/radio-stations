@@ -1,1 +1,23 @@
 
+{
+  "station": [
+    {
+      "name": "La Une - Radio Provincia",
+      "streamURL": "https://streaming.provinciaradio.com.ar:3352/fm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioprovincia.png",
+      "country": "ar",
+	    "tel":"+54 221 609 7890",
+	    "whatsapp": "+54 221 609 7890",
+	    "genre":""
+    },
+	  {
+      "name": "Radio FTB",
+      "streamURL": "https://play.radioftb.net:8000/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioftb.png",
+      "country": "pl",
+	    "tel":"",
+	    "whatsapp": "",
+	    "genre":""
+    }
+  ]
+}
