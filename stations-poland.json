@@ -4,20 +4,208 @@
       "name": "Vox FM",
       "streamURL": "https://liveradio.timesa.pl/3990-1.aac/playlist.m3u8",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/voxfm.png",
-      "country": "pl"
+      "country": "pl",
+	  "tel":"+48 22/516 4717",
+	  "whatsapp": "",
+	  "genre":""
     },
     {
       "name": "Life4Club",
       "streamURL": "https://life4club.online/listen/live/l4c.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/life4club.png",
-      "country": "pl"
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
     },
     {
       "name": "Radio Party",
       "streamURL": "https://s2.radioparty.pl:8015/stream",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radioparty.png",
-      "country": "pl"
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    }
+	{
+      "name": "2000 - Radio Zet",
+      "streamURL": "https://zt.cdn.eurozet.pl/ZET200.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozet.png",
+      "country": "pl",
+	  "tel":"+48321321321",
+	  "whatsapp": "+48506738566",
+	  "genre":""
+    },
+	{
+      "name": "90s - Radio Zet",
+      "streamURL": "https://zt.cdn.eurozet.pl/ZET090.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozet.png",
+      "country": "pl",
+	  "tel":"+48321321321",
+	  "whatsapp": "+48506738566",
+	  "genre":""
+    },
+	{
+      "name": "80s - Radio Zet",
+      "streamURL": "https://zt.cdn.eurozet.pl/ZET080.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozet.png",
+      "country": "pl",
+	  "tel":"+48321321321",
+	  "whatsapp": "+48506738566",
+	  "genre":""
+    },
+	{
+      "name": "RMF ON",
+      "streamURL": "https://rs102-krk.rmfstream.pl/RMF5",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
+      "country": "pl",
+	  "tel":"+48 12/662 2000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "80s - RMF ON",
+      "streamURL": "https://rs102-krk.rmfstream.pl/80S",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
+      "country": "pl",
+	  "tel":"+48 12/662 2000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "BALLADY - RMF ON",
+      "streamURL": "https://rs102-krk-cyfronet.rmfstream.pl/NOSTALGIA",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rmfon.png",
+      "country": "pl",
+	  "tel":"+48 12/662 2000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Akademickie Radio Centrum",
+      "streamURL": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/akademickieradio.png",
+      "country": "pl",
+	  "tel":"+48 81/533 2604",
+	  "whatsapp": "+48 51/551 5982",
+	  "genre":""
+    },
+	{
+      "name": "Akademickie Radio LUZ",
+      "streamURL": "https://stream.radioluz.pl:8443/luz_hifi.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/akademickieradioluz.png",
+      "country": "pl",
+	  "tel":"+48 71/320 4455",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Antyradio",
+      "streamURL": "https://hub.radiostream.pl/stream.pls?radio=8602&type=none&dist=myradioonline&app=none&coding=mp3&redirect=true",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioantyradio.png",
+      "country": "pl",
+	  "tel":"+48 321/321 900",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Antyradio Katowice",
+      "streamURL": "https://an02.cdn.eurozet.pl/ant-kat.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioantyradio.png",
+      "country": "pl",
+	  "tel":"+48 321/321 900",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Ballads - Antyradio",
+      "streamURL": "https://an02.cdn.eurozet.pl/ANTBAL.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioantyradio.png",
+      "country": "pl",
+	  "tel":"+48 321/321 900",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio ESKA",
+      "streamURL": "https://waw.ic.smcdn.pl/2300-1.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioeska.png",
+      "country": "pl",
+	  "tel":"+48 22/516 4700",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Biała Podlaska - ESKA2",
+      "streamURL": "https://waw.ic.smcdn.pl/1390-1.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/eska2.png",
+      "country": "pl",
+	  "tel":"+48 726 826 826",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Białystok - Radio Złote Przeboje",
+      "streamURL": "https://radiostream.pl/tuba8900-1.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiozłoteprzeboje.png",
+      "country": "pl",
+	  "tel":"+48 22/444 4000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Bielsko-Biała - Radio Katowice",
+      "streamURL": "https://stream4.nadaje.com:8497/katowice_b",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokatowice.png",
+      "country": "pl",
+	  "tel":" +48 32/200 5400",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Bydgoszcz - Radio Plus",
+      "streamURL": "https://pl.cdn.eurozet.pl/plu-bdg.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopluspl.png",
+      "country": "pl",
+	  "tel":"+48 69/114 1141",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Pogoda",
+      "streamURL": "https://radiostream.pl/tuba143-1.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopogoda.png",
+      "country": "pl",
+	  "tel":"+48 22/555 5100",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Chillizet",
+      "streamURL": "https://hub.radiostream.pl/stream.pls?radio=9900&type=none&dist=myradioonline&app=none&coding=mp3&redirect=true",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/chillizet.png",
+      "country": "pl",
+	  "tel":"+48 32/132 1500",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio DiscoParty",
+      "streamURL": "https://s3.slotex.pl/shoutcast/7354/stream?sid=1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/discoparty.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio FTB",
+      "streamURL": "https://play.radioftb.net:8000/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioftb.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
     }
   ]
 }
-
