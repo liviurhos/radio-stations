@@ -422,6 +422,222 @@
 	  "tel":"",
 	  "whatsapp": "",
 	  "genre":""
+    },
+	{
+      "name": "PartyBox",
+      "streamURL": "https://stream.zeno.fm/8n6v0lhpfr3tv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/partybox.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "PartyBox- Kanał Retro",
+      "streamURL": "https://stream.zeno.fm/4u4cjnsgywivv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/partybox.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polish Radio London 24",
+      "streamURL": "https://stream.rcs.revma.com/prfmwmwy768uv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polishradiolondon.png",
+      "country": "pl",
+	  "tel":" +44 208 998 8698",
+	  "whatsapp": "+44 793 260 6166",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio 24",
+      "streamURL": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradio.png",
+      "country": "pl",
+	  "tel":"+48 22/645 2445",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Czwórka",
+      "streamURL": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradioczwórka.png",
+      "country": "pl",
+	  "tel":"+48 22/645 2100",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio dla Ukrainy",
+      "streamURL": "https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiodlaukrainy.png",
+      "country": "pl",
+	  "tel":"+48/22 645 9845",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio dla Zagranicy",
+      "streamURL": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiodlazagranicy.png",
+      "country": "pl",
+	  "tel":"+48 226 459 347",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Dwójka",
+      "streamURL": "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiodwojka.png",
+      "country": "pl",
+	  "tel":"+48 22/645 2222",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Dzieciom",
+      "streamURL": "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiodzieciom.png",
+      "country": "pl",
+	  "tel":"+48 226 452 055",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Jedynka",
+      "streamURL": "https://stream3.rdstrm.com/prx-http/mp3.polskieradio.pl:8900/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiojedynka.png",
+      "country": "pl",
+	  "tel":" +48 22/645 2266",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Kierowców",
+      "streamURL": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiokierowcow.png",
+      "country": "pl",
+	  "tel":"+48 22/5131 111",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Koszalin",
+      "streamURL": "https://ssl-1.radiohost.pl:9680/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/polskieradiokoszalin.png",
+      "country": "pl",
+	  "tel":"+48 94/347 3000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Polskie Radio Trójka",
+      "streamURL": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/trojkaradio.png",
+      "country": "pl",
+	  "tel":"+48 22/333 3333",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "POP Radio Pruszków",
+      "streamURL": "https://sluchaj.link:5443/popradio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/popradio.png",
+      "country": "pl",
+	  "tel":"+48 22/290 6699",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Płock - Radio dla Ciebie",
+      "streamURL": "https://stream4.nadaje.com:14007/plock",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/rdcradio.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio 357",
+      "streamURL": "https://stream.radio357.pl/",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio357.png",
+      "country": "pl",
+	  "tel":"+48 51/035 7357",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio 5",
+      "streamURL": "https://streaming.radio5.com.pl:8888/radio5suwalki",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio5pl.png",
+      "country": "pl",
+	  "tel":"+48 87 567 8000",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio 90",
+      "streamURL": "https://srv0.streamradiowy.eu/radio90",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radio90pl.png",
+      "country": "pl",
+	  "tel":"+48 32/423 2323",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Afera",
+      "streamURL": "https://radio.afera.com.pl/afera128.mp3?time=1772642216593",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioafera.png",
+      "country": "pl",
+	  "tel":"+48 61/875 0213",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Akadera",
+      "streamURL": "https://stream4.nadaje.com:11847/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioakadera.png",
+      "country": "pl",
+	  "tel":"+48 857 469 999",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Alex 105.2 FM",
+      "streamURL": "https://srv1.streamradiowy.eu/radioalex",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioalex.png",
+      "country": "pl",
+	  "tel":"+48 18/440 0451",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Alex Zakopane",
+      "streamURL": "https://stream12.hosterion.pl/stream/radioalex/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioalexzakopane.png",
+      "country": "pl",
+	  "tel":"+48 18/200 0100",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Bercik",
+      "streamURL": "https://s3.slotex.pl:7770/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobercik.png",
+      "country": "pl",
+	  "tel":"+48 79/253 2990",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Best",
+      "streamURL": "https://www.radiobest.pl/stream1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobest.png",
+      "country": "pl",
+	  "tel":"+48 517 115 222",
+	  "whatsapp": "",
+	  "genre":""
     }
   ]
 }
