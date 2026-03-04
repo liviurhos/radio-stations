@@ -314,6 +314,114 @@
 	  "tel":"+48 41/200 2020",
 	  "whatsapp": "",
 	  "genre":""
+    },
+	{
+      "name": "Konin FM",
+      "streamURL": "https://stream2.technologicznie.net/konin.fm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/koninfm.png",
+      "country": "pl",
+	  "tel":"+48 511 115 104",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Kultura - Radio Kraków",
+      "streamURL": "https://stream4.nadaje.com:9777/RKKultura",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kultura.png",
+      "country": "pl",
+	  "tel":"+48 12/200 3333",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "LPU FM 105.8",
+      "streamURL": "https://streaming.g-news.pl:8120/lpufm",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/lpufm.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "MaxiStacja",
+      "streamURL": "https://radio.castpol.pl:8040/;radio.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/maxistacja.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Mazowsze - Radio Rekord",
+      "streamURL": "https://stream6.nadaje.com:8087/ciechanow",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorekord.png",
+      "country": "pl",
+	  "tel":"+48 48/360 2525",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "MC Radio - Radio Poznań",
+      "streamURL": "https://stream4.nadaje.com:8625/mcradio",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopoznan.png",
+      "country": "pl",
+	  "tel":" +48 61/664 4900",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "MEGA Radio - Radio BIELSKO",
+      "streamURL": "https://stream.rcs.revma.com/q18ty3qhwzzuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiomega.png",
+      "country": "pl",
+	  "tel":"+48 33/817 7777",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Muzyczne Radio",
+      "streamURL": "https://stream.rcs.revma.com/gzwc1xcq042vv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/muzyczneradio.png",
+      "country": "pl",
+	  "tel":" +48 75/764 6646",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Nad Wartą - Radio Łódź",
+      "streamURL": "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiolodz.png",
+      "country": "pl",
+	  "tel":"+48 60/678 7878",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Nasze Radio 104,7 FM",
+      "streamURL": "https://online.nasze.fm:8443/stream",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/naszeradio.png",
+      "country": "pl",
+	  "tel":"+48 43/8271 111",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Off Radio Kraków",
+      "streamURL": "https://stream2.nadaje.com:13333/offradiokrakow",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/offradio.png",
+      "country": "pl",
+	  "tel":"+48 12/630 6454",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Party Box-Hard Techno-EDM",
+      "streamURL": "https://stream.zeno.fm/o5doxiatedjvv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/partybox.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
     }
   ]
 }
