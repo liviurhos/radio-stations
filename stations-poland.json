@@ -638,6 +638,222 @@
 	  "tel":"+48 517 115 222",
 	  "whatsapp": "",
 	  "genre":""
+    },
+	{
+      "name": "Radio Białystok",
+      "streamURL": "https://stream4.nadaje.com:15477/radiobialystok",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobyalistok.png",
+      "country": "pl",
+	  "tel":"+48 85/744 2222",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio BIELSKO",
+      "streamURL": "https://stream.rcs.revma.com/062uq3z3kwzuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobielsko.png",
+      "country": "pl",
+	  "tel":"+48 33/817 7777",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio BonTon Chełm 104.90 FM",
+      "streamURL": "http://streaming.inten.pl:8022/bonton.mp3",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiobonton.png",
+      "country": "pl",
+	  "tel":"+48 825 632 222",
+	  "whatsapp": "+48 885 851 161",
+	  "genre":""
+    },
+	{
+      "name": "Radio Chopin",
+      "streamURL": "https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiochopin.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Elbląg - Radio Olsztyn",
+      "streamURL": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioolsztyn.png",
+      "country": "pl",
+	  "tel":"+48 89/526 4434",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio eM 107,6 FM",
+      "streamURL": "https://stream4.radioem.pl/stream/",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioem.png",
+      "country": "pl",
+	  "tel":"+48 32/608 8040",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Express FM",
+      "streamURL": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioexpressfm.png",
+      "country": "pl",
+	  "tel":"+48 33/822 2555",
+	  "whatsapp": "+48 79/028 5286",
+	  "genre":""
+    },
+	{
+      "name": "Radio Famka",
+      "streamURL": "https://stream3.rdstrm.com/prx-http/stream4.nadaje.com:10118/famka",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofamka.png",
+      "country": "pl",
+	  "tel":"+48 60/064 1005",
+	  "whatsapp": "+48 60/064 1005",
+	  "genre":""
+    },
+	{
+      "name": "Radio FARA",
+      "streamURL": "https://eu10.fastcast4u.com:17780/1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofara.png",
+      "country": "pl",
+	  "tel":"+48 16/676 7001",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio FEST",
+      "streamURL": "https://play.radiofest.pl:8443/fest",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofest.png",
+      "country": "pl",
+	  "tel":"+48 32/775 2222",
+	  "whatsapp": "+48 690/205 203",
+	  "genre":""
+    },
+	{
+      "name": "Radio Freee",
+      "streamURL": "https://streaming.radio.lublin.pl:8843/radiofreee",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiofree.png",
+      "country": "pl",
+	  "tel":"+48 815 344 899",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Gdańsk",
+      "streamURL": "https://stream.task.gda.pl:8443/rg1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiogdansk.png",
+      "country": "pl",
+	  "tel":"+48 58/349 8700",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Gorzów",
+      "streamURL": "https://stream3.rdstrm.com/prx-https/stream4.nadaje.com:10122/rg-20kbps.aac",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiogorzow.png",
+      "country": "pl",
+	  "tel":"+48 95/725 8877",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio GRA",
+      "streamURL": "https://rs201-krk-cyfronet.rmfstream.pl/RADIOGRA",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiogra.png",
+      "country": "pl",
+	  "tel":"+48 56/654 3210",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Heaven",
+      "streamURL": "https://sc1.radioheaven.pl:8000/stream?sid=1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radioheaven.png",
+      "country": "pl",
+	  "tel":"",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio HIT",
+      "streamURL": "https://stream3.rdstrm.com/prx-http/46.170.199.85:8000/;",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiohit.png",
+      "country": "pl",
+	  "tel":"+48 542 337 272",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio JARD",
+      "streamURL": "http://online.jard.pl:8744/jard1",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiojard.png",
+      "country": "pl",
+	  "tel":"+48 85/652 4433",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Jasna Góra",
+      "streamURL": "https://online.radiojasnagora.pl:9000/rjg",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiojasnagora.png",
+      "country": "pl",
+	  "tel":"+48 34/365 1747",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Jura",
+      "streamURL": "https://srv1.streamradiowy.eu/radiojura",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiojura.png",
+      "country": "pl",
+	  "tel":"+48 34/389 8989",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Kampus",
+      "streamURL": "https://stream.radiokampus.fm/kampus",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokampus.png",
+      "country": "pl",
+	  "tel":"+48 22/827 7205",
+	  "whatsapp": "+48 88/697 1971",
+	  "genre":""
+    },
+	{
+      "name": "Radio Kaszëbë",
+      "streamURL": "https://stream4.nadaje.com:10125/kaszebe128",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokaszebe.png",
+      "country": "pl",
+	  "tel":"+48 60/595 2922",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Kielce",
+      "streamURL": "https://streaming.g-news.pl:8030/rk2",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokielce.png",
+      "country": "pl",
+	  "tel":"+48 41/200 2020",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Kolor",
+      "streamURL": "https://stream.rcs.revma.com/zbq79057xd3vv",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokolor.png",
+      "country": "pl",
+	  "tel":"+48 22/256 2522",
+	  "whatsapp": "",
+	  "genre":""
+    },
+	{
+      "name": "Radio Kraków",
+      "streamURL": "https://stream3.nadaje.com:9117/radiokrakow",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/radiokrakow.png",
+      "country": "pl",
+	  "tel":"+48 12/200 3333",
+	  "whatsapp": "",
+	  "genre":""
     }
   ]
 }
