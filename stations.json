@@ -1,5 +1,5 @@
 {
-  "stations": [
+  "station": [
     {
       "name": "Radio Romania Actualități",
       "streamURL": "http://89.238.227.6:8006/;",
