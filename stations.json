@@ -1,6 +1,5 @@
 {
-    "station":
-    [
+    "station":[
      {
      "name": "Kiss FM Romania",
      "streamURL": "https://live.kissfm.ro/kissfm.aacp",
