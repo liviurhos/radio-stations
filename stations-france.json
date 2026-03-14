@@ -92,7 +92,6 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/rfm.png",
       "country": "fr"
     },
-
     {
       "name": "Skyrock",
       "streamURL": "https://icecast.skyrock.net/s/natio_mp3_128k",
@@ -155,7 +154,6 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/rfi_afrique.png",
       "country": "fr"
     },
-
     {
       "name": "M Radio",
       "streamURL": "https://mfm.ice.infomaniak.ch/mfm-128.mp3",
@@ -7686,7 +7684,5 @@
       "_uuid": "859ec680-93f3-4b6a-a7f8-4524e6df36b2",
       "_homepage": "https://www.lesonunique.com/"
     }
-  ]
-}
   ]
 }
