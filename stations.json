@@ -133,7 +133,7 @@
     {
       "name": "Europa FM",
       "streamURL": "https://astreaming.edi.ro:8443/EuropaFM_aac",
-      "imageURL": "https://www.europafm.ro/wp-content/themes/efm-2025/svg/logo-complete-neg.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/europa-fm/fb_cover.jpg",
       "desc": "Music | News | Talkshow",
       "longDesc": "",
       "country": "RO",
@@ -146,7 +146,7 @@
     {
       "name": "Kiss Fm Ro",
       "streamURL": "https://live.kissfm.ro/kissfm.aacp",
-      "imageURL": "https://api.kissfm.ro/resized/media-manager/2024/04/08/kissfm-inverted_20240408_155643_cm1uoycz.svg",
+      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -159,7 +159,7 @@
     {
       "name": "Kiss Kiss In The Mix",
       "streamURL": "https://live.kissfm.ro/kkm.radio",
-      "imageURL": "https://api.kissfm.ro/resized/media-manager/2024/04/08/kissfm-inverted_20240408_155643_cm1uoycz.svg",
+      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -172,7 +172,7 @@
     {
       "name": "Kiss & Chill",
       "streamURL": "https://dc.digi.live.kissfm.ro/kissnchill",
-      "imageURL": "https://api.kissfm.ro/resized/media-manager/2024/04/08/kissfm-inverted_20240408_155643_cm1uoycz.svg",
+      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -185,7 +185,7 @@
     {
       "name": "Kiss Hits From The 10s",
       "streamURL": "https://live.kissfm.ro/kiss.hits.from.the.10s",
-      "imageURL": "https://api.kissfm.ro/resized/media-manager/2024/04/08/kissfm-inverted_20240408_155643_cm1uoycz.svg",
+      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -211,7 +211,7 @@
     {
       "name": "ProB Radio",
       "streamURL": "https://live.radioprob.ro/8888/live",
-      "imageURL": "https://www.radioprob.ro/images/banners/radioprob2026.png",
+      "imageURL": "https://www.radioprob.ro/apple-touch-icon-v1.png",
       "desc": "Clubbing | Dance | Downtempo | House | Tech House",
       "longDesc": "",
       "country": "RO",
@@ -549,7 +549,7 @@
     {
       "name": "Rock Fm",
       "streamURL": "https://live.rockfm.ro/rockfm.aacp",
-      "imageURL": "https://api.rockfm.ro/resized/media-manager/2024/04/08/rockfm-inverted_20240408_162811_egjobrng.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/rock-fm/fb_cover.jpg",
       "desc": "Classic Rock | Hard Rock | Rock",
       "longDesc": "",
       "country": "RO",
@@ -562,7 +562,7 @@
     {
       "name": "Rock Fm - Ballads",
       "streamURL": "https://live.rockfm.ro/ballads.rock?direct=false",
-      "imageURL": "https://api.rockfm.ro/resized/media-manager/2024/04/08/rockfm-inverted_20240408_162811_egjobrng.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/rock-fm/fb_cover.jpg",
       "desc": "Classic Rock | Hard Rock | Rock",
       "longDesc": "",
       "country": "RO",
@@ -575,7 +575,7 @@
     {
       "name": "Rock Fm - Blues",
       "streamURL": "https://live.rockfm.ro/blues?direct=false",
-      "imageURL": "https://api.rockfm.ro/resized/media-manager/2024/04/08/rockfm-inverted_20240408_162811_egjobrng.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/rock-fm/fb_cover.jpg",
       "desc": "Classic Rock | Hard Rock | Rock",
       "longDesc": "",
       "country": "RO",
@@ -679,7 +679,7 @@
     {
       "name": "Magic FM",
       "streamURL": "https://live.magicfm.ro/magicfm.aacp",
-      "imageURL": "https://api.magicfm.ro/resized/media-manager/2024/10/03/magicfm-logo_20241003_183759.png",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/magic-fm/fb_cover.jpg",
       "desc": "80S | 90S | Dance | Dj | Gold | Mix | Oldies | Party",
       "longDesc": "",
       "country": "RO",
@@ -692,7 +692,7 @@
     {
       "name": "Magic FM - Party MIX",
       "streamURL": "https://live.magicfm.ro/magic.party.mix",
-      "imageURL": "https://api.magicfm.ro/resized/media-manager/2024/10/03/magicfm-logo_20241003_183759.png",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/magic-fm/fb_cover.jpg",
       "desc": "80S | 90S | Dance | Dj | Gold | Mix | Oldies | Party",
       "longDesc": "",
       "country": "RO",
@@ -705,7 +705,7 @@
     {
       "name": "Magic FM - 90s Hits",
       "streamURL": "https://live.kissfm.ro/Magic-90s",
-      "imageURL": "https://api.magicfm.ro/resized/media-manager/2024/10/03/magicfm-logo_20241003_183759.png",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/magic-fm/fb_cover.jpg",
       "desc": "80S | 90S | Dance | Dj | Gold | Mix | Oldies | Party",
       "longDesc": "",
       "country": "RO",
