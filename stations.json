@@ -3,7 +3,7 @@
     {
       "name": "Radio Romania Actualități",
       "streamURL": "http://89.238.227.6:8006/;",
-      "imageURL": "https://www.romania-actualitati.ro/templates/default/images/custom/logo-main.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-actualitati/fb_cover.jpg",
       "desc": "Folk | News | Pop | Talk",
       "longDesc": "",
       "country": "RO",
@@ -29,7 +29,7 @@
     {
       "name": "Antena satelor",
       "streamURL": "http://89.238.227.6:8042/",
-      "imageURL": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/antena-satelor/fb_cover.jpg",
       "desc": "Information | Muzica | Viata Satului",
       "longDesc": "",
       "country": "RO",
@@ -42,7 +42,7 @@
     {
       "name": "Radio România Muzical",
       "streamURL": "https://stream4.srr.ro:8443/romania-muzical",
-      "imageURL": "https://static.srr.ro/images/stations/station-logo-3-rrm-logo.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-muzical/fb_cover.jpg",
       "desc": "Classical",
       "longDesc": "",
       "country": "RO",
@@ -55,7 +55,7 @@
     {
       "name": "Radio Bucuresti FM",
       "streamURL": "https://stream4.srr.ro:8443/bucuresti-fm",
-      "imageURL": "https://www.bucurestifm.ro/wp-content/themes/bucurestifm/images/custom/logo-main.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/bucuresti-fm/fb_cover.jpg",
       "desc": "Top 40",
       "longDesc": "",
       "country": "RO",
@@ -68,7 +68,7 @@
     {
       "name": "Radio România Iași",
       "streamURL": "http://89.238.227.6:8202/",
-      "imageURL": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-iasi/fb_cover.jpg",
       "desc": "Local Programming | News Talk Music",
       "longDesc": "",
       "country": "RO",
@@ -94,7 +94,7 @@
     {
       "name": "Radio România Cultural",
       "streamURL": "http://stream2.srr.ro:8012/",
-      "imageURL": "https://www.radioromaniacultural.ro/templates/default/images/custom/logo-main.svg",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-cultural/fb_cover.jpg",
       "desc": "Cultural Programming",
       "longDesc": "",
       "country": "RO",
@@ -107,7 +107,7 @@
     {
       "name": "eteatru",
       "streamURL": "http://stream2.srr.ro:8078/eteatru.mp3",
-      "imageURL": "https://eteatru.ro/templates/default/images/custom/logo-main.svg",
+      "imageURL": "https://eteatru.ro/templates/default/images/custom/facebook-share.jpg,
       "desc": "Teatru",
       "longDesc": "",
       "country": "RO",
@@ -302,7 +302,7 @@
     {
       "name": "Radio Zu",
       "streamURL": "http://zuicast.digitalag.ro:9420/zu",
-      "imageURL": "https://radiozu.ro/img/logo-zu.png",
+      "imageURL": "https://radiozu.ro/img/hiturile-se-asculta-la-zu.jpg",
       "desc": "Top 40",
       "longDesc": "",
       "country": "RO",
