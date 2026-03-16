@@ -92,6 +92,19 @@
       "_homepage": "http://radiotimisoara.ro/"
     },
     {
+      "name": "Radio Vacanța Nostalgia",
+      "streamURL": "https://stream4.srr.ro:8443/nostalgia_rv",
+      "imageURL": "https://www.radiovacanta.ro/wp-content/uploads/2023/09/RV-3.jpg",
+      "desc": "Radio Vacanța Nostalgia",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "+40213031777",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 320,
+      "_homepage": "https://www.radiovacanta.ro/"
+    },
+    {
       "name": "Radio România Cultural",
       "streamURL": "http://stream2.srr.ro:8012/",
       "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-cultural/fb_cover.jpg",
@@ -715,17 +728,9 @@
       "_bitrate": 80,
       "_homepage": "https://www.magicfm.ro/"
     },
-
-
-
-    
-   
-    
-   
-   
     {
       "name": "Radio Oldies Romania",
-      "streamURL": "http://listen.radiooldies.ro:9200/;",
+      "streamURL": "https://live.radiooldies.ro/9200/stream",
       "imageURL": "https://www.radiooldies.ro/wp-content/uploads/2018/02/radiooldies-logo.png",
       "desc": "80'S | 80S | 90'S | 90S | Oldies",
       "longDesc": "",
@@ -734,16 +739,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 971,
-      "_uuid": "3c98d6c2-f370-4171-920a-883d938cb3f3",
       "_homepage": "https://www.radiooldies.ro/"
     },
-    
-  
     {
       "name": "Radio Doxologia",
-      "streamURL": "http://rlive.doxologia.ro/stream.mp3",
-      "imageURL": "",
+      "streamURL": "https://rlive.doxologia.ro/stream.mp3",
+      "imageURL": "https://online-radio.eu/logo/24/24214.jpg",
       "desc": "Radio Doxologia",
       "longDesc": "",
       "country": "RO",
@@ -751,27 +752,9 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
-      "_votes": 857,
-      "_uuid": "e1327ba8-cbb4-11e9-8502-52543be04c81",
       "_homepage": "https://doxologia.ro/"
     },
     
-   
-    {
-      "name": "Radio Vacanța Nostalgia",
-      "streamURL": "https://stream4.srr.ro:8443/nostalgia_rv",
-      "imageURL": "",
-      "desc": "Radio Vacanța Nostalgia",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_votes": 668,
-      "_uuid": "5cced4a4-65b7-4f65-b637-8c763e6b7cf2",
-      "_homepage": "https://www.radiovacanta.ro/"
-    },
     {
       "name": "Nationa FM",
       "streamURL": "http://live2.nationalfm.ro:8001/",
@@ -787,26 +770,23 @@
       "_uuid": "e90b58ac-7976-427d-b5c3-bcccdae1cc7d",
       "_homepage": "https://www.nationalfm.ro/"
     },
-    
     {
       "name": "Radio 7 Bucuresti Romania",
       "streamURL": "http://80.86.106.32:8000/radio7.mp3",
-      "imageURL": "",
+      "imageURL": "https://radio-seven.ro/wp-content/uploads/2019/07/QT-LOGO-SQUARED.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "RO",
-      "tel": "",
+      "tel": "+40316200707",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 626,
-      "_uuid": "9be4202e-f256-11e8-a471-52543be04c81",
       "_homepage": "http://radio-seven.ro/"
     },
     {
       "name": "Radio Super Manele",
-      "streamURL": "http://manele.capitalfm.ro:8020/stream",
-      "imageURL": "",
+      "streamURL": "https://stream1.rdstrm.com/prx-http/asculta.muzicaok.de:8046/stream",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-super/fb_cover.jpg",
       "desc": "Manele | Manele Noi | Manele Și Petrecere",
       "longDesc": "",
       "country": "RO",
@@ -814,13 +794,11 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 586,
-      "_uuid": "e2019de4-34b0-40f2-b09a-5a22b0d6eb10",
       "_homepage": "http://radiosuper.ro/"
     },
     {
       "name": "Atmospheric dnb s0urce",
-      "streamURL": "https://brokenbeats.net/stream/aac",
+      "streamURL": "https://brokenbeats.net/stream/aac_128",
       "imageURL": "https://brokenbeats.net/favicon.ico",
       "desc": "Drum And Bass | Jungle",
       "longDesc": "",
@@ -833,6 +811,8 @@
       "_uuid": "c4eb7648-e867-4545-bdda-71b1368db779",
       "_homepage": "https://brokenbeats.net/"
     },
+
+    
     {
       "name": "RADIO MANELE PETRECERE",
       "streamURL": "https://ssl.servereradio.ro/8123/stream",
