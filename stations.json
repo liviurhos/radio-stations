@@ -560,19 +560,6 @@
       "_homepage": "https://www.radiohot.ro/"
     },
     {
-      "name": "GherlaFM",
-      "streamURL": "http://89.39.189.52:8000/stream",
-      "imageURL": "https://gherlafm.ro/wp-content/uploads/2020/04/cropped-logomic2-180x180.png",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://gherlafm.ro/"
-    },
-    {
       "name": "Smart FM",
       "streamURL": "http://live.smartradio.ro:9128/live",
       "imageURL": "https://myradioonline.ro/public/uploads/radio_img/smart-radio/fb_cover.jpg",
