@@ -1576,7 +1576,7 @@
     {
       "name": "Radio Liberty Populara",
       "streamURL": "https://sonicssl.namehost.ro/7780/stream",
-      "imageURL": "hhttps://www.radioliberty.ro/images/stations/1752069433.webp",
+      "imageURL": "https://www.radioliberty.ro/images/stations/1752069433.webp",
       "desc": "Radio liberty slagare",
       "longDesc": "",
       "country": "RO",
@@ -2343,7 +2343,7 @@
     {
       "name": "Free FM Rock București",
       "streamURL": "https://freefmrock.radioca.st/stream",
-      "imageURL": "https://lh3.googleusercontent.com/sitesv/APaQ0SSvL8iOeQdlEC8hEjRwOzKT82TOetZ6SHGK4F-WQS0xEFUNF-L9c07kFvlaSp6H7IWCzdW1MHBq1WhFL3VNgexfYNxFovpAo7rVM7_PCOFl2q-HyIr02Bn5SBdWbUMZ8N3fOTAAKVsCbzyif1-SdJBzmvAWIUb39hCarOPnSvlIzW5x0xyS4bvD=w16383",
+      "imageURL": "https://images.radiosonline.app/84557/amwycurnj.png",
       "desc": "",
       "longDesc": "",
       "country": "RO",
@@ -2916,7 +2916,7 @@
     {
       "name": "Napoca FM",
       "streamURL": "https://streaming.napocalive.ro/napoca-fm",
-      "imageURL": "https://napocafm.ro/wp-content/uploads/2020/05/cropped-QT-LOGO-SQUARED.png",
+      "imageURL": "https://napocafm.ro/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-16-at-15.39.52-1024x576.jpeg",
       "desc": "Dance | Dance Pop | Pop | Pop Music | Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -3213,19 +3213,6 @@
       "_homepage": "https://radiolevi.ro/"
     },
     {
-      "name": "Radio Dreams Dance Hits Adrenaline",
-      "streamURL": "http://radiodreams.g1.ro:3390/radiodreams.g1.ro",
-      "imageURL": "https://radiodreams.g1.ro/img/logo.png",
-      "desc": "Radio Dreams Dance Hits Adrenaline",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_homepage": "http://radiodreams.g1.ro/"
-    },
-    {
       "name": "MB Music Radio",
       "streamURL": "https://s33.myradiostream.com/16150/listen.mp3",
       "imageURL": "https://www.mb-radio.org/wp-content/uploads/2016/03/cropped-new-logo-mb-1-180x180.png",
@@ -3241,7 +3228,7 @@
     {
       "name": "Club Radio",
       "streamURL": "https://live.clubradio.ro/listen/clubradio/live",
-      "imageURL": "https://clubradio.ro/assets/img/clubradio.svg",
+      "imageURL": "https://images.tuneyou.com/images/logos/500_500/40/18040/ClubRadio_6.jpg",
       "desc": "Club | Dance | Electronic | House",
       "longDesc": "",
       "country": "RO",
@@ -3410,7 +3397,7 @@
     {
       "name": "Party Mix",
       "streamURL": "https://play.discomix.ro/8004/stream",
-      "imageURL": "https://www.partymixtv.ro/wp-content/uploads/2019/11/cropped-party-mix-site-icon-180x180.png",
+      "imageURL": "https://www.radioexpert.net/radio-logo/romania/party-mix-757-bucure%C8%99ti-romania-320.jpg",
       "desc": "Party Mix",
       "longDesc": "",
       "country": "RO",
@@ -3735,7 +3722,7 @@
     {
       "name": "Profi Rádió",
       "streamURL": "http://93.115.174.139:8000/stream",
-      "imageURL": "https://www.profiradio.ro/net/img/logo.png",
+      "imageURL": "https://arbomedia.ro/wp-content/uploads/2024/01/Logo-Profi-Radio-225x160px.jpg",
       "desc": "Local Radio | Pop Music | Top Hits",
       "longDesc": "",
       "country": "RO",
@@ -3818,8 +3805,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 6,
-      "_uuid": "94d0c905-cf73-415e-b036-5ea7249a65fa",
       "_homepage": "https://radiokibut.ro/"
     },
     {
