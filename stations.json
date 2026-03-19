@@ -443,6 +443,19 @@
       "_homepage": "https://radiozu.ro/"
     },
     {
+      "name": "Taraf România - Dance",
+      "streamURL": "http://live.radiotaraf.ro:8200/",
+      "imageURL": "https://radiotaraf.ro/wp-content/uploads/2022/01/radio-taraf.png",
+      "desc": "Dance",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radiotaraf.ro/"
+    },
+    {
       "name": "Radio Taraf - Manele",
       "streamURL": "http://asculta.radiotaraf.ro:7100/;",
       "imageURL": "https://radiotaraf.ro/wp-content/uploads/2022/01/radio-taraf.png",
@@ -3822,21 +3835,7 @@
       "_uuid": "9ea2f15b-af18-4219-ba46-af51d50e4415",
       "_homepage": "https://radiobella.ro/"
     },
-    {
-      "name": "Rádió GaGa Gold",
-      "streamURL": "https://a2.asurahosting.com:7020/radio.mp3?1741449673",
-      "imageURL": "https://www.radiogaga.ro/wp-content/themes/sounder-child/images/GaGa_Logo_GOLD.jpg",
-      "desc": "Gold | Pop Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_votes": 5,
-      "_uuid": "1a2c9de3-ae45-4f09-b7d6-0c8a55bd6f97",
-      "_homepage": "https://www.radiogaga.ro/"
-    },
+    
     
     {
       "name": "Radio Best Musik Romania",
@@ -3913,36 +3912,8 @@
       "_uuid": "703952a3-580d-46fd-a97f-0a6d70266ab9",
       "_homepage": "https://rvs.ro/"
     },
-    {
-      "name": "Replica Radio",
-      "streamURL": "https://securestreams.autopo.st:2490/",
-      "imageURL": "https://replicaradio.com/images/assets/Replica-Radio-Live.jpg",
-      "desc": "Disco | Folk | Funk | Pop | Rock | Soul",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "a764ec3b-e258-4b51-9bea-20ab95b09370",
-      "_homepage": "https://replicaradio.com/"
-    },
-    {
-      "name": "MB MUSIC RADIO",
-      "streamURL": "https://s33.myradiostream.com/16150/listen.mp3",
-      "imageURL": "https://www.mb-radio.org/wp-content/uploads/2021/12/new-logo-mb.png",
-      "desc": "MB MUSIC RADIO",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "bd6222fa-f929-4e1d-8b74-2b58837f042a",
-      "_homepage": "https://www.mb-radio.org/"
-    },
+    
+    
     {
       "name": "Radio Tineret",
       "streamURL": "https://live.radiotineret.ro:8420/stream",
@@ -4003,21 +3974,7 @@
       "_uuid": "6bfa20f3-b967-40ce-9a30-8e850d485966",
       "_homepage": "https://www.radiounique.ro/"
     },
-    {
-      "name": "Smart N'Roll",
-      "streamURL": "https://web.smartradio.ro:8443/smartnroll",
-      "imageURL": "https://media.smartradio.ro/2019/10/roll.png",
-      "desc": "Smart N'Roll",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 4,
-      "_uuid": "79f0e166-2c86-4ee0-96e8-dad0c17008b6",
-      "_homepage": "https://www.smartradio.ro/radio/nroll/"
-    },
+    
     {
       "name": "Blaj Radio",
       "streamURL": "https://ssl.asculta.live:8016/",
@@ -4049,21 +4006,7 @@
       "_uuid": "b34b873c-f0e3-48ff-8dcb-4b73d8d11ce3",
       "_homepage": "https://www.radio-terra.ro/"
     },
-    {
-      "name": "Radio Domeldo Live",
-      "streamURL": "https://radiodomeldo.ro/live",
-      "imageURL": "https://radiodomeldo.ro/wp-content/uploads/2017/03/radiodomeldo_textinner_nourl_forheader.jpg",
-      "desc": "Radio Domeldo Live",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_votes": 4,
-      "_uuid": "71753343-a8ef-4a5a-848e-7cf2cd883f21",
-      "_homepage": "https://radiodomeldo.ro/on-air"
-    },
+    
     {
       "name": "Nostalgia Radio",
       "streamURL": "https://live.radionostalgia.ro:8443/nostalgia.aac",
@@ -4156,21 +4099,7 @@
     },
     
     
-    {
-      "name": "Taraf România - Radio Dance",
-      "streamURL": "http://live.radiotaraf.ro:8200/",
-      "imageURL": "https://play-lh.googleusercontent.com/ZElprn4XnQwojyFnNAqOyXN0IDy8eNdFNKdVjEK0jwDTxZ5oOg4KXRT5xRrxB_5ygAg",
-      "desc": "Dance",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "6a4f40d2-95e5-454f-887e-a207dadfa8d1",
-      "_homepage": "https://radiotaraf.ro/"
-    },
+    
    
     {
       "name": "LexSquad Radio Station",
@@ -4342,51 +4271,9 @@
       "_uuid": "b9066490-22a6-459d-957a-eadc1e97ed35",
       "_homepage": "https://lixty.com/fr/s/ro-radio-sweet-vibes"
     },
-    {
-      "name": "Smart Radio - București 107.3 FM",
-      "streamURL": "https://live.smartradio.ro:8443/live",
-      "imageURL": "https://media.smartradio.ro/2019/10/radio.png",
-      "desc": "Classical | Jazz",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 64,
-      "_votes": 2,
-      "_uuid": "b3c02c44-6118-4808-9973-5b06b1fec1e7",
-      "_homepage": "https://www.smartradio.ro/"
-    },
-    {
-      "name": "Smart Radio -Smart and Groovy",
-      "streamURL": "https://web.smartradio.ro:8443/smartgroovy",
-      "imageURL": "https://media.smartradio.ro/2019/12/groovy-3.png",
-      "desc": "Funky",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 2,
-      "_uuid": "a413d8e0-3b71-4775-8e6d-525cc7635752",
-      "_homepage": "https://www.smartradio.ro/radio/groovy/"
-    },
-    {
-      "name": "Smart Radio -Smart on Soundtrack",
-      "streamURL": "https://web.smartradio.ro:8443/smartsoundtrack",
-      "imageURL": "https://media.smartradio.ro/2019/12/soundtrack-1.png",
-      "desc": "Soundtracks",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 2,
-      "_uuid": "f8b465a0-0be6-47e1-bc79-fc4b93f4e90e",
-      "_homepage": "https://www.smartradio.ro/radio/soundtrack/"
-    },
+    
+    
+    
     {
       "name": "Sky Sound Radio",
       "streamURL": "https://puma.streemlion.com:1705/stream",
@@ -4477,21 +4364,7 @@
       "_uuid": "a7752214-82bb-4dbe-89db-878e1b4e5096",
       "_homepage": "https://www.facebook.com/p/Radio-Vis-de-Taina-100037915787404/"
     },
-    {
-      "name": "Transilvania -statia Satu Mare 99.0 FM",
-      "streamURL": "https://stream2.radiotransilvania.ro/SatuMare",
-      "imageURL": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-      "desc": "Local News | Local Radio | Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 160,
-      "_votes": 2,
-      "_uuid": "7dffd02b-cd02-4cea-bbd1-f952316e6b03",
-      "_homepage": "https://radiotransilvania.ro/"
-    },
+  
     {
       "name": "VIP România",
       "streamURL": "https://live1.radiovip.ro:8969/stream",
@@ -4507,51 +4380,8 @@
       "_uuid": "9bbde2af-9697-49e6-9db1-eb0ec535e1af",
       "_homepage": "https://radiovip.ro/"
     },
-    {
-      "name": "Transilvania -statia Beclean 91.5 FM",
-      "streamURL": "http://stream2.radiotransilvania.ro/Bistrita",
-      "imageURL": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-      "desc": "Local News | Local Radio | Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 160,
-      "_votes": 1,
-      "_uuid": "5922b3f4-80d4-41f6-b91a-ce2d90dfa404",
-      "_homepage": "https://radiotransilvania.ro/localitatea/12/beclean"
-    },
-    {
-      "name": "Transilvania -statia Baia Mare 106.1 FM",
-      "streamURL": "https://stream2.radiotransilvania.ro/BaiaMare",
-      "imageURL": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-      "desc": "Local News | Local Radio | Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 1,
-      "_uuid": "ec37d05e-f6e5-4c1b-b203-d13416348259",
-      "_homepage": "https://radiotransilvania.ro/localitatea/5/baia-mare"
-    },
-    {
-      "name": "Transilvania -statia Aleșd 95.8 FM",
-      "streamURL": "https://stream2.radiotransilvania.ro/Oradea",
-      "imageURL": "https://radiotransilvania.ro/images/transi/logo-green-large3.png",
-      "desc": "Local News | Local Radio | Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_votes": 1,
-      "_uuid": "5c908787-110b-48c3-9cfb-0207099e45a2",
-      "_homepage": "https://radiotransilvania.ro/localitatea/9/alesd"
-    },
+   
+    
     {
       "name": "Underland Radio",
       "streamURL": "https://radio.underland.team:8000/radio.mp3",
@@ -4688,21 +4518,7 @@
       "_uuid": "30ad8fe0-fc09-497a-83fe-69f6cdd00ae3",
       "_homepage": "https://radiotecuci.ro/"
     },
-    {
-      "name": "Magic FM Gold",
-      "streamURL": "https://live.kissfm.ro/magic.gold.hits",
-      "imageURL": "https://api.magicfm.ro/resized/streams/2024/04/19/magic-gold-cb9500_6b701baf938b5df854657e31cf496780.jpg?w=120&h=120&c=1",
-      "desc": "Gold | Golden | Golden Music | Golden Oldies | Goldies",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 80,
-      "_votes": 1,
-      "_uuid": "32a174f0-4ab3-41e1-b452-800a714c030c",
-      "_homepage": "https://www.magicfm.ro/magic-gold"
-    },
+    
     {
       "name": "Tradițional Radio - Manele",
       "streamURL": "https://radio.ascultatare.ro/7000/stream",
@@ -4748,66 +4564,8 @@
       "_uuid": "26af3344-57a6-4790-8679-5e9c8beb03dd",
       "_homepage": "https://www.radio-terra.ro/"
     },
-    {
-      "name": "Supersonic Radio",
-      "streamURL": "https://s5.radio.co/s08e5c5875/listen",
-      "imageURL": "https://supersonicradio.ro/wp-content/uploads/2021/05/SS-Logo-white.svg",
-      "desc": "Blues | Classic Rock | Country | Folk | Pop | Rhythm & Blues | Soul",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_votes": 1,
-      "_uuid": "a923100c-8c7a-4323-83ed-52e0c93cb6c8",
-      "_homepage": "https://supersonicradio.ro/"
-    },
-    {
-      "name": "Smart Radio -Smart AltRO",
-      "streamURL": "https://web.smartradio.ro:8443/smartaltro",
-      "imageURL": "https://media.smartradio.ro/2019/10/altro.png",
-      "desc": "Hits",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 1,
-      "_uuid": "a48631ce-dfcd-4635-b2a7-af632ee83cd0",
-      "_homepage": "https://www.smartradio.ro/radio/altro/"
-    },
-    {
-      "name": "Smart Radio -Smart Champs-Elysees",
-      "streamURL": "https://web.smartradio.ro:8443/smartchampselysees",
-      "imageURL": "https://media.smartradio.ro/2019/10/radio.png",
-      "desc": "France",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 1,
-      "_uuid": "09efda48-4f3a-4df6-88f7-a9022f12050b",
-      "_homepage": "https://www.smartradio.ro/"
-    },
-    {
-      "name": "Smart Radio -Smart n'Roll",
-      "streamURL": "https://web.smartradio.ro:8443/smartnroll",
-      "imageURL": "https://media.smartradio.ro/2019/10/roll.png",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 1,
-      "_uuid": "cd6f3462-9ac2-4fe1-afd0-26b05c68a35f",
-      "_homepage": "https://www.smartradio.ro/radio/nroll/"
-    },
+    
+    
     {
       "name": "Sky FM - Radio Sky Constanța 101.1 FM",
       "streamURL": "https://live.radiosky.ro/radiosky.mp3",
