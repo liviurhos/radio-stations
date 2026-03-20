@@ -2419,6 +2419,19 @@
       "_homepage": "https://www.radiobaraka.com/"
     },
     {
+      "name": "TimiBanat -Eurodisco",
+      "streamURL": "https://streaming12.elitecomunicacion.es:8102/stream3",
+      "imageURL": "https://cdn-profiles.tunein.com/s300309/images/logod.png",
+      "desc": "70'S | Blues | Dance | Euro Disco | Hits",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 224,
+      "_homepage": "https://www.radiotimibanat.com/"
+    },
+    {
       "name": "Radio Badita Popular",
       "streamURL": "http://89.39.189.29:8000/stream",
       "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-badita-popular/fb_cover.png",
@@ -3771,12 +3784,6 @@
       "_bitrate": 128,
       "_homepage": "https://radiocolor.ro/"
     },
-
-
-
-
-
-    
     {
       "name": "Radio Renasterea",
       "streamURL": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
@@ -3788,29 +3795,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 6,
-      "_uuid": "43a56ab6-d0a8-48ca-ac98-22184bf79371",
       "_homepage": "https://radiorenasterea.ro/radio-renasterea-live/"
-    },
-    {
-      "name": "PluszFM",
-      "streamURL": "http://stream2.radiotransilvania.ro:8000/Nagyvarad",
-      "imageURL": "https://pluszfm.ro/images/plusz/logo-red.png",
-      "desc": "PluszFM",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_votes": 6,
-      "_uuid": "9305e434-9e1b-4fba-aba7-9de9d4b10a1c",
-      "_homepage": "https://pluszfm.ro/"
     },
     {
       "name": "Radio Kibut",
       "streamURL": "https://listen.radioking.com/radio/380248/stream/431281",
-      "imageURL": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=286,fit=crop,q=95/YKbovyx062TReaqL/radio-kibut-final-A3QraZL1w2HrrpG0.png",
+      "imageURL": "https://cdn-profiles.tunein.com/s345418/images/logog.png?t=1",
       "desc": "Radio Kibut",
       "longDesc": "",
       "country": "RO",
@@ -3823,24 +3813,20 @@
     {
       "name": "Radio Bella Eomania",
       "streamURL": "https://ssl.asculta.live/radiobella/stream",
-      "imageURL": "",
+      "imageURL": "https://radiobella.ro/logo.png",
       "desc": "Romantic",
       "longDesc": "",
       "country": "RO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+40784474485",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "9ea2f15b-af18-4219-ba46-af51d50e4415",
       "_homepage": "https://radiobella.ro/"
     },
-    
-    
     {
       "name": "Radio Best Musik Romania",
       "streamURL": "https://fra-pioneer01.dedicateware.com:2300/;",
-      "imageURL": "",
+      "imageURL": "https://www.radiobestmusik.ro/wp-content/uploads/2025/12/un-logo-cu-text-Radiobestmusik-3-768x384.jpg",
       "desc": "Radio Best Musik Romania",
       "longDesc": "",
       "country": "RO",
@@ -3848,8 +3834,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_votes": 5,
-      "_uuid": "5ada490a-090a-4856-9cff-9a9abf314d29",
       "_homepage": "https://www.radiobestmusik.ro/"
     },
     {
@@ -3859,28 +3843,11 @@
       "desc": "Various",
       "longDesc": "",
       "country": "RO",
-      "tel": "",
+      "tel": "+40736 738 787",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_votes": 5,
-      "_uuid": "7d89df49-c18c-4e0b-b1e9-3501e581aa49",
       "_homepage": "https://coresibrasov.ro/"
-    },
-    {
-      "name": "Radio Noise Party",
-      "streamURL": "https://radio.sonicpanel.ro:9160/",
-      "imageURL": "",
-      "desc": "Radio Noise Party",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "33dbccf6-73be-4226-9024-a4e66525e828",
-      "_homepage": "https://www.radionoise.ro/"
     },
     {
       "name": "Régió Rádió",
@@ -3889,12 +3856,10 @@
       "desc": "News | Online Radio | Regional",
       "longDesc": "",
       "country": "RO",
-      "tel": "",
+      "tel": "+40758894598",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_votes": 5,
-      "_uuid": "c4226d31-a278-4052-a50b-d362a42b3d7b",
       "_homepage": "https://regioradio.info/"
     },
     {
@@ -3904,20 +3869,16 @@
       "desc": "Religious",
       "longDesc": "",
       "country": "RO",
-      "tel": "",
+      "tel": "+40212690341",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "703952a3-580d-46fd-a97f-0a6d70266ab9",
       "_homepage": "https://rvs.ro/"
     },
-    
-    
     {
       "name": "Radio Tineret",
       "streamURL": "https://live.radiotineret.ro:8420/stream",
-      "imageURL": "https://radiotineret.ro/img/logo.png",
+      "imageURL": "https://radiotineret.ro/assets/og-cover.jpg",
       "desc": "Radio Tineret",
       "longDesc": "",
       "country": "RO",
@@ -3925,29 +3886,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "5e384541-070c-4a96-86ba-c989a03b10e6",
       "_homepage": "https://www.radiotineret.ro/"
-    },
-    {
-      "name": "Cross One Radio",
-      "streamURL": "https://lb01.bpstream.com:8630/;",
-      "imageURL": "",
-      "desc": "Cross One Radio",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 5,
-      "_uuid": "ea92d0e2-4aaf-479f-a677-5811fe24388a",
-      "_homepage": "https://www.crossone.ro/"
     },
     {
       "name": "Siculus Rádió",
       "streamURL": "http://46.214.17.202:8000/radioac3",
-      "imageURL": "https://i0.wp.com/foter.ro/wp-content/uploads/2015/02/28889_siculus.jpg?w=750&ssl=1",
+      "imageURL": "https://static-media.streema.com/media/cache/d7/4b/d74bfd30cf15af96bd66e7864a1f6d56.jpg",
       "desc": "Hits | Local Radio | Pop",
       "longDesc": "",
       "country": "RO",
@@ -3955,8 +3899,6 @@
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_votes": 5,
-      "_uuid": "0a65939e-4e05-43d9-be97-7cffeabd90bc",
       "_homepage": "http://www.siculusradio.ro/"
     },
     {
@@ -3970,15 +3912,12 @@
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 128,
-      "_votes": 4,
-      "_uuid": "6bfa20f3-b967-40ce-9a30-8e850d485966",
       "_homepage": "https://www.radiounique.ro/"
     },
-    
     {
       "name": "Blaj Radio",
       "streamURL": "https://ssl.asculta.live:8016/",
-      "imageURL": "https://radioblaj.ro/wp-content/uploads/2022/02/logo-transparent-2.png",
+      "imageURL": "https://radioblaj.ro/wp-content/uploads/2025/05/logo-footer.png",
       "desc": "Catolic | Religios",
       "longDesc": "",
       "country": "RO",
@@ -3986,41 +3925,20 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 4,
-      "_uuid": "72281a21-8308-42ff-aba7-a2134fa27a37",
       "_homepage": "https://radioblaj.ro/"
     },
-    
-    {
-      "name": "Terra Radio -Medgidia 97.5 FM",
-      "streamURL": "http://188.26.110.59:8000/terra_hq.mp3",
-      "imageURL": "https://www.radio-terra.ro/img/logos/terra-navbar.png",
-      "desc": "Dance | Local News | Oldies | Pop",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_votes": 4,
-      "_uuid": "b34b873c-f0e3-48ff-8dcb-4b73d8d11ce3",
-      "_homepage": "https://www.radio-terra.ro/"
-    },
-    
     {
       "name": "Nostalgia Radio",
       "streamURL": "https://live.radionostalgia.ro:8443/nostalgia.aac",
-      "imageURL": "https://scontent.fomr1-1.fna.fbcdn.net/v/t39.30808-6/627364033_122120835507135558_4839808635265310328_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=oNgJ-q1cQvEQ7kNvwEiJ0SD&_nc_oc=AdllDPp35K7WFNgLJW4rhENvCpAmgowGPkmK_56oOT7VC2KX0e8lXELYM6a9P6XDync&_nc_zt=23&_nc_ht=scontent.fomr1-1.fna&_nc_gid=O4-UTKUsWejdzbT_gTIzMw&oh=00_AfsqV7dr3QenRPDckeb6Tme-NrPB1rfFZYMiHO5xvRYXzQ&oe=699F4E7F",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/nostalgia-radio/fb_cover.jpg",
       "desc": "00S | 1990S | 2000S | 90S | Dance | Disco | Future | Pop | Retro",
       "longDesc": "",
       "country": "RO",
-      "tel": "",
+      "tel": "+40773300007",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_votes": 4,
-      "_uuid": "e455cc17-efcf-4575-8a3c-42feee4412a6",
-      "_homepage": "https://radionostalgia.ro/"
+      "_homepage": "https://nostalgiaradio.ro/"
     },
     {
       "name": "Radio DJ1",
@@ -4033,27 +3951,10 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 4,
-      "_uuid": "aebf4b45-9eeb-4057-8794-3619d7c4c379",
       "_homepage": "https://radiodj1.carrd.co/"
     },
     {
-      "name": "Kolozsvári Rádió M",
-      "streamURL": "http://89.238.227.6:8386/;",
-      "imageURL": "null",
-      "desc": "Kolozsvári Rádió M",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 4,
-      "_uuid": "8dde21b9-e269-4d49-a38b-29c3b46de088",
-      "_homepage": "http://www.kolozsvariradio.ro/"
-    },
-    {
-      "name": "Valoare Radio -Populara",
+      "name": "Valoare Radio - Populara",
       "streamURL": "http://live.radiovaloare.ro:7777/stream",
       "imageURL": "https://radiovaloare.ro/wp-content/uploads/2021/08/cropped-Logo.png",
       "desc": "Petrecere | Populară",
@@ -4063,8 +3964,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "94596096-051d-4974-bae0-b7cc42ae209e",
       "_homepage": "https://radiovaloare.ro/"
     },
     {
@@ -4078,8 +3977,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "3129941a-4b4b-42b0-a2bb-aacb1086d8ee",
       "_homepage": "https://www.untold.com/ro"
     },
     {
@@ -4093,63 +3990,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_votes": 3,
-      "_uuid": "fa81981e-9fee-4c71-879c-cc7611c76397",
       "_homepage": "https://squadradio.online/"
-    },
-    
-    
-    
-   
-    {
-      "name": "LexSquad Radio Station",
-      "streamURL": "https://s1.free-shoutcast.com/stream/18150",
-      "imageURL": "",
-      "desc": "1980S | 1990S | 2000S | 2025 | 80'S | 80S | 90'S | 90S | Dj | Mix | Oldies | The Best Of 80'S",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "2f26ddb0-70e5-49b4-b328-c03e6d5dfbfd",
-      "_homepage": "https://radio.free-shoutcast.com/site/89000"
-    },
-    {
-      "name": "TimiBanat -Eurodisco",
-      "streamURL": "https://streaming12.elitecomunicacion.es:8102/stream3",
-      "imageURL": "https://cdn-profiles.tunein.com/s300309/images/logod.png",
-      "desc": "70'S | Blues | Dance | Euro Disco | Hits",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 224,
-      "_votes": 3,
-      "_uuid": "e81b2a46-e756-4aec-9795-ff3d2c109d1d",
-      "_homepage": "https://www.radiotimibanat.com/"
-    },
-    {
-      "name": "Sweet FM",
-      "streamURL": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
-      "imageURL": "https://sweetfm.ro/wp-content/uploads/2025/12/SWEET-FM-logo-2026-logotyp-color.png",
-      "desc": "Dance | Electronic | House",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "ce83f5dd-f12e-4224-af80-51ae2aa1e25f",
-      "_homepage": "https://sweetfm.ro/"
     },
     {
       "name": "Sinaia Radio Forever",
       "streamURL": "https://ssl.asculta.live/8006/stream",
-      "imageURL": "",
+      "imageURL": "https://www.radioexpert.net/radio-logo/romania/radio-sinaia-247-sinaia-romania-320.jpg",
       "desc": "Dance | Etno | Manele | Petrecere",
       "longDesc": "",
       "country": "RO",
@@ -4157,54 +4003,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "78b9c2cf-b2e2-430b-9f42-7fdd77872904",
       "_homepage": "https://xat.com/SinaiaRadioForever"
-    },
-    {
-      "name": "Transylvania -Hits",
-      "streamURL": "https://asculta.ascultatare.ro/8036/stream",
-      "imageURL": "https://transylvaniahits.eu/wp-content/uploads/2018/05/hitsyL.png",
-      "desc": "Dance | Hits | Pop | R'N'B | Rock | Top 40",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 3,
-      "_uuid": "b8b72afa-739e-40c9-a51b-fafd87eb045f",
-      "_homepage": "https://transylvaniahits.eu/"
-    },
-    {
-      "name": "Nostalgia Radio",
-      "streamURL": "https://live.radionostalgia.ro:8443/nostalgia.aac",
-      "imageURL": "https://static.tildacdn.com/tild6630-3333-4462-b232-646236303332/nostalgia-favicon-da.png",
-      "desc": "00S | 90S | Entertainment | Fresh Hits | Morning Show | News | Pop Music | Romanian Music",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_votes": 3,
-      "_uuid": "563c1b55-4e3e-4bc1-b32c-a8336bf571d3",
-      "_homepage": "https://nostalgiaradio.ro/"
-    },
-    {
-      "name": "Radio Cuvântul Vieții",
-      "streamURL": "https://ssl.asculta.live:8288/stream",
-      "imageURL": "",
-      "desc": "Radio Cuvântul Vieții",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "b6097ca8-44d9-4c8c-ba88-ed51a127823e",
-      "_homepage": "https://www.rcvcluj.ro/"
     },
     {
       "name": "REPLAY NEWS - Română",
@@ -4217,24 +4016,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "a97e2a53-0d1f-42c5-a0cc-4bb2ecd5e6d1",
       "_homepage": "https://www.replaynews.net/"
-    },
-    {
-      "name": "SpaceFM Romania -SpaceFM Retro",
-      "streamURL": "https://retro.spacefm.live/listen/spacefm_retro/retro128",
-      "imageURL": "https://play-lh.googleusercontent.com/hCoGCiYFwbdEHCRoEDpk_JO_wznwAmbDj2kp6ykv5qu9eKhI-seGNI5Swist_WpBzDg",
-      "desc": "70'S | 80'S | 90'S | Hits | Oldies | Retro Hits",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "79e59ecf-ede3-431d-8083-b980dc06ef7a",
-      "_homepage": "https://spacefm.ro/"
     },
     {
       "name": "Shuffle FM",
@@ -4247,33 +4029,8 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
-      "_votes": 2,
-      "_uuid": "99fe1774-f4fa-4c24-9bbf-7b473caec585",
       "_homepage": "https://bluz.ro/"
     },
-    
-  
-  
-    
-  
-    {
-      "name": "Sweet Vibes Radio",
-      "streamURL": "https://a8.asurahosting.com:7640/stream",
-      "imageURL": "https://www.radioexpert.net/radio-logo/romania/sweet-vibes-radio-829-bucure%C8%99ti-romania-320.jpg",
-      "desc": "Club",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_votes": 2,
-      "_uuid": "b9066490-22a6-459d-957a-eadc1e97ed35",
-      "_homepage": "https://lixty.com/fr/s/ro-radio-sweet-vibes"
-    },
-    
-    
-    
     {
       "name": "Sky Sound Radio",
       "streamURL": "https://puma.streemlion.com:1705/stream",
@@ -4285,8 +4042,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_votes": 2,
-      "_uuid": "32a9e842-fe79-46c4-ad11-6b33578673c7",
       "_homepage": "https://www.skysoundradio.com/"
     },
     {
@@ -4300,24 +4055,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
-      "_votes": 2,
-      "_uuid": "db7f2595-5f9b-4a2f-bc7a-360a44cf19e4",
       "_homepage": "https://www.skyradio.ro/"
-    },
-    {
-      "name": "XFM Radio - XFM 90s",
-      "streamURL": "http://live2.x-fm.ro:7480/",
-      "imageURL": "https://www.x-fm.ro/images/logo_xfm.png",
-      "desc": "Blues | Eurodance | Oldies | Pop | Rock",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "b887db2d-fd7c-4add-9c00-a6d3b9cac001",
-      "_homepage": "https://www.x-fm.ro/"
     },
     {
       "name": "VRTW Radio (Vinyl Rum Tapas and Wine)",
@@ -4330,8 +4068,6 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_votes": 2,
-      "_uuid": "ea3e27fd-ac44-470b-a5c7-4f8d70c1594f",
       "_homepage": "https://www.vrtw.life/"
     },
     {
@@ -4345,42 +4081,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "43113f4e-5987-4ef8-9d84-7ca0c24ce77b",
       "_homepage": "https://vivafm.ro/"
     },
-    {
-      "name": "Vis de Taină",
-      "streamURL": "http://89.39.189.44:8000/;",
-      "imageURL": "",
-      "desc": "Acoustic | Ambient | Electric Blues | Oldies | Romantic",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "a7752214-82bb-4dbe-89db-878e1b4e5096",
-      "_homepage": "https://www.facebook.com/p/Radio-Vis-de-Taina-100037915787404/"
-    },
-  
-    {
-      "name": "VIP România",
-      "streamURL": "https://live1.radiovip.ro:8969/stream",
-      "imageURL": "https://radiovip.ro/logo.png",
-      "desc": "Manele",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_votes": 2,
-      "_uuid": "9bbde2af-9697-49e6-9db1-eb0ec535e1af",
-      "_homepage": "https://radiovip.ro/"
-    },
    
+
+
+
     
     {
       "name": "Underland Radio",
