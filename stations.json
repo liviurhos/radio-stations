@@ -250,7 +250,7 @@
     {
       "name": "Kiss Fm Ro",
       "streamURL": "https://live.kissfm.ro/kissfm.aacp",
-      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -263,7 +263,7 @@
     {
       "name": "Kiss Kiss In The Mix",
       "streamURL": "https://live.kissfm.ro/kkm.radio",
-      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -276,7 +276,7 @@
     {
       "name": "Kiss & Chill",
       "streamURL": "https://dc.digi.live.kissfm.ro/kissnchill",
-      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -289,7 +289,7 @@
     {
       "name": "Kiss Hits From The 10s",
       "streamURL": "https://live.kissfm.ro/kiss.hits.from.the.10s",
-      "imageURL": "https://www.kissfm.ro/apple-touch-icon.png",
+      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -327,7 +327,7 @@
     },
     {
       "name": "Play Radio 91.6 FM",
-      "streamURL": "https://live.playradio.org:8443/FMHD",
+      "streamURL": "https://live.playradio.org:8443/90HD",
       "imageURL": "https://www.playradio.org/wp-content/uploads/2016/11/cropped-Logo-General114.png",
       "desc": "90S | Dance | Euro Hits | Eurodance",
       "longDesc": "",
@@ -340,7 +340,7 @@
     },
     {
       "name": "Play 90's",
-      "streamURL": "http://live.playradio.org:9090/90HD",
+      "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
       "imageURL": "https://www.playradio.org/wp-content/uploads/2016/11/cropped-Logo-General114.png",
       "desc": "90S | Dance | Euro Hits | Eurodance",
       "longDesc": "",
@@ -377,6 +377,19 @@
       "_bitrate": 192,
       "_homepage": "https://www.playradio.org/"
     },
+    {
+     "name": "Radio Pro Music 90s",
+     "streamURL": "https://stream.adradio.ro/8414",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/promusic.png",
+     "desc": "",
+     "longDesc": "Radio Pro Music 90s, lansat pe 1 ianuarie 2008, se adresează ascultătorilor din România și din străinătate, oferind muzică, idei și informații transformate în conținut sonor captivant. Din 1 decembrie 2017 face parte din portofoliul Play Radio Hit '90s, si este dedicat exclusiv italo-disco și euro-disco din anii '80-'90.",
+     "country": "RO",
+      "tel": "+40.720.375.131",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 128,
+      "_homepage": "https://radiopromusic.ro/"
+     },
     {
       "name": "Radio Xtream Romania",
       "streamURL": "https://asculta.radioxtream.com:8022/stream",
@@ -482,6 +495,19 @@
       "_homepage": "https://radiotaraf.ro/"
     },
     {
+     "name": "Radio Bubuiala",
+     "streamURL": "https://ssl.omegahost.ro:8022/stream",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/bubiala.png",
+     "desc": "O Melodie Pentru Fiecare",
+     "longDesc": "Radio Bubuiala aduce energia muzicii autentice, cu cele mai recente manele și hituri românești, adaptate preferințelor fiecărui ascultător. Muzica ta, ritmul tău!",
+     "country": "RO",
+      "tel": "",
+      "whatsapp": "+400730397655",
+      "_codec": "",
+      "_bitrate": 128,
+      "_homepage": "https://radiobubuiala.ro/"
+     },
+    {
       "name": "Virgin Radio Romania",
       "streamURL": "https://astreaming.edi.ro:8443/VirginRadio_aac",
       "imageURL": "https://virginradio.ro/wp-content/uploads/2019/06/VR_ROMANIA_WHITE-STAR-LOGO_RGB_ONLINE_1600x1600.png",
@@ -507,6 +533,32 @@
       "_bitrate": 96,
       "_homepage": "http://www.radiogoldfm.ro/"
     },
+    {
+     "name": "ProFM",
+     "streamURL": "https://edge76.rcs-rds.ro/profm/profm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/pro_fm.png",
+     "desc": "Open Radio",
+     "longDesc": "ProFM România este un post de radio național popular, recunoscut pentru mixul său de muzică actuală și emisiuni dinamice. Difuzează hituri pop, rock, dance și hip-hop, alături de programe matinale și serale animate de prezentatori carismatici. Cu o abordare modernă și interactivă, ProFM oferă divertisment și energie ascultătorilor din toată țara, fie acasă, la serviciu sau pe drum.",
+     "country": "RO",
+      "tel": "+40212522642",
+      "whatsapp": "+40771001872",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.profm.ro/"
+     },
+    {
+     "name": "Digi FM",
+     "streamURL": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/digifm.png",
+     "desc": "Ca Sa Stii",
+     "longDesc": "Post de radio romanesc - parte din trustul DIGI",
+     "country": "RO",
+      "tel": "+40314002929",
+      "whatsapp": "+400774601601",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.digifm.ro/"
+     },
     {
       "name": "RFI Romania",
       "streamURL": "http://asculta.rfi.ro:9128/live.aac",
@@ -598,6 +650,45 @@
       "_bitrate": 128,
       "_homepage": "https://www.radiohot.ro/"
     },
+    {
+     "name": "Dance FM",
+     "streamURL": "https://edge76.rcs-rds.ro/profm/dancefm.mp3",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/dancefm.png",
+     "desc": "The Beat of Romania",
+     "longDesc": "Dance FM este un post de radio de clubbing din România, coordonat de Marius Onuc și parte a grupului RCS & RDS. Emite pe 89,5 FM în București și online, fiind lansat pe 21 februarie 2011 în cadrul unui eveniment The Mission. Dedicat tinerilor pasionați de muzică electronică, Dance FM difuzează seturi ale unor DJ renumiți precum Armin Van Buuren, Tiësto, John Digweed, Claptone sau Manuel Riva. Postul a devenit parte oficială a portofoliului RCS & RDS în decembrie 2014.",
+     "country": "RO",
+     "tel": "",
+     "whatsapp": "",
+     "_codec": "MP3",
+     "_bitrate": 128,
+     "_homepage": "https://www.dancefm.ro/"
+    },
+    {
+     "name": "Radio AS Petrecere",
+     "streamURL": "https://stream.zeno.fm/zp999wm4tm0uv",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radioas.png",
+     "desc": "Manele & Petrecere",
+     "longDesc": "Radio AS Petrecere funcționează din anul 2005 prin Fm. Muzică dance, manele, muzică populară dar și înregistrări de la petreceri și concerte aduc întotdeauna buna-dispoziție. Astfel, putem lua parte mereu la petrecere, chiar și atunci când ne simțim singuri. Acest radio emite muzică de petrecere (manele și muzică populară de joc mixate, live-uri de la evenimente cu muzică cântată live).",
+     "country": "RO",
+     "tel": "",
+     "whatsapp": "+40764425603",
+     "_codec": "",
+     "_bitrate": 96,
+     "_homepage": "https://radioas.radi0.im/wp/"
+    },
+    {
+     "name": "Radio Popular",
+     "streamURL": "https://livessl.radiopopular.ro:7777/live",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiopopular.png",
+     "desc": "Orice zi e sărbătoare",
+     "longDesc": "",
+     "country": "RO",
+     "tel": "+40724296901",
+     "whatsapp": "+40773780522",
+     "_codec": "",
+     "_bitrate": 96,
+     "_homepage": "https://www.radiopopular.ro/"
+     },
     {
       "name": "Smart Radio",
       "streamURL": "http://live.smartradio.ro:9128/live",
