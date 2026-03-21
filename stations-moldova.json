@@ -106,6 +106,45 @@
       "_homepage": "https://jurnalfm.md/"
     },
     {
+     "name": "PRO Dj Radio",
+     "streamURL": "https://live.prodjradio.net:8065/radio",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/prodj.png",
+     "desc": "Simte Ritmul, Simte Hitul!",
+     "longDesc": "PRO Dj Radio, lansat în vara lui 2012 de producătorul Flavi Lester, este un radio online axat pe muzică Top 40, dance și house. Emite preponderent muzică europeană (inclusiv producții românești și din Republica Moldova), aducând bună dispoziție prin cele mai noi hituri pentru un public cât mai larg.",
+     "country": "MD",
+      "tel": "+373 692 10425",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.prodjradio.net/"
+     },
+    {
+     "name": "Radio Relax",
+     "streamURL": "https://stream.dixi.md:9443/RadioRelax",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
+     "desc": "Un radio plăcut și liniștit",
+     "longDesc": "",
+     "country": "MD",
+      "tel": "+373 228 11200",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiorelax.md/"
+     },
+	 {
+     "name": "Radio Relax - Instrumental",
+     "streamURL": "https://radio1.dixi.md/listen/relax_instrumental/relaxinstrumental128.aac",
+     "imageURL": "https://liviurhos.github.io/radio-stations/images/radiorelax.png",
+     "desc": "Un radio plăcut și liniștit",
+     "longDesc": "",
+     "country": "MD",
+      "tel": "+373 228 11200",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiorelax.md/"
+     },
+    {
       "name": "Megapolis Fm",
       "streamURL": "https://megapolisfm.md:8443/886",
       "imageURL": "",
