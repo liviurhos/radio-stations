@@ -832,14 +832,10 @@
       "_bitrate": 320,
       "_homepage": "https://radio999bg.com/"
     },
-
-
-
-    
     {
       "name": "Radio AXE Project",
       "streamURL": "http://79.98.108.170:8004/autodj",
-      "imageURL": "",
+      "imageURL": "https://www.theaxeproject.com/pictures/axelogo.png",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -847,25 +843,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Beatport",
-      "streamURL": "http://79.98.108.170:8014/autodj",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://www.theaxeproject.com/"
     },
     {
       "name": "Radio Beinsa Duno",
       "streamURL": "http://87.252.182.193:8000/;",
-      "imageURL": "",
+      "imageURL": "https://radiobeinsaduno.free.bg/assets/logo.svg",
       "desc": "Talk & Speech",
       "longDesc": "",
       "country": "BG",
@@ -873,12 +856,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
-      "_homepage": ""
+      "_homepage": "https://radiobeinsaduno.free.bg/"
     },
     {
       "name": "Radio BG London Plus",
       "streamURL": "http://live.radiobg.co.uk:8000/live",
-      "imageURL": "",
+      "imageURL": "https://i0.wp.com/radiobg.co.uk/wp-content/uploads/2020/03/cropped-RadioBG-London-512.png",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -886,20 +869,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "RADIO BGRADIO",
-      "streamURL": "https://play.global.audio/bgradio128",
-      "imageURL": "https://bgradio.bg/theme_assets/bgradio/images/favicon.png",
-      "desc": "RADIO BGRADIO",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://bgradio.bg/"
+      "_homepage": "https://radiobg.co.uk/"
     },
     {
       "name": "Radio Chanove",
@@ -908,29 +878,16 @@
       "desc": "Folk | Етно | Клуб Чанове | Народна | Фолклор | Хора | Чанове",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359887694058",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://chanove.com/"
     },
     {
-      "name": "RADIO CITY",
-      "streamURL": "http://play.global.audio/city64",
-      "imageURL": "https://www.city.bg/theme_assets/city/images/logo.png",
-      "desc": "RADIO CITY",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://www.city.bg/"
-    },
-    {
       "name": "Radio Contact",
       "streamURL": "https://listen.radioking.com/radio/490082/stream/546899",
-      "imageURL": "",
+      "imageURL": "https://radiocontact.bg/wp-content/uploads/2022/05/radio1-logo-clean-site3.png",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -938,20 +895,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Cyberfolk",
-      "streamURL": "http://91.227.77.124/cyberfolk",
-      "imageURL": "https://radiocyberfolk.com/cyberfolk.png",
-      "desc": "Pop-Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://radiocyberfolk.com/"
+      "_homepage": "https://radiocontact.bg/"
     },
     {
       "name": "Radio Dance With Me",
@@ -967,35 +911,9 @@
       "_homepage": "http://www.dancewithme-bg.com/index.html"
     },
     {
-      "name": "Radio Deep Disco",
-      "streamURL": "http://79.98.108.170:8000/autodj",
-      "imageURL": "",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Dobrudja",
-      "streamURL": "http://5.104.174.128:8000/radiodobrudja",
-      "imageURL": "",
-      "desc": "Talk & Speech",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Radio Evangelie",
       "streamURL": "http://79.98.108.170:8078/autodj",
-      "imageURL": "",
+      "imageURL": "https://radio.dubbeh.net/logo/station/40906/cached",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1003,12 +921,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "Radio Evangelie"
     },
     {
       "name": "Radio Family",
       "streamURL": "http://a1.virtualradio.eu:8000/family.mp3",
-      "imageURL": "",
+      "imageURL": "https://cdn-profiles.tunein.com/s300085/images/logog.jpg",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1016,51 +934,25 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Favorit",
-      "streamURL": "http://79.98.108.170:8235/stream",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.radiofamily.bg/"
     },
     {
       "name": "Radio Folk BG",
       "streamURL": "http://listen.folkbg.net:8001/folkbg",
-      "imageURL": "",
+      "imageURL": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
       "desc": "Radio Folk BG",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359029312360",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.folkbg.net/"
     },
     {
-      "name": "Radio Fresh!",
-      "streamURL": "http://193.108.24.21:8000/fresh",
-      "imageURL": "http://radiofresh.bg/i/logo.png",
-      "desc": "Radio Fresh!",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://radiofresh.bg/"
-    },
-    {
       "name": "Radio Gamma",
       "streamURL": "http://g5.turbohost.eu:8003/gama128",
-      "imageURL": "",
+      "imageURL": "http://bg-radia.com/css/img/bg-radia-logo.svg",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1068,25 +960,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Globe",
-      "streamURL": "http://79.98.108.170:8019/autodj",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "http://bg-radia.com/radios/radio-gama"
     },
     {
       "name": "Radio Helikon",
       "streamURL": "http://87.121.90.229:9000/live_128",
-      "imageURL": "",
+      "imageURL": "https://cdn.instant.audio/images/logos/bg-radio-org/helikon.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "BG",
@@ -1103,30 +982,17 @@
       "desc": "Radio Horo",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+3590887403735",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radiohoro.com/"
     },
     {
-      "name": "Radio Horo Plus",
-      "streamURL": "http://g5.turbohost.eu:8020/stream256",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Radio Hushove",
       "streamURL": "http://79.98.108.173:8006/radioxaschove",
-      "imageURL": "",
-      "desc": "Folk",
+      "imageURL": "https://online-radio-bg.com/storage/radios/18421/41595/conversions/3uMhLeQU0SMvDOt2CH90EJEjNeuvMG-meta0YDQsNC00LjQviDRhdGK0YjQvtCy0LUucG5n--lg.webp",
+      "desc": "Folk | Dans | Pop | Club",
       "longDesc": "",
       "country": "BG",
       "tel": "",
@@ -1138,7 +1004,7 @@
     {
       "name": "Radio Jega",
       "streamURL": "http://g5.turbohost.eu:8004/stream",
-      "imageURL": "",
+      "imageURL": "https://radiojega.com/images/logo.png",
       "desc": "Folk",
       "longDesc": "",
       "country": "BG",
@@ -1146,25 +1012,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Jega Жега",
-      "streamURL": "http://g5.turbohost.eu:8004/stream",
-      "imageURL": "https://www.predavatel.com/theme/images/favicon.gif",
-      "desc": "Radio Jega Жега",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.predavatel.com/bg/live/"
+      "_homepage": "https://radiojega.com/"
     },
     {
       "name": "Radio Jugomania",
       "streamURL": "https://s8.yesstreaming.net:17051/autodj",
-      "imageURL": "",
+      "imageURL": "https://jugomanija.com/wp-content/uploads/2018/01/jmfb.png",
       "desc": "Folk",
       "longDesc": "",
       "country": "BG",
@@ -1172,64 +1025,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Lagoshevtsi",
-      "streamURL": "http://radio.jump.bg:8484/stream",
-      "imageURL": "",
-      "desc": "Ambient | Folk | Instrumental | Rock",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://mmirojv.business.site/"
-    },
-    {
-      "name": "Radio Magic Fm",
-      "streamURL": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 105,
-      "_homepage": ""
-    },
-    {
-      "name": "radio Maia",
-      "streamURL": "https://radio.rn-tv.com:8000/stream/1/",
-      "imageURL": "https://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
-      "desc": "radio Maia",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://radiomaia.com/"
-    },
-    {
-      "name": "Radio Mall Sofia",
-      "streamURL": "http://79.98.108.170:8104/autodj",
-      "imageURL": "",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://jugomanija.com/radio-jugomanija/"
     },
     {
       "name": "Radio Melodia Silistra",
       "streamURL": "http://g5.turbohost.eu:8010/stream128",
-      "imageURL": "",
+      "imageURL": "https://cdn.radio-addict.com/media/stream/8dbb2c0c-7068-4eb5-a65f-435b06225150_D1125714936F1574B99586AEAB19EBD9_6dd6186a1ed3f7db46f5103d28e6e6dc_100x100.webp",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1254,8 +1055,8 @@
     },
     {
       "name": "Radio Metronom",
-      "streamURL": "http://radiometronom.com:8010/",
-      "imageURL": "",
+      "streamURL": "https://radiometronom.com:8443/",
+      "imageURL": "https://www.radiometronom.com/logo.png",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1263,25 +1064,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Mixx Bulgaria",
-      "streamURL": "http://83.97.65.98:9000/;",
-      "imageURL": "",
-      "desc": "Radio Mixx Bulgaria",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 192,
-      "_homepage": "https://radiomixx.net/"
+      "_homepage": "https://www.radiometronom.com/"
     },
     {
       "name": "Radio Music BG",
       "streamURL": "http://79.98.108.170:8243/stream",
-      "imageURL": "",
+      "imageURL": "https://www.music.bg/img/logo.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "BG",
@@ -1289,20 +1077,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Nostalgia",
-      "streamURL": "https://sc.mpbnl.nl/radionostalgia.mp3",
-      "imageURL": "https://radiodns.mpbnl.nl/logos/note/radio-nostalgia.png",
-      "desc": "2010S Music | 2010 | 2000S | Hit Music | Pop Music | Pop | Dance",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 384,
-      "_homepage": "https://notefmbg.free.bg"
+      "_homepage": "https://www.music.bg/"
     },
     {
       "name": "Radio NRG",
@@ -1320,7 +1095,7 @@
     {
       "name": "Radio ORV",
       "streamURL": "http://radio.orvmedia.com:8005/stream",
-      "imageURL": "",
+      "imageURL": "https://zeno.fm/_ipx/_/https://images.zeno.fm/y6OXYuUa43qrN0v0fkSylAKFhlpMAS-APZBdWDDCBW8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F1SmUxdUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1F4SkxkaVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDk4NDgyOTAwMA.webp",
       "desc": "Pop",
       "longDesc": "",
       "country": "BG",
@@ -1329,50 +1104,24 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
-    },
-    {
-      "name": "Radio ORV",
-      "streamURL": "http://radio.orvmedia.com:8005/stream",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Party Mix",
-      "streamURL": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3",
-      "imageURL": "https://pozdravite.net/images/favicon.png",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://pozdravite.net/"
     },
     {
       "name": "Radio Pianica",
       "streamURL": "http://mpc1.mediacp.eu:8024/",
-      "imageURL": "https://www.radiopi.top/favicon.ico",
+      "imageURL": "https://www.new.radiopi.top/wp-content/uploads/2022/01/favicon-radio-pianic-01.png",
       "desc": "Radio Pianica",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+359 878 88 69 88",
+      "whatsapp": "+359878886988",
       "_codec": "AAC",
       "_bitrate": 224,
       "_homepage": "https://www.radiopi.top/"
     },
     {
       "name": "Radio Razgrad",
-      "streamURL": "http://188.126.1.25:8000/razgrad",
-      "imageURL": "",
+      "streamURL": "http://radiorazgrad.hothost.bg/128k",
+      "imageURL": "https://radiorazgrad.com/wp-content/uploads/2019/05/radiorz_logo_v2-167x38.png",
       "desc": "Talk & Speech",
       "longDesc": "",
       "country": "BG",
@@ -1380,25 +1129,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Retro Folk",
-      "streamURL": "http://79.98.108.170:8053/",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://radiorazgrad.com/"
     },
     {
       "name": "Radio Rezonans",
       "streamURL": "http://88.87.10.53:8000/*.ogg",
-      "imageURL": "",
+      "imageURL": "https://www.rezradio.bg/resources/images/logo.png",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1406,16 +1142,16 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
+      "_homepage": "https://www.rezradio.bg/"
     },
     {
       "name": "Radio Ruse",
       "streamURL": "https://radio.ruse.bg:8010/radioruse",
-      "imageURL": "",
+      "imageURL": "https://radioruse.com/site/images/logo7.png",
       "desc": "Radio Ruse",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+35982821622",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1424,20 +1160,20 @@
     {
       "name": "Radio Sevlievo",
       "streamURL": "http://195.68.214.130:8000/",
-      "imageURL": "",
+      "imageURL": "https://www.radiosevlievo.net/images/header-logo.svg",
       "desc": "Talk & Speech",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+359885515051",
+      "whatsapp": "+359885515051",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.radiosevlievo.net/"
     },
     {
       "name": "Radio Sladko Izkushenie",
       "streamURL": "http://g5.turbohost.eu:8006/autodj",
-      "imageURL": "",
+      "imageURL": "https://www.rcast.net/favicon.png",
       "desc": "Folk",
       "longDesc": "",
       "country": "BG",
@@ -1445,12 +1181,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.rcast.net/dir/232911/radio-sladko-izkushenie"
     },
     {
       "name": "Radio Slavi",
       "streamURL": "http://79.98.108.170:8043/;",
-      "imageURL": "",
+      "imageURL": "https://online-radio-bg.com/storage/radios/19292/46754/conversions/6cYgtuT6YJ93jrJwLmOL21Lxiqw7f5-meta0KDQsNC00LjQviDQodC70LDQstC4LnBuZw==--lg.webp",
       "desc": "Folk",
       "longDesc": "",
       "country": "BG",
@@ -1458,25 +1194,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Slavianska Parodia",
-      "streamURL": "http://79.98.108.170:8033/autodj",
-      "imageURL": "",
-      "desc": "International",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
       "_homepage": ""
     },
     {
       "name": "Radio Strimonika",
       "streamURL": "https://play-radio0.jump.bg:7666/stream",
-      "imageURL": "",
+      "imageURL": "https://www.radioexpert.net/radio-logo/bulgaria/radio-strimonika-133-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-bulgaria-320.jpg",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1489,8 +1212,8 @@
     {
       "name": "Radio Sunny Beach",
       "streamURL": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
-      "imageURL": "",
-      "desc": "Misc",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2023/11/Sunny-Beach-Radio.webp",
+      "desc": "Disco | Electropop| PopWorld| Music | Reggae | Lounge | Easy | Listening | Chillout | Dance | Electronic",
       "longDesc": "",
       "country": "BG",
       "tel": "",
@@ -1502,7 +1225,7 @@
     {
       "name": "Radio Teteven",
       "streamURL": "http://g5.turbohost.eu:8001/teteven",
-      "imageURL": "",
+      "imageURL": "https://scontent.fbrs5-1.fna.fbcdn.net/v/t39.30808-1/300800665_501892915271970_4069778725692368682_n.png?stp=dst-png_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=099ZnnPhPP4Q7kNvwEj0fPq&_nc_oc=AdoIK35PT99MXkUV-NSHY9KAa3lj8BNfWoRuAo2ao8z1O-7TASNl1P0KO59Xx9unT7E&_nc_zt=24&_nc_ht=scontent.fbrs5-1.fna&_nc_gid=Wx2TkOt6CzqSYgEg5dBvpA&_nc_ss=7a32e&oh=00_AfyjFO5d8HVlS5OV61s3pxsYCwfJiMep9QY2i4eQupxFEw&oe=69C852EA",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1515,28 +1238,15 @@
     {
       "name": "Radio The Voice",
       "streamURL": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
-      "imageURL": "",
+      "imageURL": "https://m.netinfo.bg/thevoice/resources/assets/images/logo.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359878545545",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 105,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Tomeko",
-      "streamURL": "http://79.98.108.170:8024/live",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": ""
+      "_homepage": "https://thevoice.bg/"
     },
     {
       "name": "Radio Ultra Pernik",
@@ -1553,7 +1263,7 @@
     },
     {
       "name": "Radio Vega +",
-      "streamURL": "http://88.80.96.25:3050/;?1705023133784",
+      "streamURL": "http://88.80.96.25:8040/;",
       "imageURL": "https://radiovega.bg/wp-content/uploads/2022/05/logo.png",
       "desc": "Radio Vega +",
       "longDesc": "",
@@ -1563,19 +1273,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radiovega.bg/"
-    },
-    {
-      "name": "Radio Vega Plus",
-      "streamURL": "http://88.80.96.25:40070/vega.mp3",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
     },
     {
       "name": "Radio Veronika",
@@ -1591,39 +1288,13 @@
       "_homepage": "https://www.radioveronika.bg/"
     },
     {
-      "name": "RADIO VERONIKA",
-      "streamURL": "https://play.global.audio/veronika64",
-      "imageURL": "https://radioveronika.bg/theme_assets/radioveronika/images/logo.png",
-      "desc": "RADIO VERONIKA",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://radioveronika.bg/"
-    },
-    {
-      "name": "Radio Veselina",
-      "streamURL": "https://bss1.neterra.tv/veselina/veselina.m3u8",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 105,
-      "_homepage": ""
-    },
-    {
       "name": "Radio Veselina Bulgaria",
-      "streamURL": "https://bss1.neterra.tv/veselina/veselina.m3u8",
+      "streamURL": "https://nova-radio.neterra.tv/veselina",
       "imageURL": "https://www.radioveselina.bg/resources/assets/images/favicon/apple-touch-icon.png",
       "desc": "Folk | Narodna",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359878801080",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 105,
@@ -1632,7 +1303,7 @@
     {
       "name": "Radio Vidin",
       "streamURL": "http://89.106.110.85:8000/",
-      "imageURL": "",
+      "imageURL": "https://i1.sndcdn.com/artworks-000384947406-6euvh9-t500x500.jpg",
       "desc": "Talking",
       "longDesc": "",
       "country": "BG",
@@ -1645,20 +1316,20 @@
     {
       "name": "Radio Vitosha",
       "streamURL": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
-      "imageURL": "",
+      "imageURL": "https://www.radiovitosha.com/resources/assets/images/default-big.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359878501000",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 105,
-      "_homepage": ""
+      "_homepage": "https://www.radiovitosha.com/"
     },
     {
       "name": "Radio Winbet",
       "streamURL": "http://79.98.108.170:8010/autodj",
-      "imageURL": "",
+      "imageURL": "https://i.ytimg.com/vi/lCUtkKI6Zkg/maxresdefault.jpg",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1669,22 +1340,9 @@
       "_homepage": ""
     },
     {
-      "name": "Radio Zone Mix",
-      "streamURL": "http://79.98.108.170:8036/autodj",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Radio Zorana Sofia",
       "streamURL": "https://radio.jump.bg/proxy/radio12/stream",
-      "imageURL": "",
+      "imageURL": "https://zorana.bg/radio/wp-content/uploads/2024/02/ZORANA-FONDACIA-logo-2.webp",
       "desc": "Misc",
       "longDesc": "",
       "country": "BG",
@@ -1692,7 +1350,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
-      "_homepage": ""
+      "_homepage": "https://zorana.bg/radio/"
     },
     {
       "name": "Radioplay Cafe",
@@ -1707,45 +1365,10 @@
       "_bitrate": 160,
       "_homepage": "https://radioplay.bg/"
     },
-    {
-      "name": "Radioplay Cafe",
-      "streamURL": "https://play.global.audio/cafehi.aac",
-      "imageURL": "https://www.radioplay.bg/assets/logos/cafe.png",
-      "desc": "Cafe",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 160,
-      "_homepage": "https://radioplay.bg/"
-    },
-    {
-      "name": "Radioplay Cafe",
-      "streamURL": "https://play.global.audio/cafehi.aac",
-      "imageURL": "https://www.radioplay.bg/assets/logos/cafe.png",
-      "desc": "Cafe",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 160,
-      "_homepage": "https://radioplay.bg/"
-    },
-    {
-      "name": "Radioplay Cafe",
-      "streamURL": "https://play.global.audio/cafehi.aac",
-      "imageURL": "https://www.radioplay.bg/assets/logos/cafe.png",
-      "desc": "Cafe",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 160,
-      "_homepage": "https://radioplay.bg/"
-    },
+
+
+
+    
     {
       "name": "Raimos Disco Radio",
       "streamURL": "http://a1.virtualradio.eu:8000/discoradio",
