@@ -352,19 +352,6 @@
       "_homepage": "https://easyradio.bg/#"
     },
     {
-      "name": "EasyRadio.Bg (FLAC)",
-      "streamURL": "https://c30.radioboss.fm:8758/live",
-      "imageURL": "https://static-media.streema.com/media/cache/be/44/be44390943e863372f8c554897327595.png",
-      "desc": "Relaxation Music",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 128,
-      "_homepage": "https://easyradio.bg/"
-    },
-    {
       "name": "Eilo Radio - Progressive Radio",
       "streamURL": "http://eilo.org:8000/progressive",
       "imageURL": "",
@@ -780,21 +767,18 @@
       "_bitrate": 64,
       "_homepage": "https://onlinedjradio64.bg/"
     },
-
-
-    
     {
-      "name": "onlineDJradio",
-      "streamURL": "https://play.onlinedjradio.com:7000/live",
-      "imageURL": "",
-      "desc": "Electronic",
+      "name": "Radio Party Mix BG",
+      "streamURL": "http://65.108.198.245:9101/stream",
+      "imageURL": "https://pozdravite.net/images/logo32-1.png",
+      "desc": "Dance | Entertainment",
       "longDesc": "",
       "country": "BG",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+32456209316",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://pozdravite.net/"
     },
     {
       "name": "Power FM 91.1",
@@ -803,46 +787,20 @@
       "desc": "Power FM 91.1",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359885845584",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.powerfm.bg/"
     },
     {
-      "name": "Radio 1",
-      "streamURL": "http://stream.metacast.eu/radio1128",
-      "imageURL": "",
-      "desc": "Radio 1",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio 1",
-      "streamURL": "http://149.13.0.80/radio1128",
-      "imageURL": "",
-      "desc": "Radio 1",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio 1 Bulgaria",
+      "name": "Radio 1 Bulgaria класическите хитове",
       "streamURL": "https://play.global.audio:80/radio164",
-      "imageURL": "",
+      "imageURL": "https://radio1.bg/theme_assets/radio1/images/sharing/radio_default_banner.jpg",
       "desc": "90S | Classic Pop | Classic Rock",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359029515100",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
@@ -855,38 +813,29 @@
       "desc": "Aac | Classic Rock | Rock | Едно | Рок",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359029515100",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.radio1rock.bg/"
     },
     {
-      "name": "Radio 1 радио 1 класическите хитове",
-      "streamURL": "http://stream.radioreklama.bg/radio164",
-      "imageURL": "http://www.radio1.bg/theme_assets/radio1/images/favicon.png",
-      "desc": "Classic Hits | News",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://www.radio1.bg/"
-    },
-    {
       "name": "Radio 999",
       "streamURL": "http://62.204.158.5:8081/live",
-      "imageURL": "",
+      "imageURL": "https://radio999bg.com/images/radio999bg/logo.png",
       "desc": "Radio 999",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+3590893069512",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
+      "_homepage": "https://radio999bg.com/"
     },
+
+
+
+    
     {
       "name": "Radio AXE Project",
       "streamURL": "http://79.98.108.170:8004/autodj",
