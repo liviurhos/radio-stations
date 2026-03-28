@@ -846,19 +846,6 @@
       "_homepage": "https://www.theaxeproject.com/"
     },
     {
-      "name": "Radio Beinsa Duno",
-      "streamURL": "http://87.252.182.193:8000/;",
-      "imageURL": "https://radiobeinsaduno.free.bg/assets/logo.svg",
-      "desc": "Talk & Speech",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://radiobeinsaduno.free.bg/"
-    },
-    {
       "name": "Radio BG London Plus",
       "streamURL": "http://live.radiobg.co.uk:8000/live",
       "imageURL": "https://i0.wp.com/radiobg.co.uk/wp-content/uploads/2020/03/cropped-RadioBG-London-512.png",
@@ -911,19 +898,6 @@
       "_homepage": "http://www.dancewithme-bg.com/index.html"
     },
     {
-      "name": "Radio Evangelie",
-      "streamURL": "http://79.98.108.170:8078/autodj",
-      "imageURL": "https://radio.dubbeh.net/logo/station/40906/cached",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "Radio Evangelie"
-    },
-    {
       "name": "Radio Family",
       "streamURL": "http://a1.virtualradio.eu:8000/family.mp3",
       "imageURL": "https://cdn-profiles.tunein.com/s300085/images/logog.jpg",
@@ -948,19 +922,6 @@
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.folkbg.net/"
-    },
-    {
-      "name": "Radio Gamma",
-      "streamURL": "http://g5.turbohost.eu:8003/gama128",
-      "imageURL": "http://bg-radia.com/css/img/bg-radia-logo.svg",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://bg-radia.com/radios/radio-gama"
     },
     {
       "name": "Radio Helikon",
@@ -1112,7 +1073,7 @@
       "desc": "Radio Pianica",
       "longDesc": "",
       "country": "BG",
-      "tel": "+359 878 88 69 88",
+      "tel": "+359878886988",
       "whatsapp": "+359878886988",
       "_codec": "AAC",
       "_bitrate": 224,
@@ -1160,7 +1121,7 @@
     {
       "name": "Radio Sevlievo",
       "streamURL": "http://195.68.214.130:8000/",
-      "imageURL": "https://www.radiosevlievo.net/images/header-logo.svg",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/txhe2supmfrc.png",
       "desc": "Talk & Speech",
       "longDesc": "",
       "country": "BG",
@@ -1430,15 +1391,10 @@
       "_bitrate": 320,
       "_homepage": "https://sweetradio.online/"
     },
-
-
-
-    
-    
     {
       "name": "Tangra Mega Rock",
       "streamURL": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
-      "imageURL": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/xm5vlsccaprq.png",
       "desc": "Hard Rock Heavy Metal",
       "longDesc": "",
       "country": "BG",
@@ -1448,19 +1404,14 @@
       "_bitrate": 192,
       "_homepage": "http://www.radiotangra.com/"
     },
-    {
-      "name": "Tangra Mega Rock",
-      "streamURL": "http://stream-bg-01.radiotangra.com/Tangra-high.aac",
-      "imageURL": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
-      "desc": "Hard Rock Heavy Metal",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 256,
-      "_homepage": "http://www.radiotangra.com/"
-    },
+
+
+
+
+
+
+
+    
     {
       "name": "Test NRJ Sergio IP",
       "streamURL": "http://149.13.0.80/energy-90s",
