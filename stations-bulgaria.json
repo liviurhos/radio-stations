@@ -1404,16 +1404,6 @@
       "_bitrate": 192,
       "_homepage": "http://www.radiotangra.com/"
     },
-
-
-
-
-
-
-
-    
-  
-
     {
       "name": "Ultra Blagoevgrad",
       "streamURL": "http://88.80.96.25:3060/",
@@ -1432,19 +1422,6 @@
       "streamURL": "http://88.80.96.25:8000/",
       "imageURL": "https://radioultra.bg/wp-content/uploads/2022/04/Radio-Ultra.png",
       "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radioultra.bg/"
-    },
-    {
-      "name": "Ultra Sandanski",
-      "streamURL": "http://88.80.96.25:8000/",
-      "imageURL": "https://radioultra.bg/wp-content/uploads/2022/04/Radio-Ultra.png",
-      "desc": "Chalga",
       "longDesc": "",
       "country": "BG",
       "tel": "",
@@ -1544,28 +1521,10 @@
       "_bitrate": 128,
       "_homepage": "https://zrockradio.bg/"
     },
-
-
-
-
-    
     {
-      "name": "Zetra",
-      "streamURL": "http://79.98.108.170:8092/;",
-      "imageURL": "",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": ""
-    },
-    {
-      "name": "zig zag",
+      "name": "Radio Zig Zag",
       "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_103406805.jpg?alt=media&token=165eced7-c0cf-4900-bbdd-bc3a226acde9",
+      "imageURL": "https://www.radiosbg.com/sites/default/files/zigzag.png",
       "desc": "zig zag",
       "longDesc": "",
       "country": "BG",
@@ -1602,21 +1561,8 @@
       "_homepage": "https://www.radio1.bg/article/xmas-radio"
     },
     {
-      "name": "Мая",
-      "streamURL": "http://www.rnmediagroup.com:9000/",
-      "imageURL": "",
-      "desc": "Мая",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": ""
-    },
-    {
       "name": "Общинско радио Велико Търново",
-      "streamURL": "http://195.34.121.140:8004/",
+      "streamURL": "https://radiovelikotarnovo.com/radio/standard?t=1769151389783",
       "imageURL": "https://www.predavatel.com/bg/8/velikotarnovo_img/radio-vt98-2.png",
       "desc": "320Kbps | Hd | Велико | Общинско | Търново",
       "longDesc": "",
@@ -1629,146 +1575,16 @@
     },
     {
       "name": "Общинско Радио Разград",
-      "streamURL": "http://188.126.1.25:8000/razgrad",
-      "imageURL": "",
+      "streamURL": "http://radiorazgrad.hothost.bg/128k",
+      "imageURL": "https://radiorazgrad.com/wp-content/uploads/2019/05/radiorz_logo_v2-167x38.png",
       "desc": "Общинско Радио Разград",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+359084661062",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Радио FM+",
-      "streamURL": "http://193.108.24.21:8000/fmplus",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://fmplus.net/"
-    },
-    {
-      "name": "Радио Fresh!",
-      "streamURL": "http://31.13.223.148:8000/fresh.mp3",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://radiofresh.bg/"
-    },
-    {
-      "name": "Радио Варна",
-      "streamURL": "http://broadcast.masters.bg:8000/live",
-      "imageURL": "",
-      "desc": "News",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Радио Жега 96",
-      "streamURL": "http://g5.turbohost.eu:8004/stream96",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": ""
-    },
-    {
-      "name": "Радио Зиг Заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104839446.jpg?alt=media&token=aa505737-c1ae-4e42-8996-c73e0d8c575f",
-      "desc": "Dance | Pop | Rnb And 90'S",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
-    },
-    {
-      "name": "Радио Зиг заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "null",
-      "desc": "Dance | Pop | Rnb And 90'S",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
-    },
-    {
-      "name": "Радио Зиг заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "null",
-      "desc": "Радио Зиг заг - Най-яките парчета",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
-    },
-    {
-      "name": "Радио Зиг Заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104137376.jpg?alt=media&token=41350786-ed35-4180-9606-3ab41f0eabcb",
-      "desc": "Dance | Pop | Rnb And 90'S",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
-    },
-    {
-      "name": "Радио Зиг Заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "null",
-      "desc": "Dance And 90'S | Pop",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
-    },
-    {
-      "name": "Радио Зиг Заг - Най-яките парчета",
-      "streamURL": "https://radyo.yayin.com.tr:4474/stream",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_104302681.jpg?alt=media&token=1d8d60a0-15a3-4887-8a66-97cbe389bc00",
-      "desc": "Dance | Pop | Rnb And 90'S",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-zigzag.free.bg/"
+      "_homepage": "https://radiorazgrad.com/"
     },
     {
       "name": "Радио Канон - Radio Kanon",
@@ -1786,58 +1602,19 @@
     {
       "name": "Радио Пауър ФМ - Radio Power FM",
       "streamURL": "http://a1.virtualradio.eu:8000/powerfm.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.powerfm.bg/assets/images/logo.png",
       "desc": "Радио Пауър ФМ - Radio Power FM",
       "longDesc": "",
       "country": "BG",
-      "tel": "",
+      "tel": "+3590885845584",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.powerfm.bg/"
     },
     {
-      "name": "Радио Пияника",
-      "streamURL": "http://mpc1.mediacp.eu:8024/;",
-      "imageURL": "https://www.radiopi.top/favicon.ico",
-      "desc": "Greece | Greek | Greek Music",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 224,
-      "_homepage": "https://www.radiopi.top/"
-    },
-    {
-      "name": "Радио Хоро",
-      "streamURL": "http://g5.turbohost.eu:8020/stream256",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Радио „Епархийски глас“",
-      "streamURL": "https://radio.mitropolia-sofia.org:7610/stream",
-      "imageURL": "",
-      "desc": "Christian Orthodox | Christianity | Faith | Orthodox | Orthodox Christian | Orthodox Church | Orthodoxy | Вяра | Православие | Християнство",
-      "longDesc": "",
-      "country": "BG",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://radio-glas.mitropolia-sofia.org/"
-    },
-    {
-      "name": "Радио „Епархийски глас“",
-      "streamURL": "https://radio.mitropolia-sofia.org:7610/stream",
+      "streamURL": "https://radio.jump.bg:2199/proxy/sofiamitropoly/live",
       "imageURL": "https://mitropolia-sofia.org/wp-content/uploads/2023/09/heder-newvision5-1-150x150.png",
       "desc": "Радио „Епархийски глас“",
       "longDesc": "",
@@ -1846,7 +1623,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": "https://radio-glas.mitropolia-sofia.org/"
+      "_homepage": "https://mitropolia-sofia.org/radio/"
     }
   ]
 }
