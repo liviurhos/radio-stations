@@ -2822,17 +2822,30 @@
       "_homepage": "https://radio-killer.ro/"
     },
     {
-      "name": "Party Mix",
-      "streamURL": "https://play.discomix.ro/8004/stream",
-      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2023/12/Radio-Party-Mix.webp",
-      "desc": "Party Mix",
+      "name": "Radio Campus Urziceni",
+      "streamURL": "http://5.2.232.99:7000/;;",
+      "imageURL": "https://campusradiostation.ro/wp-content/uploads/2025/11/cropped-logo-nou-rotund-curbe-campus-vector-2025-scaled-1-180x180.jpg",
+      "desc": "Adult | Contemporary | Hits |Pop | Top 40 | Rock",
       "longDesc": "",
       "country": "RO",
-      "tel": "+40729935536",
+      "tel": "+40735111000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": "https://www.partymixtv.ro"
+      "_homepage": "https://campusradiostation.ro/"
+    },
+	{
+      "name": "Balcan Radio Manele",
+      "streamURL": "https://radio.sonicpanel.ro/8112/stream",
+      "imageURL": "https://cdn.radoxo.com/images/romania/balcan-radio-manele.webp",
+      "desc": "Manele | Hits |Pop | Top 40",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.facebook.com/profile.php?id=61555002935478"
     },
     {
       "name": "Radio Crasna",
