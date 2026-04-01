@@ -743,7 +743,7 @@
     },
     {
       "name": "Radio Tequila - Manele",
-      "streamURL": "http://dance.radiotequila.ro:7000/;stream.nsv",
+      "streamURL": "https://ssl.servereradio.ro/7000/stream",
       "imageURL": "https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",
       "desc": "Pop",
       "longDesc": "",
