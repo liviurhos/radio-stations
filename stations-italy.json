@@ -352,6 +352,32 @@
       "_homepage": "http://www.radiolaser.it/cityradio/"
     },
     {
+      "name": "Easy Network",
+      "streamURL": "http://sphera.fluidstream.eu/easy.aac?FLID=6",
+      "imageURL": "https://www.easynetwork.fm/wp-content/uploads/2025/07/cropped-radio-easy-network-icona-180x180.png",
+      "desc": "Adult Contemporary | Padova",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+39049490500",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.easynetwork.fm/"
+    },
+    {
+      "name": "Easy Network Jazz & Soul",
+      "streamURL": "https://sphera.fluidstream.eu/easy_jazz.mp3",
+      "imageURL": "https://www.easynetwork.fm/wp-content/uploads/2025/07/cropped-radio-easy-network-icona-180x180.png",
+      "desc": "Jazz | Padova | Soul",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+39049490500",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.easynetwork.fm/"
+    },
+    {
       "name": "Radio Easy Network - Classic",
       "streamURL": "https://sphera.fluidstream.eu/easy_classica.mp3",
       "imageURL": "https://www.easynetwork.fm/wp-content/uploads/2025/07/cropped-radio-easy-network-icona-180x180.png",
@@ -859,19 +885,6 @@
       "_homepage": "https://www.m2o.it/"
     },
     {
-      "name": "M20 - Deejay Time",
-      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8",
-      "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-180x180.jpg",
-      "desc": "Dance | Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "+393426543210",
-      "_codec": "M3U8",
-      "_bitrate": 122,
-      "_homepage": "https://www.m2o.it/"
-    },
-    {
       "name": "DumDUM",
       "streamURL": "https://sr11.inmystream.it/proxy/dumdumradio",
       "imageURL": "https://www.dumdumrepublic.com/images/favicon-96x96.png",
@@ -884,41 +897,10 @@
       "_bitrate": 320,
       "_homepage": "https://www.dumdumrepublic.com/it/radio-it/in-ascolto"
     },
-
-
-
-
-    
-    {
-      "name": "Easy Network",
-      "streamURL": "http://sphera.fluidstream.eu/easy.aac?FLID=6",
-      "imageURL": "",
-      "desc": "Adult Contemporary | Padova",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://www.easynetwork.fm/"
-    },
-    {
-      "name": "Easy Network Jazz & Soul",
-      "streamURL": "https://sphera.fluidstream.eu/easy_jazz.mp3",
-      "imageURL": "",
-      "desc": "Jazz | Padova | Soul",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.easynetwork.fm/"
-    },
     {
       "name": "Electro Lounge",
       "streamURL": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-01-14_23-25-32&uuid=4a7f7217-7b1e-45d3-8bd7-ee9f329c080e",
-      "imageURL": "",
+      "imageURL": "https://www.electrolounge.eu/wp-content/uploads/2025/01/extendify-demo-logo.png",
       "desc": "Electro Lounge",
       "longDesc": "",
       "country": "IT",
@@ -931,7 +913,7 @@
     {
       "name": "Electrolounge Milano",
       "streamURL": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-01-15_02-06-49&uuid=90028019-e71d-4978-9be5-a4da5703b257",
-      "imageURL": "",
+      "imageURL": "https://www.electrolounge.eu/wp-content/uploads/2025/01/extendify-demo-logo.png",
       "desc": "Chillout | Deep House | Electronic | Electronic Music | Lounge",
       "longDesc": "",
       "country": "IT",
@@ -957,12 +939,12 @@
     {
       "name": "FOREVER 70",
       "streamURL": "https://stream.laut.fm/forever70",
-      "imageURL": "https://forever80.altervista.org/wp-content/uploads/2020/01/FOREVER-70-DANCE-POP-320x207.jpg",
+      "imageURL": "https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER-70-DANCE-POP-512-png-1-320x320.png",
       "desc": "70S | Dance | Pop",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393762091000",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://forever80.altervista.org/"
@@ -970,12 +952,12 @@
     {
       "name": "FOREVER 80",
       "streamURL": "https://stream.laut.fm/forever80",
-      "imageURL": "",
+      "imageURL": "https://forever80.altervista.org/wp-content/uploads/2020/01/forever-80-logo.jpg",
       "desc": "80S | Dance",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393762091000",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://forever80.altervista.org/"
@@ -983,12 +965,12 @@
     {
       "name": "FOREVER 80-POP",
       "streamURL": "https://stream.laut.fm/forever80-pop",
-      "imageURL": "",
+      "imageURL": "https://forever80.altervista.org/wp-content/uploads/2024/05/FOREVER80POP-512-png-320x320.png",
       "desc": "80S | Pop",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393762091000",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://forever80.altervista.org/"
@@ -1001,7 +983,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393762091000",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://forever80.altervista.org/"
@@ -1009,7 +991,7 @@
     {
       "name": "Fred Film Radio(italiano)",
       "streamURL": "https://s10.webradio-hosting.com/proxy/fredradioit/stream",
-      "imageURL": "",
+      "imageURL": "https://fredfmstatic.s3.eu-central-1.amazonaws.com/wp-content/uploads/2025/04/Fred600x600.png",
       "desc": "Culture | Film | Movie",
       "longDesc": "",
       "country": "IT",
@@ -1018,6 +1000,19 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.fred.fm/"
+    },
+    {
+      "name": "Radio Vaticana",
+      "streamURL": "https://radio.vaticannews.va/stream-it",
+      "imageURL": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/rv/rv-esteso-bianco-small.png",
+      "desc": "Adult Contemporary | Ferrovie Dello Stato | Information | Roma | Trenitalia",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390669845423",
+      "whatsapp": "+393351243722",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.vaticannews.va/it/rvi.html"
     },
     {
       "name": "FSNews Radio",
@@ -1035,12 +1030,12 @@
     {
       "name": "Funky Corner Radio",
       "streamURL": "http://andromeda.shoutca.st:8411/stream",
-      "imageURL": "",
+      "imageURL": "https://www.funkycorner.it/images/Logo%20FUNKY%20CORNER%20General%20082024.png",
       "desc": "Disco | Funky | Rnb | Soul | Torino",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393756733655",
+      "whatsapp": "+393756733655",
       "_codec": "AAC+",
       "_bitrate": 112,
       "_homepage": "http://www.funkycorner.it/"
@@ -1074,38 +1069,29 @@
     {
       "name": "Gamma Radio - Golden Hits",
       "streamURL": "https://rn2.fluidstream.eu/gammaradio.mp3?FLID=1&type=.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.gammaradio.it/wp-content/uploads/2022/12/cropped-icona-gamma-radio-180x180.png",
       "desc": "Classic Hits | Musica Anni 70 | Musica Anni 80",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+39228510664",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://www.gammaradio.it/"
     },
-    {
-      "name": "GEDI - m2o",
-      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
-      "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2021/10/LOGO-e1635353469455-1200x1200.png",
-      "desc": "Dance",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 122,
-      "_homepage": "https://www.m2o.it/on-air/"
-    },
+
+
+
+    
     {
       "name": "Giornale Radio",
       "streamURL": "https://gr.fluidstream.eu/gr1.mp3",
-      "imageURL": "https://giornaleradio.fm/apple-touch-icon.png",
+      "imageURL": "https://giornaleradio.fm/wp-content/uploads/2023/03/cropped-giornale-radio-logo-2-180x180.png",
       "desc": "Giornale Radio",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390235971400",
+      "whatsapp": "+393341111622",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://giornaleradio.fm/"
