@@ -170,6 +170,19 @@
      "_homepage": "https://www.dancefm.ro/"
     },
 	{
+     "name": "ClubMix Radio",
+     "streamURL": "https://live.mikeriverra.com:9999/320mp3",
+     "imageURL": "https://myradioonline.ro/public/uploads/radio_img/clubmix-radio/fb_cover.jpg",
+     "desc": "Disco | Dance | Pop | Mix",
+     "longDesc": "",
+     "country": "RO",
+     "tel": "",
+     "whatsapp": "",
+     "_codec": "MP3",
+     "_bitrate": 320,
+     "_homepage": "https://radioclubmix.ro/"
+    },
+	{
       "name": "One FM Dance",
       "streamURL": "https://dc.digi.live.kissfm.ro/onefm.aacp",
       "imageURL": "https://www.1fm.ro/img/one.jpg",
