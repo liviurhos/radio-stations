@@ -533,22 +533,131 @@
       "_bitrate": 128,
       "_homepage": "https://www.rmc2.net/"
     },
-
-
-
-
-    
-
-
-    
+    {
+      "name": "Radio Monte Carlo",
+      "streamURL": "https://icy.unitedradio.it/RMC.mp3",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/it/4/4e/RMC1_Logo.png",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - Hits",
+      "streamURL": "https://icy.unitedradio.it/rmcweb001",
+      "imageURL": "https://www.radio.fr/300/rmchits.png",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - Buddha Bar",
+      "streamURL": "https://icy.unitedradio.it/rmcweb002",
+      "imageURL": "https://co.radio.net/300/rmcbuddhabar.png",
+      "desc": "Buddha Bar",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - Love Songs",
+      "streamURL": "https://icy.unitedradio.it/rmcweb006",
+      "imageURL": "https://img.radios.com.br/radio/xl/radio130654_1575923221.jpg",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - 80s",
+      "streamURL": "https://icy.unitedradio.it/rmcweb008",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/605/rmc-80.2b8a4907.jpg",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - 90s",
+      "streamURL": "https://icy.unitedradio.it/rmcweb009",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/590/rmc-90.e50d3fe9.jpg",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - Party",
+      "streamURL": "https://icy.unitedradio.it/rmcweb018",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/516/rmc-party.97dfe554.jpg",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - Jazz",
+      "streamURL": "https://icy.unitedradio.it/rmcweb019",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/398/rmc-radio-monte-carlo-jazz.4bb24deb.jpg",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
+    {
+      "name": "Radio Monte Carlo - R&B",
+      "streamURL": "https://icy.unitedradio.it/rmcweb003",
+      "imageURL": "https://www.phonostar.de/images/auto_created/RMC_Radio_Monte_Carlo_RnB184x184.png",
+      "desc": "",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+390229001636",
+      "whatsapp": "+393424141762",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "https://www.radiomontecarlo.net/"
+    },
     {
       "name": "Country Power Station",
       "streamURL": "http://shoutcast.countrypowerstation.net:8000/stream",
-      "imageURL": "",
+      "imageURL": "https://www.countrypowerstation.net/assets/images/cps2020-vettoriale2.png",
       "desc": "Country",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+39 0383/364631",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -557,7 +666,7 @@
     {
       "name": "Cyberspazio Radio",
       "streamURL": "http://37.156.244.223:8000/stream",
-      "imageURL": "",
+      "imageURL": "https://www.cyberspazio.tv/wp-content/uploads/2026/03/cropped-logo-1-e1774865174400-180x180.png",
       "desc": "Baroque | Chamber | Classical | Opera | Vercelli",
       "longDesc": "",
       "country": "IT",
@@ -570,7 +679,7 @@
     {
       "name": "Dancefloor 90s",
       "streamURL": "http://streaming.radiodancefloor.it/live.mp3",
-      "imageURL": "http://radiodancefloor.it/favicon.ico",
+      "imageURL": "https://www.radiodancefloor.it/wp-content/uploads/2022/11/RDF_LOGO_2015_RED_600.png",
       "desc": "90S",
       "longDesc": "",
       "country": "IT",
@@ -613,8 +722,8 @@
       "desc": "30Son | Webradio",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393473425220",
+      "whatsapp": "+393473425220",
       "_codec": "AAC+",
       "_bitrate": 122,
       "_homepage": "https://www.deejay.it/webradio/06/"
@@ -622,12 +731,12 @@
     {
       "name": "Deejay 80",
       "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8",
-      "imageURL": "https://www.deejay.it/favicon.ico",
+      "imageURL": "https://cdn.gelestatic.it/deejay/sites/2/2017/07/deejay_80-320x320.png",
       "desc": "1980S | 80 Hits | 80'S | 80S | 80S Rock | Hits 80S | The Best Of 80'S",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393473425220",
+      "whatsapp": "+393473425220",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.deejay.it/"
@@ -639,8 +748,8 @@
       "desc": "Love | Love Songs | Lovesongs",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393473425220",
+      "whatsapp": "+393473425220",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.deejay.it/"
@@ -652,8 +761,8 @@
       "desc": "Classic Italian Pop | Italian | Italian Music | Italian Pop | Italy | Musica Italiana",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393473425220",
+      "whatsapp": "+393473425220",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.deejay.it/"
@@ -665,8 +774,8 @@
       "desc": "Dance | Dance Music | House | Pop Dance",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393473425220",
+      "whatsapp": "+393473425220",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.deejay.it/"
@@ -674,7 +783,7 @@
     {
       "name": "Dimensione Suono Soft",
       "streamURL": "https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8",
-      "imageURL": "https://www.radio.de/images/broadcasts/25/0f/117624/1/c300.png",
+      "imageURL": "https://d2lxis1uiqe6st.cloudfront.net/wp-content/uploads/2018/06/logo.jpg",
       "desc": "Soft Adult Contemporary | Soft Pop",
       "longDesc": "",
       "country": "IT",
@@ -687,15 +796,80 @@
     {
       "name": "Discoradio - Il Ritmo della tua città",
       "streamURL": "http://icstream.rds.radio/disco",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241011_201636010.jpg?alt=media&token=86da9735-db7e-4bd0-ab63-9a1ac120773f",
+      "imageURL": "https://www.discoradio.it/wp-content/uploads/2018/10/cropped-logoDR@2x-180x180.png",
+      "desc": "Dance | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+393938003000",
+      "whatsapp": "+393938003000",
+      "_codec": "MP3",
+      "_bitrate": 256,
+      "_homepage": "https://www.discoradio.it/"
+    },
+    {
+      "name": "Daddy Radio",
+      "streamURL": "https://daddyradio1.radioca.st/;",
+      "imageURL": "https://i0.wp.com/daddyradio.net/wp-content/uploads/2022/09/cropped-cropped-cropped-cropped-LOGO-GRANDISSIMO.jpg",
+      "desc": "Dance | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+393314285445",
+      "whatsapp": "+393314285445",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://daddyradio.net/"
+    },
+    {
+      "name": "Daddy Radio Hits",
+      "streamURL": "https://stream.zeno.fm/m08ey1hkprhvv",
+      "imageURL": "https://i0.wp.com/daddyradio.net/wp-content/uploads/2022/09/cropped-cropped-cropped-cropped-LOGO-GRANDISSIMO.jpg",
+      "desc": "Dance | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+393314285445",
+      "whatsapp": "+393314285445",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://daddyradio.net/"
+    },
+    {
+      "name": "M20",
+      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+      "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-180x180.jpg",
       "desc": "Dance | Pop",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://www.discoradio.it/"
+      "whatsapp": "+393426543210",
+      "_codec": "M3U8",
+      "_bitrate": 122,
+      "_homepage": "https://www.m2o.it/"
+    },
+    {
+      "name": "M20 Dance",
+      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8",
+      "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-180x180.jpg",
+      "desc": "Dance | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "+393426543210",
+      "_codec": "M3U8",
+      "_bitrate": 122,
+      "_homepage": "https://www.m2o.it/"
+    },
+    {
+      "name": "M20 - Deejay Time",
+      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8",
+      "imageURL": "https://cdn.gelestatic.it/m2o/sites/2/2022/01/cropped-M2O-LOGO-JPG-180x180.jpg",
+      "desc": "Dance | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "+393426543210",
+      "_codec": "M3U8",
+      "_bitrate": 122,
+      "_homepage": "https://www.m2o.it/"
     },
     {
       "name": "DumDUM",
@@ -704,12 +878,17 @@
       "desc": "Indie Rock | Instrumental | Organic House",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+393893161316",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "https://www.dumdumrepublic.com/it/radio-it/in-ascolto"
     },
+
+
+
+
+    
     {
       "name": "Easy Network",
       "streamURL": "http://sphera.fluidstream.eu/easy.aac?FLID=6",
