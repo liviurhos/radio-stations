@@ -1079,10 +1079,6 @@
       "_bitrate": 256,
       "_homepage": "https://www.gammaradio.it/"
     },
-
-
-
-    
     {
       "name": "Giornale Radio",
       "streamURL": "https://gr.fluidstream.eu/gr1.mp3",
@@ -1099,12 +1095,12 @@
     {
       "name": "Giornale Radio La Dolce Vita",
       "streamURL": "https://gr.fluidstream.eu/gr7.mp3",
-      "imageURL": "",
+      "imageURL": "https://radio-streaming.it/assets/image/radio/180/GiornaleRadioDolcelaVita.jpg",
       "desc": "Giornale Radio La Dolce Vita",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390235971400",
+      "whatsapp": "+393341111622",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://giornaleradio.fm/radio-tematiche/giornale-radio-dolce-la-vita.html"
@@ -1112,12 +1108,12 @@
     {
       "name": "Giornale Radio Ultima Ora",
       "streamURL": "https://gr.fluidstream.eu/gr2.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.liveradio.ie/files/images/467031/resized/180x172c/giornaleradioultimaora180.jpg",
       "desc": "News",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390235971400",
+      "whatsapp": "+393341111622",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://giornaleradio.fm/radio-tematiche/giornale-radio-ultima-ora.html"
@@ -1129,29 +1125,16 @@
       "desc": "70S | 80S | 90S | Classic Hits | Roma",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+39689289100",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "http://www.globovintage.it/"
     },
     {
-      "name": "Gym Radio",
-      "streamURL": "http://edge.radiomontecarlo.net/rmcweb023",
-      "imageURL": "",
-      "desc": "Electronic | Mediaset",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiomontecarlo.net/"
-    },
-    {
       "name": "INmyradio - Discosauro",
       "streamURL": "http://sr2.inmystream.info:8015/;",
-      "imageURL": "",
+      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-discosauro.jpg",
       "desc": "Dance | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
@@ -1159,12 +1142,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.inmyradio.com/"
+      "_homepage": "https://inmyradio.net/"
     },
     {
       "name": "INmyradio - Network Satellite",
       "streamURL": "http://sr2.inmystream.info:8123/;",
-      "imageURL": "",
+      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-network-satellite.jpg",
       "desc": "Deep House | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
@@ -1175,48 +1158,41 @@
       "_homepage": "http://www.inmyradio.com/"
     },
     {
-      "name": "ITALIA Amore",
-      "streamURL": "https://icy.unitedradio.it/um012.mp3",
-      "imageURL": "",
-      "desc": "Italian | Mediaset",
+      "name": "INmyradio - Pleasure Dome",
+      "streamURL": "https://sr2.inmystream.it/proxy/pleasure?mp=/;stream.mp3",
+      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-pleasure-dome.jpg",
+      "desc": "Deep House | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.unitedmusic.it/"
+      "_homepage": "http://www.inmyradio.com/"
     },
     {
       "name": "Italia Dance Music",
       "streamURL": "http://sr2.inmystream.info:8032/stream",
-      "imageURL": "http://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico",
+      "imageURL": "https://static.wixstatic.com/media/2c031f_bd13351c49eb4eedbc26ec4d811aef3e%7Emv2.png/v1/fit/w_2500,h_1330,al_c/2c031f_bd13351c49eb4eedbc26ec4d811aef3e%7Emv2.png",
       "desc": "Dance | Electronica | Genova | House",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393715740602",
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "http://www.italiadancemusic.com/"
     },
+
+
+
+
+
+    
     {
-      "name": "Italia Dance Music",
-      "streamURL": "http://sr2.inmystream.info:8032/;",
-      "imageURL": "https://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico",
-      "desc": "Dance",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 96,
-      "_homepage": "https://www.italiadancemusic.com/"
-    },
-    {
-      "name": "ITALIA Hits Italia",
+      "name": "United Music ITALIA Hits",
       "streamURL": "https://icy.unitedradio.it/um011.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1227,9 +1203,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Italia 60",
+      "name": "United Music ITALIA 60",
       "streamURL": "https://icy.unitedradio.it/um014.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "60S | Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1240,9 +1216,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Italia 70",
+      "name": "United Music ITALIA 70",
       "streamURL": "https://icy.unitedradio.it/um020.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "70S | Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1253,9 +1229,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Italia 80",
+      "name": "United Music ITALIA 80",
       "streamURL": "https://icy.unitedradio.it/um016.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "80S | Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1266,9 +1242,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Italia 90",
+      "name": "United Music ITALIA 90",
       "streamURL": "https://icy.unitedradio.it/um018.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "90S | Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1279,9 +1255,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Millenials Italy",
+      "name": "United Music ITALIA Millenials",
       "streamURL": "https://icy.unitedradio.it/um021.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1292,9 +1268,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Radio Festival",
+      "name": "United Music ITALIA Radio Festival",
       "streamURL": "https://icy.unitedradio.it/um073.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "Italian | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -1305,9 +1281,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Rock Italiano",
+      "name": "United Music ITALIA Rock Italiano",
       "streamURL": "https://icy.unitedradio.it/um076.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "Italian | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -1318,9 +1294,9 @@
       "_homepage": "http://www.unitedmusic.it/"
     },
     {
-      "name": "ITALIA Viva Napoli",
+      "name": "United Music ITALIA Viva Napoli",
       "streamURL": "https://icy.unitedradio.it/um017.mp3",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/644/-020-united-music-italia-70.11ddb2c2.png",
       "desc": "Italian | Mediaset | Napoli",
       "longDesc": "",
       "country": "IT",
@@ -1333,7 +1309,7 @@
     {
       "name": "ITALIAN RADIO - Only (romantic) Italian Music",
       "streamURL": "https://italianradio.streamingmedia.it/play",
-      "imageURL": "",
+      "imageURL": "https://italian.radio/wp-content/uploads/2023/05/italian.radio_logoGrey_h100.webp",
       "desc": "Classic Italian Pop | Love Songs",
       "longDesc": "",
       "country": "IT",
@@ -1382,19 +1358,11 @@
       "_bitrate": 192,
       "_homepage": "https://italosound.com/"
     },
-    {
-      "name": "Italo Sound Radio",
-      "streamURL": "https://icecast.italosound.com/italosound",
-      "imageURL": "https://italosound.com/sites/all/themes/framework/apple-touch-icon.png",
-      "desc": "Dance | Italo Dance",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://italosound.com/"
-    },
+
+
+
+
+    
     {
       "name": "Italy Classical Radio",
       "streamURL": "http://philae.shoutca.st:8204/;",
