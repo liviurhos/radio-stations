@@ -689,6 +689,32 @@
       "_bitrate": 128,
       "_homepage": "https://atentat.ro/"
     },
+	{
+      "name": "Radio Hit FM - Manele",
+      "streamURL": "https://live.radiohitfm.net/8989/stream",
+      "imageURL": "https://radiohitfm.net/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_XL.jpg",
+      "desc": "Manele | Manele Și Petrecere",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "+40735751968",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radiohitfm.net/"
+    },
+	{
+      "name": "Radio Hit FM - Dance",
+      "streamURL": "https://dance.radiohitfm.net/8989/stream",
+      "imageURL": "https://radiohitfm.net/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_XL.jpg",
+      "desc": "Manele | Manele Și Petrecere",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "+40735751968",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radiohitfm.net/"
+    },
     {
       "name": "GoldFM",
       "streamURL": "http://80.86.106.110:8002/",
