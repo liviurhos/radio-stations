@@ -1183,12 +1183,6 @@
       "_bitrate": 96,
       "_homepage": "http://www.italiadancemusic.com/"
     },
-
-
-
-
-
-    
     {
       "name": "United Music ITALIA Hits",
       "streamURL": "https://icy.unitedradio.it/um011.mp3",
@@ -1358,15 +1352,10 @@
       "_bitrate": 192,
       "_homepage": "https://italosound.com/"
     },
-
-
-
-
-    
     {
       "name": "Italy Classical Radio",
       "streamURL": "http://philae.shoutca.st:8204/;",
-      "imageURL": "https://www.italyclassicalradio.it/player/template/img/logo.jpg",
+      "imageURL": "https://www.italyclassicalradio.it/logo.png",
       "desc": "Classical",
       "longDesc": "",
       "country": "IT",
@@ -1390,22 +1379,9 @@
       "_homepage": "https://jungleplanetradio.com/"
     },
     {
-      "name": "Kiss kiss italia",
-      "streamURL": "http://wma07.fluidstream.net:3616/;stream.nsv",
-      "imageURL": "",
-      "desc": "Kiss kiss italia",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://wma07.fluidstream.net:3616/;stream.nsv"
-    },
-    {
       "name": "LaRockaforte",
       "streamURL": "http://stream.radiomusic.net:8120/;",
-      "imageURL": "https://mytuner.global.ssl.fastly.net/static/widgets/mytuner-radio.png",
+      "imageURL": "https://www.larockaforte.com/nuovo23/wp-content/uploads/2023/02/logo-rock-b.png",
       "desc": "Classic Rock",
       "longDesc": "",
       "country": "IT",
@@ -1416,19 +1392,6 @@
       "_homepage": "http://www.larockaforte.com/"
     },
     {
-      "name": "Lattemiele",
-      "streamURL": "https://sr15.inmystream.it:8000/stream",
-      "imageURL": "https://www.lattemiele.com/wp-content/uploads/2020/07/cropped-logo-autore-lm-32x32.png",
-      "desc": "Musica Italiana",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://lattemiele.com/"
-    },
-    {
       "name": "LatteMiele",
       "streamURL": "https://sr15.inmystream.it/stream/lattemiele",
       "imageURL": "https://www.lattemiele.com/wp-content/uploads/2020/07/cropped-logo-autore-lm-192x192.png",
@@ -1436,7 +1399,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393357871910",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://www.lattemiele.com/"
@@ -1444,11 +1407,11 @@
     {
       "name": "LatteMiele Marche Abruzzo",
       "streamURL": "http://ice02.fluidstream.net/fluid016.aac",
-      "imageURL": "",
+      "imageURL": "https://play-lh.googleusercontent.com/TDPJXaUqgvR1q1hgwfmLLmU8G-HZg74CMNLnEGtUSdDsMFxN_zCmH1Xk0_fFCNBEEVyV",
       "desc": "Adult Contemporary | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "-390736304131",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
@@ -1457,7 +1420,7 @@
     {
       "name": "LatteMiele Puglia",
       "streamURL": "http://ice02.fluidstream.net/lattemielepuglia.aac?FLID=6",
-      "imageURL": "",
+      "imageURL": "https://play-lh.googleusercontent.com/aKGlpdISSRrQuWC7ghUfaS7Oh7hILLGSP1wZW1nx_FAjiyDbk1XbEKHnl6EthU6RL4SS=w240-h480-rw",
       "desc": "Italian Pop",
       "longDesc": "",
       "country": "IT",
@@ -1475,7 +1438,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.lolliradio.net/"
@@ -1488,7 +1451,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://lolliradio.net/"
@@ -1496,12 +1459,12 @@
     {
       "name": "Lolli Radio Oldies",
       "streamURL": "http://oldies.lolliradio.net:8070/listen.pls",
-      "imageURL": "",
+      "imageURL": "https://www.lolliradio.net/wp-content/uploads/2016/03/18.jpg",
       "desc": "Oldies",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://lolliradio.net/"
@@ -1509,54 +1472,28 @@
     {
       "name": "Lolli Radio Soft",
       "streamURL": "https://stream.lolliradio.net/lolli_soft.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.lolliradio.net/wp-content/uploads/2016/03/16.jpg",
       "desc": "Soft Adult Contemporary",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://lolliradio.net/"
     },
     {
-      "name": "Lolli Radio Soft",
-      "streamURL": "http://soft.lolliradio.net:8040/",
-      "imageURL": "",
-      "desc": "Lolli Radio Soft",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Lolli Radio Soul",
       "streamURL": "https://stream.lolliradio.net/lolli_soul.mp3",
-      "imageURL": "",
+      "imageURL": "https://uk.radio.net/175/lolliradiosoul.png?version=9ad4cd46780c2d73de15d7f6f30859b266e3d444",
       "desc": "R&B | Soul",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.lolliradio.net/"
-    },
-    {
-      "name": "Lolliradio Italia",
-      "streamURL": "https://stream.lolliradio.net/lolli_italia.mp3",
-      "imageURL": "https://www.lolliradio.net/wp-content/uploads/2020/03/lolliradio-icon.png",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.lolliradio.net/italia/"
     },
     {
       "name": "Love FM",
@@ -1566,11 +1503,18 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393383383058",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.lovefm.it/"
     },
+
+
+
+
+
+
+    
     {
       "name": "M100",
       "streamURL": "http://94.23.65.199/m100-64",
