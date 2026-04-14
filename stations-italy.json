@@ -1859,15 +1859,6 @@
       "_bitrate": 128,
       "_homepage": "http://radio2000.it/"
     },
-
-
-
-
-
-
-
-
-    
     {
       "name": "Radio 24 il sole 24 ore",
       "streamURL": "http://shoutcast2.radio24.it:8000/;",
@@ -1875,8 +1866,8 @@
       "desc": "News Talk",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39800240024",
+      "whatsapp": "+393492386666",
       "_codec": "MP3",
       "_bitrate": 64,
       "_homepage": "https://www.radio24.ilsole24ore.com/"
@@ -1884,77 +1875,38 @@
     {
       "name": "Radio 51",
       "streamURL": "http://ice04.fluidstream.net/fluid0406.aac",
-      "imageURL": "",
+      "imageURL": "https://www.51news.it/images/loghi/logo_head_p.png",
       "desc": "News | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+393457665144",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 96,
       "_homepage": "http://www.51news.it/radio51news"
     },
     {
-      "name": "Radio 70 80 90 Dance Marche",
-      "streamURL": "https://rblive.it:8060/radio.mp3",
-      "imageURL": "",
-      "desc": "Dance | Oldies",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.radio708090.it/diretta-dance/"
-    },
-    {
-      "name": "Radio 70 80 90 Marche",
-      "streamURL": "https://rblive.it:8020/radio.mp3",
-      "imageURL": "",
-      "desc": "70S | 80S | 90S | Italy",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.radio708090.it/"
-    },
-    {
       "name": "Radio 80",
       "streamURL": "http://str01.fluidstream.net:7020/;stream.mp3",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+      "imageURL": "https://www.radio80.it/wp-content/uploads/2025/06/cropped-radio-80-sito-180x180.png",
       "desc": "80S | Noventa Padovana",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393331808080",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radio80.it/"
     },
     {
-      "name": "Radio 80 - Forever Young",
-      "streamURL": "http://nr11.newradio.it:9208/stream",
-      "imageURL": "",
-      "desc": "70S | 80S | 90S | Classic Hits | Rovereto",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.radiottanta.com/"
-    },
-    {
       "name": "Radio 80 Afro",
       "streamURL": "https://sphera.fluidstream.eu/r80_afro.mp3",
-      "imageURL": "https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico",
+      "imageURL": "https://assets.sphh.it/sphera/radio80/images/radio-80-afro.jpg",
       "desc": "Disco | Funk | R&B | Soul",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393331808080",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.radio80.it/"
@@ -1973,19 +1925,6 @@
       "_homepage": "http://www.radioallegria.it/"
     },
     {
-      "name": "Radio Amore Campania",
-      "streamURL": "http://onair11.xdevel.com:8002/;stream.mp3",
-      "imageURL": "",
-      "desc": "Adult Contemporary | Gruppo Radio Amore | Napoli",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "http://www.radioamore.it/"
-    },
-    {
       "name": "Radio Amore i migliori anni Napoli",
       "streamURL": "http://onair20.xdevel.com:8204/;stream.mp3",
       "imageURL": "https://www.grupporadioamore.it/images/stories/loghi/radio_amore_i_migliori_anni.jpg",
@@ -1993,7 +1932,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393519099254",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "http://www.radioamore.it/"
@@ -2014,12 +1953,12 @@
     {
       "name": "Radio Antenna Uno",
       "streamURL": "http://stream5.top-ix.org:8000/antennauno",
-      "imageURL": "",
+      "imageURL": "https://www.antennaunoradio.com/wp-content/uploads/2023/03/Antenna1_LaRadio_logo_radio.png",
       "desc": "Classic Hits | Latino | Pop | Top 40 | Torino",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39011745439",
+      "whatsapp": "+393355731226",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.antennaunoradio.com/"
@@ -2053,12 +1992,12 @@
     {
       "name": "Radio Azzurra",
       "streamURL": "http://s3.mediastreaming.it:7100/;stream.mp3",
-      "imageURL": "http://www.radioazzurra.it/assets/images/favicon.ico",
+      "imageURL": "https://www.radioazzurra.it/wp-content/uploads/2026/01/favicon-radio-azzurra-300x300.png",
       "desc": "Italian Pop | Pop | San Benedetto Del Tronto | Top 40",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393333271200",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radioazzurra.it/"
@@ -2066,12 +2005,12 @@
     {
       "name": "Radio Azzurra",
       "streamURL": "http://stream.laut.fm/radioazzurra",
-      "imageURL": "",
+      "imageURL": "https://radioazzurra.altervista.org/wp-content/uploads/2020/03/cropped-radio-azzurra-x-zeno-piccola-180x180.jpg",
       "desc": "Italian Pop | Oldies | Top 40",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393762091000",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://stationitaly.altervista.org/radio-azzurra.html"
@@ -2096,8 +2035,8 @@
       "desc": "Radio Bandito",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39011785995",
+      "whatsapp": "+393757855595",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://radiobandito.it/"
@@ -2105,12 +2044,12 @@
     {
       "name": "Radio Bari",
       "streamURL": "http://s6.mediastreaming.it:9062/",
-      "imageURL": "http://www.radiobari.net/favicon.ico",
+      "imageURL": "https://www.radiobari.net/radiobari.png",
       "desc": "Adult Contemporary | Classic Hits | Disco | News",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+390805019998",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "http://www.radiobari.net/"
@@ -2118,12 +2057,12 @@
     {
       "name": "Radio Bellla & Monella",
       "streamURL": "http://ice02.fluidstream.net/bella.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.belllaemonella.it/wp-content/uploads/2025/07/bm-nero-512-300x300.png",
       "desc": "Adult Contemporary | Classic Hits | Pop",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390423736616",
+      "whatsapp": "+3937366170",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.belllaemonella.it/"
@@ -2131,7 +2070,7 @@
     {
       "name": "Radio Bergamo",
       "streamURL": "http://str04.fluidstream.net/bergamo.mp3",
-      "imageURL": "",
+      "imageURL": "https://radiobergamo.it/image/logo.png",
       "desc": "Bergamo | Oldies | Retro | Rock",
       "longDesc": "",
       "country": "IT",
@@ -2149,7 +2088,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+39 3405425324",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://www.radiobianconera.com/"
@@ -2157,19 +2096,19 @@
     {
       "name": "Radio Birikina",
       "streamURL": "http://wma01.fluidstream.net/birikina",
-      "imageURL": "https://www.birikina.it/wp-content/uploads/2020/02/ico-fb-1.png",
+      "imageURL": "https://www.birikina.it/wp-content/uploads/2020/02/radio-birikina-logo.png",
       "desc": "Classic Hits | Italian Pop",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393937366770",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://www.birikina.it/"
     },
     {
       "name": "Radio Buon Consiglio",
-      "streamURL": "http://streaming.radiobuonconsiglio.it:8000/;",
+      "streamURL": "https://streaming.radiobuonconsiglio.it/;",
       "imageURL": "https://www.radiobuonconsiglio.it/wp-content/uploads/2023/12/cropped-logo_blu-180x180.png",
       "desc": "Catholic | Christian",
       "longDesc": "",
@@ -2183,7 +2122,7 @@
     {
       "name": "Radio Café",
       "streamURL": "http://onair11.xdevel.com:8000/;stream.mp3",
-      "imageURL": "http://www.radiocafe.it/wp-content/uploads/2021/07/cropped-cafe-180x180.png",
+      "imageURL": "https://radiocafe.it/wp-content/uploads/2020/06/LOGO.png",
       "desc": "Padova | Soft Music",
       "longDesc": "",
       "country": "IT",
@@ -2195,12 +2134,12 @@
     },
     {
       "name": "Radio Calabria",
-      "streamURL": "http://onair15.xdevel.com:8688/;",
-      "imageURL": "",
+      "streamURL": "https://nr15.newradio.it:8080/9204/stream",
+      "imageURL": "https://radiocalabria.it/wp-content/uploads/2026/02/radio-calabria-logo-300x300.png",
       "desc": "Corigliano Calabro | Folk Music | Local Music | Local News",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+390983888109",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2209,25 +2148,12 @@
     {
       "name": "Radio Capital",
       "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
-      "imageURL": "https://www.capital.it/wp-content/themes/network-capital/favicon.ico",
+      "imageURL": "https://myradioonline.it/public/uploads/radio_img/radio-capital/fb_cover.jpg",
       "desc": "Classic Hits | Talk",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 122,
-      "_homepage": "https://www.capital.it/"
-    },
-    {
-      "name": "Radio Capital",
-      "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
-      "imageURL": "https://www.capital.it/wp-content/themes/network-capital/favicon.ico",
-      "desc": "Radio Capital",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC+",
       "_bitrate": 122,
       "_homepage": "https://www.capital.it/"
@@ -2240,7 +2166,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.capital.it/"
@@ -2253,7 +2179,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC+",
       "_bitrate": 122,
       "_homepage": "https://www.capital.it/"
@@ -2266,7 +2192,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.capital.it/"
@@ -2279,7 +2205,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.capital.it/"
@@ -2292,7 +2218,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393423422190",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://www.capital.it/"
@@ -2300,7 +2226,7 @@
     {
       "name": "Radio Catanzaro RTC",
       "streamURL": "http://s3.mediastreaming.it:7570/;stream.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.radiocatanzaro.it/wp-content/uploads/2023/12/cropped-favicon_radio_catanzaro-180x180.jpg",
       "desc": "Catanzaro | Pop",
       "longDesc": "",
       "country": "IT",
@@ -2312,8 +2238,8 @@
     },
     {
       "name": "Radio Cavolo",
-      "streamURL": "https://radiocavolo.org/stream",
-      "imageURL": "https://www.radiocavolo.org/wp-content/uploads/2020/10/cropped-radio-cavolo-logo-white-background-300x300-1-180x180.png",
+      "streamURL": "https://s2.radio.co/s0f4ac5cbf/listen",
+      "imageURL": "https://www.radiocavolo.org/wp-content/uploads/2025/03/cropped-Radio-Cavolo-Logo-2025-180x180.png",
       "desc": "Eclectic | Electronic | Pop | Rock | Talk | University Radio",
       "longDesc": "",
       "country": "IT",
@@ -2331,7 +2257,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393889970707",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radiocecchetto.it/"
@@ -2339,12 +2265,12 @@
     {
       "name": "Radio Centrale",
       "streamURL": "http://ice03.fluidstream.net/fluid03_9090.aac",
-      "imageURL": "https://www.radiocentraleweb.it/logo.svg",
+      "imageURL": "http://www.radiocentraleweb.it/logo.svg",
       "desc": "Radio Centrale",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390547402823",
+      "whatsapp": "+393331003030",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://www.radiocentraleweb.it/"
@@ -2364,7 +2290,7 @@
     },
     {
       "name": "Radio City Trieste",
-      "streamURL": "http://178.32.138.88:8084/stream",
+      "streamURL": "https://ssl3.azotosolutions.com:1084/;",
       "imageURL": "http://cdn-radiotime-logos.tunein.com/s157545q.png",
       "desc": "Adult Contemporary | Trieste",
       "longDesc": "",
@@ -2378,7 +2304,7 @@
     {
       "name": "Radio City4You Dance",
       "streamURL": "http://178.32.138.88:8084/stream",
-      "imageURL": "https://radiocity4you.it/wp-content/uploads/2022/05/city4you.svg",
+      "imageURL": "https://radiocity4you.it/wp-content/uploads/2026/04/LOGO-DANCECITY4YOU.png",
       "desc": "Dance | Electronic",
       "longDesc": "",
       "country": "IT",
@@ -2391,7 +2317,7 @@
     {
       "name": "Radio City4You 90s",
       "streamURL": "https://streamsrv2.nets-sr.com:8004/stream",
-      "imageURL": "https://radiocity4you.it/wp-content/uploads/2022/05/city4you.svg",
+      "imageURL": "https://radiocity4you.it/wp-content/uploads/2023/12/90-4-you-rgb.png",
       "desc": "90s | Dance",
       "longDesc": "",
       "country": "IT",
@@ -2404,7 +2330,7 @@
     {
       "name": "Radio Club",
       "streamURL": "http://streaming.cst98.com:8000/club.mp3",
-      "imageURL": "",
+      "imageURL": "https://i0.wp.com/www.radio-club.it/young/wp-content/uploads/2021/06/cropped-LOGO-CLUB-SOLO-tondo1.png",
       "desc": "Aosta | Funk | House | Jazz | Latin | Soul",
       "longDesc": "",
       "country": "IT",
@@ -2469,7 +2395,7 @@
     {
       "name": "Radio Company Stile Italiano",
       "streamURL": "https://sphera.fluidstream.eu/companyitalia.mp3",
-      "imageURL": "https://www.radiocompany.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "imageURL": "https://assets.sphh.it/sphera/company/images/stile-italiano.png",
       "desc": "Italian Pop",
       "longDesc": "",
       "country": "IT",
@@ -2482,7 +2408,7 @@
     {
       "name": "Radio Contact Italy",
       "streamURL": "http://stream.laut.fm/radiocontactitaly",
-      "imageURL": "",
+      "imageURL": "https://radiocontactitaly.weebly.com/uploads/3/8/3/4/38344263/published/logo-retro-di-radio-contact-italy-1.png",
       "desc": "Radio Contact Italy",
       "longDesc": "",
       "country": "IT",
@@ -2495,7 +2421,7 @@
     {
       "name": "Radio Cortina",
       "streamURL": "https://streaming1.radiodatanet.it:8050/stream",
-      "imageURL": "",
+      "imageURL": "https://radiocortina.it/wp-content/uploads/2015/10/Radio-Cortina-Nuovo-1.png",
       "desc": "Local News | Local Radio",
       "longDesc": "",
       "country": "IT",
@@ -2507,7 +2433,7 @@
     },
     {
       "name": "Radio Company Easy",
-      "streamURL": "//sphera.fluidstream.eu/ceasy.aac?FLID=1&aw_0_req.gdpr=true&xrnd=69cc4e50074c4?type=.aac",
+      "streamURL": "https://sphera.fluidstream.eu/ceasy.aac",
       "imageURL": "https://www.radiocompanyeasy.com/wp-content/uploads/2016/02/logo-radiocompany-easy.png",
       "desc": "Soft Adult Contemporary",
       "longDesc": "",
@@ -2534,7 +2460,7 @@
     {
       "name": "Radio Cuore Trapani",
       "streamURL": "http://94.23.67.20:8016/;",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/175/radio-cuore-trapani.ed11478d.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "IT",
@@ -2547,7 +2473,7 @@
     {
       "name": "Radio Dance Music",
       "streamURL": "http://stream.radiomusic.net:8130/stream",
-      "imageURL": "",
+      "imageURL": "https://cdn-radiotime-logos.tunein.com/s121405g.png",
       "desc": "Dance | Electronica",
       "longDesc": "",
       "country": "IT",
@@ -2586,7 +2512,7 @@
     {
       "name": "Radio Delta 1",
       "streamURL": "http://onair15.xdevel.com:8942/;stream.mp3",
-      "imageURL": "",
+      "imageURL": "https://radiodelta1.it/wp-content/uploads/2017/01/cropped-verticale_white-80-180x180.jpg",
       "desc": "Atessa | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -2599,7 +2525,7 @@
     {
       "name": "Radio Deltauno",
       "streamURL": "http://nr9.newradio.it:9540/;stream.mp3",
-      "imageURL": "",
+      "imageURL": "https://d371i8ihhgym7w.cloudfront.net/42830.png",
       "desc": "Grottaglie | Pop",
       "longDesc": "",
       "country": "IT",
@@ -2612,7 +2538,7 @@
     {
       "name": "Radio Digitalia - Ricordi",
       "streamURL": "https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258",
-      "imageURL": "",
+      "imageURL": "https://www.radiodigitalia.net/images/cropped-Logo_trasp_traccia_bianca-1-217x104_v2nu4846.png",
       "desc": "60S | 70S | Italian Pop | Oldies",
       "longDesc": "",
       "country": "IT",
@@ -2630,7 +2556,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393396303912",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://www.radiodimensioneitalia.net/"
@@ -2648,6 +2574,14 @@
       "_bitrate": 128,
       "_homepage": "https://rdastation.it/"
     },
+
+
+
+
+
+
+
+    
     {
       "name": "Radio disco Milano",
       "streamURL": "http://radiodisco.stream.laut.fm/radiodisco?pl=pls&t302=2026-01-15_06-42-42&uuid=75141845-9b72-4460-9f03-aba84786dcac",
