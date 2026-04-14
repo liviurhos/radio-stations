@@ -2265,7 +2265,7 @@
     {
       "name": "Radio Centrale",
       "streamURL": "http://ice03.fluidstream.net/fluid03_9090.aac",
-      "imageURL": "http://www.radiocentraleweb.it/logo.svg",
+      "imageURL": "https://www.radio.net/300/centralecesena.png?version=6de06fa8d1ce6725c88356cf278c3cb0707ebfd9",
       "desc": "Radio Centrale",
       "longDesc": "",
       "country": "IT",
@@ -2484,19 +2484,6 @@
       "_homepage": "http://www.radiodancemusic.com/"
     },
     {
-      "name": "Radio Dancefloor 90s",
-      "streamURL": "http://streaming.radiodancefloor.it:443/",
-      "imageURL": "https://cdn-radiotime-logos.tunein.com/s129888d.png",
-      "desc": "90S | Dance | Electronica | Eurodance | Milano | Power Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.radiodancefloor.it/"
-    },
-    {
       "name": "Radio Deejay",
       "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
       "imageURL": "https://www.deejay.it/favicon.ico",
@@ -2574,31 +2561,10 @@
       "_bitrate": 128,
       "_homepage": "https://rdastation.it/"
     },
-
-
-
-
-
-
-
-    
-    {
-      "name": "Radio disco Milano",
-      "streamURL": "http://radiodisco.stream.laut.fm/radiodisco?pl=pls&t302=2026-01-15_06-42-42&uuid=75141845-9b72-4460-9f03-aba84786dcac",
-      "imageURL": "",
-      "desc": "Radio disco Milano",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://laut.fm/radiodisco"
-    },
     {
       "name": "Radio Dreamland",
       "streamURL": "https://dreamsiteradiocp3.com/proxy/dreamland?mp=/stream",
-      "imageURL": "",
+      "imageURL": "https://www.radiodreamland.it/images/headers/radio-dreamland-header-03.jpg",
       "desc": "Music | Nature | Spiritual | Talk | Torino",
       "longDesc": "",
       "country": "IT",
@@ -2611,12 +2577,12 @@
     {
       "name": "Radio Easy Rock",
       "streamURL": "https://sphera.fluidstream.eu/easyrock.aac",
-      "imageURL": "https://www.radioeasyrock.it/wp-content/uploads/2023/01/radio-easy-rock-logo-1.png",
+      "imageURL": "https://www.radioeasyrock.it/wp-content/uploads/2025/07/radio-easy-rock-icona-300x300.png",
       "desc": "Alternative Rock | Classic Rock | Rock",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393888936699",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://www.radioeasyrock.it/"
@@ -2629,7 +2595,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393515241101",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://www.radioelettrica.it/"
@@ -2637,7 +2603,7 @@
     {
       "name": "Radio Evangelo Italia",
       "streamURL": "http://onair15.xdevel.com:8088/stream",
-      "imageURL": "",
+      "imageURL": "https://www.radioevangeloitalia.it/ReiWebApp/favicons/appleicon_180.png",
       "desc": "Assembly Of God | Christian Praise&Worship | Evangelo | Music | Preaching | Worship",
       "longDesc": "",
       "country": "IT",
@@ -2650,28 +2616,15 @@
     {
       "name": "Radio FinestrAperta",
       "streamURL": "http://94.23.67.172:9114/;stream.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.finestraperta.it/wp-content/uploads/2015/01/logoFA.png",
       "desc": "Onlus | Pop | Roma | Uildm",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393510573489",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.finestraperta.it/"
-    },
-    {
-      "name": "Radio Forever 80",
-      "streamURL": "https://stream.laut.fm/forever80",
-      "imageURL": "",
-      "desc": "80'S | Classic Dance | Oldies",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://forever80.altervista.org/"
     },
     {
       "name": "Radio Freccia",
@@ -2681,7 +2634,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+3666634466",
       "_codec": "AAC",
       "_bitrate": 192,
       "_homepage": "https://www.radiofreccia.it/"
@@ -2707,7 +2660,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393937366100",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://www.radiogelosa.it/"
@@ -2715,12 +2668,12 @@
     {
       "name": "Radio Gemini",
       "streamURL": "https://geminione.it/proxy/gemini/stream",
-      "imageURL": "",
+      "imageURL": "https://radiogemini.net/wp-content/uploads/2025/01/cropped-ICONA-PLAYER-180x180.png",
       "desc": "Radio Gemini",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393516786611",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "http://www.radiogemini.net/"
@@ -2728,11 +2681,11 @@
     {
       "name": "Radio Gherdëina Dolomites",
       "streamURL": "http://sr1.inmystream.info:8090/;stream.mp3",
-      "imageURL": "http://www.radiogardena.it/images/favicon.ico",
+      "imageURL": "https://www.radiogardena.it/images/kontakt/logo.jpg",
       "desc": "Adult Contemporary | News",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+390471797415",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2741,7 +2694,7 @@
     {
       "name": "Radio Giulia",
       "streamURL": "http://rh.fluidstream.eu/giulia.mp3?FLID=6",
-      "imageURL": "",
+      "imageURL": "https://www.radiogiulia.it/images/logo320.png",
       "desc": "Canosa Di Puglia | Italian Pop",
       "longDesc": "",
       "country": "IT",
@@ -2752,27 +2705,14 @@
       "_homepage": "http://www.radiogiulia.it/"
     },
     {
-      "name": "Radio Globo",
-      "streamURL": "http://178.33.72.12/globorm64",
-      "imageURL": "",
-      "desc": "Hits | Pop | Roma | Top 40",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radioglobo.it/"
-    },
-    {
       "name": "Radio GLOBO",
       "streamURL": "http://globo.newradio.it/globorm128",
       "imageURL": "https://radioglobo.it/favicon.ico",
       "desc": "Hits | Pop | Solo Le Migliori | Top Hits",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39068928996",
+      "whatsapp": "+393937777172",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://radioglobo.it/"
@@ -2785,7 +2725,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393932233222",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.radioholiday.it/"
@@ -2811,7 +2751,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+390773250620",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radioimmagine.it/"
@@ -2824,7 +2764,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393498692424",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.radiointernationalstore.it/"
@@ -2836,12 +2776,19 @@
       "desc": "00S | 70S | 80S | 90S | Foggia | Pop",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+39 3711240011",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "http://www.radioirene.it/"
     },
+
+
+
+
+
+
+    
     {
       "name": "Radio Italia",
       "streamURL": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8",
@@ -2858,7 +2805,7 @@
     {
       "name": "Radio Italia anni 60",
       "streamURL": "https://str01.fluidstream.net/anni60.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.ria60.it/wp-content/uploads/2025/05/RIA60quad.png",
       "desc": "Radio Italia anni 60",
       "longDesc": "",
       "country": "IT",
