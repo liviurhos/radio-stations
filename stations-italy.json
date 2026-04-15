@@ -2816,36 +2816,10 @@
       "_homepage": "https://www.radioitaliaanni60.it/"
     },
     {
-      "name": "Radio Italia Anni 60 (Emilia-Romagna e Marche)",
-      "streamURL": "https://ice04.fluidstream.net/ria60_bo.mp3",
-      "imageURL": "https://radioitaliaannisessanta.it/templates/enar/images/favicon/apple-touch-icon-120x120.png",
-      "desc": "60S | 70S | 80S | 90S",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radioitaliaannisessanta.it/"
-    },
-    {
-      "name": "Radio Italia Anni 60 - Trentino Alto Adige",
-      "streamURL": "http://ice10.fluidstream.net/anni60tn.aac",
-      "imageURL": "http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png",
-      "desc": "60S | 70S | 80S | 90S | Trento",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://www.radioitaliaanni60.it/index.php/taa-home"
-    },
-    {
       "name": "Radio Italia Network - Network satellite",
       "streamURL": "http://sr2.inmystream.info:8123/",
-      "imageURL": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
-      "desc": "Radio Italia Network - Network satellite",
+      "imageURL": "https://static-media.streema.com/media/cache/65/87/6587cb3f5810fee69d77f6e9f6e26a09.jpg",
+      "desc": "Dance | Deep House | House",
       "longDesc": "",
       "country": "IT",
       "tel": "",
@@ -2861,8 +2835,8 @@
       "desc": "Alpignano | Entertainment | Pop",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393470493131",
+      "whatsapp": "+393470493131",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radioitaliauno.org/"
@@ -2883,7 +2857,7 @@
     {
       "name": "Radio Jolly",
       "streamURL": "http://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3",
-      "imageURL": "",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2017/05/Radio-Jolly-Cagliari-220x108.jpg",
       "desc": "Eurodance | House | Italo Disco",
       "longDesc": "",
       "country": "IT",
@@ -2896,12 +2870,12 @@
     {
       "name": "Radio Jukebox Piemonte",
       "streamURL": "http://stream15.top-ix.org/radiojukebox",
-      "imageURL": "http://www.radiorcm.it/radiojukebox/ico/apple-touch-icon-144-precomposed.png",
+      "imageURL": "https://www.radiojukeboxfm.it/wp-content/uploads/2025/07/JukeBox_2020_logo.png",
       "desc": "Pop | Torino",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393939997794",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.radiorcm.it/"
@@ -2914,7 +2888,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.kisskiss.it/"
@@ -2922,12 +2896,12 @@
     {
       "name": "Radio Kiss Kiss Disco Party",
       "streamURL": "https://kk.fluidstream.eu/kk_discoparty.mp3",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/elementor/thumbs/discoparty-pn2hglt9od540vyjui55frxmsrj4cmhi5s4v32izak.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/discoparty-2.pngg",
       "desc": "Radio Kiss Kiss Disco Party",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://kisskiss.it/webradio/kiss-kiss-disco-party/"
@@ -2935,12 +2909,12 @@
     {
       "name": "Radio Kiss Kiss History Hits",
       "streamURL": "http://ice08.fluidstream.net/kk_history.aac",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/history-1.png.webp",
       "desc": "Classic Hits",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.kisskiss.it/radio/webradio/kiss-kiss-history-hits.html"
@@ -2948,12 +2922,12 @@
     {
       "name": "Radio Kiss Kiss Hits",
       "streamURL": "http://ice08.fluidstream.net/kk_hits.aac",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/HIT-1.png",
       "desc": "Hits",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.kisskiss.it/radio/webradio/kiss-kiss-hits.html"
@@ -2974,12 +2948,12 @@
     {
       "name": "Radio Kiss Kiss La Notte Vola",
       "streamURL": "https://kk.fluidstream.eu/kk_notte.mp3",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/lanottevola-4.png",
       "desc": "Radio Kiss Kiss La Notte Vola",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://kisskiss.it/webradio/web-radio-kisskiss-la-notte-vola/"
@@ -2987,38 +2961,25 @@
     {
       "name": "Radio Kiss Kiss Latina",
       "streamURL": "http://ice08.fluidstream.net/kk_latina.aac",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/latina.png",
       "desc": "Latino",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.kisskiss.it/radio/webradio/kiss-kiss-latina.html"
     },
     {
-      "name": "Radio Kiss Kiss Napoli",
-      "streamURL": "http://wma08.fluidstream.net:3612/;listen.pls",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.kisskissnapoli.it/"
-    },
-    {
       "name": "Radio Kiss Kiss Rock",
       "streamURL": "http://ice08.fluidstream.net/kk_rock.aac",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/rock.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393474900042",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.kisskiss.it/radio/webradio/kisskiss-rock.html"
@@ -3026,7 +2987,7 @@
     {
       "name": "Radio Kiss Kiss Sanremo Story",
       "streamURL": "http://ice08.fluidstream.net/kk_sanremo.mp3",
-      "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+      "imageURL": "https://kisskiss.it/wp-content/uploads/2021/03/sanremo-1.png",
       "desc": "Italian Pop",
       "longDesc": "",
       "country": "IT",
@@ -3037,43 +2998,30 @@
       "_homepage": "https://www.kisskiss.it/radio/webradio/kiss-kiss-sanremo-story.html"
     },
     {
-      "name": "Radio KissKiss",
-      "streamURL": "http://ice07.fluidstream.net:8080/KissKiss.mp3",
-      "imageURL": "",
-      "desc": "Radio KissKiss",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://kisskiss.it/"
-    },
-    {
       "name": "Radio Latina",
       "streamURL": "http://nr8.newradio.it:9097/;",
-      "imageURL": "https://www.radioimmagine.it/wp-content/uploads/2022/06/cropped-favico_i_gialla-180x180.png",
+      "imageURL": "https://www.radiolatina.it/wp-content/uploads/2023/05/Radio-Latina-logo-sito.png",
       "desc": "60S | 70S | 80S | Borgo San Michele",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+00393351435860",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": "http://www.radioimmagine.it/"
+      "_homepage": "https://www.radiolatina.it/"
     },
     {
       "name": "Radio Laziale",
       "streamURL": "https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8",
-      "imageURL": "https://www.cusanomediaplay.it/apple-icon-120x120.png",
+      "imageURL": "https://radiolaziale.com/public/master/assets/img/palinsesto-no-img.png",
       "desc": "Calcio | Lazio | Sports | Sports News",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390640085174",
+      "whatsapp": "+393489100766",
       "_codec": "AAC,H.264",
       "_bitrate": 4811,
-      "_homepage": "https://www.cusanomediaplay.it/"
+      "_homepage": "https://www.radiolaziale.com/"
     },
     {
       "name": "Radio Legends",
@@ -3083,7 +3031,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393514680601",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://radiolegends.com/"
@@ -3095,8 +3043,8 @@
       "desc": "News | Talk | Talk & Speech",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+390292947222",
+      "whatsapp": "+393406709659",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://radioliberta.net/"
@@ -3104,16 +3052,63 @@
     {
       "name": "Radio Linea Italia",
       "streamURL": "https://rblive.it:8110//radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.radiolinea.it/wp-content/uploads/2021/10/LINEA-ITALIA-160-1.png",
       "desc": "Italian Pop",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39800217676",
+      "whatsapp": "+393357002131",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.radiolinea.it/"
     },
+    {
+      "name": "Radio Linea Love",
+      "streamURL": "https://rblive.it:8120/radio.mp3",
+      "imageURL": "https://www.radiolinea.it/wp-content/uploads/2021/10/LINEA-LOVE-160-1.png",
+      "desc": "Italian | Love Songs | Romantic",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+39800217676",
+      "whatsapp": "+393357002131",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiolinea.it/"
+    },
+    {
+      "name": "Radio Linea Sport Energy",
+      "streamURL": "https://rblive.it:8130/radio.mp3",
+      "imageURL": "https://www.radiolinea.it/wp-content/uploads/2021/10/LINEA-SPORT-160-1.png",
+      "desc": "Sport | Energy | Workout",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+39800217676",
+      "whatsapp": "+393357002131",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiolinea.it/"
+    },
+    {
+      "name": "Radio Linea Drive",
+      "streamURL": "https://rblive.it:8100/radio.mp3",
+      "imageURL": "https://www.radiolinea.it/wp-content/uploads/2021/10/LINEA-DRIVE-160-1.png",
+      "desc": "Sport | Energy | Workout",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "+39800217676",
+      "whatsapp": "+393357002131",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiolinea.it/"
+    },
+
+
+
+
+
+
+
+    
     {
       "name": "Radio M2O",
       "streamURL": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
