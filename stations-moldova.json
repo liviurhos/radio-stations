@@ -42,7 +42,7 @@
     {
       "name": "Drive FM",
       "streamURL": "http://109.185.236.241:8000/DriveFM",
-      "imageURL": "https://drivefm.md/apple-touch-icon.png",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/KEe7pV9h5A.png",
       "desc": "Hits",
       "longDesc": "",
       "country": "MD",
@@ -103,19 +103,6 @@
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "http://gagauzradio.ru/feedback"
-    },
-    {
-      "name": "Hit FM 2000s HITS",
-      "streamURL": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
-      "imageURL": "https://www.ascultalive.ro/images/stations/1736887228.webp",
-      "desc": "#00S | 00S | 2000S | 2000S Dance | Moldova | Retro Hits",
-      "longDesc": "",
-      "country": "MD",
-      "tel": "+37379811303",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 128,
-      "_homepage": "https://hitfm.md/"
     },
     {
       "name": "Hit FM Best Hits",
@@ -351,16 +338,10 @@
       "_bitrate": 80,
       "_homepage": "https://www.kissfm.md/"
     },
-
-
-
-
-
-    
     {
       "name": "LOVE PRO Dj Radio Chisinau",
       "streamURL": "http://live.prodjradio.net:8000/;",
-      "imageURL": "",
+      "imageURL": "https://prodjradio.net/wp-content/uploads/2025/10/logo-foter.png",
       "desc": "Pop | Top 40",
       "longDesc": "",
       "country": "MD",
@@ -373,12 +354,12 @@
     {
       "name": "Love Radio Moldova",
       "streamURL": "http://37.233.41.76:8000/lovefm",
-      "imageURL": "",
-      "desc": "Love Radio Moldova",
+      "imageURL": "https://www.loveradio.md/images/150/17771890/LoveLOGO-B9qMFexq7M0dX3JnIiw_og.png",
+      "desc": "Pop | Dance | Top | Hits",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+ 37322290290",
+      "whatsapp": "+37368484484",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "http://loveradio.md/"
@@ -386,7 +367,7 @@
     {
       "name": "Master Class FM (MD)",
       "streamURL": "https://listen3.myradio24.com/master1",
-      "imageURL": "",
+      "imageURL": "https://masterclassfm.md/pwa-192x192.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "MD",
@@ -394,39 +375,26 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
+      "_homepage": "https://masterclassfm.md/"
     },
     {
       "name": "Megapolis Fm",
       "streamURL": "https://megapolisfm.md:8443/886",
-      "imageURL": "",
+      "imageURL": "https://static-media.streema.com/media/cache/7a/ea/7aead1bad5d4c916c0c411544c063ecb.jpg",
       "desc": "Dance | Dance Pop | Electronic | House | New Music",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37369167965",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://megapolisfm.md/"
     },
     {
-      "name": "Megapolis FM Moldova",
-      "streamURL": "https://megapolisfm.md:8443/886",
-      "imageURL": "",
-      "desc": "Classic Hits | Contemporary Hits",
-      "longDesc": "",
-      "country": "MD",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://megapolisfm.md/"
-    },
-    {
       "name": "Muz FM Moldova",
-      "streamURL": "https://live.muzfm.md/muzfm",
-      "imageURL": "",
-      "desc": "Muz FM Moldova",
+      "streamURL": "https://live.muzfm.md//muzfmhd",
+      "imageURL": "https://www.muzfm.md/images/logo1.jpg",
+      "desc": "Pop | Dance | Disco",
       "longDesc": "",
       "country": "MD",
       "tel": "",
@@ -451,24 +419,24 @@
     {
       "name": "Radio DAR",
       "streamURL": "http://188.138.191.214/RadioDar",
-      "imageURL": "",
-      "desc": "Classical",
+      "imageURL": "https://kuasark.com/files/stations-logos/radio-dar.jpg",
+      "desc": "Folk | Local Folk | Pop | Culture | Local | Music",
       "longDesc": "",
       "country": "MD",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 96,
-      "_homepage": ""
+      "_homepage": "http://radiodar.md"
     },
     {
       "name": "Radio Micul Samaritean",
-      "streamURL": "https://s5.radio.co/sfff7b7e97/listen",
-      "imageURL": "https://www.miculsamaritean.com/favicon.png",
+      "streamURL": "https://online.miculsamaritean.com:8000/radio.mp3",
+      "imageURL": "https://cdn.prod.website-files.com/5d17bc268eb8944f782ac39a/5d17bc268eb894a8202ac3fd_Webp.net-resizeimage%20(2).jpg",
       "desc": "Radio Micul Samaritean",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37322237589",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -490,7 +458,7 @@
     {
       "name": "Radio Moldova Muzical",
       "streamURL": "http://radiolive.trm.md:8000/RM-muzical-256",
-      "imageURL": "https://radiomoldova.md/images/RM_muzical_logo.svg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Radio_Moldova_Muzical_Logo_2025.svg/1280px-Radio_Moldova_Muzical_Logo_2025.svg.png",
       "desc": "Folk | Jazz | Pop | Rock",
       "longDesc": "",
       "country": "MD",
@@ -501,26 +469,13 @@
       "_homepage": "https://trm.md/en/radio-moldova-music"
     },
     {
-      "name": "RADIO MUZFM",
-      "streamURL": "https://live.muzfm.md//muzfmhd",
-      "imageURL": "https://www.muzfm.md/images/logo3.png",
-      "desc": "RADIO MUZFM",
-      "longDesc": "",
-      "country": "MD",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 192,
-      "_homepage": "https://muzfm.md/"
-    },
-    {
       "name": "Radio Noroc Moldova",
-      "streamURL": "https://stream.noroc.tv/radionoroc_aac",
-      "imageURL": "https://www.radionoroc.md/favicon.ico",
+      "streamURL": "https://stream.noroc.tv/radionoroc_128",
+      "imageURL": "https://www.radionoroc.md/wp-content/uploads/2024/09/cropped-Noroc_Favicon-Color-180x180.png",
       "desc": "Radio Noroc Moldova",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37322545333",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
@@ -533,7 +488,7 @@
       "desc": "Folk | Pop",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37322797404",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -542,11 +497,11 @@
     {
       "name": "Radio Record Moldova",
       "streamURL": "http://212.56.220.74:8000/RecordMD",
-      "imageURL": "",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/radio-record/fb_cover.jpg",
       "desc": "Dance | Dance Pop | Electronic | House | New Music",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37378601079",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 128,
@@ -555,7 +510,7 @@
     {
       "name": "Radio RFI Moldova",
       "streamURL": "https://asculta.radiorfi.ro/live.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
       "desc": "Radio RFI Moldova",
       "longDesc": "",
       "country": "MD",
@@ -581,7 +536,7 @@
     {
       "name": "Radio Studentus",
       "streamURL": "http://radiolive.studentus.md:8000/live",
-      "imageURL": "",
+      "imageURL": "https://big-radio.net/uploads/posts/2022-11/radio-studentus.webp",
       "desc": "Hits",
       "longDesc": "",
       "country": "MD",
@@ -592,9 +547,9 @@
       "_homepage": "http://studentus.md/"
     },
     {
-      "name": "Radio ZUM 1",
+      "name": "Radio ZUM",
       "streamURL": "https://streams.radiozum.md/listen/zum1/ZUM1",
-      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png",
+      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1764762312/rz-api-prod/images/02_radiozum_911.jpg",
       "desc": "Dance | Hits | New | New Music | Pop",
       "longDesc": "",
       "country": "MD",
@@ -605,9 +560,9 @@
       "_homepage": "https://radiozum.md/"
     },
     {
-      "name": "Radio ZUM 2",
+      "name": "Radio ZUM Anii 2000",
       "streamURL": "https://streams.radiozum.md/listen/zum2/ZUM2",
-      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png",
+      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1764762348/rz-api-prod/images/03_radiozum_anii_2000.jpg",
       "desc": "00S | 10S | 2000S | 2010S | Hits | Pop",
       "longDesc": "",
       "country": "MD",
@@ -618,9 +573,9 @@
       "_homepage": "https://radiozum.md/"
     },
     {
-      "name": "Radio ZUM4",
+      "name": "Radio ZUM4  Work",
       "streamURL": "https://streams.radiozum.md/listen/zum4/ZUM4",
-      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg",
+      "imageURL": "https://res.cloudinary.com/super7/image/upload/v1764762401/rz-api-prod/images/04_radiozum_work.jpg",
       "desc": "Chill | Lo-Fi | Lounge | Relax",
       "longDesc": "",
       "country": "MD",
@@ -637,7 +592,7 @@
       "desc": "Retro",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
+      "tel": "+37322535797",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
@@ -663,8 +618,8 @@
       "desc": "Первое радио в вашем мобильном",
       "longDesc": "",
       "country": "MD",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+373722222891",
+      "whatsapp": "+373542070800",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.891fm.co.il/"
