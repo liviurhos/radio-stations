@@ -4314,7 +4314,7 @@
       "name": "Radio Rai 3",
       "streamURL": "http://icestreaming.rai.it/3.mp3",
       "imageURL": "https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639049150856_Radio%203_Logo%20RGB.png",
-      "desc": "Culture",
+      "desc": "Classical | Culture | Public Radio | Rai",
       "longDesc": "",
       "country": "IT",
       "tel": "",
@@ -4361,20 +4361,6 @@
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://www.raiplaysound.it/radio2"
-    },
-    
-    {
-      "name": "RAI Radio 3",
-      "streamURL": "http://icestreaming.rai.it/3.mp3",
-      "imageURL": "https://www.raiplaysound.it/cropgd/1200x630/dl/img/2021/12/09/1639049150856_Radio%203_Logo%20RGB.png",
-      "desc": "Classical | Culture | Public Radio | Rai",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://www.raiplaysound.it/radio3"
     },
     {
       "name": "Rai Radio 3 Classica",
@@ -4519,82 +4505,23 @@
       "_bitrate": 64,
       "_homepage": "http://www.ritmo80.it/"
     },
-    
-
-
-
-
-
-
-
-    
-    
-   
-
-
-
-
-
-
-
-
-    
     {
-      "name": "RMC Sport Network",
+      "name": "TMW Radio Sport",
       "streamURL": "http://stream17.tmwradio.com/tmw.mp3",
-      "imageURL": "https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClant448W5wW9z_MypAC8D2fzMSL6zZYfw&s",
       "desc": "Firenze | Soccer | Sport | Talk",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+39 3318200213",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.tmwradio.com/"
     },
     {
-      "name": "RMC Summer",
-      "streamURL": "http://edge.radiomontecarlo.net/rmcweb024",
-      "imageURL": "",
-      "desc": "RMC Summer",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.radiomontecarlo.net/sezioni/12211/radio-monte-carlo-summer"
-    },
-    {
-      "name": "RMC VIP Lounge",
-      "streamURL": "http://edge.radiomontecarlo.net/rmcweb020",
-      "imageURL": "",
-      "desc": "Lounge | Mediaset",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiomontecarlo.net/sezioni/1926/rmc-vip-lounge"
-    },
-    {
-      "name": "RMC Voyage Voyage",
-      "streamURL": "http://edge.radiomontecarlo.net/rmcweb022",
-      "imageURL": "",
-      "desc": "Mediaset | World Music",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.radiomontecarlo.net/sezioni/1978/radio-monte-carlo-voyage-voyage"
-    },
-    {
       "name": "Rock'n'Roll Radio",
       "streamURL": "https://nr14.newradio.it:8643/stream?ext=.mp3",
-      "imageURL": "https://cdn-radiotime-logos.tunein.com/s126487d.png",
+      "imageURL": "https://www.rocknrollradio.it/wp-content/uploads/2025/10/fav_icon.jpg",
       "desc": "Classic Rock | Heavy Metal | Rock",
       "longDesc": "",
       "country": "IT",
@@ -4605,53 +4532,28 @@
       "_homepage": "https://www.rocknrollradio.it/"
     },
     {
-      "name": "Romantica Radio (RomanticaRadio Web)",
+      "name": "Romantica Radio",
       "streamURL": "https://vetrina.multi-radio.com/romanticaradio",
-      "imageURL": "https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png",
+      "imageURL": "https://romanticaradio.it/wp-content/uploads/2025/01/cropped-romantica-radio_square-180x180.png",
       "desc": "60'S | 60S | 64 Kbps | 64 Kbps Aac+ | 64Kbps | 70'S | 70S | 80'S | 80S | 90'S | 90S | Aac+ | Canzoni | Canzoni D'Amore | Canzoni Romantiche | Classics | Italian | Italian Pop | Love | Love Songs | Musica Italiana | Musica Romantica | Romantic | Romantic Songs | Webradio",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393312407878",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://www.romanticaradio.it/"
     },
-    {
-      "name": "ROMANTICA-RADIO",
-      "streamURL": "https://vetrina.multi-radio.com/romanticaradio",
-      "imageURL": "https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png",
-      "desc": "ROMANTICA-RADIO",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.romanticaradio.it/"
-    },
+    
     {
       "name": "RTL 102.5",
-      "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
+      "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8",
       "imageURL": "https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png",
       "desc": "Local | News | Varied",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 192,
-      "_homepage": "https://www.rtl.it/"
-    },
-    {
-      "name": "RTL 102.5",
-      "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
-      "imageURL": "https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png",
-      "desc": "RTL 102.5",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393783781025",
       "_codec": "AAC",
       "_bitrate": 192,
       "_homepage": "https://www.rtl.it/"
@@ -4664,7 +4566,33 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393783781025",
+      "_codec": "MP3",
+      "_bitrate": 256,
+      "_homepage": "https://play.rtl.it/live/2/best/"
+    },
+    {
+      "name": "RTL 102.5 Caliente",
+      "streamURL": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet_48.aac",
+      "imageURL": "https://static-media.streema.com/media/cache/1a/6d/1a6db11c3d6923316f08155bb1f25073.png",
+      "desc": "Best Music | Top | Hits | Pop",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "+393783781025",
+      "_codec": "MP3",
+      "_bitrate": 256,
+      "_homepage": "https://play.rtl.it/live/2/best/"
+    },
+    {
+      "name": "RTL 102.5 Radio Visione",
+      "streamURL": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+      "imageURL": "https://static-media.streema.com/media/cache/e0/36/e0369d2be383e414f850eaa753cd55c3.jpg",
+      "desc": "Italian",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "+393783781025",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://play.rtl.it/live/2/best/"
@@ -4677,7 +4605,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393389900990",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.rtr99.it/"
@@ -4685,38 +4613,25 @@
     {
       "name": "RTR 99 Canzoni e parole fuori dal coro",
       "streamURL": "https://rtr99.fluidstream.eu/rtr99.mp3?FLID=3",
-      "imageURL": "",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iAB27Eij_lztosJpmSWX98vH2BOy1JzyYQ&s",
       "desc": "RTR 99 Canzoni e parole fuori dal coro",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393389900990",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://rtr99.it/"
     },
     {
-      "name": "Running Radio",
-      "streamURL": "http://edge.radiomontecarlo.net/rmcweb021",
-      "imageURL": "",
-      "desc": "Dance | Electronic | Mediaset",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.unitedmusic.it/"
-    },
-    {
-      "name": "SempreViva",
-      "streamURL": "http://stream2.vivafm.it:8000/stream",
-      "imageURL": "",
+      "name": "Radio SempreViva",
+      "streamURL": "https://stream1.vivafm.it:8006/stream/;",
+      "imageURL": "https://www.radiosempreviva.it/wp-content/uploads/2024/01/s-singola_SEMPREVIVA-WHITE-300x300.png",
       "desc": "Adult Contemporary | Gavardo",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393342447878",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.sempreviva.it/"
@@ -4724,8 +4639,21 @@
     {
       "name": "Skyline Jazz",
       "streamURL": "https://rblive.it:8030/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.skyline.it/wp-content/uploads/2021/10/SKYLINE-JAZZ-160.png",
       "desc": "Jazz",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.skyline.it/"
+    },
+    {
+      "name": "Skyline Radio & Soul",
+      "streamURL": "https://rblive.it:8040/radio.mp3",
+      "imageURL": "https://static-media.streema.com/media/cache/2b/0c/2b0c4a6fafb94a7a75d15d189cba04d4.png",
+      "desc": "Soul",
       "longDesc": "",
       "country": "IT",
       "tel": "",
@@ -4737,11 +4665,11 @@
     {
       "name": "Stadtradio Meran",
       "streamURL": "http://94.23.66.155:9250/srmhigh",
-      "imageURL": "",
+      "imageURL": "https://www.stadtradio-meran.it/_assets/4d1222d11884d6eaf4c90a29dbe86c8c/Icons/SRM/Favicons/apple-touch-icon.png",
       "desc": "Evergreens | Hits | Oldies",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
+      "tel": "+390473230155",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -4750,15 +4678,28 @@
     {
       "name": "Station Italy",
       "streamURL": "http://stream.laut.fm/stationitaly",
-      "imageURL": "",
+      "imageURL": "https://stationitaly.altervista.org/wp-content/uploads/2019/08/cropped-Station-Italy-2017-1-180x180.jpg",
       "desc": "Disco | Italian Pop | M80 80S 70S 90S 00S | Oldies",
+      "longDesc": "",
+      "country": "IT",
+      "tel": "",
+      "whatsapp": "+393762091000",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://stationitaly.altervista.org/"
+    },
+    {
+      "name": "Studio Dance",
+      "streamURL": "http://stream.laut.fm/studiodance",
+      "imageURL": "https://studiodance.altervista.org/wp-content/uploads/2020/03/cropped-studio-dance-1-3-180x180.jpg",
+      "desc": "Dance | Italo Disco | Pop | Rock",
       "longDesc": "",
       "country": "IT",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://stationitaly.altervista.org/"
+      "_homepage": "https://studiodance.altervista.org/"
     },
     {
       "name": "Stella FM",
@@ -4768,7 +4709,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393457959749",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.stellafm.it/"
@@ -4776,85 +4717,33 @@
     {
       "name": "Studio 54 Network",
       "streamURL": "http://onair22.streaming.xdevel.com:10050/",
-      "imageURL": "",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Radio_Studio_54_Network_logo.svg/250px-Radio_Studio_54_Network_logo.png",
       "desc": "Classic Hits",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393930545454",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.studio54network.it/"
     },
     {
-      "name": "Studio Dance",
-      "streamURL": "http://stream.laut.fm/studiodance",
-      "imageURL": "",
-      "desc": "Dance | Italo Disco | Pop | Rock",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://stationitaly.altervista.org/studio-dance.html"
-    },
-    {
       "name": "StudioRadio - The Vintage Station",
       "streamURL": "http://91.121.38.216:8060/stream",
-      "imageURL": "",
+      "imageURL": "https://www.studioradio.it/immagini_rid/studioradio-main-imm_1024_576_3_90_1000_448_0_0.jpg",
       "desc": "Adult Contemporary | Classic Hits",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393396330800",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.studioradio.it/"
     },
     {
-      "name": "Subasio Collection",
-      "streamURL": "http://icy.unitedradio.it/SubasioCollection.mp3",
-      "imageURL": "",
-      "desc": "Adult Contemporary | Assisi | Mediaset",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiosubasio.it/"
-    },
-    {
-      "name": "Subasio Per un'ora d'amore",
-      "streamURL": "http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3",
-      "imageURL": "",
-      "desc": "Assisi | Love Songs | Mediaset | Soft Adult Contemporary",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiosubasio.it/"
-    },
-    {
-      "name": "Subasio XL",
-      "streamURL": "https://icy.unitedradio.it/SubasioXL.mp3",
-      "imageURL": "",
-      "desc": "Dab+ | Italian Pop | Mediaset | No Ads | Only Music | Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.radiosubasio.it/"
-    },
-    {
       "name": "Sweet'n'Sour Radio",
       "streamURL": "http://stream.laut.fm/sweetnsour",
-      "imageURL": "",
+      "imageURL": "https://www.sweetnsour.it/favImage.png",
       "desc": "Funk | R&B | Smooth Jazz | Soul | Sweet Sour | Sweet'N'Sour Radio",
       "longDesc": "",
       "country": "IT",
@@ -4867,28 +4756,15 @@
     {
       "name": "Tango Pasión Radio",
       "streamURL": "http://nr11.newradio.it:9180/stream",
-      "imageURL": "",
+      "imageURL": "https://tangopasionradio.com/wp-content/uploads/2020/09/cropped-logo-180x180.png",
       "desc": "Tango",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+393487845882",
+      "whatsapp": "+393487845882",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://www.tangopasionradio.com/"
-    },
-    {
-      "name": "TMW Radio",
-      "streamURL": "https://stream.tmwradio.com/tmw.aac",
-      "imageURL": "https://www.tmwradio.com/template/tmwradio.com/default/favicon/favicon144.png",
-      "desc": "TMW Radio",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.tmwradio.com/"
     },
     {
       "name": "Today Dance Radio",
@@ -4906,7 +4782,7 @@
     {
       "name": "Tonic Fitness Radio La Spezia",
       "streamURL": "http://radioserver-professional.it:8000/radio-014",
-      "imageURL": "",
+      "imageURL": "https://kuasark.com/files/stations-logos/tonic-fitness-radio-la-spezia.png",
       "desc": "Electronica | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4919,7 +4795,7 @@
     {
       "name": "Tonic Fitness Radio Milano Giambellino",
       "streamURL": "http://radioserver-professional.it:8000/radio-004",
-      "imageURL": "",
+      "imageURL": "https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png",
       "desc": "Electronica | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4932,7 +4808,7 @@
     {
       "name": "Tonic Fitness Radio Milano Lambrate",
       "streamURL": "http://radioserver-professional.it:8000/radio-015",
-      "imageURL": "",
+      "imageURL": "https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png",
       "desc": "Electronica | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4945,7 +4821,7 @@
     {
       "name": "Tonic Fitness Radio Milano Sempione",
       "streamURL": "http://radioserver-professional.it:8000/radio-018",
-      "imageURL": "",
+      "imageURL": "https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png",
       "desc": "Electronica | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4958,7 +4834,7 @@
     {
       "name": "Tonic Fitness Radio Teramo Loc Garrufo",
       "streamURL": "http://radioserver-professional.it:8000/radio-010",
-      "imageURL": "",
+      "imageURL": "https://tonicnet.it/wp-content/uploads/2020/06/cropped-logo-tonic-180x180.png",
       "desc": "Electronica | Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4976,101 +4852,23 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393497225831",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.topitaliaradio.it/"
     },
     {
-      "name": "Traditional Christmas",
-      "streamURL": "http://icecast.unitedradio.it/um033.mp3",
-      "imageURL": "http://www.unitedmusic.it/favicon_6.ico?v=1722509814047",
-      "desc": "Christmas Music | Mediaset",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.unitedmusic.it/"
-    },
-    {
-      "name": "United Music Cinema",
-      "streamURL": "https://icy.unitedradio.it/um058.mp3",
-      "imageURL": "",
-      "desc": "Cinema | Film Music | Soundtrack",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.unitedmusic.com/"
-    },
-    {
-      "name": "United Music Italia 2000",
-      "streamURL": "https://icy.unitedradio.it/um013.mp3",
-      "imageURL": "https://www.unitedmusic.com/favicon_6.ico?v=1722509814047",
-      "desc": "Music Non Stop | Musica Italiana",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.unitedmusic.com/"
-    },
-    {
-      "name": "United Music Movies Pop",
-      "streamURL": "http://icy.unitedradio.it/um030.mp3",
-      "imageURL": "",
-      "desc": "Movie Music | Music | Pop",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://superradio.cc/"
-    },
-    {
-      "name": "united music piano",
-      "streamURL": "https://icy.unitedradio.it/um077.mp3",
-      "imageURL": "https://www.unitedmusic.com/favicon_6.ico?v=1558694480199",
-      "desc": "Piano",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.unitedmusic.com/"
-    },
-    {
       "name": "Urban Radio",
       "streamURL": "https://nr3.newradio.it:18100/stream",
-      "imageURL": "https://urbanradio.it/wp-content/uploads/2022/05/cropped-favicon-180x180.png",
+      "imageURL": "https://urbanradio.it/wp-content/uploads/2025/07/Urban-Radio-Logo-Social.jpeg",
       "desc": "Hiphop | Rap | Reggae | Reggaeton | Trap | Urban Contemporary",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393332221112",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.urbanradio.it/"
-    },
-    {
-      "name": "VCR | Venice Classic Radio * Live",
-      "streamURL": "https://uk2.streamingpulse.com/ssl/vcr2",
-      "imageURL": "https://www.veniceclassicradio.eu/player/new/image/l.png",
-      "desc": "VCR | Venice Classic Radio * Live",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/player/new/vcr.php?ch=0#"
     },
     {
       "name": "VCR | Venice Classic Radio Auditorium",
@@ -5086,58 +4884,6 @@
       "_homepage": "https://www.veniceclassicradio.eu/player/new/vcr.php?ch=0#"
     },
     {
-      "name": "Venice Classic LIVE",
-      "streamURL": "http://5.196.98.235/stream1",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/player/new/vcr.php?ch=1"
-    },
-    {
-      "name": "Venice Classic Radio",
-      "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/"
-    },
-    {
-      "name": "Venice Classic Radio",
-      "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1",
-      "imageURL": "",
-      "desc": "Classical Music",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://uk2.streamingpulse.com/ssl/vcr1"
-    },
-    {
-      "name": "Venice Classic Radio *LIVE",
-      "streamURL": "http://116.202.241.212:8020/",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/"
-    },
-    {
       "name": "Venice Classic Radio *LIVE",
       "streamURL": "http://116.202.241.212:8020/",
       "imageURL": "https://www.veniceclassicradio.eu/player/new/image/l.png",
@@ -5151,48 +4897,9 @@
       "_homepage": "https://www.veniceclassicradio.eu/player/new/vcr.php?ch=0"
     },
     {
-      "name": "Venice Classic Radio *LIVE",
-      "streamURL": "http://116.202.241.212:8020/stream",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://veniceclassicradio.eu/"
-    },
-    {
-      "name": "Venice Classic Radio Auditorium",
-      "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1",
-      "imageURL": "",
-      "desc": "Venice Classic Radio Auditorium",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/"
-    },
-    {
-      "name": "Venice Classic Radio Auditorium",
-      "streamURL": "https://uk2.streamingpulse.com/ssl/vcr2",
-      "imageURL": "",
-      "desc": "Venice Classic Radio Auditorium",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.veniceclassicradio.eu/"
-    },
-    {
       "name": "Vibra FM",
       "streamURL": "http://ice02.fluidstream.net/playstudio.mp3",
-      "imageURL": "https://www.vibrafm.it/favicon.ico",
+      "imageURL": "https://vibrafm.it/wp-content/uploads/favicon_io/apple-touch-icon.png",
       "desc": "Caribbean Rhythm | Electrolatino | Reggaeton",
       "longDesc": "",
       "country": "IT",
@@ -5205,12 +4912,12 @@
     {
       "name": "Viniles Radio",
       "streamURL": "https://s3.radio.co/sfaf3f1f4a/listen",
-      "imageURL": "",
+      "imageURL": "https://vinilesradio.it/assets/images/logo.jpg",
       "desc": "House | Italian | Lounge",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393518745878",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://vinilesradio.it/"
@@ -5218,7 +4925,7 @@
     {
       "name": "Virgin Radio Classic Rock",
       "streamURL": "http://icy.unitedradio.it/VirginRockClassics.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtQ2xhc3NpY1JvY2stMTU4ODA2Mjg4NDQwNHBuZy12aXJnaW5fcmFkaW9fY2xhc3NpY19yb2NrLnBuZw/-/0/0?r=36ee12a896d44f5b06621d7b44323ae1",
       "desc": "Classic Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5231,7 +4938,7 @@
     {
       "name": "Virgin Radio Hard Rock",
       "streamURL": "http://icy.unitedradio.it/VirginHardRock.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtSGFyZFJvY2stMTU4ODA2MzA2NzExMXBuZy12aXJnaW5fcmFkaW9faGFyZF9yb2NrLnBuZw/-/0/0?r=219f4eb58f50ac8f9908b1be8fc5cdcb",
       "desc": "Hard Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5244,7 +4951,7 @@
     {
       "name": "Virgin Radio Italia",
       "streamURL": "http://icecast.unitedradio.it/Virgin.mp3",
-      "imageURL": "http://www.virginradio.it/favicon_2.ico?v=1722509813651",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtVmlyZ2luUmFkaW9PbkFpci0xNTg4MjU3NTAwNzU0cG5nLXZpcmdpbl9yYWRpb19vbl9haXIucG5n/-/0/0?r=37ed70d66f12f2c819954135689f7930",
       "desc": "Mediaset | Pop Rock",
       "longDesc": "",
       "country": "IT",
@@ -5257,7 +4964,7 @@
     {
       "name": "Virgin Radio Rock '70",
       "streamURL": "http://icy.unitedradio.it/VirginRock70.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9jazcwLTE1ODgwNjI5MzA4OTlwbmctd2VicmFkaW9fdmlyZ2luX3JhZGlvX3JvY2tfXzcwLnBuZw/-/0/0?r=df74e68abb0949dd1d692d0c7e297095",
       "desc": "70S | Classic Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5270,7 +4977,7 @@
     {
       "name": "Virgin Radio Rock '80",
       "streamURL": "http://icy.unitedradio.it/VirginRock80.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9jazgwLTE1ODgwNjI4MjM5OTRwbmctdmlyZ2luX3JhZGlvX3JvY2tfXzgwLnBuZw/-/0/0?r=224c736c2967f66ca55e8046af1ee89a",
       "desc": "80S | Classic Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5283,7 +4990,7 @@
     {
       "name": "Virgin Radio Rock '90",
       "streamURL": "http://icy.unitedradio.it/Virgin_03.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9jazkwLTE1ODgwNjI5ODQ0ODBwbmctdmlyZ2luX3JhZGlvX3JvY2tfXzkwLnBuZw/-/0/0?r=7c9eac6dd27d76a184a3ebeeda592769",
       "desc": "90S | Classic Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5296,7 +5003,7 @@
     {
       "name": "Virgin Radio Rock 2K",
       "streamURL": "http://icy.unitedradio.it/Virgin_02.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9jazJLLTE1ODgwNjMwMjQ2MDdwbmctdmlyZ2luX3JhZGlvX3JvY2tfMmsucG5n/-/0/0?r=8e7360faf7a0df10a5f1461cf33e985b",
       "desc": "00S | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5309,7 +5016,7 @@
     {
       "name": "Virgin Radio Rock Alternative",
       "streamURL": "http://icy.unitedradio.it/VirginRockAlternative.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtQWx0ZXJuYXRpdmVSb2NrLTE1ODgwNjI3NTc4Njlwbmctd2VicmFkaW9fdmlyZ2luX3JhZGlvX3JvY2tfYWx0ZXJuYXRpdmUucG5n/-/0/0?r=c42b246cffb4e8bb8de479c99e625622",
       "desc": "Alternative Rock | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5322,7 +5029,7 @@
     {
       "name": "Virgin Radio Rock Ballads",
       "streamURL": "http://icy.unitedradio.it/Virgin_06.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9ja0JhbGxhZHMtMTU4ODA2MjM0NzE4NXBuZy12aXJnaW5fcmFkaW9fcm9ja19iYWxsYWRzLnBuZw/-/0/0?r=11acbeadd748211a27a11f42433abe6a",
       "desc": "Ballads | Mediaset",
       "longDesc": "",
       "country": "IT",
@@ -5335,7 +5042,7 @@
     {
       "name": "Virgin Radio Rock Hits",
       "streamURL": "http://icy.unitedradio.it/VirginRockHits.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9ja0hpdHMtMTU4ODA2MjY3Mjg0NXBuZy12aXJnaW5fcm9ja19oaXRzLnBuZw/-/0/0?r=9bd5a6e3dea22935cfeb30b2b1cc537e",
       "desc": "Hits | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5348,7 +5055,7 @@
     {
       "name": "Virgin Radio Rock Party",
       "streamURL": "http://icy.unitedradio.it/VirginRockParty.mp3",
-      "imageURL": "",
+      "imageURL": "https://img-api.cloud.mediaset.net/api/images/rd/v1/ita/aHR0cHM6Ly93d3cudmlyZ2lucmFkaW8uaXQvd3AtY29udGVudC91cGxvYWRzLzIwMjUvMTEvV2VicmFkaW8tVmlyZ2luLTIwMjAtUm9ja1BhcnR5LTE1ODgwNjI1MTEyNjhwbmctdmlyZ2luX3JhZGlvX3JvY2tfcGFydHkucG5n/-/0/0?r=3deb800c1c62fa823514163cd07b8260",
       "desc": "Mediaset | Pop Rock",
       "longDesc": "",
       "country": "IT",
@@ -5361,7 +5068,7 @@
     {
       "name": "Virgin Radio Rockstar: AC/DC",
       "streamURL": "http://icy.unitedradio.it/um1026.mp3",
-      "imageURL": "",
+      "imageURL": "https://cdn.radio-addict.com/media/stream/c8cfe002-c6db-4ead-bfc4-69f1ba058a95_E486DBB6E7AD39669FEB97CB6439331C_Webradio-Virgin-2019-ROCKSTAR-ACDC_1-1603372369627.png",
       "desc": "Ac Dc | Blues Rock | Hard Rock | Heavy Metal | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5374,7 +5081,7 @@
     {
       "name": "Virgin Radio Rockstar: Aerosmith",
       "streamURL": "http://icy.unitedradio.it/um1028.mp3",
-      "imageURL": "",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/673/virgin-radio-aerosmith.fd1015dc.png",
       "desc": "Aerosmith | Blues Rock | Hard Rock | Heavy Metal | Mediaset | Pop Rock | Soft Rock",
       "longDesc": "",
       "country": "IT",
@@ -5387,7 +5094,7 @@
     {
       "name": "Virgin Radio Rockstar: Bon Jovi",
       "streamURL": "https://icy.unitedradio.it/um1027.mp3",
-      "imageURL": "",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/674/virgin-radio-bon-jovi.97c07edb.png",
       "desc": "Bon Jovi | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5400,7 +5107,7 @@
     {
       "name": "Virgin Radio Rockstar: Guns N' Roses",
       "streamURL": "http://icy.unitedradio.it/um1029.mp3",
-      "imageURL": "",
+      "imageURL": "https://radio-streaming.it/assets/image/radio/180/Webradio-Virgin-2019-ROCKSTAR-GunsNRoses_180.jpg",
       "desc": "Guns N' Roses | Hard Rock | Heavy Metal | Mediaset | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5413,7 +5120,7 @@
     {
       "name": "Virgin Radio Rockstar: Oasis",
       "streamURL": "http://icy.unitedradio.it/um1030.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.allradio.net/500/71HK4YGde2331ml5NCnAk.webp",
       "desc": "Britpop | Indie Rock | Mediaset | Oasis | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5424,22 +5131,9 @@
       "_homepage": "https://www.virginradio.it/sezioni/12082/rockstar-oasis"
     },
     {
-      "name": "Virgin Radio Rockstar: Pink Floyd",
-      "streamURL": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
-      "imageURL": "",
-      "desc": "Art Rock | Experimental Rock | Mediaset | Pink Floyd | Progressive Rock | Psychedelia | Psychedelic Rock | Rock | Space Rock",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd"
-    },
-    {
       "name": "Virgin Radio Rockstar: Queen",
       "streamURL": "https://icy.unitedradio.it/Virgin_05.mp3",
-      "imageURL": "",
+      "imageURL": "https://big-radio.net/uploads/posts/2024-06/rockstar-queen.webp",
       "desc": "Art Rock | Glam Rock | Hard Rock | Mediaset | Pop Rock | Queen | Rock",
       "longDesc": "",
       "country": "IT",
@@ -5448,19 +5142,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.virginradio.it/sezioni/1981/music-star-queen"
-    },
-    {
-      "name": "Virgin Radio Rockstar: Rolling Stones",
-      "streamURL": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
-      "imageURL": "",
-      "desc": "Blues Rock | Hard Rock | Mediaset | Rock | Rock And Roll | Rolling Stones",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.virginradio.it/sezioni/1855/Music-Star-Rolling-Stones"
     },
     {
       "name": "VirginRadio - Pink Floyd",
@@ -5478,7 +5159,7 @@
     {
       "name": "YES! Radio Dance",
       "streamURL": "http://sr2.inmystream.info:8082/stream",
-      "imageURL": "https://static.wixstatic.com/media/f60a4e_ea5b7a40d64040c1a7d782e2220a48a5%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/f60a4e_ea5b7a40d64040c1a7d782e2220a48a5%7emv2.png",
+      "imageURL": "https://yesradio.it/wp-content/uploads/2025/05/cropped-Logo-Yes-Radio-180x180.png",
       "desc": "Brit Pop | Dance | San Donà Di Piave",
       "longDesc": "",
       "country": "IT",
@@ -5487,19 +5168,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.yesradiodance.com/"
-    },
-    {
-      "name": "华夏之声China FM·意大利罗马FM89.5",
-      "streamURL": "https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream",
-      "imageURL": "",
-      "desc": "Information | Music | Oldies",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 160,
-      "_homepage": "https://chinafm.es/"
     }
   ]
 }
