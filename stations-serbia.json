@@ -1,26 +1,13 @@
 {
   "station": [
     {
-      "name": ". Abdulbasit Abdulsamad",
-      "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "imageURL": "null",
-      "desc": ". Abdulbasit Abdulsamad",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://mp3islam.com/"
-    },
-    {
       "name": "021 caffe",
       "streamURL": "https://centova.dukahosting.com/proxy/021kafe/stream",
       "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
       "desc": "021 caffe",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+ 381600100200",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -29,11 +16,11 @@
     {
       "name": "Ami Naxi Radio Kikinda",
       "streamURL": "http://185.119.88.88:8005/",
-      "imageURL": "",
+      "imageURL": "https://www.amiradio.rs/images/slusaj.png",
       "desc": "Local Programming",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381646444285",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -42,7 +29,7 @@
     {
       "name": "Antena Krusevac",
       "streamURL": "http://antenaradio.org:4560/;stream.nsv",
-      "imageURL": "https://www.antenaradio.rs/favicon.ico",
+      "imageURL": "https://www.antenaradio.rs/wp-content/uploads/2019/10/cropped-LOGO-ANTENA2-1-180x180.png",
       "desc": "Antena Krusevac",
       "longDesc": "",
       "country": "RS",
@@ -55,7 +42,7 @@
     {
       "name": "B92",
       "streamURL": "http://stream.b92.net:7999/radio-b92.mp3",
-      "imageURL": "",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/B92_Belgrade_2004_logo.svg/250px-B92_Belgrade_2004_logo.png",
       "desc": "B92",
       "longDesc": "",
       "country": "RS",
@@ -67,12 +54,12 @@
     },
     {
       "name": "BANKER",
-      "streamURL": "http://banker96-naxinacional.streaming.rs:8540/",
+      "streamURL": "https://banker96-naxinacional.streaming.rs:8542/;stream.nsv",
       "imageURL": "https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png",
       "desc": "BANKER",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381693983983",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -85,7 +72,7 @@
       "desc": "Folk",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381692444122",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
@@ -94,7 +81,7 @@
     {
       "name": "Bela Crkva",
       "streamURL": "http://belacrkva32.streaming.rs:8140/",
-      "imageURL": "http://radiobelacrkva.rs/favicon.ico",
+      "imageURL": "https://cdn-profiles.tunein.com/s301597/images/bannerx.jpg?t=636479859550330000",
       "desc": "Narodna | Zabavna",
       "longDesc": "",
       "country": "RS",
@@ -107,7 +94,7 @@
     {
       "name": "Bravo FM 103.7MHz",
       "streamURL": "http://91.221.134.252:8002/;*.mp3",
-      "imageURL": "",
+      "imageURL": "https://listenonlineradio.com/wp-content/uploads/Radio-Bravo-FM.jpg",
       "desc": "Bravo FM 103.7MHz",
       "longDesc": "",
       "country": "RS",
@@ -119,13 +106,13 @@
     },
     {
       "name": "Buca",
-      "streamURL": "https://live.bucaradio.com/",
-      "imageURL": "null",
+      "streamURL": "https://mpc2.mediacp.eu:8282/bucaradio",
+      "imageURL": "https://www.bucaradio.com/assets/images/Logo.webp",
       "desc": "Folk",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+381691121512",
+      "whatsapp": "+381641121512",
       "_codec": "MP3",
       "_bitrate": 160,
       "_homepage": "https://bucaradio.com/slusaj_uzivo.html"
@@ -150,24 +137,11 @@
       "desc": "Exyu | Pop Music | Rock",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+ 38114416426",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://rtvcityub.rs/"
-    },
-    {
-      "name": "Cool Radio",
-      "streamURL": "http://176.9.30.66/cool64",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.coolradio.rs/"
     },
     {
       "name": "Cool Radio Serbia",
@@ -176,7 +150,7 @@
       "desc": "Hits | Oldies | Pop | Rock",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381 64 321 6666",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
@@ -197,8 +171,8 @@
     },
     {
       "name": "Deluxe Radio",
-      "streamURL": "http://cmr-hosting.com:8408/;*.mp3",
-      "imageURL": "",
+      "streamURL": "http://cmr-hosting.com:8408/;",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/deluxe-radio-beograd.jpg",
       "desc": "Deluxe Radio",
       "longDesc": "",
       "country": "RS",
@@ -206,25 +180,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
+      "_homepage": "http://www.exyuradio.net/radio-stanice/srbija/beograd/deluxe-radio-beograd.html"
     },
     {
       "name": "DENSOMANIAK Radio",
       "streamURL": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
       "imageURL": "https://www.densomaniak.com/wp-content/uploads/2020/02/logo.png",
-      "desc": "90S | Devedesete",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.densomaniak.com/"
-    },
-    {
-      "name": "DENSOMANIAK Radio",
-      "streamURL": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
-      "imageURL": "",
       "desc": "90S | Devedesete",
       "longDesc": "",
       "country": "RS",
@@ -250,7 +211,7 @@
     {
       "name": "Dream Klub",
       "streamURL": "https://stream.spettro.info/listen/dream_klub_-_public_illegal/radio.mp3",
-      "imageURL": "https://freight.cargo.site/t/original/i/5a59fe9ad45220d9fd123926368aa7c16ed2fe20b19349eb3f8381f4a93f40e3/spettroicon_16x16alfa.ico",
+      "imageURL": "https://freight.cargo.site/w/1072/i/a9af41213696e4055829d59e1b19b5c874adb6b9259eea09cf8368b230e2c953/dream-klub-sketch-1.jpeg",
       "desc": "Dream Klub",
       "longDesc": "",
       "country": "RS",
@@ -263,16 +224,25 @@
     {
       "name": "Dženarika",
       "streamURL": "http://stream.dzenarika.net:8000/stream",
-      "imageURL": "",
+      "imageURL": "https://www.dzenarika.net/wp-content/uploads/2022/12/favicon.png",
       "desc": "Dženarika",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+3810648526156",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.dzenarika.net/"
     },
+
+
+
+
+
+
+
+
+    
     {
       "name": "Fan Radio Bajina Basta",
       "streamURL": "http://stream.fanradio.info:9000/;stream.nsv",
