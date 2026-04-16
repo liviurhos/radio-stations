@@ -534,19 +534,6 @@
       "_homepage": "https://www.radioroks.md/"
     },
     {
-      "name": "Radio Studentus",
-      "streamURL": "http://radiolive.studentus.md:8000/live",
-      "imageURL": "https://big-radio.net/uploads/posts/2022-11/radio-studentus.webp",
-      "desc": "Hits",
-      "longDesc": "",
-      "country": "MD",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://studentus.md/"
-    },
-    {
       "name": "Radio ZUM",
       "streamURL": "https://streams.radiozum.md/listen/zum1/ZUM1",
       "imageURL": "https://res.cloudinary.com/super7/image/upload/v1764762312/rz-api-prod/images/02_radiozum_911.jpg",
