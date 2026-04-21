@@ -482,6 +482,19 @@
       "_homepage": "https://bumradio.net/"
     },
     {
+      "name": "NAŠ MM Radio 97.8",
+      "streamURL": "https://radio.dukahosting.com:7045/stream",
+      "imageURL": "https://nasradiomm.com/wp-content/uploads/2023/12/cropped-logo-nas-radio-MM-png.png",
+      "desc": "Folk | Pop",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://nasradiomm.com/"
+    },
+    {
       "name": "Nas Radio 107,80 Zabalj",
       "streamURL": "https://radio.dukahosting.com:7043/;",
       "imageURL": "https://nasradio.rs/wp-content/uploads/2020/06/cropped-Logotipovi-za-radio1078-2.png",
@@ -690,19 +703,6 @@
       "_homepage": "https://www.naxi.rs/"
     },
     {
-      "name": "Naxi ExYu Radio",
-      "streamURL": "https://naxidigital-exyu128ssl.streaming.rs:8242/;stream.nsv",
-      "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/ex-yu-mala.png?v=1",
-      "desc": "Naxi ExYu Radio",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/exyu"
-    },
-    {
       "name": "Naxi Fitness",
       "streamURL": "https://naxidigital-fitness128ssl.streaming.rs:8292/;stream.nsv",
       "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/fitness-mala.png?v=1",
@@ -780,19 +780,11 @@
       "_bitrate": 128,
       "_homepage": "https://www.naxi.rs/kids"
     },
-
-
-
-
-
-
-
-    
     {
       "name": "Naxi Latino Radio",
       "streamURL": "https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv",
-      "imageURL": "",
-      "desc": "Naxi Latino Radio",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/latino-mala.png?v=1",
+      "desc": "Latino",
       "longDesc": "",
       "country": "RS",
       "tel": "+381112274011",
@@ -804,7 +796,7 @@
     {
       "name": "Naxi Lounge Radio",
       "streamURL": "https://naxidigital-lounge128ssl.streaming.rs:8252/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/lounge-mala.png?v=1",
       "desc": "Naxi Lounge Radio",
       "longDesc": "",
       "country": "RS",
@@ -812,12 +804,25 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.naxi.rs/lounge"
+    },
+    {
+      "name": "Naxi Millennium Radio",
+      "streamURL": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digital%20pozadine/Milennium-01.jpg",
+      "desc": "Top Hits",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381112274011",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.naxi.rs/millennium"
     },
     {
       "name": "Naxi Love Radio",
       "streamURL": "https://naxidigital-love128ssl.streaming.rs:8102/;",
-      "imageURL": "",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/love-mala.png?v=1",
       "desc": "Naxi Love Radio",
       "longDesc": "",
       "country": "RS",
@@ -826,6 +831,19 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.naxi.rs/love"
+    },
+    {
+      "name": "Naxi MIX",
+      "streamURL": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digital%20pozadine/Mix-01.jpg",
+      "desc": "Naxi MIX",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381112274011",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.naxi.rs/mix"
     },
     {
       "name": "Naxi M Radio",
@@ -854,35 +872,9 @@
       "_homepage": "https://radiomaxcoka.com/"
     },
     {
-      "name": "Naxi Millennium Radio",
-      "streamURL": "https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv",
-      "imageURL": "",
-      "desc": "Top Hits",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/millennium"
-    },
-    {
-      "name": "Naxi MIX",
-      "streamURL": "https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv",
-      "imageURL": "https://www.naxi.rs/media/a088b1-mix.png",
-      "desc": "Naxi MIX",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/mix"
-    },
-    {
       "name": "Naxi R'n'B Radio",
       "streamURL": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/rnb-mala.png?v=1",
       "desc": "Naxi R'n'B Radio",
       "longDesc": "",
       "country": "RS",
@@ -893,22 +885,9 @@
       "_homepage": "https://www.naxi.rs/rnb"
     },
     {
-      "name": "Naxi Radio",
-      "streamURL": "http://naxi128.streaming.rs:9150/",
-      "imageURL": "http://www.naxi.rs/images/naxi_favicon.ico",
-      "desc": "Serbian Music",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.naxi.rs/"
-    },
-    {
-      "name": "naxi radio - cafe radio",
+      "name": "Naxi Radio - Cafe",
       "streamURL": "http://naxidigital-cafe128.streaming.rs:8020/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://www.naxi.rs/filemanager/digital/Digital%20pozadine/Cafe-04_1000x694px.jpg",
       "desc": "Cafe | Chill | Love | Naxi",
       "longDesc": "",
       "country": "RS",
@@ -916,25 +895,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.naxi.rs/"
+      "_homepage": "https://www.naxi.rs/cafe"
     },
     {
-      "name": "Naxi Radio - Lounge",
-      "streamURL": "http://naxidigital-lounge128.streaming.rs:8250/",
-      "imageURL": "",
-      "desc": "Naxi Radio - Lounge",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/lounge"
-    },
-    {
-      "name": "naxi radio - rock",
+      "name": "Naxi Radio - Rock",
       "streamURL": "http://naxidigital-rock128.streaming.rs:8180/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://naxi.rs/filemanager/digital/Digital%20pozadine/Rock-01.jpg",
       "desc": "Alternative Rock | Naxi | Rock",
       "longDesc": "",
       "country": "RS",
@@ -942,12 +908,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.naxi.rs/"
+      "_homepage": "https://www.naxi.rs/rock"
     },
     {
       "name": "Naxi Radio 016",
       "streamURL": "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1",
-      "imageURL": "http://radio016.net/wp-content/uploads/2018/10/cropped-headerlogo_r016_2.png",
+      "imageURL": "https://radio016.net/wp-content/uploads/2018/10/cropped-headerlogo_r016_2.png",
       "desc": "Naxi Radio 016",
       "longDesc": "",
       "country": "RS",
@@ -957,58 +923,15 @@
       "_bitrate": 128,
       "_homepage": "http://radio016.net/"
     },
-    {
-      "name": "Naxi Radio Chillwave",
-      "streamURL": "http://naxidigital-chillwave128.streaming.rs:8320/",
-      "imageURL": "",
-      "desc": "Naxi Radio Chillwave",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/chillwave"
-    },
-    {
-      "name": "Naxi Radio Rock",
-      "streamURL": "https://naxidigital-rock128ssl.streaming.rs:8182/;",
-      "imageURL": "",
-      "desc": "Zabavna - Rock",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/"
-    },
-    {
-      "name": "Naxi Rock radio",
-      "streamURL": "https://naxidigital-rock128ssl.streaming.rs:8182/;",
-      "imageURL": "",
-      "desc": "Naxi Rock radio",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/rock"
-    },
-    {
-      "name": "NAŠ MM Radio 97.8",
-      "streamURL": "https://radio.dukahosting.com:7045/stream",
-      "imageURL": "https://nasradiomm.com/wp-content/uploads/2023/12/cropped-logo-nas-radio-MM-png.png",
-      "desc": "Folk | Pop",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://nasradiomm.com/"
-    },
+
+
+
+
+
+
+
+    
+    
     {
       "name": "Nisville Radio",
       "streamURL": "https://radio.nisville.com/listen/live/live",
