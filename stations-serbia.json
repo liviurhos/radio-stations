@@ -14,6 +14,45 @@
       "_homepage": "https://radio021.rs/station/caffe/"
     },
     {
+      "name": "Radio 021 100% domaće",
+      "streamURL": "https://centova.dukahosting.com/proxy/021domaca/stream",
+      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "desc": "Radio 021 100% domaće",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radio021.rs/station/100-posto-domace/"
+    },
+    {
+      "name": "Radio 021 Disco & Funk",
+      "streamURL": "https://centova.dukahosting.com/proxy/021disco/stream",
+      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "desc": "Disco Funk",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radio021.rs/station/disco-funk/"
+    },
+    {
+      "name": "Radio 021 Rock",
+      "streamURL": "https://centova.dukahosting.com/proxy/rock/stream",
+      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
+      "desc": "Radio 021 Rock",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radio021.rs/station/rock/"
+    },
+    {
       "name": "Ami Naxi Radio Kikinda",
       "streamURL": "http://185.119.88.88:8005/",
       "imageURL": "https://www.amiradio.rs/images/slusaj.png",
@@ -522,7 +561,7 @@
     },
     {
       "name": "Naxi 70e",
-      "streamURL": "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+      "streamURL": "https://naxidigital-70s128ssl.streaming.rs:8382/;stream.nsv;",
       "imageURL": "https://www.naxi.rs/filemanager/digital/Digatal%20male%20slike/70e-mala.png?v=1",
       "desc": "Naxi 70e",
       "longDesc": "",
@@ -846,32 +885,6 @@
       "_homepage": "https://www.naxi.rs/mix"
     },
     {
-      "name": "Naxi M Radio",
-      "streamURL": "http://mradio96-naxinacional.streaming.rs:8550/",
-      "imageURL": "http://www.mradiokv.com/img/logo.png",
-      "desc": "Naxi M Radio",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.mradiokv.com/"
-    },
-    {
-      "name": "Naxi MAX",
-      "streamURL": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv",
-      "imageURL": "https://radiomaxcoka.com/img/naxi.png",
-      "desc": "Naxi MAX",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "+381112274011",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://radiomaxcoka.com/"
-    },
-    {
       "name": "Naxi R'n'B Radio",
       "streamURL": "https://naxidigital-rnb128ssl.streaming.rs:8122/;stream.nsv",
       "imageURL": "https://naxi.rs/filemanager/digital/Digatal%20male%20slike/rnb-mala.png?v=1",
@@ -911,6 +924,32 @@
       "_homepage": "https://www.naxi.rs/rock"
     },
     {
+      "name": "Naxi M Radio",
+      "streamURL": "http://mradio96-naxinacional.streaming.rs:8550/",
+      "imageURL": "http://www.mradiokv.com/img/logo.png",
+      "desc": "Naxi M Radio",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381112274011",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.mradiokv.com/"
+    },
+    {
+      "name": "Naxi MAX",
+      "streamURL": "http://max96-naxinacional.streaming.rs:8530/;stream.nsv",
+      "imageURL": "https://radiomaxcoka.com/img/naxi.png",
+      "desc": "Naxi MAX",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381112274011",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://radiomaxcoka.com/"
+    },
+    {
       "name": "Naxi Radio 016",
       "streamURL": "https://naxiradio016-naxinacional.streaming.rs:8637/;.mp3?_=1",
       "imageURL": "https://radio016.net/wp-content/uploads/2018/10/cropped-headerlogo_r016_2.png",
@@ -923,19 +962,10 @@
       "_bitrate": 128,
       "_homepage": "http://radio016.net/"
     },
-
-
-
-
-
-
-
-    
-    
     {
       "name": "Nisville Radio",
       "streamURL": "https://radio.nisville.com/listen/live/live",
-      "imageURL": "",
+      "imageURL": "https://nisville.com/wp-content/uploads/2026/03/FEM_0998.jpg",
       "desc": "Funk | Jazz",
       "longDesc": "",
       "country": "RS",
@@ -952,20 +982,7 @@
       "desc": "Nostalgie Radio Belgrade - 105,2 Mhz",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.nostalgija.rs/"
-    },
-    {
-      "name": "Nostalgija Radio",
-      "streamURL": "http://nostalgie128.streaming.rs:9250/;",
-      "imageURL": "",
-      "desc": "Evergreen",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
+      "tel": "+38163365567",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -974,11 +991,11 @@
     {
       "name": "Nova S",
       "streamURL": "http://radio.novas.tv/novas.mp3",
-      "imageURL": "",
+      "imageURL": "https://myradiostanice.rs/public/uploads/radio_img/nova-s/play_250_250.webp",
       "desc": "Nova S",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381114550141",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -987,7 +1004,7 @@
     {
       "name": "OK Plus Radio",
       "streamURL": "https://stream.okplus.rs/listen/plus/radio.mp3",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/ok-plus-radio-beograd-uzivo.jpg",
       "desc": "Rock - Pop-Rock",
       "longDesc": "",
       "country": "RS",
@@ -996,19 +1013,6 @@
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://okplus.rs/"
-    },
-    {
-      "name": "OK Prelo Radio",
-      "streamURL": "https://stream.okplus.rs/listen/prelo/radio.mp3",
-      "imageURL": "",
-      "desc": "Narodna - Krajiška",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_homepage": "http://www.okradio.net/"
     },
     {
       "name": "OK radio",
@@ -1024,22 +1028,9 @@
       "_homepage": "https://www.okradio.net/"
     },
     {
-      "name": "OK radio plus",
-      "streamURL": "http://live.okplus.rs:8000/;stream.nsv",
-      "imageURL": "",
-      "desc": "OK radio plus",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_homepage": "https://okplus.rs/"
-    },
-    {
       "name": "OK Radio Prelo",
       "streamURL": "http://live.okplus.rs:8050/;*.mp3",
-      "imageURL": "https://www.okradio.net/wp-content/uploads/2021/11/ok-logo-m.png",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/ok-prelo-radio-beograd-uzivo.jpg",
       "desc": "OK Radio Prelo",
       "longDesc": "",
       "country": "RS",
@@ -1052,7 +1043,7 @@
     {
       "name": "Op Top Radio",
       "streamURL": "http://213.239.205.210:8112/;",
-      "imageURL": "",
+      "imageURL": "https://optop.rs/wp-content/uploads/2018/11/cropped-cropped-op-top-radio2-1-1.jpg",
       "desc": "Pop - Mix",
       "longDesc": "",
       "country": "RS",
@@ -1069,24 +1060,11 @@
       "desc": "Alternative / Indie | Pop",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381212902590",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 224,
       "_homepage": "http://www.oradio.rs/"
-    },
-    {
-      "name": "Original Fast Radio",
-      "streamURL": "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live",
-      "imageURL": "https://az-de-01.worldradiobeat.com/static/uploads/browser_icon/192.1732244547.png",
-      "desc": "Blues | Country | Funk | Pop | Reggae | Rock",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://worldradiobeat.com/"
     },
     {
       "name": "Original Fast Radio",
@@ -1104,7 +1082,7 @@
     {
       "name": "Pannon Rádió",
       "streamURL": "http://breddstream.unrealhosting.hu:4120/;",
-      "imageURL": "",
+      "imageURL": "https://pannonrtv.com/themes/custom/pannonrtv/apple-touch-icon.png",
       "desc": "Pannon Rádió",
       "longDesc": "",
       "country": "RS",
@@ -1112,20 +1090,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://pannonrtv.com/web2/"
-    },
-    {
-      "name": "Pink Radio",
-      "streamURL": "http://edge1.pink.rs:1935/radiopinkfta/pink61.smil/playlist.m3u8",
-      "imageURL": "http://www.pinkradio.rs/favicon.ico",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "UNKNOWN",
-      "_bitrate": 964,
-      "_homepage": "http://www.pinkradio.rs/"
+      "_homepage": "https://pannonrtv.com/"
     },
     {
       "name": "Pink Radio",
@@ -1134,63 +1099,89 @@
       "desc": "Pink Radio",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381113063555",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://pinkradio.rs/"
     },
     {
-      "name": "Play",
-      "streamURL": "http://stream.playradio.rs:8001/play.aac",
-      "imageURL": "",
+      "name": "Play Radio Serbia",
+      "streamURL": "https://stream.playradio.rs:8443/play.mp3",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
+      "desc": "Play Radio Serbia",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381113012092",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.playradio.rs/"
+    },
+    {
+      "name": "Play radio - Balkan",
+      "streamURL": "https://stream.playradio.rs:8443/balkan.aac",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
       "desc": "Play",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381113012092",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://www.playradio.rs/"
     },
     {
-      "name": "Play Radio Party",
+      "name": "Play radio - Urban",
+      "streamURL": "https://stream.playradio.rs:8443/urban.aac",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
+      "desc": "Play",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381113012092",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.playradio.rs/"
+    },
+    {
+      "name": "Play radio - Soft",
+      "streamURL": "https://stream.playradio.rs:8443/soft.aac",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
+      "desc": "Play",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "+381113012092",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.playradio.rs/"
+    },
+    {
+      "name": "Play Radio - Party",
       "streamURL": "https://stream.playradio.rs:8443/party.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
       "desc": "English | Party | Serbia",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381113012092",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://playradio.rs/"
     },
     {
-      "name": "Play Radio Rock",
+      "name": "Play Radio - Rock",
       "streamURL": "https://stream.playradio.rs:8443/rock.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.playradio.rs/assets/images/play_share.png",
       "desc": "Belgrade | Internet Radio | Music | Rock",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381113012092",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://playradio.rs/"
-    },
-    {
-      "name": "Play Radio Serbia",
-      "streamURL": "https://stream.playradio.rs:8443/play.mp3",
-      "imageURL": "",
-      "desc": "Play Radio Serbia",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.playradio.rs/"
     },
     {
       "name": "Potok Radio",
@@ -1219,113 +1210,22 @@
       "_homepage": "https://www.instagram.com/dj_alchemist_official"
     },
     {
-      "name": "Radio 012",
-      "streamURL": "http://144.76.219.22:8762/;",
-      "imageURL": "",
-      "desc": "Zabavna - Narodna",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-012.tk/"
-    },
-    {
-      "name": "Radio 021",
-      "streamURL": "https://radio.dukahosting.com/8006/stream",
-      "imageURL": "",
-      "desc": "Radio 021",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 80,
-      "_homepage": "https://radio021.rs/"
-    },
-    {
-      "name": "Radio 021 100% domaće",
-      "streamURL": "https://centova.dukahosting.com/proxy/021domaca/stream",
-      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
-      "desc": "Radio 021 100% domaće",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio021.rs/station/100-posto-domace/"
-    },
-    {
-      "name": "Radio 021 Disco & Funk",
-      "streamURL": "https://centova.dukahosting.com/proxy/021disco/stream",
-      "imageURL": "",
-      "desc": "Disco & Funk | Radio 021",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio021.rs/station/disco-funk/"
-    },
-    {
-      "name": "Radio 021 Disco & Funk",
-      "streamURL": "https://centova.dukahosting.com/proxy/021disco/stream",
-      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
-      "desc": "Disco Funk",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio021.rs/station/disco-funk/"
-    },
-    {
-      "name": "Radio 021 Rock",
-      "streamURL": "https://centova.dukahosting.com/proxy/rock/stream",
-      "imageURL": "https://radio021.rs/wp-content/uploads/2021/07/logo.png",
-      "desc": "Radio 021 Rock",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio021.rs/station/rock/"
-    },
-    {
-      "name": "Radio 3",
-      "streamURL": "http://radio3-128.streaming.rs:9200/",
-      "imageURL": "",
+      "name": "Radio IN",
+      "streamURL": "https://radioin-64ssl.streaming.rs:9212/;stream.mp3",
+      "imageURL": "https://radioinbeograd.rs/wp-content/uploads/2020/09/radio-in-logo-header.png",
       "desc": "Dance | Pop",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381114000801",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.radio3.rs/"
-    },
-    {
-      "name": "Radio 3 LIVE",
-      "streamURL": "https://radio3-64ssl.streaming.rs:9212/;stream.nsv",
-      "imageURL": "",
-      "desc": "Radio 3 LIVE",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": ""
+      "_homepage": "https://www.radioinbeograd.rs/"
     },
     {
       "name": "Radio 31 Plus",
       "streamURL": "https://cast4.asurahosting.com/proxy/dejan/stream",
-      "imageURL": "",
+      "imageURL": "https://radio31.rs/wp-content/uploads/2023/02/RADIO-31-NOVI-LOGO-DEJO-test-1.jpg",
       "desc": "Narodna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -1338,15 +1238,15 @@
     {
       "name": "Radio 34",
       "streamURL": "http://stream.radio34.rs:8889/;*.mp3",
-      "imageURL": "",
+      "imageURL": "https://radio34.rs/wp-content/uploads/2022/04/logo.png",
       "desc": "Radio 34",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381603403434",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://radio34.rs/"
     },
     {
       "name": "Radio 4P Narodna Muzika",
@@ -1374,6 +1274,12 @@
       "_bitrate": 128,
       "_homepage": "https://radio996fm.rs/"
     },
+
+
+
+
+
+    
     {
       "name": "Radio Aparat",
       "streamURL": "https://stream4.rcast.net/72355/",
