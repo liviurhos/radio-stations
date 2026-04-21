@@ -1225,7 +1225,7 @@
     {
       "name": "Radio 31 Plus",
       "streamURL": "https://cast4.asurahosting.com/proxy/dejan/stream",
-      "imageURL": "https://radio31.rs/wp-content/uploads/2023/02/RADIO-31-NOVI-LOGO-DEJO-test-1.jpg",
+      "imageURL": "https://kuasark.com/files/stations-logos/radio-31-plus.png",
       "desc": "Narodna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -1309,7 +1309,7 @@
     {
       "name": "Radio As",
       "streamURL": "http://185.102.239.216:8000/;",
-      "imageURL": "",
+      "imageURL": "https://rtvas.rs/uploads/logo/logo_69c0dd86afc6c1-59630280.png",
       "desc": "Narodna - Folk - Izvorna - Krajiška Starogradska",
       "longDesc": "",
       "country": "RS",
@@ -1322,7 +1322,7 @@
     {
       "name": "Radio B92",
       "streamURL": "http://stream.b92.net:7999/radio-b92.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.b92.net/files/b92/img/icons/apple-icon-144x144.png",
       "desc": "Radio B92",
       "longDesc": "",
       "country": "RS",
@@ -1330,16 +1330,16 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.b92.net/"
     },
     {
       "name": "Radio Balkan Narodna",
       "streamURL": "https://radiobalkan.live/radio/live/narodna.mp3",
-      "imageURL": "https://radiobalkan.live/assets/icons/favicon.png",
+      "imageURL": "https://cdn-profiles.tunein.com/s310562/images/logog.png?t=1",
       "desc": "Radio Balkan Narodna",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381613131448",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1348,11 +1348,11 @@
     {
       "name": "Radio Balkan Trending",
       "streamURL": "https://radiobalkan.live/radio/live/trending.mp3",
-      "imageURL": "https://radiobalkan.live/assets/icons/favicon.png",
+      "imageURL": "https://cdn-profiles.tunein.com/s310562/images/logog.png?t=1",
       "desc": "Radio Balkan Trending",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381613131448",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1361,11 +1361,11 @@
     {
       "name": "Radio Balkan Zabavna",
       "streamURL": "https://radiobalkan.live/radio/live/zabavna.mp3",
-      "imageURL": "",
+      "imageURL": "https://cdn-profiles.tunein.com/s310562/images/logog.png?t=1",
       "desc": "Radio Balkan Zabavna",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381613131448",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1374,33 +1374,20 @@
     {
       "name": "Radio Banja 2",
       "streamURL": "https://stream.iradio.pro/proxy/radiobanja2?mp=/stream",
-      "imageURL": "",
+      "imageURL": "https://banja2.com/wp-content/uploads/2021/10/cropped-Logo-Radio-Banja-2-512-180x180.png",
       "desc": "Pop - Narodna - Folk- Uživo - Starogradska",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+38136616007",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://banja2.com/"
     },
     {
-      "name": "Radio Banker",
-      "streamURL": "http://banker96-naxinacional.streaming.rs:8540/;",
-      "imageURL": "",
-      "desc": "Rock - Pop-Rock",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radiobanker.rs/"
-    },
-    {
       "name": "Radio Belami",
       "streamURL": "http://92.60.239.23:8000/stream",
-      "imageURL": "",
+      "imageURL": "https://belami.rs/wp-content/uploads/2025/06/cropped-Tv-belle-amie-logo-1.png",
       "desc": "Radio Belami",
       "longDesc": "",
       "country": "RS",
@@ -1411,44 +1398,25 @@
       "_homepage": "https://belami.rs/radio-uzivo/"
     },
     {
-      "name": "Radio Beograd 2 link 2",
+      "name": "Radio Beograd 2",
       "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/rts-beograd-uzivo.jpg",
       "desc": "Misc",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
-      "_codec": "UNKNOWN",
+      "_codec": "",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.rts.rs/lat/"
     },
-    {
-      "name": "Radio Beograd 202",
-      "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8",
-      "imageURL": "",
-      "desc": "Radio Beograd 202",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "UNKNOWN",
-      "_bitrate": 128,
-      "_homepage": "https://www.rts.rs/page/radio/sr/live.html"
-    },
-    {
-      "name": "Radio Beograd 202",
-      "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8",
-      "imageURL": "",
-      "desc": "Mix - National",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "UNKNOWN",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiobeograd.rs/"
-    },
+
+
+
+
+
+
+    
     {
       "name": "Radio Beseda",
       "streamURL": "http://radio.eparhijabacka.info:8000/RadioBeseda",
