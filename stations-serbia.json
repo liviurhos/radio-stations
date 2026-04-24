@@ -1274,12 +1274,6 @@
       "_bitrate": 128,
       "_homepage": "https://radio996fm.rs/"
     },
-
-
-
-
-
-    
     {
       "name": "Radio Aparat",
       "streamURL": "https://stream4.rcast.net/72355/",
@@ -1410,17 +1404,10 @@
       "_bitrate": 128,
       "_homepage": "https://www.rts.rs/lat/"
     },
-
-
-
-
-
-
-    
     {
       "name": "Radio Beseda",
       "streamURL": "http://radio.eparhijabacka.info:8000/RadioBeseda",
-      "imageURL": "",
+      "imageURL": "https://eparhijabacka.info/wp-content/uploads/2022/01/ProtinGrbCBFI-230x230.png",
       "desc": "Orthodox Christian | Orthodox Church",
       "longDesc": "",
       "country": "RS",
@@ -1433,7 +1420,7 @@
     {
       "name": "Radio BG1",
       "streamURL": "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8",
-      "imageURL": "",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/HMPpcHGr3Y.png",
       "desc": "News",
       "longDesc": "",
       "country": "RS",
@@ -1441,7 +1428,7 @@
       "whatsapp": "",
       "_codec": "UNKNOWN",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "http://www.radiobeograd.rs/"
     },
     {
       "name": "Radio Blagovesnik",
@@ -1457,22 +1444,9 @@
       "_homepage": "https://eparhijabacka.info/"
     },
     {
-      "name": "Radio Blagovesnik",
-      "streamURL": "http://radio.eparhijabacka.info:8000/RadioBlagovesnik",
-      "imageURL": "",
-      "desc": "Radio Blagovesnik",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://eparhijabacka.info/category/radio-stanice/radio-blagovesnik/"
-    },
-    {
       "name": "Radio Blue Sky",
       "streamURL": "http://82.114.72.2:8098/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_184016.jpg",
       "desc": "Radio Blue Sky",
       "longDesc": "",
       "country": "RS",
@@ -1480,33 +1454,20 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Bravo Fm Narodni",
-      "streamURL": "http://195.252.68.166:8036/;",
-      "imageURL": "",
-      "desc": "Zabavna - Narodna",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.bravofm.net/"
+      "_homepage": "http://www.rtklive.com/"
     },
     {
       "name": "Radio Bubamara",
       "streamURL": "http://92.60.230.200:5010/;*.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.radiobubamara.rs/wp-content/uploads/2025/10/RadioBubamaraSvrljig.webp",
       "desc": "Radio Bubamara",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+ 381677777965",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.radiobubamara.rs/"
     },
     {
       "name": "Radio Bubonja",
@@ -1524,7 +1485,7 @@
     {
       "name": "radio centar",
       "streamURL": "http://195.252.68.166:8038/",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-centar-987-kragujevac-uzivo.jpg",
       "desc": "Pop | Rock",
       "longDesc": "",
       "country": "RS",
@@ -1535,74 +1496,22 @@
       "_homepage": "http://www.centar.rs/"
     },
     {
-      "name": "radio centar",
-      "streamURL": "http://195.252.68.166:8038/",
-      "imageURL": "",
-      "desc": "Pop | Rock",
+      "name": "Radio D Lucani",
+      "streamURL": "http://213.239.205.210:6010/;stream.nsv",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2014/02/Radio-D-Lucani.jpg",
+      "desc": "Radio D Lucani",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.centar.rs/"
-    },
-    {
-      "name": "Radio Cer",
-      "streamURL": "http://stream1.contrateam.com:8040/",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiocer.net/"
-    },
-    {
-      "name": "Radio D",
-      "streamURL": "http://213.239.205.210:6010/",
-      "imageURL": "",
-      "desc": "Folk | Local Music | Pop",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
+      "tel": "+38132817253 ",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.radiod-lucani.com/"
     },
     {
-      "name": "Radio D Lucani",
-      "streamURL": "http://213.239.205.210:6010/;stream.nsv",
-      "imageURL": "",
-      "desc": "Radio D Lucani",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Delta 31",
-      "streamURL": "https://cast4.asurahosting.com/proxy/dejan/stream",
-      "imageURL": "http://www.radio-delta.com/forum/delta1.ico",
-      "desc": "Narodna - Folk",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radio-delta.com/forum/"
-    },
-    {
       "name": "Radio Dženarika",
       "streamURL": "http://stream.dzenarika.net:8000/stream",
-      "imageURL": "http://www.dzenarika.net/favicon.ico",
+      "imageURL": "https://www.dzenarika.net/wp-content/uploads/2023/03/dzenarika-radio-14.png",
       "desc": "Zabavna - Narodna - Mix - Ex-Yu",
       "longDesc": "",
       "country": "RS",
@@ -1615,7 +1524,7 @@
     {
       "name": "Radio Fruska Gora",
       "streamURL": "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream",
-      "imageURL": "",
+      "imageURL": "https://radiofruskagora.com/wp-content/uploads/2015/06/logo-kvadrat1-300x300.jpg",
       "desc": "Radio Fruska Gora",
       "longDesc": "",
       "country": "RS",
@@ -1623,7 +1532,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://radiofruskagora.com/"
     },
     {
       "name": "Radio Futog",
@@ -1651,6 +1560,14 @@
       "_bitrate": 64,
       "_homepage": "https://www.radiofutog.rs/"
     },
+
+
+
+
+
+    
+
+    
     {
       "name": "Radio Gaga Vlasotince",
       "streamURL": "http://stream1.srvnetplus.com:8074/stream",
