@@ -1433,7 +1433,7 @@
     {
       "name": "Radio Blagovesnik",
       "streamURL": "http://radio.eparhijabacka.info:8000/RadioBlagovesnik",
-      "imageURL": "https://eparhijabacka.info/favicon.ico",
+      "imageURL": "https://static-media.streema.com/media/cache/93/fd/93fddfb9d7cd6b6294334d45b178d9f1.jpg",
       "desc": "Orthodox Christian | Orthodox Church",
       "longDesc": "",
       "country": "RS",
@@ -1560,18 +1560,10 @@
       "_bitrate": 64,
       "_homepage": "https://www.radiofutog.rs/"
     },
-
-
-
-
-
-    
-
-    
     {
       "name": "Radio Gaga Vlasotince",
       "streamURL": "http://stream1.srvnetplus.com:8074/stream",
-      "imageURL": "",
+      "imageURL": "https://vlasotince.tv/uploads/RADIO_ONAIR_OFF.png",
       "desc": "Radio Gaga Vlasotince",
       "longDesc": "",
       "country": "RS",
@@ -1593,32 +1585,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://radioin.co.rs/"
-    },
-    {
-      "name": "Radio In",
-      "streamURL": "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv",
-      "imageURL": "https://radioin.co.rs/wp-content/uploads/2019/02/logo.png",
-      "desc": "Radio In",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radioin.co.rs/"
-    },
-    {
-      "name": "Radio IN Beograd",
-      "streamURL": "https://radio3-64ssl.streaming.rs:9212/;*.mp3",
-      "imageURL": "https://www.radioinbeograd.rs/favicon.ico",
-      "desc": "Folk | Music | Pop | World Music",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://www.radioinbeograd.rs/"
     },
     {
       "name": "Radio KISS Lazarevac 106.1",
@@ -1648,21 +1614,21 @@
     },
     {
       "name": "Radio Kolubara Lajkovac",
-      "streamURL": "https://a1.asurahosting.com:9130/radio.mp3",
-      "imageURL": "https://www.radioexpert.net/radio-logo/srbija/radio-kolubara-lajkovac-213-lajkovac-srbija-320.jpg",
+      "streamURL": "https://media.radioexs.com/stream/radiokolubara",
+      "imageURL": "https://radiokolubara.rs/images/logo.png",
       "desc": "Folk | Trap",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+381648099094",
+      "whatsapp": "+38163357736",
       "_codec": "AAC",
       "_bitrate": 128,
-      "_homepage": "https://www.kolubarainfo.rs/"
+      "_homepage": "https://radiokolubara.rs/"
     },
     {
       "name": "Radio Krajina 019",
       "streamURL": "https://cmr-hosting.com:7021/;",
-      "imageURL": "https://radio-krajina019.com/favicon.ico",
+      "imageURL": "https://radio-krajina019.com/wp-content/uploads/2019/05/Radio-Krajina-019-logo-02.png",
       "desc": "Narodna - Folk - Vlaška - Kola",
       "longDesc": "",
       "country": "RS",
@@ -1673,65 +1639,13 @@
       "_homepage": "https://radio-krajina019.com/"
     },
     {
-      "name": "Radio Krajina 019",
-      "streamURL": "https://cmr-hosting.com:7021/;",
-      "imageURL": "https://radio-krajina019.com/wp-content/uploads/2019/05/Radio-Krajina-019-logo-02.png",
-      "desc": "Radio Krajina 019",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-krajina019.com/"
-    },
-    {
-      "name": "Radio Kulska Komuna",
-      "streamURL": "http://as.q-media.rs:8000/mp3",
-      "imageURL": "",
-      "desc": "Radio Kulska Komuna",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Levač",
-      "streamURL": "http://213.239.205.210:8046/",
-      "imageURL": "",
-      "desc": "Radio Levač",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "http://radiolevac.rs/"
-    },
-    {
       "name": "Radio Levač",
       "streamURL": "http://213.239.205.210:8046/index.html/",
       "imageURL": "http://radiolevac.rs/wp-content/uploads/2019/04/logo150radiolevac.png",
       "desc": "Narodna",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://radiolevac.rs/"
-    },
-    {
-      "name": "Radio Levač",
-      "streamURL": "http://213.239.205.210:8046/index.html/",
-      "imageURL": "",
-      "desc": "Narodna",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
+      "tel": "+381655533222",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
@@ -1740,7 +1654,7 @@
     {
       "name": "Radio Mackica - Narodna Muzika",
       "streamURL": "http://cast2.name.ba:8153/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-mackica-uzivo.jpg",
       "desc": "Radio Mackica - Narodna Muzika",
       "longDesc": "",
       "country": "RS",
@@ -1748,12 +1662,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "http://www.radiomackica.com/"
     },
     {
       "name": "Radio Mackica - Zabavna Muzika",
       "streamURL": "http://cast2.name.ba:8157/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-mackica-zabvna.jpg",
       "desc": "Radio Mackica - Zabavna Muzika",
       "longDesc": "",
       "country": "RS",
@@ -1761,34 +1675,33 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Maestro",
-      "streamURL": "https://radio-maestro.com:8443/stream.mp3",
-      "imageURL": "https://radio-maestro.com/images/logos/maestroplavi.png",
-      "desc": "Radio Maestro",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio-maestro.com/index.php"
+      "_homepage": "http://www.radiomackica.com/"
     },
     {
       "name": "Radio Magnum",
       "streamURL": "http://magnum.web-srbija.net:8121/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://radiomagnum.rs/wp-content/uploads/2020/05/1394101_723374784343824_1111721825_n.jpg",
       "desc": "Radio Magnum",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+38119415678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://radiomagnum.rs/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "RADIO MARIA SERBIA",
       "streamURL": "http://dreamsiteradiocp.com:8012/stream",
