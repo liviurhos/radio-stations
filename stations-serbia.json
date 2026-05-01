@@ -1833,20 +1833,10 @@
       "_bitrate": 140,
       "_homepage": "https://radionovosti.com/"
     },
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Radio Patrola 021",
       "streamURL": "https://srv.mediastriming.com/8444/stream",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-patrola-021.jpg",
       "desc": "Radio Patrola 021",
       "longDesc": "",
       "country": "RS",
@@ -1854,20 +1844,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Pingvin",
-      "streamURL": "http://uzivo4.radiopingvin.com:8187/domaci1",
-      "imageURL": "",
-      "desc": "Najvise Muzike",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://www.radiopingvin.com/"
+      "_homepage": "http://patrola021.com/"
     },
     {
       "name": "Radio Podrinje",
@@ -1883,35 +1860,22 @@
       "_homepage": "https://rtvpodrinje.rs/"
     },
     {
-      "name": "Radio Podrinje Loznica",
-      "streamURL": "http://s1.skeletor.rs:8000/podrinje",
-      "imageURL": "",
-      "desc": "Radio Podrinje Loznica",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Radio Razbibriga",
       "streamURL": "http://213.239.205.210:8001/stream",
-      "imageURL": "",
-      "desc": "Radio Razbibriga",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-razbibriga-uzivo.jpg",
+      "desc": "zabavna | rock |	narodna |	mix",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "http://www.razbibriga.net/"
     },
     {
       "name": "Radio Ritam Srca",
       "streamURL": "https://s4.radio.co/s0f65dad2d/listen",
-      "imageURL": "",
+      "imageURL": "https://ritam-1e458.kxcdn.com/assets/images/apple-touch-icon.png",
       "desc": "Narodna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -1923,8 +1887,8 @@
     },
     {
       "name": "Radio S Narodni",
-      "streamURL": "https://stream.radios.rs:9016/;*.mp3",
-      "imageURL": "",
+      "streamURL": "https://stream.radios.rs:9016/stream",
+      "imageURL": "https://www.radios.rs/media/PNG%20LOGOS/Novi%20logotipi/Radio-S-Narodni-500px.png",
       "desc": "Radio S Narodni",
       "longDesc": "",
       "country": "RS",
@@ -1934,6 +1898,15 @@
       "_bitrate": 64,
       "_homepage": "https://www.radios.rs/digitalni-radio/18/narodni"
     },
+
+
+
+
+
+
+
+
+    
     {
       "name": "Radio S XTRA",
       "streamURL": "https://stream.radios.rs:9026/;*.mp3",
