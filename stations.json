@@ -535,7 +535,7 @@
     },
     {
       "name": "Play 90's",
-      "streamURL": "https://www.playradio.ro/PlayRadio.m3u",
+      "streamURL": "https://live.playradio.org:8443/FMHD",
       "imageURL": "https://www.playradio.org/wp-content/uploads/2016/11/cropped-Logo-General114.png",
       "desc": "90S | Dance | Euro Hits | Eurodance",
       "longDesc": "",
