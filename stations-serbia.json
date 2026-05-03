@@ -1898,15 +1898,6 @@
       "_bitrate": 64,
       "_homepage": "https://www.radios.rs/digitalni-radio/18/narodni"
     },
-
-
-
-
-
-
-
-
-    
     {
       "name": "Radio S XTRA",
       "streamURL": "https://stream.radios.rs:9026/;*.mp3",
@@ -1962,7 +1953,7 @@
     {
       "name": "Radio S3 Narodni",
       "streamURL": "https://stream.radios.rs:9016/;",
-      "imageURL": "",
+      "imageURL": "https://www.radios.rs/images/radios/favicon/apple-icon-120x120.png",
       "desc": "Narodna",
       "longDesc": "",
       "country": "RS",
@@ -1988,20 +1979,20 @@
     {
       "name": "Radio San Loznica",
       "streamURL": "https://s1.skeletor.rs/san",
-      "imageURL": "",
-      "desc": "Radio San Loznica",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-san-loznica-uzivo.jpg",
+      "desc": "Pop Rock | 90s",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://lotel.rs/san-radio-live/"
     },
     {
       "name": "Radio SKAY",
       "streamURL": "http://185.119.89.63:8000/;",
-      "imageURL": "http://www.radioskay.com/favicon.ico",
+      "imageURL": "https://www.radioskay.com/templates/g5_helium/images/skay_images/radio_skay_logo_gradient_background.jpg",
       "desc": "Zabavna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -2010,19 +2001,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.radioskay.com/"
-    },
-    {
-      "name": "Radio SKAY",
-      "streamURL": "https://live.radioskay.com/;*.mp3",
-      "imageURL": "http://play.radiostanica.com/static/images/logos/1913_logo1394399423.png",
-      "desc": "Radio SKAY",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://radioskay.com/"
     },
     {
       "name": "Radio Slavoslovlje",
@@ -2040,24 +2018,24 @@
     {
       "name": "Radio Sljivovica",
       "streamURL": "http://stream.iradio.pro:8114/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-sljivovica-uzivo.jpg",
       "desc": "Radio Sljivovica",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381656500151",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.radiosljivovica.net/"
     },
     {
       "name": "Radio Sloboda Kraljevo",
       "streamURL": "https://audio.slobodafm.com:8000/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://radiosloboda.rs/wp-content/uploads/2025/09/Default-Social-Share-Image-Radio-Sloboda.png",
       "desc": "Radio Sloboda Kraljevo",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381603107070",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -2065,8 +2043,8 @@
     },
     {
       "name": "Radio Slovo Ljubve",
-      "streamURL": "http://160.153.245.85:8000/stream/1/;*.mp3",
-      "imageURL": "",
+      "streamURL": "https://securestreams.autopo.st:2494/stream/1/;",
+      "imageURL": "https://www.slovoljubve.com/images/icons/logoOG.png",
       "desc": "Radio Slovo Ljubve",
       "longDesc": "",
       "country": "RS",
@@ -2074,29 +2052,16 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Slovo Ljubve",
-      "streamURL": "http://160.153.245.85:8000/",
-      "imageURL": "",
-      "desc": "Radio Slovo Ljubve",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.slovoljubve.com/cir/Home.asp"
+      "_homepage": "https://www.slovoljubve.com/cir/Home.asp"
     },
     {
       "name": "Radio Sombor 97.5",
       "streamURL": "https://radio.dukahosting.com/8344/stream",
-      "imageURL": "https://radiosombor.rs/wp-content/uploads/2020/06/Radio-Sombor-b.png",
+      "imageURL": "https://radiosombor.rs/wp-content/uploads/2026/03/Radio-Sombor-final.png",
       "desc": "Folk | Pop",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381658778001",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2105,7 +2070,7 @@
     {
       "name": "Radio Srce Krajine",
       "streamURL": "https://srv.mediastriming.com/8330/stream",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-srce-krajine-uzivo.jpg",
       "desc": "Narodna - Krajiška - Uživo",
       "longDesc": "",
       "country": "RS",
@@ -2117,8 +2082,8 @@
     },
     {
       "name": "Radio Stara Čaršija",
-      "streamURL": "http://radio.dukahosting.com:8026/;",
-      "imageURL": "http://radiostaracarsija.com/w/wp-content/uploads/2021/12/cropped-262820517_105086078685288_3306002469503262989_n-1-180x180.png",
+      "streamURL": "https://radiostaracarsija.com/w/wp-content/uploads/2022/02/PODCAST-sa-muzikom.mp3",
+      "imageURL": "https://radiostaracarsija.com/w/wp-content/uploads/2026/02/logo4-1.png",
       "desc": "Narodna",
       "longDesc": "",
       "country": "RS",
@@ -2131,7 +2096,7 @@
     {
       "name": "Radio Starcevo",
       "streamURL": "http://mpc2.mediacp.eu:8350/stream",
-      "imageURL": "https://rtvstarcevo.in.rs/wp-content/uploads/2021/11/cropped-cropped-LogoMakr_6BC2kZ-copy.png",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-starcevo-petrovac-na-mlavi-uzivo.jpg",
       "desc": "Vlaska Uzivo",
       "longDesc": "",
       "country": "RS",
@@ -2142,9 +2107,9 @@
       "_homepage": "http://www.rtvstarcevo.in.rs/"
     },
     {
-      "name": "Radio Stari Grad",
+      "name": "RSG - Radio Stari Grad",
       "streamURL": "http://stream.rsg.rs:8043/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://rsg.rs/wp-content/uploads/2022/11/favicon.png",
       "desc": "Radio Stari Grad",
       "longDesc": "",
       "country": "RS",
@@ -2152,12 +2117,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://rsg.rs/"
     },
     {
-      "name": "Radio Stari Grad",
-      "streamURL": "https://stream.rsg.rs/live/",
-      "imageURL": "",
+      "name": "RSG - Radio Dvojka",
+      "streamURL": "https://stream.rsg.rs/dvojka//electronic.mp3?n=e5606573469d3cc6420d",
+      "imageURL": "https://rsg.rs/wp-content/uploads/2024/04/dvojka.webp",
       "desc": "Radio Stari Grad",
       "longDesc": "",
       "country": "RS",
@@ -2165,12 +2130,51 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://www.rsg.rs/"
+      "_homepage": "https://rsg.rs/"
+    },
+    {
+      "name": "RSG - Trending",
+      "streamURL": "https://stream.rsg.rs/trending//electronic.mp3?n=f43538fe7815144e3464",
+      "imageURL": "https://rsg.rs/wp-content/uploads/2024/04/dvojka.webp",
+      "desc": "Radio Stari Grad",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://rsg.rs/"
+    },
+    {
+      "name": "RSG - Pop",
+      "streamURL": "https://stream.rsg.rs/pop//electronic.mp3?n=daab2362ccf18ec16019",
+      "imageURL": "https://rsg.rs/wp-content/uploads/2022/11/Pop_img_small2x.png",
+      "desc": "Radio Stari Grad",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://rsg.rs/"
+    },
+    {
+      "name": "RSG - Folk",
+      "streamURL": "https://stream.rsg.rs/folk//electronic.mp3?n=bb6883617014805a3f28",
+      "imageURL": "https://rsg.rs/wp-content/uploads/2022/11/Folk_img_small2x.png",
+      "desc": "Radio Stari Grad",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://rsg.rs/"
     },
     {
       "name": "Radio Studio B",
       "streamURL": "http://radio.studiob.rs:8004/",
-      "imageURL": "https://studiob.rs/wp-content/uploads/2016/05/favicon-194x194-102x102.png",
+      "imageURL": "https://studiob.rs/wp-content/uploads/2026/02/cropped-cropped-pozadina2-180x180.jpeg",
       "desc": "Jazz | News | Urban",
       "longDesc": "",
       "country": "RS",
@@ -2183,7 +2187,7 @@
     {
       "name": "Radio Sunset",
       "streamURL": "http://cmr-hosting.com:8425/stream",
-      "imageURL": "",
+      "imageURL": "https://radio-sunset.com/wp-content/uploads/2018/05/Sunset-logo.png",
       "desc": "Radio Sunset",
       "longDesc": "",
       "country": "RS",
@@ -2191,26 +2195,13 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://radio-sunset.com/"
     },
     {
       "name": "Radio Tavor",
       "streamURL": "http://radio.eparhijabacka.info:8000/RadioTavor",
       "imageURL": "https://eparhijabacka.info/favicon.ico",
       "desc": "Orthodox Christian | Orthodox Church",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://eparhijabacka.info/"
-    },
-    {
-      "name": "Radio Tavor",
-      "streamURL": "http://radio.eparhijabacka.info:8000/RadioTavor",
-      "imageURL": "https://eparhijabacka.info/favicon.ico",
-      "desc": "Radio Tavor",
       "longDesc": "",
       "country": "RS",
       "tel": "",
@@ -2234,8 +2225,8 @@
     },
     {
       "name": "Radio VIP",
-      "streamURL": "http://vip128.streaming.rs:8110/",
-      "imageURL": "",
+      "streamURL": "http://vip128.streaming.rs:8110/;&type=mp3",
+      "imageURL": "http://radiovip.org/wp-content/uploads/2016/09/cropped-SquareLogo-180x180-1.png",
       "desc": "Radio VIP",
       "longDesc": "",
       "country": "RS",
@@ -2243,12 +2234,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.radiovip.info/"
+      "_homepage": "http://radiovip.org/"
     },
     {
       "name": "Radio Vladimirci",
       "streamURL": "http://icecast.astratelekom.com:8000/vladimirci",
-      "imageURL": "",
+      "imageURL": "http://www.radiovladimirci.com/wp-content/uploads/2013/02/logic.jpg",
       "desc": "Narodna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -2261,7 +2252,7 @@
     {
       "name": "Radio Zelengrad - Milwaukee - USA",
       "streamURL": "http://usa5.fastcast4u.com:16276/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "http://www.radiozelengrad.com/wp-content/uploads/2017/09/logonovimali-2.png",
       "desc": "Radio Zelengrad - Milwaukee - USA",
       "longDesc": "",
       "country": "RS",
@@ -2269,11 +2260,11 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.radiozelengrad.com/"
     },
     {
       "name": "Radio Zlatousti",
-      "streamURL": "http://stream.unlimited.rs:8076/live",
+      "streamURL": "http://radiozlatousti.rs/wp-content/uploads/2026/04/zajednicarenje-11.mp3?_=1",
       "imageURL": "http://radiozlatousti.rs/wp-content/uploads/2015/06/radiozlatousti1.jpg",
       "desc": "Radio Zlatousti",
       "longDesc": "",
@@ -2285,22 +2276,22 @@
       "_homepage": "http://radiozlatousti.rs/"
     },
     {
-      "name": "Radio Šajkaška",
-      "streamURL": "http://91.228.254.120:8000/;",
-      "imageURL": "",
-      "desc": "Local Music",
+      "name": "Radio Saska uživo",
+      "streamURL": "https://as1.radioserveri.com:8150/stream",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-saska.jpg",
+      "desc": "pop |	narodna |	vlaška |	90s |	ex-yu",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
-      "_homepage": "http://www.radiosajkaska.com/"
+      "_homepage": "http://www.radiosaska.com/"
     },
     {
       "name": "Radio Šumadinac",
       "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-uzivo",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-sumadinac-arandjelovac.jpg",
       "desc": "Zabavna - Narodna",
       "longDesc": "",
       "country": "RS",
@@ -2308,12 +2299,12 @@
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_homepage": "https://www.radiosumadinac.org/forum.php"
+      "_homepage": "https://www.radiosumadinac.org/"
     },
     {
       "name": "Radio Šumadinac Južni Vetar",
       "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-juzni",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-sumadinac-arandjelovac.jpg",
       "desc": "Narodna - Folk",
       "longDesc": "",
       "country": "RS",
@@ -2326,7 +2317,7 @@
     {
       "name": "Radio Šumadinac Krajiška",
       "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-krajiska",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-sumadinac-arandjelovac.jpg",
       "desc": "Narodna - Krajiška",
       "longDesc": "",
       "country": "RS",
@@ -2339,7 +2330,7 @@
     {
       "name": "Radio Šumadinac Narodna",
       "streamURL": "https://media.srb-streaming.com/stream/radio-sumadinac-narodna",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-sumadinac-arandjelovac.jpg",
       "desc": "Narodna - Etno",
       "longDesc": "",
       "country": "RS",
@@ -2350,35 +2341,35 @@
       "_homepage": "https://www.radiosumadinac.org/forum.php"
     },
     {
-      "name": "Red radio Beograd",
+      "name": "Red Radio Beograd",
       "streamURL": "https://stream.redradio.rs/sid=1",
-      "imageURL": "",
+      "imageURL": "https://myradiostanice.rs/public/uploads/radio_img/red-radio/fb_cover.jpg",
       "desc": "Red radio Beograd",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381113063400",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://redportal.pink.rs/"
     },
     {
-      "name": "Resavski radio",
+      "name": "Resavski Radio",
       "streamURL": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.resavski.rs/wp-content/uploads/2023/02/cropped-reasvski-radio-notification-512x512-1-180x180.png",
       "desc": "Narodna",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+38135621321",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.resavski.rs/"
     },
     {
-      "name": "rock beograd",
+      "name": "Rock Radio 96.2 FM",
       "streamURL": "https://edge9.pink.rs/rockstream",
-      "imageURL": "",
+      "imageURL": "https://rockradio.rs/wp-content/uploads/2020/06/rock-radio-logo.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "RS",
@@ -2388,71 +2379,18 @@
       "_bitrate": 192,
       "_homepage": "https://rockradio.rs/"
     },
-    {
-      "name": "Rock Radio Belgrade (Рок Радио Београд)",
-      "streamURL": "https://edge9.pink.rs/rockstream",
-      "imageURL": "",
-      "desc": "Rock Radio Belgrade (Рок Радио Београд)",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://rockradio.rs/"
-    },
-    {
-      "name": "Rock Radio Beograd",
-      "streamURL": "https://edge9.pink.rs/rockstream/",
-      "imageURL": "",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://rockradio.rs/"
-    },
-    {
-      "name": "RSG Party time",
-      "streamURL": "https://stream.rsg.rs/partytime/",
-      "imageURL": "",
-      "desc": "RSG Party time",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "RSG Radio Stari Grad",
-      "streamURL": "https://stream.rsg.rs/live/",
-      "imageURL": "",
-      "desc": "RSG Radio Stari Grad",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "RSG Relax",
-      "streamURL": "https://stream.rsg.rs/relax/",
-      "imageURL": "",
-      "desc": "RSG Relax",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
+
+
+
+
+
+    
+
+
+
+
+    
+ 
     {
       "name": "RTV - Radio Novi Sad 1",
       "streamURL": "http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8",
