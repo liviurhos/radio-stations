@@ -1199,7 +1199,7 @@
     {
       "name": "Psychedelic Travel Radio",
       "streamURL": "https://e20.yesstreaming.net:6148/stream",
-      "imageURL": "https://ptpimg.me/ibo76q.png",
+      "imageURL": "https://radioapex.com/media/imported_station_logos/imported-station-246.png",
       "desc": "Forest Psytrance | Progressive Psytrance | Psychedelic | Psytrance | Trance",
       "longDesc": "",
       "country": "RS",
@@ -2576,7 +2576,7 @@
     },
     {
       "name": "Vladix 1 Radio",
-      "streamURL": "http://vladix.dukahosting.com:8022/;stream.nsv",
+      "streamURL": "https://centova.dukahosting.com/proxy/dukahost/stream",
       "imageURL": "https://radio.vladix.net/wp-content/uploads/2021/02/vladix-radio1.png",
       "desc": "Vladix 1",
       "longDesc": "",
@@ -2629,7 +2629,7 @@
     {
       "name": "WTF Radio",
       "streamURL": "http://live.wtfradio.rs/wtfradio.mp3",
-      "imageURL": "https://wtfradio.rs/images/logo.PNG",
+      "imageURL": "https://www.uzivoradio.net/wp-content/uploads/2020/12/wtf-beograd.jpg",
       "desc": "Hits | Pop",
       "longDesc": "",
       "country": "RS",
