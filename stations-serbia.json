@@ -2369,7 +2369,7 @@
     {
       "name": "Rock Radio 96.2 FM",
       "streamURL": "https://edge9.pink.rs/rockstream",
-      "imageURL": "https://rockradio.rs/wp-content/uploads/2020/06/rock-radio-logo.png",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/c9pdrlamqahg.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "RS",
@@ -2379,22 +2379,10 @@
       "_bitrate": 192,
       "_homepage": "https://rockradio.rs/"
     },
-
-
-
-
-
-    
-
-
-
-
-    
- 
     {
       "name": "RTV - Radio Novi Sad 1",
       "streamURL": "http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8",
-      "imageURL": "",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/4/12004.v7.png",
       "desc": "Public Radio",
       "longDesc": "",
       "country": "RS",
@@ -2407,7 +2395,7 @@
     {
       "name": "RTV - Radio Novi Sad 2 (Újvidéki Rádió)",
       "streamURL": "http://212.200.230.50:1935/rns2/drugiprogram/livestream/stream.m3u8",
-      "imageURL": "",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/4/12004.v7.png",
       "desc": "Public Radio",
       "longDesc": "",
       "country": "RS",
@@ -2420,7 +2408,7 @@
     {
       "name": "RTV - Radio Novi Sad 3",
       "streamURL": "http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8",
-      "imageURL": "",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/4/12004.v7.png",
       "desc": "Ethnic Programming | Minority | Multilingual | Public Radio",
       "longDesc": "",
       "country": "RS",
@@ -2433,11 +2421,11 @@
     {
       "name": "S21 Euro",
       "streamURL": "https://radiozender.mpbnetwerken.nl/s21radio?v=1.0",
-      "imageURL": "https://s21media.pl/s21radio.png",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/2/143322.v1.png",
       "desc": "S21 Euro",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+381654634101",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 384,
@@ -2446,24 +2434,11 @@
     {
       "name": "Super FM",
       "streamURL": "http://onair.superfm.rs/superfm.mp3",
-      "imageURL": "https://superfm.rs/wp-content/uploads/2021/03/super-loading-100x100.png",
+      "imageURL": "https://superfm.rs/wp-content/uploads/2020/04/SuperFM-Logo-meni-line-retina.png",
       "desc": "Hits | Pop",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://superfm.rs/"
-    },
-    {
-      "name": "Super FM Beograd",
-      "streamURL": "https://onair.superfm.rs/superfm.mp3",
-      "imageURL": "",
-      "desc": "Super FM Beograd",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
+      "tel": "+381116491079",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2472,7 +2447,7 @@
     {
       "name": "Szabadkai Magyar Rádió",
       "streamURL": "http://breddstream.unrealhosting.hu:4110/;",
-      "imageURL": "",
+      "imageURL": "https://pannonrtv.com/themes/custom/pannonrtv/apple-touch-icon.png",
       "desc": "Szabadkai Magyar Rádió",
       "longDesc": "",
       "country": "RS",
@@ -2480,12 +2455,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://pannonrtv.com/web2/"
+      "_homepage": "https://pannonrtv.com/szabadkai-magyar-radio"
     },
     {
-      "name": "TDI BEZ REKLAMA",
-      "streamURL": "https://streaming.tdiradio.com/tdiradiobezreklama.mp3",
-      "imageURL": "https://tdiradio.com/wp-content/uploads/2022/05/TDI-crna-Logo-png-e1647953245156.png",
+      "name": "TDI Radio",
+      "streamURL": "https://player.tdiradio.com/?station=radio-musical",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
       "desc": "Hits | Oldies | Pop Rock",
       "longDesc": "",
       "country": "RS",
@@ -2496,10 +2471,75 @@
       "_homepage": "https://tdiradio.com/"
     },
     {
-      "name": "TDI Radio - Love",
-      "streamURL": "http://streaming.tdiradio.com:8000/love",
-      "imageURL": "",
-      "desc": "Love Songs",
+      "name": "TDI BEZ REKLAMA",
+      "streamURL": "https://streaming.tdiradio.com/tdiradiobezreklama.mp3",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Hits | Oldies | Pop Rock",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://tdiradio.com/"
+    },
+    {
+      "name": "TDI CRNA GORA",
+      "streamURL": "https://player.tdiradio.com/?station=tdi-cg",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Hits | Oldies | Pop Rock",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://tdiradio.com/"
+    },
+    {
+      "name": "TDI Radio HIT FM",
+      "streamURL": "https://player.tdiradio.com/?station=hit-fm",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Love Songs | Hits | Dance | Disco",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "http://www.tdiradio.com/"
+    },
+    {
+      "name": "TDI Radio JAT",
+      "streamURL": "https://player.tdiradio.com/?station=orf-radio-oberosterreich",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Love Songs | Hits | Dance | Disco",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "http://www.tdiradio.com/"
+    },
+    {
+      "name": "TDI Radio KAROLINA",
+      "streamURL": "https://player.tdiradio.com/?station=blues-radio-uk",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Love Songs | Hits | Dance | Disco",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 128,
+      "_homepage": "http://www.tdiradio.com/"
+    },
+    {
+      "name": "TDI Radio LOLA",
+      "streamURL": "https://player.tdiradio.com/?station=the-blues-cove",
+      "imageURL": "https://tdiradio.com/wp-content/uploads/2026/02/tdi-black-1.png",
+      "desc": "Love Songs | Hits | Dance | Disco",
       "longDesc": "",
       "country": "RS",
       "tel": "",
@@ -2522,48 +2562,35 @@
       "_homepage": "https://www.topfm.rs/"
     },
     {
-      "name": "Usce Shopping Radio",
-      "streamURL": "http://naxidigital-usce128.streaming.rs:8000/;stream.nsv",
-      "imageURL": "",
-      "desc": "Usce Shopping Radio",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Ušće Shoping Radio",
-      "streamURL": "http://109.206.96.18:8000/;",
-      "imageURL": "",
-      "desc": "Mix",
+      "streamURL": "http://naxidigital-usce128.streaming.rs:8000/;stream.nsv",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2015/01/Usce-Shopping-Radio.jpg",
+      "desc": "House | Pop | Rock | Top 40",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://www.naxi.rs/"
+      "_homepage": "https://www.naxi.rs/uscenaxi"
     },
     {
-      "name": "VIP Radio",
-      "streamURL": "http://vip128.streaming.rs:8110/;stream.nsv",
-      "imageURL": "",
-      "desc": "VIP Radio",
+      "name": "Vladix 1 Radio",
+      "streamURL": "http://vladix.dukahosting.com:8022/;stream.nsv",
+      "imageURL": "https://radio.vladix.net/wp-content/uploads/2021/02/vladix-radio1.png",
+      "desc": "Vladix 1",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "https://radio.vladix.net/vladix-2-rock/"
     },
     {
       "name": "Vladix 2 Rock",
       "streamURL": "http://vladix.dukahosting.com:8022/;stream.nsv",
-      "imageURL": "",
+      "imageURL": "https://radio.vladix.net/wp-content/uploads/2013/01/vladix2rock.jpg",
       "desc": "Vladix 2 Rock",
       "longDesc": "",
       "country": "RS",
@@ -2571,38 +2598,38 @@
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_homepage": ""
+      "_homepage": "https://radio.vladix.net/vladix-2-rock/"
     },
     {
-      "name": "Vladix 4 Rok",
-      "streamURL": "http://vladix.dukahosting.com:8010/;stream.nsv",
-      "imageURL": "",
-      "desc": "Vladix 4 Rok",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 80,
-      "_homepage": ""
-    },
-    {
-      "name": "Vladix Radio",
-      "streamURL": "http://vladix.dukahosting.com:8000/;stream.nsv",
-      "imageURL": "",
-      "desc": "Vladix Radio",
+      "name": "Vladix 3 Soft",
+      "streamURL": "https://centova.dukahosting.com/proxy/vladix3/stream",
+      "imageURL": "https://radio.vladix.net/wp-content/uploads/2021/02/vladix-radio1.png",
+      "desc": "Vladix 3 Soft",
       "longDesc": "",
       "country": "RS",
       "tel": "",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_homepage": ""
+      "_homepage": "https://radio.vladix.net/vladix-2-rock/"
+    },
+    {
+      "name": "Vladix 5 Super",
+      "streamURL": "https://radio.dukahosting.com:7004/;",
+      "imageURL": "https://radio.vladix.net/wp-content/uploads/2021/02/vladix-radio1.png",
+      "desc": "Vladix 3 Soft",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "https://radio.vladix.net/vladix-2-rock/"
     },
     {
       "name": "WTF Radio",
       "streamURL": "http://live.wtfradio.rs/wtfradio.mp3",
-      "imageURL": "",
+      "imageURL": "https://wtfradio.rs/images/logo.PNG",
       "desc": "Hits | Pop",
       "longDesc": "",
       "country": "RS",
@@ -2645,7 +2672,7 @@
       "desc": "Exyu | Folk",
       "longDesc": "",
       "country": "RS",
-      "tel": "",
+      "tel": "+38163537000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2654,12 +2681,12 @@
     {
       "name": "Čivijaš Radio",
       "streamURL": "http://media.srb-streaming.com:9078/stream",
-      "imageURL": "",
+      "imageURL": "http://www.exyuradio.net/pub/catalog/radio-civijas-uzivo.jpg",
       "desc": "Folk",
       "longDesc": "",
       "country": "RS",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+381600588661",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.civijasradio.com/"
