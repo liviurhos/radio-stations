@@ -14,7 +14,7 @@
       "_homepage": "http://memeradio.org/"
     },
     {
-      "name": ".. atlantica oldies..",
+      "name": "Atlantica Oldies",
       "streamURL": "http://radios.topymedia.com:8052/stream/;.mp3",
       "imageURL": "https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",
       "desc": "Decades",
@@ -27,9 +27,9 @@
       "_homepage": "http://www.atlantica-radio.fr/"
     },
     {
-      "name": "..87,5!. Nantes",
+      "name": "87,5! Nantes",
       "streamURL": "https://listen.radioking.com/radio/15130/stream/28217",
-      "imageURL": "",
+      "imageURL": "https://static.wixstatic.com/media/f3de1e_26ca172ce8214ad598066af3053dd29e~mv2.jpg/v1/fill/w_200,h_196,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20875NB.jpg",
       "desc": "Alternative | Alternative Rock | Classic Rock | Electro | Electronic | Electronica | House | Pop | Pop Rock | Rock | World Music",
       "longDesc": "",
       "country": "FR",
@@ -42,7 +42,7 @@
     {
       "name": "100% Radio 80",
       "streamURL": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_GKtGotj0W8.png",
       "desc": "80S",
       "longDesc": "",
       "country": "FR",
@@ -55,7 +55,7 @@
     {
       "name": "100% Radio Catalogne",
       "streamURL": "http://100radio-perpignan.ice.infomaniak.ch/100radio-perpignan-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_GKtGotj0W8.png",
       "desc": "100% Radio Catalogne",
       "longDesc": "",
       "country": "FR",
@@ -68,7 +68,7 @@
     {
       "name": "100% Radio Hit",
       "streamURL": "http://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_GKtGotj0W8.png",
       "desc": "100% Radio Hit",
       "longDesc": "",
       "country": "FR",
@@ -81,7 +81,7 @@
     {
       "name": "100% Radio Souvenirs",
       "streamURL": "http://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_GKtGotj0W8.png",
       "desc": "100% Radio Souvenirs",
       "longDesc": "",
       "country": "FR",
@@ -92,10 +92,10 @@
       "_homepage": "http://www.centpourcent.com/"
     },
     {
-      "name": "100% Radio Toulouse .",
+      "name": "100% Radio Toulouse",
       "streamURL": "http://100radio-toulouse.ice.infomaniak.ch/100radio-toulouse-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
-      "desc": "100% Radio Toulouse .",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/centpourcent/images/logo_GKtGotj0W8.png",
+      "desc": "100% Radio Toulouse",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -112,7 +112,7 @@
       "longDesc": "",
       "country": "FR",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+33651535358",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.103radio.fr/"
@@ -120,7 +120,7 @@
     {
       "name": "123 All Classic Rock",
       "streamURL": "http://str4uice.streamakaci.com/4uclassicrock.mp3",
-      "imageURL": "https://www.facebook.com/favicon.ico",
+      "imageURL": "https://cdn-radiotime-logos.tunein.com/s49002g.png",
       "desc": "Classic Rock | Rock | Rock-Classic",
       "longDesc": "",
       "country": "FR",
@@ -132,8 +132,8 @@
     },
     {
       "name": "A Certain Radio",
-      "streamURL": "https://listen.radioking.com/radio/429209/stream/482870",
-      "imageURL": "http://www.acertainradio.fr/upload/60c85b3e09f517.55250163.ico",
+      "streamURL": "https://listen.radioking.com/radio/429209/stream/482864",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/2/146152.v2.png",
       "desc": "Garage Rock",
       "longDesc": "",
       "country": "FR",
@@ -159,7 +159,7 @@
     {
       "name": "ABC Lounge Radio",
       "streamURL": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-      "imageURL": "",
+      "imageURL": "https://www.abc-lounge.com/radio/wp-content/uploads/2019/11/logo-ABC-Lounge100.png",
       "desc": "Ambient | Chillout | Easy Listening | Lounge | Smooth Jazz",
       "longDesc": "",
       "country": "FR",
@@ -172,7 +172,7 @@
     {
       "name": "Accent 4",
       "streamURL": "http://str0.creacast.com/accent4",
-      "imageURL": "https://www.accent4.com/wp-content/uploads/2019/07/cropped-logo-white-180x180.png",
+      "imageURL": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/www.accent4.com/wp-content/uploads/2026/02/cropped-Design-sans-titre-180x180.png",
       "desc": "Accent 4",
       "longDesc": "",
       "country": "FR",
@@ -184,21 +184,8 @@
     },
     {
       "name": "Africa N°1",
-      "streamURL": "http://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
-      "imageURL": "",
-      "desc": "Africa N°1",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://www.africa1.com/"
-    },
-    {
-      "name": "Africa N°1",
       "streamURL": "http://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
-      "imageURL": "",
+      "imageURL": "https://zeno.fm/_ipx/_/https://images.zeno.fm/7PyiYOWeTAmYYVWwDzrD5-tM1FYLse09mWonf269OHw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0F4SkdkdkFzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0FvTkRjZ1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MDg0OTc0NDAwMA.webp",
       "desc": "Africa N°1",
       "longDesc": "",
       "country": "FR",
@@ -250,7 +237,7 @@
     {
       "name": "All Piano Radio",
       "streamURL": "http://streamingp.shoutcast.com/JamendoLounge",
-      "imageURL": "",
+      "imageURL": "https://image.jimcdn.com/app/cms/image/transf/dimension=200x10000:format=png/path/s4ad961164e5b6b61/image/iefa533991bd887a1/version/1470753555/image.png",
       "desc": "Classical | Classical Piano | Instrumental | Piano",
       "longDesc": "",
       "country": "FR",
@@ -263,7 +250,7 @@
     {
       "name": "Allzic Classic Piano",
       "streamURL": "http://allzic47.ice.infomaniak.ch/allzic47.mp3",
-      "imageURL": "https://www.allzicradio.com/favicon.ico",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-classic-piano_600px-carre.png",
       "desc": "Classical",
       "longDesc": "",
       "country": "FR",
@@ -276,7 +263,7 @@
     {
       "name": "Allzic humour",
       "streamURL": "http://allzic25.ice.infomaniak.ch/allzic25.mp3",
-      "imageURL": "http://www.allzicradio.com/favicon.ico",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-humour_600px-carre.png",
       "desc": "Allzic | Humour",
       "longDesc": "",
       "country": "FR",
@@ -289,7 +276,7 @@
     {
       "name": "Allzic Jazz Lounge",
       "streamURL": "http://allzic03.ice.infomaniak.ch/allzic03.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/679a60565ffb9-allzic-jazz-lounge.png",
       "desc": "Allzic Jazz Lounge",
       "longDesc": "",
       "country": "FR",
@@ -302,7 +289,7 @@
     {
       "name": "Allzic Radio - Lounge",
       "streamURL": "http://allzic21.ice.infomaniak.ch/allzic21.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-lounge_600px-carre.png",
       "desc": "Chillout | Downtempo | Lounge | Relax",
       "longDesc": "",
       "country": "FR",
@@ -315,7 +302,7 @@
     {
       "name": "Allzic Radio - Zen",
       "streamURL": "http://allzic20.ice.infomaniak.ch/allzic20.mp3",
-      "imageURL": "http://www.allzicradio.com/favicon.ico",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-zen_600px-carre.png",
       "desc": "Calm | Relax | Relaxation",
       "longDesc": "",
       "country": "FR",
@@ -328,34 +315,8 @@
     {
       "name": "Allzic Radio 2000s",
       "streamURL": "http://allzic49.ice.infomaniak.ch/allzic49.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-annees_2000_600px-carre.png",
       "desc": "00S | Alternative | Classic Hits | Love | Pop | Rnb | Rock",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.allzicradio.com/"
-    },
-    {
-      "name": "Allzic Radio 50s",
-      "streamURL": "http://allzic29.ice.infomaniak.ch/allzic29.mp3",
-      "imageURL": "https://www.allzicradio.com/favicon.ico",
-      "desc": "1950S | 50S | Chansons Françaises | Oldies",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.allzicradio.com/fr/player/listen/1768/allzic-radio-annes-50"
-    },
-    {
-      "name": "Allzic Radio 80s",
-      "streamURL": "http://allzic08.ice.infomaniak.ch/allzic08.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
-      "desc": "80S | Classic Hits | Oldies | Pop",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -367,7 +328,7 @@
     {
       "name": "Allzic Radio 90s",
       "streamURL": "http://allzic24.ice.infomaniak.ch/allzic24.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-annees_90_600px-carre.png",
       "desc": "90S | Alternative | Classic Hits | Pop | Pop Rock",
       "longDesc": "",
       "country": "FR",
@@ -378,9 +339,35 @@
       "_homepage": "http://www.allzicradio.com/"
     },
     {
+      "name": "Allzic Radio 80s",
+      "streamURL": "http://allzic08.ice.infomaniak.ch/allzic08.mp3",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-annees_80_600px-carre.png",
+      "desc": "80S | Classic Hits | Oldies | Pop",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.allzicradio.com/"
+    },
+    {
+      "name": "Allzic Radio 50s",
+      "streamURL": "http://allzic29.ice.infomaniak.ch/allzic29.mp3",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-annees-_50_600px-carre.png",
+      "desc": "1950S | 50S | Chansons Françaises | Oldies",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.allzicradio.com/fr/player/listen/1768/allzic-radio-annes-50"
+    },
+    {
       "name": "Allzic Radio Black",
       "streamURL": "http://allzic04.ice.infomaniak.ch/allzic04.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-black-music_600px-carre.png",
       "desc": "Black | Hiphop | Oldschool | Rap",
       "longDesc": "",
       "country": "FR",
@@ -393,7 +380,7 @@
     {
       "name": "Allzic Radio Blues",
       "streamURL": "http://allzic09.ice.infomaniak.ch/allzic09.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-blues_600px-carre.png",
       "desc": "Blues",
       "longDesc": "",
       "country": "FR",
@@ -406,7 +393,7 @@
     {
       "name": "Allzic Radio Chill Out",
       "streamURL": "http://allzic53.ice.infomaniak.ch/allzic53.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-chillout_600px-carre.png",
       "desc": "Chillout | Electro Deep | Electronic | House | Vocal",
       "longDesc": "",
       "country": "FR",
@@ -419,7 +406,7 @@
     {
       "name": "Allzic Radio Classic",
       "streamURL": "http://allzic06.ice.infomaniak.ch/allzic06.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-classic_600px-carre.png",
       "desc": "Classical",
       "longDesc": "",
       "country": "FR",
@@ -432,7 +419,7 @@
     {
       "name": "Allzic Radio Country",
       "streamURL": "http://allzic32.ice.infomaniak.ch/allzic32.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-country_600px-carre.png",
       "desc": "Classic Country | Country",
       "longDesc": "",
       "country": "FR",
@@ -445,7 +432,7 @@
     {
       "name": "Allzic Radio Dance Floor",
       "streamURL": "http://allzic07.ice.infomaniak.ch/allzic07.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-dancefloor_600px-carre.png",
       "desc": "Charts | Dance | Edm | Electro | Pop",
       "longDesc": "",
       "country": "FR",
@@ -458,7 +445,7 @@
     {
       "name": "Allzic Radio Deep Disco",
       "streamURL": "http://allzic31.ice.infomaniak.ch/allzic31.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-deep-disco_600px-carre.png",
       "desc": "Deep | Disco",
       "longDesc": "",
       "country": "FR",
@@ -471,7 +458,7 @@
     {
       "name": "Allzic Radio Disco",
       "streamURL": "http://allzic36.ice.infomaniak.ch/allzic36.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-disco_600px-carre.png",
       "desc": "80S | Classic Disco | Disco",
       "longDesc": "",
       "country": "FR",
@@ -484,7 +471,7 @@
     {
       "name": "Allzic Radio Disney",
       "streamURL": "http://allzic52.ice.infomaniak.ch/allzic52.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-disney_600px-carre.png",
       "desc": "Children | Film Music | Movies | Score | Soundtracks",
       "longDesc": "",
       "country": "FR",
@@ -497,7 +484,7 @@
     {
       "name": "Allzic Radio Fitness",
       "streamURL": "http://allzic13.ice.infomaniak.ch/allzic13.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-fitness_600px-carre.png",
       "desc": "Dance | Fitness | Pop",
       "longDesc": "",
       "country": "FR",
@@ -510,7 +497,7 @@
     {
       "name": "Allzic Radio Funk",
       "streamURL": "http://allzic08.ice.infomaniak.ch/allzic11.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-funk_600px-carre.png",
       "desc": "Classic Hits | Funk | Funky",
       "longDesc": "",
       "country": "FR",
@@ -523,7 +510,7 @@
     {
       "name": "Allzic Radio Hard Heavy",
       "streamURL": "http://allzic18.ice.infomaniak.ch/allzic18.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-hard-heavy_600px-carre.png",
       "desc": "Classic Rock | Hard Rock | Heavy Rock | Rock",
       "longDesc": "",
       "country": "FR",
@@ -536,7 +523,7 @@
     {
       "name": "Allzic Radio Italia",
       "streamURL": "http://allzic35.ice.infomaniak.ch/allzic35.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-italia_600px-carre.png",
       "desc": "Classic Italian Pop | Italian Pop",
       "longDesc": "",
       "country": "FR",
@@ -549,7 +536,7 @@
     {
       "name": "Allzic Radio Latino",
       "streamURL": "http://allzic39.ice.infomaniak.ch/allzic39.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-latino_600px-carre.png",
       "desc": "Español | Exitos | Latino | Reggaeton",
       "longDesc": "",
       "country": "FR",
@@ -562,7 +549,7 @@
     {
       "name": "Allzic Radio Orientale",
       "streamURL": "https://allzic33.ice.infomaniak.ch/allzic33.aac",
-      "imageURL": "",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-orientale_600px-carre.png",
       "desc": "Music | Orientale",
       "longDesc": "",
       "country": "FR",
@@ -575,7 +562,7 @@
     {
       "name": "Allzic Radio R&B",
       "streamURL": "http://allzic08.ice.infomaniak.ch/allzic10.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-rb_600px-carre.png",
       "desc": "Hits | Pop | Rnb",
       "longDesc": "",
       "country": "FR",
@@ -586,9 +573,9 @@
       "_homepage": "http://www.allzicradio.com/"
     },
     {
-      "name": "Allzic Radio Rap",
-      "streamURL": "http://allzic01.ice.infomaniak.ch/allzic01.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "name": "Allzic Radio Rap 90",
+      "streamURL": "https://allzic69rap90.ice.infomaniak.ch/allzic69rap90-96.aac?i=51168",
+      "imageURL": "https://www.allzicradio.com/media/radios/67aa084b16459-allzic-rap-90.png",
       "desc": "Rap | Street | Trap | Urban",
       "longDesc": "",
       "country": "FR",
@@ -601,7 +588,7 @@
     {
       "name": "Allzic Radio Reggae",
       "streamURL": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-reggae_600px-carre.png",
       "desc": "Ganja | Jamaican | Reggae | Weed",
       "longDesc": "",
       "country": "FR",
@@ -614,7 +601,7 @@
     {
       "name": "Allzic Radio Rock",
       "streamURL": "http://allzic17.ice.infomaniak.ch/allzic17.mp3",
-      "imageURL": "http://www.allzicradio.com/favicon.ico",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-rock-fm_600px-carre.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "FR",
@@ -627,7 +614,7 @@
     {
       "name": "Allzic Radio Top 20",
       "streamURL": "http://allzic41.ice.infomaniak.ch/allzic41.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-top-20_600px-carre.png",
       "desc": "Charts | Dance | Hits | Hot Hits | Pop | Top 20",
       "longDesc": "",
       "country": "FR",
@@ -640,7 +627,7 @@
     {
       "name": "Allzic Radio Top 50",
       "streamURL": "http://allzic55.ice.infomaniak.ch/allzic55.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-top-50_600px-carre.png",
       "desc": "Charts | Dance | Hits | Hot | Pop | Top",
       "longDesc": "",
       "country": "FR",
@@ -653,7 +640,7 @@
     {
       "name": "Allzic Rap Fr",
       "streamURL": "http://allzic02.ice.infomaniak.ch/allzic02.mp3",
-      "imageURL": "https://www.allzicradio.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-rap-fr_600px-carre.png",
       "desc": "Allzic Rap Fr",
       "longDesc": "",
       "country": "FR",
@@ -666,7 +653,7 @@
     {
       "name": "Allzic Zouk",
       "streamURL": "http://allzic28.ice.infomaniak.ch/allzic28.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.allzicradio.com/media/radios/allzic-zouk_600px-carre.png",
       "desc": "Allzic Zouk",
       "longDesc": "",
       "country": "FR",
@@ -677,48 +664,48 @@
       "_homepage": "http://www.allzicradio.com/"
     },
     {
-      "name": "Allzik Disney",
-      "streamURL": "https://allzic52.ice.infomaniak.ch/allzic52.mp3",
-      "imageURL": "https://www.allzicradio.com/media/radios/allzic-disney_600px-carre.png",
-      "desc": "Allzik Disney",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.allzicradio.com/en/player/listen/3700/allzic-radio-disney"
-    },
-    {
-      "name": "Alouette",
-      "streamURL": "http://alouette.ice.infomaniak.ch/alouette-high.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/alouette/images/favicon.x-icon",
+      "name": "Alouette Radio",
+      "streamURL": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/alouette/images/logo.png",
       "desc": "Alouette",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33251912121",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.alouette.fr/"
     },
     {
-      "name": "Alouette",
-      "streamURL": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.amazonaws.com/radios/alouette/images/favicon.x-icon",
+      "name": "Alouette Radio - Le Club",
+      "streamURL": "https://alouetteleclub.ice.infomaniak.ch/alouetteleclub-128.mp3",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/alouette/images/logo.png",
       "desc": "Alouette",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33251912121",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.alouette.fr/"
+      "_homepage": "https://www.alouette.fr/"
+    },
+    {
+      "name": "Alouette Radio - Indie",
+      "streamURL": "https://alouetteindie.ice.infomaniak.ch/alouetteindie-128.mp3",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/alouette/images/logo.png",
+      "desc": "Alouette",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33251912121",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.alouette.fr/"
     },
     {
       "name": "AlterNantes",
       "streamURL": "http://diffusion.lafrap.fr/alternantes.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.alternantesfm.net/wp-content/uploads/2014/01/Logo-login-WP.png",
       "desc": "Alternative | France | Frankreich",
       "longDesc": "",
       "country": "FR",
@@ -731,7 +718,7 @@
     {
       "name": "Alternative Radio",
       "streamURL": "https://www.radioking.com/play/alternative-radio-1",
-      "imageURL": "",
+      "imageURL": "https://image.over-blog.com/8mvE9r7U09h7LZJEUyXqQyvPHDo=/filters:no_upscale()/image%2F1577475%2F20240408%2Fob_aac7d8_logo-lapins-dessin-player-radio.png",
       "desc": "Electro | Folk | Funk | Hiphop | Jazz | Rock | Soul | World Music",
       "longDesc": "",
       "country": "FR",
@@ -748,7 +735,7 @@
       "desc": "Atomic radio",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33562993040",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -757,7 +744,7 @@
     {
       "name": "Autoroute Info 107.7 Zone Nord",
       "streamURL": "http://media.autorouteinfo.fr:8000/direct_nord.mp3",
-      "imageURL": "",
+      "imageURL": "https://voyage.aprr.fr/sites/default/files/styles/logo_autoroute_info/public/2020-06/logo_autorouteinfo_light.png?itok=Bfmvf3EA",
       "desc": "Autoroute Info 107.7 Zone Nord",
       "longDesc": "",
       "country": "FR",
@@ -768,22 +755,9 @@
       "_homepage": "http://www.autorouteinfo.fr/"
     },
     {
-      "name": "Autoroute Info 107.7 Zone Sud",
-      "streamURL": "http://media.autorouteinfo.fr:8000/direct_sud.mp3",
-      "imageURL": "http://www.autorouteinfo.fr/Templates/autorouteinfo_jpg.jpg?FileID=images%2520transversales%2fautorouteinfo_jpg.jpg",
-      "desc": "Autoroute Info 107.7 Zone Sud",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.autorouteinfo.fr/"
-    },
-    {
-      "name": "B4B CLUB DANCE OFFICIAL",
+      "name": "B4B DISCO FUNK OFFICIAL",
       "streamURL": "http://eu10.fastcast4u.com:8120/",
-      "imageURL": "",
+      "imageURL": "https://www.b4bradio.com/templates/yootheme/cache/9f/logo-b4b-9f9730c5.jpeg",
       "desc": "Club | Club Dance | Dance | Deep House | House",
       "longDesc": "",
       "country": "FR",
@@ -807,32 +781,6 @@
       "_homepage": "https://www.b4bradio.com/"
     },
     {
-      "name": "B4B DISCO FUNK OFFICIAL",
-      "streamURL": "http://eu10.fastcast4u.com:8120/",
-      "imageURL": "",
-      "desc": "80S | 80S Live Radio | Disco | Funk | Funky",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.b4bradio.com/"
-    },
-    {
-      "name": "B4B Radio DISCO FUNK",
-      "streamURL": "https://eu10.fastcast4u.com:8120/",
-      "imageURL": "",
-      "desc": "Dance Classics | Disco Funk | Funk",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.b4bradio.com/"
-    },
-    {
       "name": "badradio 24/7 OG Phonk, Memphis, Houston, Trap & Trill",
       "streamURL": "https://s2.radio.co/s2b2b68744/listen",
       "imageURL": "https://yt3.ggpht.com/ytc/AMLnZu8eXtkd-wn5s-Ww_RXId5AsUc0kqfM-1hikJJtzjw=s88-c-k-c0x00ffffff-no-rj",
@@ -847,28 +795,15 @@
     },
     {
       "name": "Beur FM",
-      "streamURL": "http://broadcast.infomaniak.ch/beurfm-high.mp3",
+      "streamURL": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
       "imageURL": "http://www.beurfm.net/favicon.ico",
-      "desc": "Beur FM",
+      "desc": "Ramadan | Islamic Music",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153483000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.beurfm.net/"
-    },
-    {
-      "name": "Beur FM",
-      "streamURL": "http://broadcast.infomaniak.ch/beurfm-high.aac",
-      "imageURL": "http://www.beurfm.net/favicon.ico",
-      "desc": "Beur FM",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
       "_homepage": "http://www.beurfm.net/"
     },
     {
@@ -887,7 +822,7 @@
     {
       "name": "BFM Business",
       "streamURL": "http://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web",
-      "imageURL": "https://www.bfmtv.com/android-icon-192x192.png",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/BFM_Business_logo_2023.png",
       "desc": "Economic News",
       "longDesc": "",
       "country": "FR",
@@ -898,49 +833,10 @@
       "_homepage": "https://www.bfmtv.com/economie/"
     },
     {
-      "name": "BFM Business",
-      "streamURL": "https://audio.bfmtv.com/bfmbusiness_128.mp3",
-      "imageURL": "",
-      "desc": "BFM Business",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://bfmbusiness.bfmtv.com/mediaplayer/live-audio/"
-    },
-    {
-      "name": "BFM radio",
+      "name": "BFM Radio",
       "streamURL": "https://audio.bfmtv.com/bfmradio_128.mp3",
-      "imageURL": "https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png",
-      "desc": "Information | News",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://www.bfmtv.com/en-direct/bfm-radio/"
-    },
-    {
-      "name": "BFM Radio (128.mp3)",
-      "streamURL": "https://audio.bfmtv.com/bfmradio_128.mp3",
-      "imageURL": "https://www.bfmtv.com/android-icon-192x192.png",
-      "desc": "BFM Radio (128.mp3)",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://www.bfmtv.com/"
-    },
-    {
-      "name": "BFM Radio (128.mp3)",
-      "streamURL": "https://audio.bfmtv.com/bfmradio_128.mp3",
-      "imageURL": "https://www.bfmtv.com/android-icon-192x192.png",
-      "desc": "Information | Informations | News",
+      "imageURL": "https://www.bfmtv.com/apple-icon-76x76.png",
+      "desc": "BFM Radio",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -952,7 +848,7 @@
     {
       "name": "Bide et Musique",
       "streamURL": "https://relay2.bide-et-musique.com:9143/",
-      "imageURL": "",
+      "imageURL": "https://www.bide-et-musique.com/images/logo.png",
       "desc": "Oldies",
       "longDesc": "",
       "country": "FR",
@@ -978,7 +874,7 @@
     {
       "name": "Buddha Beach",
       "streamURL": "https://radio4.vip-radios.fm:18054/stream-128kmp3-BuddhaBeach",
-      "imageURL": "https://www.vip-radios.fm/favicon.ico",
+      "imageURL": "https://www.vip-radios.fm/wp-content/uploads/fly-images/196/BuddhaBeach-582x582-c.jpg",
       "desc": "Buddha Beach",
       "longDesc": "",
       "country": "FR",
@@ -991,7 +887,7 @@
     {
       "name": "Canal Breizh",
       "streamURL": "http://cast.canalbreizh.bzh/canalbreizh-hd-mp3",
-      "imageURL": "",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/ukhqazddra9w.png",
       "desc": "Breton | Folk",
       "longDesc": "",
       "country": "FR",
@@ -1004,7 +900,7 @@
     {
       "name": "Canal FM",
       "streamURL": "http://vps335355.ovh.net:8000/canalfm.mp3",
-      "imageURL": "http://www.canalfm.fr/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/canalfm/images/logo_HUW2N7vwRh.png",
       "desc": "Canal FM",
       "longDesc": "",
       "country": "FR",
@@ -1027,6 +923,17 @@
       "_bitrate": 320,
       "_homepage": "https://cause-commune.fm/"
     },
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Chante France",
       "streamURL": "http://stream.chantefrance.com/Chante_France",
