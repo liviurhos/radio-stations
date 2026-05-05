@@ -923,12 +923,12 @@
     
     {
       "name": "Chante France",
-      "streamURL": "http://stream.chantefrance.com/Chante_France",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+      "streamURL": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
+      "imageURL": "https://static-media.streema.com/media/cache/d4/e1/d4e11b4dcc351c6cb45c65fe9023824a.jpg",
       "desc": "Chante France",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -936,12 +936,12 @@
     },
     {
       "name": "Chante France 60's",
-      "streamURL": "http://stream.chantefrance.com/cf-60",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+      "streamURL": "https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-96.aac",
+      "imageURL": "https://goldfm.fr/cdn/img/150_84/fr_1129.png",
       "desc": "60S",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -949,12 +949,12 @@
     },
     {
       "name": "Chante France 70's",
-      "streamURL": "http://stream.chantefrance.com/cf-70",
-      "imageURL": "",
+      "streamURL": "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-96.aac",
+      "imageURL": "https://static-media.streema.com/media/cache/d4/e1/d4e11b4dcc351c6cb45c65fe9023824a.jpg",
       "desc": "70S",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -962,12 +962,12 @@
     },
     {
       "name": "Chante France 80's",
-      "streamURL": "http://stream1.chantefrance.com/cf-80",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+      "streamURL": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-96.aac",
+      "imageURL": "https://www.radio.fr/300/chantefrance80s.png",
       "desc": "80S",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -975,12 +975,12 @@
     },
     {
       "name": "Chante France Emotion",
-      "streamURL": "http://stream.chantefrance.com/cf-emotion",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+      "streamURL": "https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-96.aac",
+      "imageURL": "https://static-media.streema.com/media/cache/d4/e1/d4e11b4dcc351c6cb45c65fe9023824a.jpg",
       "desc": "Chante France Emotion",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -988,17 +988,29 @@
     },
     {
       "name": "Chante France Nouveautés",
-      "streamURL": "http://stream.chantefrance.com/cf-nouveautes.aac",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+      "streamURL": "https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac",
+      "imageURL": "https://www.radio.fr/300/chantefrancenouveautes.png",
       "desc": "Chansons Françaises",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33169133000",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "https://www.chantefrance.com/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Chillofi radio",
       "streamURL": "http://streams.dez.ovh:8000/radio.mp3",
