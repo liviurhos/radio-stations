@@ -1935,23 +1935,11 @@
 
 
     
-    {
-      "name": "France24 Français",
-      "streamURL": "http://static.france24.com/live/F24_FR_LO_HLS/live_audio.m3u8",
-      "imageURL": "https://www.france24.com/favicon-194x194.png",
-      "desc": "Information",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 105,
-      "_homepage": "https://www.france24.com/fr/"
-    },
+
     {
       "name": "Free Dom 2",
       "streamURL": "http://freedomice.streamakaci.com/freedom2.mp3",
-      "imageURL": "https://freedom.fr/wp-content/uploads/2021/03/cropped-cropped-colombe-180x180-1-180x180.png",
+      "imageURL": "https://freedom.fr/wp-content/uploads/2021/03/IMG_0340.png",
       "desc": "Outre-Mer",
       "longDesc": "",
       "country": "FR",
@@ -1964,50 +1952,50 @@
     {
       "name": "Frequence 3",
       "streamURL": "http://hd.stream.frequence3.net/frequence3-256.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.frequence3.com/wp-content/uploads/2024/03/logo-F3-jaune-4000px-300x300.png",
       "desc": "Frequence 3",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33673706177",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "http://www.frequence3.fr/"
     },
     {
-      "name": "FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club",
+      "name": "FREQUENCE 3 - DANCE",
       "streamURL": "https://onair.net-radio.fr/frequence3dance.flac",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/926/frequence-3-dance.bd5f7b3c.png",
       "desc": "Dance | House",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33673706177",
       "whatsapp": "",
       "_codec": "OGG",
       "_bitrate": 128,
       "_homepage": "https://www.frequence3.com/"
     },
     {
-      "name": "Frequence 3 Gold FLAC",
+      "name": "FREQUENCE 3 - GOLD",
       "streamURL": "https://frequence3.net-radio.fr/frequence3gold.flac",
-      "imageURL": "https://api2.frequence3.net/static/img/stations/horizontal/frequence3gold.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/936/frequence-3-gold.bd9e70ac.png",
       "desc": "80S | 90S",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33673706177",
       "whatsapp": "",
       "_codec": "OGG",
       "_bitrate": 128,
       "_homepage": "https://www.frequence3.com/les-radios-frequence-3/gold/"
     },
     {
-      "name": "Fréquence 3 FLAC",
-      "streamURL": "http://hd.stream.frequence3.net/frequence3.flac",
-      "imageURL": "",
+      "name": "FREQUENCE 3 - URBAN",
+      "streamURL": "https://frequence3.net-radio.fr/frequence3urban.mp3",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/937/frequence-3-urban.da0faf9e.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33673706177",
       "whatsapp": "",
       "_codec": "OGG",
       "_bitrate": 128,
@@ -2016,8 +2004,8 @@
     {
       "name": "Fun Radio",
       "streamURL": "http://streaming.radio.funradio.fr/fun-1-44-128",
-      "imageURL": "",
-      "desc": "Dance | French",
+      "imageURL": "https://www.radio.net/175/funradio.png?version=5e29e044bcb48446738894f5a3d8e03cad080d79",
+      "desc": "Dance | French | Electro | Latino",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2027,48 +2015,9 @@
       "_homepage": "http://www.funradio.fr/"
     },
     {
-      "name": "FUN Radio",
-      "streamURL": "http://icecast.funradio.fr/fun-1-44-128",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png",
-      "desc": "Dance | Electro | Latino",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.funradio.fr/"
-    },
-    {
-      "name": "Fun Radio",
-      "streamURL": "https://icecast.funradio.fr/fun-1-44-128",
-      "imageURL": "",
-      "desc": "Electro | Electronic | R'N'B",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://funradio.fr/"
-    },
-    {
-      "name": "Fun Radio France",
-      "streamURL": "http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.funradio.fr/"
-    },
-    {
       "name": "Fusion FM",
       "streamURL": "http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3",
-      "imageURL": "http://www.fusionfm.fr/upload/54db3483c37db5.00076713.ico",
+      "imageURL": "https://www.fusionfm.fr/upload/design/5909f2450314b7.16426417.png",
       "desc": "Fusion FM",
       "longDesc": "",
       "country": "FR",
@@ -2081,7 +2030,7 @@
     {
       "name": "Galaxie Lounge",
       "streamURL": "https://listen.radioking.com/radio/45838/stream/82624",
-      "imageURL": "http://galaxie-radio1.radio-website.com/upload/578f3bce151616.43092430.ico",
+      "imageURL": "https://image.radioking.io/radios/45838/logo/e4d3e0ad-8d5e-41fe-b7cc-9fea160c862a.jpeg",
       "desc": "Galaxie Lounge",
       "longDesc": "",
       "country": "FR",
@@ -2094,7 +2043,7 @@
     {
       "name": "Galaxie New Wave",
       "streamURL": "https://www.radioking.com/play/galaxienewwave",
-      "imageURL": "http://galaxie-radio1.radio-website.com/upload/578f3bce151616.43092430.ico",
+      "imageURL": "https://image.radioking.io/radios/15685/logo/c9323c98-f64e-495a-be71-b4b04c36199a.jpeg",
       "desc": "Galaxie New Wave",
       "longDesc": "",
       "country": "FR",
@@ -2107,7 +2056,7 @@
     {
       "name": "Galaxie Radio",
       "streamURL": "https://www.radioking.com/play/galaxieradio",
-      "imageURL": "",
+      "imageURL": "https://image.radioking.io/radios/15684/logo/751d01f2-62eb-4121-8836-50a8c10607ba.jpeg",
       "desc": "Galaxie Radio",
       "longDesc": "",
       "country": "FR",
@@ -2133,7 +2082,7 @@
     {
       "name": "GalaxieTek",
       "streamURL": "https://fr.radioking.com/play/galaxietek",
-      "imageURL": "http://www.galaxieradio.fr/upload/578f3bce151616.43092430.ico",
+      "imageURL": "https://image.radioking.io/radios/187066/logo/e031c54e-f20e-46da-aff5-723e8243035d.jpeg",
       "desc": "Electronic | Techno",
       "longDesc": "",
       "country": "FR",
@@ -2196,19 +2145,6 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations Funk",
-      "streamURL": "http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac",
-      "imageURL": "http://generations.fr/media/radio/thumb/90x90_funk.png",
-      "desc": "Funk",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations Girl",
       "streamURL": "http://generations-girls.ice.infomaniak.ch/generations-girls.mp3",
       "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
@@ -2235,19 +2171,6 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations R&B",
-      "streamURL": "http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac",
-      "imageURL": "http://generations.fr/media/radio/thumb/90x90_rnb.png",
-      "desc": "Generations R&B",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations R&B Gold",
       "streamURL": "http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3",
       "imageURL": "http://generations.fr/media/radio/thumb/90x90_rnb-gold.png",
@@ -2261,49 +2184,10 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations R&B Gold",
-      "streamURL": "http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac",
-      "imageURL": "http://generations.fr/media/radio/thumb/90x90_rnb-gold.png",
-      "desc": "Generations R&B Gold",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations Rap FR",
       "streamURL": "http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3",
       "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
       "desc": "Generations Rap FR",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://generations.fr/"
-    },
-    {
-      "name": "Generations Rap FR",
-      "streamURL": "http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac",
-      "imageURL": "https://generations.fr/apple-touch-icon-114x114.png",
-      "desc": "Generations Rap FR",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
-      "name": "Generations Rap FR Gold",
-      "streamURL": "http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3",
-      "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
-      "desc": "Generations Rap FR Gold",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2339,19 +2223,6 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations Rap U.S",
-      "streamURL": "http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac",
-      "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
-      "desc": "Generations Rap U.S",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations Rap U.S Gold",
       "streamURL": "http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3",
       "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
@@ -2378,19 +2249,6 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations Reggae",
-      "streamURL": "http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac",
-      "imageURL": "http://generations.fr/favicon.ico",
-      "desc": "Reggae",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations Reggaeton",
       "streamURL": "http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3",
       "imageURL": "http://generations.fr/media/radio/thumb/90x90_reggaeton1.png",
@@ -2404,36 +2262,10 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "Generations Reggaeton",
-      "streamURL": "http://generations-rgton.ice.infomaniak.ch/generations-rgton.aac",
-      "imageURL": "https://generations.fr/apple-touch-icon-120x120.png",
-      "desc": "Generations Reggaeton",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://generations.fr/"
-    },
-    {
       "name": "Generations Rohff",
       "streamURL": "http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3",
-      "imageURL": "http://generations.fr/media/radio/thumb/90x90_generations-rohff-logo-smartphone1.png",
+      "imageURL": "https://generations.fr/apple-touch-icon.png",
       "desc": "Generations Rohff",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://generations.fr/"
-    },
-    {
-      "name": "Generations SlowJam",
-      "streamURL": "http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3",
-      "imageURL": "http://generations.fr/media/radio/thumb/90x90_slowjam.png",
-      "desc": "Generations SlowJam",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2482,9 +2314,9 @@
       "_homepage": "http://generations.fr/"
     },
     {
-      "name": "hitfm reunion 974",
+      "name": "Hit FM Reunion 974",
       "streamURL": "http://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.hitfm.fr/images/logo.png",
       "desc": "hitfm reunion 974",
       "longDesc": "",
       "country": "FR",
@@ -2497,7 +2329,7 @@
     {
       "name": "Hotel Costes",
       "streamURL": "https://s3.radio.co/s39c195d74/listen",
-      "imageURL": "",
+      "imageURL": "https://www.hotelcostes.com/assets/favicon/apple-touch-icon.png",
       "desc": "Chansons Françaises | Downtempo | Euro Disco | Italo Disco | Lounge",
       "longDesc": "",
       "country": "FR",
@@ -2510,7 +2342,7 @@
     {
       "name": "Jazz Afro",
       "streamURL": "http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/176x176_691f280095bc7-plan-de-travail-1.webp",
       "desc": "Afro | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2549,7 +2381,7 @@
     {
       "name": "JAZZ RADIO - Jazz & Classique",
       "streamURL": "http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f26740f5e8-plan-de-travail-1.webp",
       "desc": "JAZZ RADIO - Jazz & Classique",
       "longDesc": "",
       "country": "FR",
@@ -2562,7 +2394,7 @@
     {
       "name": "Jazz Radio Black Music",
       "streamURL": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f25cd94341-plan-de-travail-1.webp",
       "desc": "Black | Blasmusik | Jazz | Music",
       "longDesc": "",
       "country": "FR",
@@ -2572,32 +2404,15 @@
       "_bitrate": 128,
       "_homepage": "http://www.jazzradio.fr/radio/webradio/4/black-music"
     },
-    {
-      "name": "Jazz Radio Blues",
-      "streamURL": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
-      "desc": "Blues | Jazz",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.jazzradio.fr/radio/webradio/3/blues"
-    },
-    {
-      "name": "JAZZ RADIO Blues",
-      "streamURL": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac?i=77905",
-      "imageURL": "",
-      "desc": "JAZZ RADIO Blues",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.jazzradio.fr/radio/webradio/3/blues"
-    },
+
+
+
+
+
+
+
+
+    
     {
       "name": "Jazz Radio Classic Jazz",
       "streamURL": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
