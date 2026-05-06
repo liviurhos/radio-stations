@@ -2691,15 +2691,6 @@
       "_bitrate": 128,
       "_homepage": "http://www.jazzradio.fr/radio/webradio/40/zen-attitude"
     },
-
-
-
-
-
-
-
-
-    
     {
       "name": "King Dub Radio",
       "streamURL": "http://london-dedicated.myautodj.com:8862/stream",
@@ -2714,35 +2705,74 @@
       "_homepage": "http://kingdubfamily.com/"
     },
     {
-      "name": "Kiss FM (de Saint-Tropez à Monaco)",
+      "name": "Kiss FM L'Esprit Du SUD",
       "streamURL": "http://kissfm.ice.infomaniak.ch/kissfm-128.mp3",
-      "imageURL": "http://www.kissfm.fr/wp-content/uploads/2023/09/apple-touch-icon.png",
-      "desc": "Kiss FM (de Saint-Tropez à Monaco)",
+      "imageURL": "https://kissfm.fr/wp-content/uploads/2023/06/Plan-de-travail-1-1.png",
+      "desc": "Kiss FM ",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33422520520",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.kissfm.fr/"
+    },
+    {
+      "name": "Kiss FM WEST Coast",
+      "streamURL": "https://kisswestcoast.ice.infomaniak.ch/kisswestcoast-64.aac",
+      "imageURL": "https://kissfm.fr/wp-content/uploads/2023/06/Plan-de-travail-1-5.png",
+      "desc": "Kiss FM",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33422520520",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 64,
+      "_homepage": "http://www.kissfm.fr/"
+    },
+    {
+      "name": "Kiss FM 80s",
+      "streamURL": "https://kissfm80s.ice.infomaniak.ch/kissfm80s-128.mp3",
+      "imageURL": "https://kissfm.fr/wp-content/uploads/2023/06/80.2.png",
+      "desc": "Kiss FM",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33422520520",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.kissfm.fr/"
+    },
+    {
+      "name": "Kiss FM Fitness",
+      "streamURL": "https://kissfmclassicdance.ice.infomaniak.ch/kissfmclassicdance-192.mp3",
+      "imageURL": "https://kissfm.fr/wp-content/uploads/2023/06/FITNESS-1.png",
+      "desc": "Kiss FM",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33422520520",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.kissfm.fr/"
     },
     {
-      "name": "Kiss FM (de Toulon à Marseille)",
-      "streamURL": "http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3",
-      "imageURL": "http://www.kissfm.fr/wp-content/uploads/2023/09/apple-touch-icon.png",
-      "desc": "Kiss FM (de Toulon à Marseille)",
+      "name": "Kiss FM HITS",
+      "streamURL": "https://kissfmhits.ice.infomaniak.ch/kissfmhits-96.aac",
+      "imageURL": "https://kissfm.fr/wp-content/uploads/2025/05/Calque-1.png",
+      "desc": "Kiss FM",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33422520520",
       "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
+      "_codec": "AAC",
+      "_bitrate": 96,
       "_homepage": "http://www.kissfm.fr/"
     },
     {
       "name": "La Grosse Radio Reggae",
       "streamURL": "http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
-      "imageURL": "https://www.lagrosseradio.com/favicon.ico",
+      "imageURL": "https://www.lagrosseradio.com/wp-content/uploads/2025/03/LGR_Reggae_carre-3.png",
       "desc": "Music | Reggae",
       "longDesc": "",
       "country": "FR",
@@ -2750,25 +2780,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": "https://www.lagrosseradio.com/"
-    },
-    {
-      "name": "La Grosse Radio Reggae",
-      "streamURL": "https://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
-      "imageURL": "",
-      "desc": "La Grosse Radio Reggae",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://caribshebdo.wordpress.com/2020/09/02/radio-web-la-grosse-reggae/"
+      "_homepage": "https://www.lagrosseradio.com/radio-reggae/ecouter-radio-reggae/"
     },
     {
       "name": "La Grosse Radio Rock",
       "streamURL": "http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.lagrosseradio.com/wp-content/uploads/2025/03/LGR_Rock_carre-4.png",
       "desc": "Music | Rock",
       "longDesc": "",
       "country": "FR",
@@ -2781,7 +2798,7 @@
     {
       "name": "La Grosse Radio Métal",
       "streamURL": "http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.lagrosseradio.com/wp-content/uploads/2025/03/LGR_Metal_carre-3.png",
       "desc": "Metal | Music",
       "longDesc": "",
       "country": "FR",
@@ -2794,8 +2811,8 @@
     {
       "name": "La Grosse Tambouille",
       "streamURL": "https://lagrossetambouille.com//flux",
-      "imageURL": "",
-      "desc": "La Grosse Tambouille",
+      "imageURL": "https://lagrossetambouille.fr/icon-192x192.png",
+      "desc": "Electro | Electro Hop | Club | Rock | Metal",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2807,7 +2824,7 @@
     {
       "name": "La radio de Noël",
       "streamURL": "http://live1.jupinfo.fr:8000/radiodenoel",
-      "imageURL": "",
+      "imageURL": "https://image.radioking.io/radios/105919/logo/baeae194-1ef9-435b-b671-c31e6bebc037.png",
       "desc": "Christmas Music",
       "longDesc": "",
       "country": "FR",
@@ -2818,7 +2835,7 @@
       "_homepage": "http://www.radionoel.fr/"
     },
     {
-      "name": "La radio Plus",
+      "name": "La Radio Plus",
       "streamURL": "http://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
       "imageURL": "https://www.laradioplus.com/apple-touch-icon-120x120.png",
       "desc": "La radio Plus",
@@ -2831,9 +2848,87 @@
       "_homepage": "http://www.laradioplus.com/"
     },
     {
+      "name": "La Radio Plus Classics",
+      "streamURL": "https://la-radio-plus-04.ice.infomaniak.ch/la-radio-plus-04.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2a8df3b7f-classics.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
+      "name": "La Radio Plus French Touch ",
+      "streamURL": "https://plus-wr04.ice.infomaniak.ch/plus-wr04.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2a96052af-frenchtouch.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
+      "name": "La Radio Plus Club",
+      "streamURL": "https://plus-wr06.ice.infomaniak.ch/plus-wr06.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2a9cb7dd1-club.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
+      "name": "La Radio Plus Latino",
+      "streamURL": "https://plus-wr06.ice.infomaniak.ch/plus-wr06.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2aa255762-latino.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
+      "name": "La Radio Plus De Playlist",
+      "streamURL": "https://plus-wr01.ice.infomaniak.ch/plus-wr01.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2aabac627-plusdeplaylist.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
+      "name": "La Radio Plus Alpes Du Sud",
+      "streamURL": "https://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3?aw_0_1st.playerId=laradioplus_web",
+      "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2abd62bea-alpes1dusud.webp",
+      "desc": "La radio Plus",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.laradioplus.com/"
+    },
+    {
       "name": "La Radio Sans Pub",
       "streamURL": "http://live1.jupinfo.fr:8000/play",
-      "imageURL": "",
+      "imageURL": "https://uk.radio.net/175/laradiosanspub.png?version=295c599581b9570079b56a7e4764b2ce6252e0e0",
       "desc": "La Radio Sans Pub",
       "longDesc": "",
       "country": "FR",
@@ -2846,7 +2941,7 @@
     {
       "name": "Latcho Flamenco",
       "streamURL": "https://listen.radioking.com/radio/109486/stream/148513",
-      "imageURL": "",
+      "imageURL": "https://www.radio.net/175/latchoflamenco.png?version=e8d038a356964be6e8bdbe675d3789e6b434df3e",
       "desc": "Latcho Flamenco",
       "longDesc": "",
       "country": "FR",
@@ -2859,7 +2954,7 @@
     {
       "name": "Latina",
       "streamURL": "http://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/latina/images/logo_m1iLvmwBrF.png",
       "desc": "Latin",
       "longDesc": "",
       "country": "FR",
@@ -2874,19 +2969,6 @@
       "streamURL": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
       "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
       "desc": "Bachata",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.latina.fr/"
-    },
-    {
-      "name": "Latina fiesta",
-      "streamURL": "https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3",
-      "imageURL": "https://ecouter.lesindesradios.net/logos/orange329.png",
-      "desc": "Latin Music",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2924,7 +3006,7 @@
     {
       "name": "Latina love",
       "streamURL": "http://latinalove.ice.infomaniak.ch/latinalove.mp3",
-      "imageURL": "https://ecouter.lesindesradios.net/logos/orange326.png",
+      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
       "desc": "Latin Music | Love",
       "longDesc": "",
       "country": "FR",
@@ -2946,19 +3028,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.latina.fr/"
-    },
-    {
-      "name": "Latina reggaeton",
-      "streamURL": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico",
-      "desc": "Reggaeton",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.latina.fr/"
     },
     {
       "name": "Latina Salsa",
@@ -2989,7 +3058,7 @@
     {
       "name": "Le Mouv'",
       "streamURL": "http://direct.mouv.fr/live/mouv-midfi.mp3",
-      "imageURL": "https://www.mouv.fr/dist/favicons/logo-120.png",
+      "imageURL": "https://www.radiofrance.fr/pikapi/images/1f700e39-1df3-4f07-af50-73ffc3ee3ab1/1200x680",
       "desc": "Rap",
       "longDesc": "",
       "country": "FR",
@@ -3019,16 +3088,16 @@
       "desc": "LITTORAL FM Perpignan",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33468081718",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://littoral.fm/"
     },
     {
-      "name": "LOVE RADIO Only Love Songs 70s80s90s - www.love.radio",
+      "name": "LOVE RADIO Only Love Songs 70s80s90s",
       "streamURL": "https://loveradio.streamingmedia.it/france",
-      "imageURL": "",
+      "imageURL": "https://love.radio/wp-content/uploads/2020/10/cropped-LOVE.RADIO-only-love-songs_logo-180x180.png",
       "desc": "Love | Love Songs | Lovesongs | Romantic",
       "longDesc": "",
       "country": "FR",
@@ -3067,7 +3136,7 @@
     {
       "name": "M Radio 100% Céline Dion",
       "streamURL": "http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1f5fd6743-celinedion.webp",
       "desc": "M Radio 100% Céline Dion",
       "longDesc": "",
       "country": "FR",
@@ -3080,7 +3149,7 @@
     {
       "name": "M Radio 100% Goldman",
       "streamURL": "http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1e9babf82-goldman.webp",
       "desc": "M Radio 100% Goldman",
       "longDesc": "",
       "country": "FR",
@@ -3093,7 +3162,7 @@
     {
       "name": "M Radio 100% Johnny",
       "streamURL": "http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1d523acf4-johnny.webp",
       "desc": "M Radio 100% Johnny",
       "longDesc": "",
       "country": "FR",
@@ -3104,10 +3173,36 @@
       "_homepage": "http://mradio.fr/"
     },
     {
-      "name": "M Radio Années 80 et 90",
+      "name": "M Radio Années 80",
       "streamURL": "http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1c87e2767-plan-de-travail-1.webp",
       "desc": "M Radio Années 80 et 90",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio Années 90",
+      "streamURL": "https://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1cb928ad6-90.webp",
+      "desc": "M Radio Années 80 et 90",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio Années 2000",
+      "streamURL": "https://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1dbed34b7-2000.webp",
+      "desc": "M Radio Tubes du Grenier",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -3119,7 +3214,7 @@
     {
       "name": "M Radio Chansons d'amour",
       "streamURL": "http://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1e8606f46-chansonsamour.webp",
       "desc": "M Radio Chansons d'amour",
       "longDesc": "",
       "country": "FR",
@@ -3132,7 +3227,7 @@
     {
       "name": "M Radio Culte Années 60 et 70",
       "streamURL": "http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1cdd4d1ed-6070.webp",
       "desc": "60S | 70S | Chansons Françaises",
       "longDesc": "",
       "country": "FR",
@@ -3145,7 +3240,7 @@
     {
       "name": "M Radio French Touch",
       "streamURL": "http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f20bce92e7-frenchtouch.webp",
       "desc": "M Radio French Touch",
       "longDesc": "",
       "country": "FR",
@@ -3158,7 +3253,7 @@
     {
       "name": "M Radio Tubes du Grenier",
       "streamURL": "http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://mradio.fr/media/radio/thumb/176x176_691f1d3cb2ed9-tubes.webp",
       "desc": "M Radio Tubes du Grenier",
       "longDesc": "",
       "country": "FR",
@@ -3169,9 +3264,87 @@
       "_homepage": "http://mradio.fr/"
     },
     {
-      "name": "Magic radio",
+      "name": "M Radio Sur La Route",
+      "streamURL": "https://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1e6c4ed83-surlaroute.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio 100% Mix",
+      "streamURL": "https://mwr-mix.ice.infomaniak.ch/mwr-mix.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f21e257374-mix1.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio TOP 50!",
+      "streamURL": "https://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1f72e3ab8-50.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio Eurovision",
+      "streamURL": "https://mradio-eurovision.ice.infomaniak.ch/mradio-eurovision.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1fcc2f3b0-eurovisions.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio POP",
+      "streamURL": "https://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1fdec2c5a-pop.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "M Radio Acoustique",
+      "streamURL": "https://mradio-acoustique.ice.infomaniak.ch/mradio-acoustique.mp3?aw_0_1st.playerId=mradio_web",
+      "imageURL": "https://mradio.fr/media/radio/thumb/300x300_691f1ff17cfa4-acoustique.webp",
+      "desc": "M Radio Tubes du Grenier",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://mradio.fr/"
+    },
+    {
+      "name": "Magic Radio",
       "streamURL": "http://mp3.magic-radio.net/flac",
-      "imageURL": "",
+      "imageURL": "https://magic-radio.net/logo.png",
       "desc": "80S | Flac | Sanspub",
       "longDesc": "",
       "country": "FR",
@@ -3182,22 +3355,9 @@
       "_homepage": "https://magic-radio.net/"
     },
     {
-      "name": "Magic Radio flac",
-      "streamURL": "http://mp3.magic-radio.net/flac",
-      "imageURL": "",
-      "desc": "Misc",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 1500,
-      "_homepage": ""
-    },
-    {
       "name": "Magnum La Radio",
       "streamURL": "http://str0.creacast.com/magnum",
-      "imageURL": "https://www.magnumlaradio.com/wp-content/themes/magnumlaradio/assets/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(TXudQwMAmS)/fit-in/300x2000/filters:format(webp)/filters:quality(100)/radios/magnum/images/logo_USmShS5Cv1.png",
       "desc": "Magnum La Radio",
       "longDesc": "",
       "country": "FR",
@@ -3207,6 +3367,16 @@
       "_bitrate": 192,
       "_homepage": "http://www.magnumlaradio.com/"
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Maxi 80",
       "streamURL": "http://audio1.maxi80.com/",
