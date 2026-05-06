@@ -1924,18 +1924,6 @@
       "_bitrate": 128,
       "_homepage": "https://www.francemusique.fr/webradio-concerts-radio-france/"
     },
-
-
-
-
-
-
-
-
-
-
-    
-
     {
       "name": "Free Dom 2",
       "streamURL": "http://freedomice.streamakaci.com/freedom2.mp3",
@@ -2355,7 +2343,7 @@
     {
       "name": "Jazz Blues",
       "streamURL": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
-      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/180x180_blues.webp",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f23bc5956b-plan-de-travail-1.webp",
       "desc": "Jazz Blues",
       "longDesc": "",
       "country": "FR",
@@ -2404,19 +2392,10 @@
       "_bitrate": 128,
       "_homepage": "http://www.jazzradio.fr/radio/webradio/4/black-music"
     },
-
-
-
-
-
-
-
-
-    
     {
       "name": "Jazz Radio Classic Jazz",
       "streamURL": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f25f631b4c-plan-de-travail-1.webp",
       "desc": "Classical | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2429,7 +2408,7 @@
     {
       "name": "Jazz Radio Contemporary Jazz",
       "streamURL": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f26c330cad-plan-de-travail-1.webp",
       "desc": "Contemporary | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2442,7 +2421,7 @@
     {
       "name": "Jazz Radio Electro Swing",
       "streamURL": "http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2489728c5-plan-de-travail-1.webp",
       "desc": "Electro | Jazz | Swing",
       "longDesc": "",
       "country": "FR",
@@ -2453,22 +2432,9 @@
       "_homepage": "http://www.jazzradio.fr/radio/webradio/17/electro-swing"
     },
     {
-      "name": "Jazz Radio Electro Swing",
-      "streamURL": "https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090",
-      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/180x180_electro-swing.png",
-      "desc": "Electro Swing | Jazz",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.jazzradio.fr/"
-    },
-    {
       "name": "Jazz Radio Funk",
       "streamURL": "http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f247a842f4-plan-de-travail-1.webp",
       "desc": "Funk",
       "longDesc": "",
       "country": "FR",
@@ -2481,7 +2447,7 @@
     {
       "name": "Jazz Radio Gospel",
       "streamURL": "http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f262e39fbb-plan-de-travail-1.webp",
       "desc": "Gospel | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2494,7 +2460,7 @@
     {
       "name": "Jazz Radio Groov'Up",
       "streamURL": "http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2783c326c-plan-de-travail-1.webp",
       "desc": "Groove | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2507,7 +2473,7 @@
     {
       "name": "Jazz Radio Groove",
       "streamURL": "http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2603b54d1-plan-de-travail-1.webp",
       "desc": "Groove | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2520,7 +2486,7 @@
     {
       "name": "Jazz Radio Happy Hour",
       "streamURL": "http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f27682c604-plan-de-travail-1.webp",
       "desc": "Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2533,7 +2499,7 @@
     {
       "name": "Jazz Radio Jazz & Cinema",
       "streamURL": "http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f268b7efe1-plan-de-travail-1.webp",
       "desc": "Cinema | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2546,7 +2512,7 @@
     {
       "name": "Jazz Radio Jazz Fusion",
       "streamURL": "https://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3",
-      "imageURL": "https://www.allzicradio.com/media/radios/jazzradio-1400x1400_fusion.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f279d1555a-plan-de-travail-1.webp",
       "desc": "Jazz Radio Jazz Fusion",
       "longDesc": "",
       "country": "FR",
@@ -2559,7 +2525,7 @@
     {
       "name": "Jazz Radio Jazzy French",
       "streamURL": "http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f264916150-plan-de-travail-1.webp",
       "desc": "French Music | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2570,22 +2536,9 @@
       "_homepage": "http://www.jazzradio.fr/radio/webradio/23/jazzy-french"
     },
     {
-      "name": "Jazz Radio Ladies & Crooners",
-      "streamURL": "http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
-      "desc": "Jazz",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.jazzradio.fr/radio/webradio/2/ladies-crooners"
-    },
-    {
       "name": "Jazz Radio Latin Jazz",
       "streamURL": "http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2710a1266-plan-de-travail-1.webp",
       "desc": "Jazz | Latin | Latin Jazz | Latino",
       "longDesc": "",
       "country": "FR",
@@ -2598,8 +2551,8 @@
     {
       "name": "Jazz Radio Lounge",
       "streamURL": "http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3",
-      "imageURL": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
-      "desc": "Lounge",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f23d23e1f3-plan-de-travail-1.webp",
+      "desc": "Jazz | Lounge",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -2611,7 +2564,7 @@
     {
       "name": "Jazz Radio Manouche",
       "streamURL": "http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2564bcbc1-plan-de-travail-1.webp",
       "desc": "Django | Jazz | Manouche",
       "longDesc": "",
       "country": "FR",
@@ -2624,7 +2577,7 @@
     {
       "name": "Jazz Radio New Orleans",
       "streamURL": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f26d993ec1-plan-de-travail-1.webp",
       "desc": "Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2637,7 +2590,7 @@
     {
       "name": "Jazz Radio Only Women",
       "streamURL": "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f23ed4c93b-plan-de-travail-1.webp",
       "desc": "Jazz | Women",
       "longDesc": "",
       "country": "FR",
@@ -2650,7 +2603,7 @@
     {
       "name": "Jazz Radio Piano Jazz",
       "streamURL": "http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f24ca9ee84-plan-de-travail-1.webp",
       "desc": "Jazz | Piano",
       "longDesc": "",
       "country": "FR",
@@ -2663,7 +2616,7 @@
     {
       "name": "Jazz Radio Reprises",
       "streamURL": "http://reprises.ice.infomaniak.ch/reprises-high.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f26a6cb85e-plan-de-travail-1.webp",
       "desc": "Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2676,7 +2629,7 @@
     {
       "name": "Jazz Radio Saxo Jazz",
       "streamURL": "http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f2832acc19-plan-de-travail-1.webp",
       "desc": "Jazz",
       "longDesc": "",
       "country": "FR",
@@ -2689,7 +2642,7 @@
     {
       "name": "Jazz Radio Soul",
       "streamURL": "http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/176x176_691f24ab6e241-plan-de-travail-1.webp",
       "desc": "Soul",
       "longDesc": "",
       "country": "FR",
@@ -2702,7 +2655,7 @@
     {
       "name": "Jazz Radio Soul Food by DJ Philgood",
       "streamURL": "http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f26f2e3a22-plan-de-travail-1.webp",
       "desc": "Jazz | Soul",
       "longDesc": "",
       "country": "FR",
@@ -2715,7 +2668,7 @@
     {
       "name": "Jazz Radio Stax and Motown",
       "streamURL": "http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3",
-      "imageURL": "http://www.jazzradio.fr/media/radio/thumb/90x90_stax-and-motown.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f252bd1369-plan-de-travail-1.webp",
       "desc": "Funk | Jazz | Motown | Soul | Stax",
       "longDesc": "",
       "country": "FR",
@@ -2728,7 +2681,7 @@
     {
       "name": "Jazz Radio Zen Attitude",
       "streamURL": "http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/300x300_691f249d2b200-plan-de-travail-1.webp",
       "desc": "Jazz | Soul",
       "longDesc": "",
       "country": "FR",
@@ -2738,45 +2691,15 @@
       "_bitrate": 128,
       "_homepage": "http://www.jazzradio.fr/radio/webradio/40/zen-attitude"
     },
-    {
-      "name": "JazzRadio.fr Blues",
-      "streamURL": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
-      "imageURL": "https://www.jazzradio.fr/media/radio/thumb/100x100_blues.png",
-      "desc": "Blues",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.jazzradio.fr/"
-    },
-    {
-      "name": "JazzRadio.fr Funk",
-      "streamURL": "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
-      "imageURL": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
-      "desc": "Funk",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.jazzradio.fr/"
-    },
-    {
-      "name": "Jazzradio.fr Jazz & Classique",
-      "streamURL": "https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
-      "imageURL": "",
-      "desc": "Classic | Jazz",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.jazzradio.fr/"
-    },
+
+
+
+
+
+
+
+
+    
     {
       "name": "King Dub Radio",
       "streamURL": "http://london-dedicated.myautodj.com:8862/stream",
