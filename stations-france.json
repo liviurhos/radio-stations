@@ -2888,7 +2888,7 @@
     },
     {
       "name": "La Radio Plus Latino",
-      "streamURL": "https://plus-wr06.ice.infomaniak.ch/plus-wr06.mp3?aw_0_1st.playerId=laradioplus_web",
+      "streamURL": "https://plus-wr05.ice.infomaniak.ch/plus-wr05.mp3?aw_0_1st.playerId=laradioplus_web",
       "imageURL": "https://www.laradioplus.com/media/radio/thumb/300x300_691f2aa255762-latino.webp",
       "desc": "La radio Plus",
       "longDesc": "",
@@ -3406,15 +3406,6 @@
       "_bitrate": 128,
       "_homepage": "https://radiombs.fr/"
     },
-
-
-
-
-
-
-
-
-    
     {
       "name": "MC Doualiya",
       "streamURL": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
@@ -3792,18 +3783,24 @@
       "_bitrate": 64,
       "_homepage": "https://www.ouifm.fr/"
     },
-
-
-
-
-
-
-    
+    {
+      "name": "Phare FM",
+      "streamURL": "http://str0.creacast.com/pharefm_louange",
+      "imageURL": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
+      "desc": "",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://pharefm.com/"
+    },
     {
       "name": "Phare FM Louange",
       "streamURL": "http://str0.creacast.com/pharefm_louange",
-      "imageURL": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
-      "desc": "Christian",
+      "imageURL": "https://pharefm.com/jaquettes/louange-cover.jpg",
+      "desc": "",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -3815,7 +3812,7 @@
     {
       "name": "Phare FM Worship",
       "streamURL": "http://str30.creacast.com/pharefm_worship",
-      "imageURL": "",
+      "imageURL": "https://pharefm.com/jaquettes/worship-cover.jpg",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -3839,10 +3836,10 @@
       "_homepage": "http://phauneradio.com/"
     },
     {
-      "name": "Puls Radio",
+      "name": "Puls Radio Dance",
       "streamURL": "https://sc4.gergosnet.com/pulsHD.mp3",
-      "imageURL": "",
-      "desc": "Puls Radio",
+      "imageURL": "https://foxxradio.com/upload/uk/11182022215004.jpg.webp",
+      "desc": "Dance",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -3852,9 +3849,9 @@
       "_homepage": "https://www.pulsradio.com/dance/page-home.html"
     },
     {
-      "name": "PulsRadio 2000 (64k AAC)",
+      "name": "PulsRadio 2000",
       "streamURL": "https://sc6.gergosnet.com:80/puls00AAC64.mp3",
-      "imageURL": "https://www.pulsradio.com/apple-icon-120x120.png",
+      "imageURL": "https://www.pulsradio.com/img/logo-2000.png",
       "desc": "Dance | Electronic | Trance",
       "longDesc": "",
       "country": "FR",
@@ -3867,7 +3864,7 @@
     {
       "name": "PulsRadio 80's",
       "streamURL": "http://212.83.185.113/magicradioAAC64.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.pulsradio.com/img/logo-80.png",
       "desc": "PulsRadio 80's",
       "longDesc": "",
       "country": "FR",
@@ -3878,22 +3875,9 @@
       "_homepage": "https://www.pulsradio.com/80/"
     },
     {
-      "name": "Pulsradio Dance",
-      "streamURL": "https://sc4.gergosnet.com/pulsHD.mp3",
-      "imageURL": "",
-      "desc": "Pulsradio Dance",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.pulsradio.com/"
-    },
-    {
       "name": "PulsRadio Hits",
       "streamURL": "http://193.200.43.23/hitpartyHD.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.pulsradio.com/img/logo-hitparty.png",
       "desc": "PulsRadio Hits",
       "longDesc": "",
       "country": "FR",
@@ -3906,7 +3890,7 @@
     {
       "name": "PulsRadio Trance",
       "streamURL": "http://213.251.190.165/pulstranceHD.mp3",
-      "imageURL": "https://www.pulsradio.com/apple-icon-120x120.png",
+      "imageURL": "https://www.pulsradio.com/img/logo-trance.png",
       "desc": "PulsRadio Trance",
       "longDesc": "",
       "country": "FR",
@@ -3945,7 +3929,33 @@
     {
       "name": "Radio 6 Calais",
       "streamURL": "http://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3",
-      "imageURL": "http://www.radio6.fr/images/apple-touch-icon.png",
+      "imageURL": "https://www.radio6.fr/images/logo.png",
+      "desc": "Music | News | Pop",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radio6.fr/"
+    },
+    {
+      "name": "Radio 6 Pure Sensation",
+      "streamURL": "https://radio6-puressensations.ice.infomaniak.ch/radio6-puressensations-192.mp3",
+      "imageURL": "https://www.radio6.fr/images/logo.png"",
+      "desc": "Music | News | Pop",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radio6.fr/"
+    },
+    {
+      "name": "Radio 6 Disco Funk",
+      "streamURL": "https://radio6-discofunk.ice.infomaniak.ch/radio6-discofunk-192.mp3",
+      "imageURL": "https://www.radio6.fr/images/logo.png"",
       "desc": "Music | News | Pop",
       "longDesc": "",
       "country": "FR",
@@ -3958,7 +3968,7 @@
     {
       "name": "Radio Alligator",
       "streamURL": "http://listen.radioking.com/radio/39962/stream/76445",
-      "imageURL": "",
+      "imageURL": "https://www.radioalligator.com/wp-content/uploads/2016/03/cropped-RA-logo-NEW-2-180x180.png",
       "desc": "Radio Alligator",
       "longDesc": "",
       "country": "FR",
@@ -3971,7 +3981,7 @@
     {
       "name": "Radio Bonheur",
       "streamURL": "http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP._Y-t31uaSRuDvZlFsguYHwHaEf%3Fpid%3DApi&f=1&ipt=f5c0a522070034a0e71b26c140b8d7627d7624b6e5c92ad464487f19f801977f&ipo=images",
       "desc": "Radio Bonheur",
       "longDesc": "",
       "country": "FR",
@@ -3984,7 +3994,7 @@
     {
       "name": "Radio Béton !",
       "streamURL": "http://51.254.220.198:8000/stream.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.radiobeton.com/www/wp-content/uploads/2024/08/cropped-betonVect-2014-180x180.png",
       "desc": "Radio Béton !",
       "longDesc": "",
       "country": "FR",
@@ -3992,12 +4002,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": "http://www.radiobeton.com/www/"
+      "_homepage": "http://www.radiobeton.com/"
     },
     {
       "name": "Radio Canut",
-      "streamURL": "http://live.francra.org:8000/radiocanut",
-      "imageURL": "",
+      "streamURL": "https://live.aurafm.org/radiocanut?alea=MjAyNi0wNS0wNyAxMjoyNToxNA==",
+      "imageURL": "https://radiocanut.org/local/cache-vignettes/L300xH238/siteon0-74aa1.png",
       "desc": "Eclectic | Rock",
       "longDesc": "",
       "country": "FR",
@@ -4012,19 +4022,6 @@
       "streamURL": "https://listen.radioking.com/radio/669715/stream/733765",
       "imageURL": "https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg",
       "desc": "Eclectic Programming",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radiochoco.com/"
-    },
-    {
-      "name": "Radio Choco",
-      "streamURL": "https://listen.radioking.com/radio/669715/stream/733765",
-      "imageURL": "https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg",
-      "desc": "Radio Choco",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -4049,20 +4046,7 @@
     {
       "name": "Radio Courtoisie",
       "streamURL": "https://ice.creacast.com/radio-courtoisie",
-      "imageURL": "",
-      "desc": "Radio Courtoisie",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.radiocourtoisie.fr/"
-    },
-    {
-      "name": "Radio Courtoisie",
-      "streamURL": "https://ice.creacast.com/radio-courtoisie",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/fr/3/32/Logo_radio_courtoisie.jpg",
+      "imageURL": "https://media.rc.fr/file/RadioCourtoisie/radiocourtoisie/2025/10/cropped-radio-courtoisie-favicon-180x180.png",
       "desc": "Catholic | Classical Music | Conservative Talk | Culture | French Chansons",
       "longDesc": "",
       "country": "FR",
@@ -4074,29 +4058,16 @@
     },
     {
       "name": "Radio Equinoxe",
-      "streamURL": "http://listen.radioking.com/radio/39218/stream/76118",
-      "imageURL": "",
+      "streamURL": "https://www.radioking.com/play/radio-equinoxe/76118",
+      "imageURL": "https://radioequinoxe.com/wp-content/uploads/2022/05/Logo-complet-192x192-1.png",
       "desc": "Electronic",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33677869787",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://radioequinoxe.com/"
-    },
-    {
-      "name": "Radio Espace",
-      "streamURL": "http://radioespace.ice.infomaniak.ch/radioespace-high.mp3",
-      "imageURL": "http://www.radioespace.com/favicon.ico",
-      "desc": "Radio Espace",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.radioespace.com/"
     },
     {
       "name": "Radio Espérance",
@@ -4114,7 +4085,7 @@
     {
       "name": "Radio Espérance Enseignement",
       "streamURL": "https://esperance.streamakaci.com/enseignement.mp3",
-      "imageURL": "",
+      "imageURL": "http://radio-esperance.fr/wp-content/themes/radio-esperance/fichiers/ico/apple-touch-icon-120x120.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -4140,7 +4111,7 @@
     {
       "name": "Radio Espérance Louange",
       "streamURL": "https://esperance.streamakaci.com/louange.mp3",
-      "imageURL": "",
+      "imageURL": "http://radio-esperance.fr/wp-content/themes/radio-esperance/fichiers/ico/apple-touch-icon-120x120.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -4153,7 +4124,7 @@
     {
       "name": "Radio Espérance Musique Sacrée",
       "streamURL": "https://esperance.streamakaci.com/musique.mp3",
-      "imageURL": "",
+      "imageURL": "http://radio-esperance.fr/wp-content/themes/radio-esperance/fichiers/ico/apple-touch-icon-120x120.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -4166,7 +4137,7 @@
     {
       "name": "Radio Espérance Parole de Dieu",
       "streamURL": "https://esperance.streamakaci.com/parole-de-dieu.mp3",
-      "imageURL": "",
+      "imageURL": "http://radio-esperance.fr/wp-content/themes/radio-esperance/fichiers/ico/apple-touch-icon-120x120.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -4179,7 +4150,7 @@
     {
       "name": "Radio Eure du Blues",
       "streamURL": "http://euredublues.ddns.net:8000/euredublues.ogg",
-      "imageURL": "",
+      "imageURL": "https://euredublues.com/sitepad-data/uploads/2024/01/cropped-Loup-garou-jpg-1-180x180.jpg",
       "desc": "Blues | Blues Rock | Classic Blues | Country Blues | Rhythm And Blues*",
       "longDesc": "",
       "country": "FR",
@@ -4203,9 +4174,126 @@
       "_homepage": "https://www.rfi.fr/es/"
     },
     {
-      "name": "Radio grenouille",
+      "name": "RFI Afrique",
+      "streamURL": "http://live02.rfi.fr/rfiafrique-64.mp3",
+      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
+      "desc": "Africa | News",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "http://www.rfi.fr/"
+    },
+    {
+      "name": "RFI Anglais - English",
+      "streamURL": "http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3",
+      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
+      "desc": "Features | Information | News | Public Radio",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "http://en.rfi.fr/"
+    },
+    {
+      "name": "RFI Kiswahili",
+      "streamURL": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
+      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
+      "desc": "News",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "http://www.kiswahili.rfi.fr/"
+    },
+    {
+      "name": "RFI Monde",
+      "streamURL": "http://live02.rfi.fr/rfimonde-64.mp3",
+      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
+      "desc": "News | World Music",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "http://www.rfi.fr/"
+    },
+    {
+      "name": "RFI Musique",
+      "streamURL": "http://live02.rfi.fr/rfimusiquemonde-64k.mp3",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
+      "desc": "African | French | Pop | World Music",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "http://www.rfimusique.com/"
+    },
+    {
+      "name": "RFI Persian",
+      "streamURL": "http://live02.rfi.fr/rfienpersan-64k.mp3",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
+      "desc": "Persian",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "http://fa.rfi.fr/"
+    },
+    {
+      "name": "RFI Russia",
+      "streamURL": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
+      "desc": "News | Talk",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.rfi.fr/ru/"
+    },
+    {
+      "name": "RFI Tieng Viet",
+      "streamURL": "http://live02.rfi.fr/rfivietnamien-96k.mp3",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
+      "desc": "RFI Tieng Viet",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.rfi.fr/vi/"
+    },
+    {
+      "name": "RFI-Chinese",
+      "streamURL": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
+      "desc": "RFI-Chinese",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 64,
+      "_homepage": "https://www.rfi.fr/cn/"
+    },
+    {
+      "name": "Radio Grenouille",
       "streamURL": "https://live.radiogrenouille.com:8443/live",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.P5jFlRF5-tJK5aVWyvYYpQHaHZ%3Fr%3D0%26pid%3DApi&f=1&ipt=3a221699a4a0066a55bc506099d48f5f4f6f9d15f0548ba2c2439c727367c73b&ipo=images",
       "desc": "Radio grenouille",
       "longDesc": "",
       "country": "FR",
@@ -4231,7 +4319,7 @@
     {
       "name": "Radio ISA",
       "streamURL": "http://radioisagrenoble.ice.infomaniak.ch/radioisagrenoble-128",
-      "imageURL": "http://www.radioisa.com/upload/60c70fc74cf8f4.23405983.ico",
+      "imageURL": "https://www.radioisa.com/upload/design/602b9e9eddd593.58924864.png",
       "desc": "Radio ISA",
       "longDesc": "",
       "country": "FR",
@@ -4257,7 +4345,7 @@
     {
       "name": "Radio Libertaire (France)",
       "streamURL": "http://media.radio-libertaire.org:8080/radiolib.mp3",
-      "imageURL": "",
+      "imageURL": "https://radio-libertaire.org/images/bandRL.jpg",
       "desc": "Music | Talk",
       "longDesc": "",
       "country": "FR",
@@ -4283,7 +4371,7 @@
     {
       "name": "Radio Metal",
       "streamURL": "https://radio3.pro-fhi.net/live/Radio%20Metal",
-      "imageURL": "",
+      "imageURL": "https://www.radiometal.com/wp-content/uploads/2024/02/cropped-logo-radio-metal-since-2007-180x180.jpg",
       "desc": "Metal",
       "longDesc": "",
       "country": "FR",
@@ -4294,22 +4382,9 @@
       "_homepage": "http://www.radiometal.com/"
     },
     {
-      "name": "Radio Metal",
-      "streamURL": "https://radio3.pro-fhi.net/live/Radio%20Metal",
-      "imageURL": "",
-      "desc": "Radio Metal",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://www.radiometal.com/"
-    },
-    {
       "name": "Radio Meuh",
       "streamURL": "http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.znqn3AExNcBntXV_Zh9zfwHaD2%3Fpid%3DApi&f=1&ipt=029c7730a7e4d73e169011d02d23a4f194f126e6e33b81feff3be2c4dd9ac5ad&ipo=images",
       "desc": "Electronic | Funk | Music",
       "longDesc": "",
       "country": "FR",
@@ -4322,7 +4397,7 @@
     {
       "name": "Radio Montmartre",
       "streamURL": "http://montmartre.ice.infomaniak.ch/montmartre.aac",
-      "imageURL": "",
+      "imageURL": "https://www.radiomontmartre.fr/apple-touch-icon.png",
       "desc": "Chansons",
       "longDesc": "",
       "country": "FR",
@@ -4330,12 +4405,12 @@
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
-      "_homepage": ""
+      "_homepage": "https://www.radiomontmartre.fr/"
     },
     {
       "name": "Radio Mélodie",
       "streamURL": "http://str0.creacast.com/melodie",
-      "imageURL": "",
+      "imageURL": "https://www.radiomelodie.com/images/image_share.jpg",
       "desc": "Radio Mélodie",
       "longDesc": "",
       "country": "FR",
@@ -4348,7 +4423,7 @@
     {
       "name": "Radio Neptune",
       "streamURL": "http://icecast.infini.fr:8000/neptune",
-      "imageURL": "",
+      "imageURL": "http://radio-neptune.net/wp-content/uploads/2023/06/radio-neptune.png",
       "desc": "Classical | Jazz",
       "longDesc": "",
       "country": "FR",
@@ -4359,22 +4434,9 @@
       "_homepage": "http://www.radio-neptune.net/"
     },
     {
-      "name": "Radio Nostalgie France",
-      "streamURL": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
-      "imageURL": "",
-      "desc": "Radio Nostalgie France",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.nostagie.fr/"
-    },
-    {
-      "name": "Radio Notre Dame (lower bitrate)",
+      "name": "Radio Notre Dame",
       "streamURL": "https://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
-      "imageURL": "https://radionotredame.net/favicon.ico",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/301/radio-notre-dame.690e0e67.png",
       "desc": "Christian | Culture | Religious | Talk",
       "longDesc": "",
       "country": "FR",
@@ -4385,62 +4447,57 @@
       "_homepage": "https://radionotredame.net/"
     },
     {
-      "name": "Radio Nova",
-      "streamURL": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
-      "imageURL": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
-      "desc": "Alternative | Pop | World Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.nova.fr/radionova/radio-nova"
-    },
-    {
-      "name": "RADIO NOVA",
-      "streamURL": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
-      "imageURL": "https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75",
-      "desc": "Electro | Hip Hop | Jazz | New Wave | Reggae | World Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.nova.fr/"
-    },
-    {
-      "name": "Radio Nova Vintage",
-      "streamURL": "http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3",
-      "imageURL": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
-      "desc": "1980S | 1990S | 80S | 90S | Groove | Oldies | Rare Groove | Vintage | Vintage Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://nova.fr/"
-    },
-    {
-      "name": "Radio Oxygène Isère",
-      "streamURL": "https://streamingp.shoutcast.com/radio-oxygene-grenoble-aac",
-      "imageURL": "https://radiooxygene.com/wp-content/uploads/2020/06/cropped-icon_2-180x180.png",
-      "desc": "Apresski | France | French Culture | Local News | Mountain Top",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 96,
-      "_homepage": "https://radiooxygene.com/isere/"
-    },
-    {
       "name": "Radio RVA",
       "streamURL": "http://rva.ice.infomaniak.ch/rva-high.mp3",
-      "imageURL": "https://www.radiorva.com/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f38e42a4-plan-de-travail-1.webp",
       "desc": "Radio RVA",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+    {
+      "name": "Radio RVA - Rock",
+      "streamURL": "https://rva-rock.ice.infomaniak.ch/rva-rock.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f4944a8a-plan-de-travail-1.webp",
+      "desc": "Rock",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+    {
+      "name": "Radio RVA - Dance 90",
+      "streamURL": "https://rva-dance-90.ice.infomaniak.ch/rva-dance-90.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f5de1723-plan-de-travail-1.webp",
+      "desc": "Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+
+
+
+
+
+
+
+    
+    {
+      "name": "Radio RVA - ",
+      "streamURL": "https://rva-dance-90.ice.infomaniak.ch/rva-dance-90.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f5de1723-plan-de-travail-1.webp",
+      "desc": "Dance",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -4696,162 +4753,7 @@
       "_bitrate": 192,
       "_homepage": "https://www.replaynews.net/"
     },
-    {
-      "name": "RFI Afrique",
-      "streamURL": "http://live02.rfi.fr/rfiafrique-64.mp3",
-      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
-      "desc": "Africa | News",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://www.rfi.fr/"
-    },
-    {
-      "name": "RFI Anglais - English",
-      "streamURL": "http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3",
-      "imageURL": "http://en.rfi.fr/android-chrome-192x192.png",
-      "desc": "Features | Information | News | Public Radio",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://en.rfi.fr/"
-    },
-    {
-      "name": "RFI Kiswahili",
-      "streamURL": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
-      "imageURL": "https://www.rfi.fr/favicon-194x194.png",
-      "desc": "News",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "http://www.kiswahili.rfi.fr/"
-    },
-    {
-      "name": "RFI Monde",
-      "streamURL": "http://live02.rfi.fr/rfimonde-64.mp3",
-      "imageURL": "http://www.rfi.fr/apple-touch-icon.png",
-      "desc": "News | World Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://www.rfi.fr/"
-    },
-    {
-      "name": "RFI Musique",
-      "streamURL": "http://live02.rfi.fr/rfimusiquemonde-64k.mp3",
-      "imageURL": "http://www.rfimusique.com/favicon.ico",
-      "desc": "African | French | Pop | World Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://www.rfimusique.com/"
-    },
-    {
-      "name": "RFI Musique",
-      "streamURL": "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
-      "imageURL": "https://musique.rfi.fr//mstile-144x144.png",
-      "desc": "France Médias Monde | Public Radio | World Music",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://musique.rfi.fr/"
-    },
-    {
-      "name": "RFI Persian",
-      "streamURL": "http://live02.rfi.fr/rfienpersan-64k.mp3",
-      "imageURL": "",
-      "desc": "Persian",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://fa.rfi.fr/"
-    },
-    {
-      "name": "RFI Russe",
-      "streamURL": "http://rfienrusse64k.ice.infomaniak.ch/rfienrusse-64.mp3",
-      "imageURL": "http://ru.rfi.fr/android-chrome-192x192.png",
-      "desc": "News | Public Radio",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "http://ru.rfi.fr/"
-    },
-    {
-      "name": "RFI Russia",
-      "streamURL": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
-      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
-      "desc": "News | Talk",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.rfi.fr/ru/"
-    },
-    {
-      "name": "RFI Tieng Viet",
-      "streamURL": "http://live02.rfi.fr/rfivietnamien-96k.mp3",
-      "imageURL": "https://www.rfi.fr/apple-touch-icon.png",
-      "desc": "RFI Tieng Viet",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.rfi.fr/vi/"
-    },
-    {
-      "name": "RFI-Afrique",
-      "streamURL": "http://live02.rfi.fr/rfiafrique-96k.mp3",
-      "imageURL": "",
-      "desc": "France Médias Monde | Information | Public Radio | World News",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "http://www.rfi.fr/fr/"
-    },
-    {
-      "name": "RFI-Chinese",
-      "streamURL": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
-      "imageURL": "",
-      "desc": "RFI-Chinese",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://www.rfi.fr/cn/"
-    },
+    
     {
       "name": "RFM",
       "streamURL": "http://stream.rfm.fr/rfm.mp3",
