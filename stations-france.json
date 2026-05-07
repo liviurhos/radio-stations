@@ -3418,7 +3418,7 @@
     {
       "name": "MC doualiya",
       "streamURL": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
-      "imageURL": "",
+      "imageURL": "https://s.mc-doualiya.com/media/display/29b2b950-e6d9-11ee-b65e-005056a97e36/w:1280/p:16x9/MCD_TW.jpg",
       "desc": "News",
       "longDesc": "",
       "country": "FR",
@@ -3431,7 +3431,7 @@
     {
       "name": "Metal Invasion Radio",
       "streamURL": "https://radio.metal-invasion.fr/radio/8000/stream96",
-      "imageURL": "",
+      "imageURL": "https://metal-invasion.fr/wp-content/uploads/2017/05/cropped-Banniere-Final-metal-invasion.fr_-180x180.png",
       "desc": "Hard Rock | Heavy Metal | Metal",
       "longDesc": "",
       "country": "FR",
@@ -3442,22 +3442,9 @@
       "_homepage": "https://metal-invasion.fr/"
     },
     {
-      "name": "mfm nouvelle scène",
-      "streamURL": "http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
-      "desc": "mfm nouvelle scène",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.mfmradio.fr/"
-    },
-    {
-      "name": "MOROW [AAC+ 64k]",
+      "name": "Morow Prog Rock Radio",
       "streamURL": "http://stream.fr.morow.com:8080/morow_med.aacp",
-      "imageURL": "",
+      "imageURL": "https://www.morow.com/build/images/logo.png",
       "desc": "Progressive Rock",
       "longDesc": "",
       "country": "FR",
@@ -3466,76 +3453,11 @@
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://www.morow.com/"
-    },
-    {
-      "name": "Morow Prog Rock Radio",
-      "streamURL": "http://stream.fr.morow.com:8080/morow_hi.aacp",
-      "imageURL": "https://www.morow.com/favicon.ico",
-      "desc": "Progressive Rock",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_homepage": "https://www.morow.com/"
-    },
-    {
-      "name": "Morow Prog Rock Radio",
-      "streamURL": "http://stream.fr.morow.com:8080/morow_med.mp3",
-      "imageURL": "",
-      "desc": "Progressive Rock",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.morow.com/"
-    },
-    {
-      "name": "Mouv'",
-      "streamURL": "http://icecast.radiofrance.fr/mouv-hifi.aac",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Le_Mouv%27_logo_2008.svg/1024px-Le_Mouv%27_logo_2008.svg.png",
-      "desc": "Aac | Music | Public Radio | Radio France",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 192,
-      "_homepage": "https://www.mouv.fr/"
-    },
-    {
-      "name": "MRadio Disney",
-      "streamURL": "http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3",
-      "imageURL": "https://mradio.fr/apple-touch-icon-120x120.png",
-      "desc": "MRadio Disney",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://mradio.fr/radio/webradio/22/m-radio-disney"
-    },
-    {
-      "name": "MRADIO FRANCE",
-      "streamURL": "http://mfm.ice.infomaniak.ch/mfm-64.aac",
-      "imageURL": "",
-      "desc": "MRADIO FRANCE",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://mradio.fr/"
     },
     {
       "name": "New Morning Radio",
       "streamURL": "http://listen.radioking.com/radio/605/stream/2195",
-      "imageURL": "https://www.newmorning.com/images/apple-touch-icon-114x114.png",
+      "imageURL": "https://www.newmorning.com/images/newmorning.png",
       "desc": "Club | Funk | Jazz | Live Concert | Paris | Rnb | Soul",
       "longDesc": "",
       "country": "FR",
@@ -3546,9 +3468,22 @@
       "_homepage": "http://www.newmorning.com/"
     },
     {
-      "name": "Nova Reggae",
+      "name": "Radio Nova",
+      "streamURL": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/05/NOVA-nova-400x496-1-t-1260x1260.png",
+      "desc": "Nova",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova Reggae",
       "streamURL": "https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
-      "imageURL": "",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1260x1260.png",
       "desc": "Nova Reggae",
       "longDesc": "",
       "country": "FR",
@@ -3558,6 +3493,96 @@
       "_bitrate": 256,
       "_homepage": "https://www.nova.fr/"
     },
+    {
+      "name": "Radio Nova Classics",
+      "streamURL": "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-CLASSICS-400x496-1-t-1260x1260.png",
+      "desc": "Classics",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova La Nuit",
+      "streamURL": "https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-nuit-400x496-1-t-1260x1260.png",
+      "desc": "Nova",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova Nouvo Nova",
+      "streamURL": "https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-NOUVO-400x496-1-t-1260x1260.png",
+      "desc": "Nova",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova Danse",
+      "streamURL": "https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-danse-400x496-1-t-1260x1260.png",
+      "desc": "Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova Soul",
+      "streamURL": "https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-SOUL-400x496-1-t-1260x1260.png",
+      "desc": "Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+    {
+      "name": "Radio Nova Hip Hop",
+      "streamURL": "https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3",
+      "imageURL": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-HIPHOP-400x496-1-t-1260x1260.png",
+      "desc": "Hip Hop",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC",
+      "_bitrate": 256,
+      "_homepage": "https://www.nova.fr/"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "ODS Radio",
       "streamURL": "http://ods.ice.infomaniak.ch/ods-high.mp3",
