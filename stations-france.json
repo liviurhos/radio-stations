@@ -3416,7 +3416,7 @@
 
     
     {
-      "name": "MC doualiya",
+      "name": "MC Doualiya",
       "streamURL": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
       "imageURL": "https://s.mc-doualiya.com/media/display/29b2b950-e6d9-11ee-b65e-005056a97e36/w:1280/p:16x9/MCD_TW.jpg",
       "desc": "News",
@@ -3571,31 +3571,6 @@
       "_bitrate": 256,
       "_homepage": "https://www.nova.fr/"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
-    {
-      "name": "ODS Radio",
-      "streamURL": "http://ods.ice.infomaniak.ch/ods-high.mp3",
-      "imageURL": "https://www.odsradio.com/apple-touch-icon-120x120.png",
-      "desc": "ODS Radio",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.odsradio.com/"
-    },
     {
       "name": "ODS Radio",
       "streamURL": "http://ods.ice.infomaniak.ch/ods-high.aac",
@@ -3603,7 +3578,59 @@
       "desc": "ODS Radio",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33450521515",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.odsradio.com/"
+    },
+    {
+      "name": "ODS Radio Légende du Rock",
+      "streamURL": "http://egwr-ods-ldr.ice.infomaniak.ch/ods-legend-du-rock.mp3?aw_0_1st.playerId=odsradio_web",
+      "imageURL": "https://www.odsradio.com/media/radio/thumb/176x176_691f2bd2af31f-plan-de-travail-1.webp",
+      "desc": "Rock",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33450521515",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.odsradio.com/"
+    },
+    {
+      "name": "ODS Radio Rock",
+      "streamURL": "https://ods-rock.ice.infomaniak.ch/ods-rock.mp3?aw_0_1st.playerId=odsradio_web",
+      "imageURL": "https://www.odsradio.com/media/radio/thumb/176x176_691f2bc5851bf-plan-de-travail-1.webp",
+      "desc": "Rock",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33450521515",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.odsradio.com/"
+    },
+    {
+      "name": "ODS Radio Années 80",
+      "streamURL": "https://ods-wr01.ice.infomaniak.ch/ods-wr01.mp3?aw_0_1st.playerId=odsradio_web",
+      "imageURL": "https://www.odsradio.com/media/radio/thumb/176x176_691f2c0226a62-plan-de-travail-1.webp",
+      "desc": "80s | 90s",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33450521515",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "http://www.odsradio.com/"
+    },
+    {
+      "name": "ODS Radio Années 90",
+      "streamURL": "https://ods-wr03.ice.infomaniak.ch/ods-wr03.mp3?aw_0_1st.playerId=odsradio_web",
+      "imageURL": "https://www.odsradio.com/media/radio/thumb/176x176_691f2bf84c8e0-plan-de-travail-1.webp",
+      "desc": "80s | 90s",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "+33450521515",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
@@ -3616,7 +3643,7 @@
       "desc": "Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3629,7 +3656,7 @@
       "desc": "Alternative Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3638,24 +3665,11 @@
     {
       "name": "OUI FM BLUES'N'ROCK",
       "streamURL": "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/2018-08-22-2-320x320.png",
       "desc": "Blues Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.ouifm.fr/"
-    },
-    {
-      "name": "OUI FM CLASSIC ROCK",
-      "streamURL": "https://ouifm3.ice.infomaniak.ch/ouifm3.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
-      "desc": "Classic Rock",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3668,7 +3682,7 @@
       "desc": "Classic Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3677,11 +3691,11 @@
     {
       "name": "OUI FM LES SLOWS DU ROCK",
       "streamURL": "https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/lesslowdurock-2018-320x320.png",
       "desc": "Slow Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3694,7 +3708,7 @@
       "desc": "Reggae",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3703,11 +3717,11 @@
     {
       "name": "OUI FM ROCK 2000",
       "streamURL": "https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3",
-      "imageURL": "",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/rock2000-2018-320x320.png",
       "desc": "2000 | Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3716,11 +3730,11 @@
     {
       "name": "OUI FM ROCK 60's",
       "streamURL": "https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/rock60-2018-320x320.png",
       "desc": "60'S | Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3729,11 +3743,11 @@
     {
       "name": "OUI FM ROCK 70's",
       "streamURL": "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/rock70-2018-320x320.png",
       "desc": "70'S | Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3746,7 +3760,7 @@
       "desc": "80'S | Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3755,11 +3769,11 @@
     {
       "name": "OUI FM ROCK 90's",
       "streamURL": "https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/2018-08-22-4-320x320.png",
       "desc": "90'S | Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3768,20 +3782,27 @@
     {
       "name": "OUI FM ROCK INDÉ",
       "streamURL": "https://ouifm5.ice.infomaniak.ch/ouifm5.mp3",
-      "imageURL": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/oui-fm/images/favicon.ico",
+      "imageURL": "https://medias.lesindesradios.fr/t:app(web)/t:r(g2IIINhVON)/filters:format(jpeg)/radios/ouifm/importrk/2018/08/2018-08-22-1-320x320.png",
       "desc": "Indie Rock",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33153365678",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
       "_homepage": "https://www.ouifm.fr/"
     },
+
+
+
+
+
+
+    
     {
       "name": "Phare FM Louange",
       "streamURL": "http://str0.creacast.com/pharefm_louange",
-      "imageURL": "",
+      "imageURL": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
