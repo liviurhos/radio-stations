@@ -3367,24 +3367,14 @@
       "_bitrate": 192,
       "_homepage": "http://www.magnumlaradio.com/"
     },
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Maxi 80",
       "streamURL": "http://audio1.maxi80.com/",
-      "imageURL": "",
+      "imageURL": "https://www.maxi80.com/playmaxi80.png",
       "desc": "80S",
       "longDesc": "",
       "country": "FR",
-      "tel": "",
+      "tel": "+33434332537",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -3393,7 +3383,7 @@
     {
       "name": "Maxi France",
       "streamURL": "http://stream.maxifrance.fr:8358/stream",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/020/maxi-france.883f66f1.png",
       "desc": "Chansons Françaises | France",
       "longDesc": "",
       "country": "FR",
@@ -3402,19 +3392,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.maxifrance.radio/"
-    },
-    {
-      "name": "MAXXI RMC",
-      "streamURL": "http://2stream.dyndns.org:8000/maxxi",
-      "imageURL": "https://www.facebook.com/favicon.ico",
-      "desc": "Outre-Mer",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.facebook.com/MaxxiMartinique"
     },
     {
       "name": "MBS Gold",
@@ -3429,6 +3406,15 @@
       "_bitrate": 128,
       "_homepage": "https://radiombs.fr/"
     },
+
+
+
+
+
+
+
+
+    
     {
       "name": "MC doualiya",
       "streamURL": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
