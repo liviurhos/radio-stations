@@ -3786,7 +3786,7 @@
     {
       "name": "Phare FM",
       "streamURL": "https://str0.creacast.com/pharefm",
-      "imageURL": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F2f%2Ffe%2F2ffe0c509d2ebe315d04ca95e7ac30b5.png&f=1&nofb=1&ipt=d8fab5eed5ce43c4e49a991ebc0c6c993425182a6b97bba0f0d27d287d6608e6",
       "desc": "",
       "longDesc": "",
       "country": "FR",
@@ -3799,7 +3799,7 @@
     {
       "name": "Phare FM Louange",
       "streamURL": "http://str0.creacast.com/pharefm_louange",
-      "imageURL": "https://pharefm.com/jaquettes/louange-cover.jpg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.WUcXJ0lR-hbegOmNn9RqcgAAAA%3Fpid%3DApi&f=1&ipt=7a9df87a0ac302810c826367968b8337283ce8ab366ba3d31f5ff7f49b032b09",
       "desc": "",
       "longDesc": "",
       "country": "FR",
@@ -3812,7 +3812,7 @@
     {
       "name": "Phare FM Worship",
       "streamURL": "http://str30.creacast.com/pharefm_worship",
-      "imageURL": "https://pharefm.com/jaquettes/worship-cover.jpg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radio.fr%2F175%2Fpharefmworship.png%3Fversion%3D895bb0836f50bf03f32e5fc30ef80536&f=1&nofb=1&ipt=ea6a84a1a212adaaef3462e8ad7d0310035918a7ed5e13b06ed1e3ed1563c00d",
       "desc": "Christian",
       "longDesc": "",
       "country": "FR",
@@ -4485,19 +4485,11 @@
       "_bitrate": 128,
       "_homepage": "http://www.radiorva.com/"
     },
-
-
-
-
-
-
-
-    
     {
-      "name": "Radio RVA - ",
-      "streamURL": "https://rva-dance-90.ice.infomaniak.ch/rva-dance-90.mp3?aw_0_1st.playerId=radiorva_web",
+      "name": "Radio RVA - Latino ",
+      "streamURL": "https://rva-latino.ice.infomaniak.ch/rva-latino.mp3?aw_0_1st.playerId=radiorva_web",
       "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f5de1723-plan-de-travail-1.webp",
-      "desc": "Dance",
+      "desc": "Latino",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -4507,22 +4499,61 @@
       "_homepage": "http://www.radiorva.com/"
     },
     {
-      "name": "Radio Sans Pub",
-      "streamURL": "http://live1.jupinfo.fr:8000/play",
-      "imageURL": "",
-      "desc": "No Ads | Noad | Sanspub",
+      "name": "Radio RVA - Best of 80s",
+      "streamURL": "https://egwr-rva-80.ice.infomaniak.ch/rva-annees-80.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f719b92b-plan-de-travail-1.webp",
+      "desc": "80s | Dance",
       "longDesc": "",
       "country": "FR",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
-      "_bitrate": 170,
-      "_homepage": "https://www.radiosanspub.com/"
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+    {
+      "name": "Radio RVA - Best of 90s",
+      "streamURL": "https://rva-wr01.ice.infomaniak.ch/rva-wr01.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f840a95b-plan-de-travail-1.webp",
+      "desc": "90s | Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+    {
+      "name": "Radio RVA - Best of 00s",
+      "streamURL": "https://rva-annees-2000.ice.infomaniak.ch/rva-annees-2000.mp3?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2f9ce15f3-plan-de-travail-1.webp",
+      "desc": "00s | Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
+    },
+    {
+      "name": "Radio RVA - Best of 10s",
+      "streamURL": "https://rva-annees-2010.ice.infomaniak.ch/rva-annees-2010.aac?aw_0_1st.playerId=radiorva_web",
+      "imageURL": "https://www.radiorva.com/media/radio/thumb/176x176_691f2fa7ec940-plan-de-travail-1.webp",
+      "desc": "00s | Dance",
+      "longDesc": "",
+      "country": "FR",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "http://www.radiorva.com/"
     },
     {
       "name": "Radio Scoop Lyon",
       "streamURL": "http://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3",
-      "imageURL": "",
+      "imageURL": "https://radioscoop.com/img/str/logo.png",
       "desc": "Radio Scoop Lyon",
       "longDesc": "",
       "country": "FR",
@@ -4534,8 +4565,8 @@
     },
     {
       "name": "Radio STAR",
-      "streamURL": "https://listen.radioking.com/radio/9728/stream/20210",
-      "imageURL": "",
+      "streamURL": "http://radiostar.ice.infomaniak.ch/radiostar-128.mp3?type=.mp3",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/067/radio-star.8e7f6ce9.png",
       "desc": "Radio STAR",
       "longDesc": "",
       "country": "FR",
@@ -4543,12 +4574,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://radio-star.site-radio.com/"
+      "_homepage": "https://www.radiostar.fr/Radiostar2/index.html"
     },
     {
       "name": "Radio SUN FLAC",
       "streamURL": "http://diffusion.lafrap.fr:8000/sun.flac",
-      "imageURL": "",
+      "imageURL": "https://lesonunique.com/images/pwa/icon-512x512.png",
       "desc": "Radio SUN FLAC",
       "longDesc": "",
       "country": "FR",
@@ -4559,23 +4590,10 @@
       "_homepage": "http://www.lesonunique.com/"
     },
     {
-      "name": "radio sympa",
-      "streamURL": "https://radio11.pro-fhi.net:19095/stream",
-      "imageURL": "",
-      "desc": "radio sympa",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://radio11.pro-fhi.net:19095/stream"
-    },
-    {
       "name": "Radio Sympa",
-      "streamURL": "https://radio11.pro-fhi.net/flux-aryfnfye2/stream",
-      "imageURL": "https://www.laradiosympa.com/favicon.ico",
-      "desc": "Chanson Française | Funk | Jazz",
+      "streamURL": "https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3",
+      "imageURL": "https://www.radiolabelleaventure.com/wp-content/uploads/2025/05/cropped-logo-transparent-180x180.png",
+      "desc": "radio sympa",
       "longDesc": "",
       "country": "FR",
       "tel": "",
@@ -4613,7 +4631,7 @@
     {
       "name": "Radio VINCI Autoroutes 107.7 Alpes Provence",
       "streamURL": "http://str0.creacast.com/radio_vinci_autoroutes_6",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.g-zskTmycgOPhurkS446ywHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=656e48c6fcf83be2b4e9204d510acdf8530fc6b2e56834d83d47657b2231aa44&ipo=images",
       "desc": "Radio VINCI Autoroutes 107.7 Alpes Provence",
       "longDesc": "",
       "country": "FR",
@@ -4623,58 +4641,15 @@
       "_bitrate": 128,
       "_homepage": "http://www.radiovinciautoroutes.com/"
     },
-    {
-      "name": "Radio VINCI Autoroutes 107.7 Auvergne Vallée du Rhône",
-      "streamURL": "http://str0.creacast.com/radio_vinci_autoroutes_5",
-      "imageURL": "",
-      "desc": "Radio VINCI Autoroutes 107.7 Auvergne Vallée du Rhône",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiovinciautoroutes.com/"
-    },
-    {
-      "name": "Radio VINCI Autoroutes 107.7 Côte d'Azur",
-      "streamURL": "http://str0.creacast.com/radio_vinci_autoroutes_7",
-      "imageURL": "",
-      "desc": "Radio VINCI Autoroutes 107.7 Côte d'Azur",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiovinciautoroutes.com/"
-    },
-    {
-      "name": "Radio VINCI Autoroutes 107.7 Ouest Centre",
-      "streamURL": "http://str0.creacast.com/radio_vinci_autoroutes_1",
-      "imageURL": "",
-      "desc": "Radio VINCI Autoroutes 107.7 Ouest Centre",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiovinciautoroutes.com/"
-    },
-    {
-      "name": "Radio VINCI Autoroutes 107.7 Sud Ouest",
-      "streamURL": "http://str0.creacast.com/radio_vinci_autoroutes_3",
-      "imageURL": "",
-      "desc": "Radio VINCI Autoroutes 107.7 Sud Ouest",
-      "longDesc": "",
-      "country": "FR",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.radiovinciautoroutes.com/"
-    },
+
+
+
+
+
+
+
+
+    
     {
       "name": "Radio Zinzine",
       "streamURL": "http://91.121.65.189:8000/3",
