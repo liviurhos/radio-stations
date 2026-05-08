@@ -3,15 +3,15 @@
     {
       "name": "103.9 rock",
       "streamURL": "https://icast.connectmedia.hu/5301/live.mp3",
-      "imageURL": "",
+      "imageURL": "https://rockradio.hu/wp-content/themes/rockfm/assets/dist/img/no-image.jpg",
       "desc": "Classical",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3629991039",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": ""
+      "_homepage": "https://www.rockradio.hu/"
     },
     {
       "name": "99,4 SunshineFM",
