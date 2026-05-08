@@ -3785,7 +3785,7 @@
     },
     {
       "name": "Phare FM",
-      "streamURL": "http://str0.creacast.com/pharefm_louange",
+      "streamURL": "https://str0.creacast.com/pharefm",
       "imageURL": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
       "desc": "",
       "longDesc": "",
