@@ -16,7 +16,7 @@
     {
       "name": "99,4 SunshineFM",
       "streamURL": "http://195.56.193.129:8100/sunshine",
-      "imageURL": "https://sunshinefm.hu/favicon/apple-touch-icon.png",
+      "imageURL": "https://sunshine.hu/img/new-logo/new-logo.png",
       "desc": "99,4 SunshineFM",
       "longDesc": "",
       "country": "HU",
@@ -25,19 +25,6 @@
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://sunshinefm.hu/"
-    },
-    {
-      "name": "Abdulbasit Abdulsamad",
-      "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "imageURL": "null",
-      "desc": "Abdulbasit Abdulsamad",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://mp3islam.com/"
     },
     {
       "name": "AdventNet rádió",
@@ -59,7 +46,7 @@
       "desc": "Pop",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3656412922",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 160,
@@ -92,22 +79,9 @@
       "_homepage": "https://www.balatonica.hu/"
     },
     {
-      "name": "BALATONICA RADIO",
-      "streamURL": "http://balatonica.hu:8000/stream_high",
-      "imageURL": "http://www.balatonica.hu/favicon.ico",
-      "desc": "Chillout | Lounge",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 160,
-      "_homepage": "http://www.balatonica.hu/"
-    },
-    {
       "name": "Bartók Rádió",
       "streamURL": "http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3",
-      "imageURL": "",
+      "imageURL": "https://cdn.cms.mtv.hu/wp-content/uploads/sites/4/2025/08/redesign_placeholder1.jpg",
       "desc": "Classical | Cultural | Duna Média | Jazz | Public Radio",
       "longDesc": "",
       "country": "HU",
@@ -131,7 +105,7 @@
       "_homepage": "https://basefm.hu/"
     },
     {
-      "name": "BDPST ROCK -  192 kbit/s",
+      "name": "BDPST ROCK",
       "streamURL": "http://s2.audiostream.hu/bdpstrock_192k",
       "imageURL": "https://bdpstrock.hu/favicon.ico",
       "desc": "Rock",
@@ -142,45 +116,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://bdpstrock.hu/"
-    },
-    {
-      "name": "BDPST ROCK -  320 kbit/s",
-      "streamURL": "http://s2.audiostream.hu/bdpstrock_320k",
-      "imageURL": "https://bdpstrock.hu/favicon.ico",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://bdpstrock.hu/"
-    },
-    {
-      "name": "BDPST ROCK -  96 kbit/s;",
-      "streamURL": "http://s2.audiostream.hu/bdpstrock_96k",
-      "imageURL": "https://bdpstrock.hu/favicon.ico",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://bdpstrock.hu/"
-    },
-    {
-      "name": "Best FM",
-      "streamURL": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-      "imageURL": "",
-      "desc": "Pop | Rock",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.bestfm.hu/"
     },
     {
       "name": "Best FM - Budapest",
@@ -222,32 +157,6 @@
       "_homepage": "https://bestfmpecs.hu/"
     },
     {
-      "name": "Best FM Debrecen-Debrecen kedvenc rádiója!",
-      "streamURL": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-      "imageURL": "",
-      "desc": "Best FM Debrecen-Debrecen kedvenc rádiója!",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://bestfmdebrecen.hu/index.php"
-    },
-    {
-      "name": "BestFM Debrecen",
-      "streamURL": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-      "imageURL": "http://www.bestfmdebrecen.hu/favicon.ico",
-      "desc": "BestFM Debrecen",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.bestfmdebrecen.hu/"
-    },
-    {
       "name": "Bias Radio",
       "streamURL": "https://admin.biasradio.com/listen/bias_radio/live",
       "imageURL": "https://biasradio.com/wp-content/uploads/2024/06/Radio-Bias150.png",
@@ -263,7 +172,7 @@
     {
       "name": "Bithang Yoo Radio",
       "streamURL": "http://s03.diazol.hu:35160/mobil",
-      "imageURL": "",
+      "imageURL": "https://admin.biasradio.com/listen/bias_radio/live",
       "desc": "Bithang Yoo Radio",
       "longDesc": "",
       "country": "HU",
@@ -272,32 +181,6 @@
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "https://bithang-yoo-radio.com/"
-    },
-    {
-      "name": "Bithang Yoo Radio",
-      "streamURL": "http://s03.diazol.hu:35160/mobil",
-      "imageURL": "",
-      "desc": "Bithang Yoo Radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://bithang-yoo-radio.com/"
-    },
-    {
-      "name": "Bithang Yoo Rádió",
-      "streamURL": "http://stream.diazol.hu:35160/live.mp3",
-      "imageURL": "",
-      "desc": "Bithang Yoo Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://bithang-yoo-radio.com/"
     },
     {
       "name": "Buddha FM",
@@ -315,7 +198,7 @@
     {
       "name": "Callisto",
       "streamURL": "http://188.165.11.30:4500/live.mp3",
-      "imageURL": "",
+      "imageURL": "https://online-radio-hungary.com/storage/radios/18647/71679/conversions/Nu5aPg0EFl44lKJb9lGW5mFYJOL3hH-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDEpLmpwZw==--lg.webp",
       "desc": "Callisto",
       "longDesc": "",
       "country": "HU",
@@ -324,32 +207,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.callistoradio.com/"
-    },
-    {
-      "name": "Callisto Radio",
-      "streamURL": "http://adas.poptarisznya.hu:4500/live.mp3",
-      "imageURL": "",
-      "desc": "90S | 90S Hits | Oldies",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://https//www.facebook.com/callistoradio"
-    },
-    {
-      "name": "Campus Rádió FM90",
-      "streamURL": "https://stream.fm90.hu:8000/;",
-      "imageURL": "",
-      "desc": "Hits | Top40",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://campusradio.hu/"
     },
     {
       "name": "Campus Rádió FM90",
@@ -367,24 +224,11 @@
     {
       "name": "Cegléd Rádió",
       "streamURL": "http://stream.cegledradio.hu:4387/mp3",
-      "imageURL": "",
+      "imageURL": "https://myonlineradio.hu/public/uploads/radio_img/cegled-radio/fb_cover.jpg",
       "desc": "Local Radio",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://cegledradio.com/"
-    },
-    {
-      "name": "Cegléd Rádió",
-      "streamURL": "http://stream.cegledradio.hu:4387/mp3",
-      "imageURL": "",
-      "desc": "Local Radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
+      "tel": "+3653925925",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -393,7 +237,7 @@
     {
       "name": "CEU Medieval Radio",
       "streamURL": "http://137.74.85.85:7020/;stream",
-      "imageURL": "",
+      "imageURL": "https://secure.gravatar.com/blavatar/1193aa7ec3d006b883f4745245adcf6b02fd6108a6e812991a1c10becce8115c",
       "desc": "Classical | History | Medieval",
       "longDesc": "",
       "country": "HU",
@@ -406,7 +250,7 @@
     {
       "name": "Civil Radio",
       "streamURL": "http://civilradio.hu:8000/listen.mp3",
-      "imageURL": "https://kronika.civilradio.hu/wp-content/uploads/2020/05/fejlec01.jpg",
+      "imageURL": "https://kronika.civilradio.hu/wp-content/uploads/2019/12/cropped-cr_ikon-180x180.png",
       "desc": "Civil Radio",
       "longDesc": "",
       "country": "HU",
@@ -417,22 +261,9 @@
       "_homepage": "https://kronika.civilradio.hu/english/"
     },
     {
-      "name": "Civil Rádió",
-      "streamURL": "http://civilradio.hu:8000/;stream",
-      "imageURL": "",
-      "desc": "Community Radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://civilradio.hu/"
-    },
-    {
       "name": "Club Dance Online",
-      "streamURL": "https://stream.clubdance.online:8002/live.ogg",
-      "imageURL": "https://clubdance.online/ss_logo.png",
+      "streamURL": "https://stream.clubdance.online:8002/live.aac",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.pA9-5oeUI_otnBdSfn6-8QAAAA%3Fcb%3Dthfvnext%26pid%3DApi&f=1&ipt=5e2d581c9f2e7305a145120132d0cfbbc9cab88472ab36e841cf381657e1de3c&ipo=images",
       "desc": "Club House Trance Dance",
       "longDesc": "",
       "country": "HU",
@@ -444,7 +275,7 @@
     },
     {
       "name": "Club Dance Online - Retro",
-      "streamURL": "http://stream.clubdance.online:8000/retro",
+      "streamURL": "https://stream.clubdance.online:8002/retro",
       "imageURL": "https://clubdance.online/ss_logo.png",
       "desc": "Club Dance Online - Retro",
       "longDesc": "",
@@ -455,6 +286,14 @@
       "_bitrate": 160,
       "_homepage": "https://clubdance.online/"
     },
+
+
+
+
+
+
+
+    
     {
       "name": "Cool FM",
       "streamURL": "http://mediagw.e-tiger.net/stream/cfmhq",
