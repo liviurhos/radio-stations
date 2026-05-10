@@ -653,7 +653,7 @@
     {
       "name": "Csillagpont Rádió",
       "streamURL": "http://streamer1.borsodweb.hu:48000/csillagpont",
-      "imageURL": "https://www.csillagpontradio.hu/sites/default/themes/cspr_bootstrap/logo.png",
+      "imageURL": "https://duckduckgo.com/?q=Csillagpont+R%C3%A1di%C3%B3&ia=images&iax=images&iai=https%3A%2F%2Fwww.csillagpontradio.hu%2Fsites%2Fdefault%2Ffiles%2Fdefault_images%2Fcsillagpontradio_default_image.png",
       "desc": "Local Radio",
       "longDesc": "",
       "country": "HU",
@@ -678,27 +678,27 @@
     },
     {
       "name": "Dance Wave Retro!",
-      "streamURL": "https://dancewave.online/station/dance-wave-retro-ogg/?play=1",
+      "streamURL": "https://dancewave.online/station/dance-wave-retro-mp3/?play=1",
       "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "90S Dance",
       "longDesc": "",
       "country": "HU",
       "tel": "",
       "whatsapp": "",
-      "_codec": "OGG",
+      "_codec": "mp3",
       "_bitrate": 128,
-      "_homepage": "https://retro.dacemwave.online/"
+      "_homepage": "https://dancewave.online/"
     },
     {
       "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/station/dance-wave-ogg/?play=1",
+      "streamURL": "https://dancewave.online/station/dance-wave-mp3/?play=1",
       "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "Club Dance Electronic House Trance",
       "longDesc": "",
       "country": "HU",
       "tel": "",
       "whatsapp": "",
-      "_codec": "OGG",
+      "_codec": "mp3",
       "_bitrate": 128,
       "_homepage": "https://dancewave.online/"
     },
