@@ -120,7 +120,7 @@
     {
       "name": "Best FM - Budapest",
       "streamURL": "https://icast.connectmedia.hu/5101/live.mp3/;",
-      "imageURL": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/favicon/apple-icon-120x120.png",
+      "imageURL": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/no-image.jpg",
       "desc": "Adult Contemporary | Local News | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -133,7 +133,7 @@
     {
       "name": "Best FM - Debrecen",
       "streamURL": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
-      "imageURL": "https://myonlineradio.hu/public/uploads/radio_img/best-fm/play_250_250.jpg",
+      "imageURL": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/no-image.jpg",
       "desc": "Adult Contemporary | Local News | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -146,7 +146,7 @@
     {
       "name": "Best FM - Pécs",
       "streamURL": "https://icast.connectmedia.hu/5128/live.mp3",
-      "imageURL": "https://myonlineradio.hu/public/uploads/radio_img/pecs-fm/play_250_250.jpg",
+      "imageURL": "https://bestfmbudapest.hu/wp-content/themes/bestfm/assets/dist/img/no-image.jpg",
       "desc": "Adult Contemporary | Local News | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -172,7 +172,7 @@
     {
       "name": "Bithang Yoo Radio",
       "streamURL": "http://s03.diazol.hu:35160/mobil",
-      "imageURL": "https://admin.biasradio.com/listen/bias_radio/live",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.WOJRawhq-3LO6I5yq6EthQHaHa%3Fpid%3DApi&f=1&ipt=75cc82837475819627ae67fa4f1a00f6849d417f0137f1f665d3d148929135ae&ipo=images",
       "desc": "Bithang Yoo Radio",
       "longDesc": "",
       "country": "HU",
@@ -276,7 +276,7 @@
     {
       "name": "Club Dance Online - Retro",
       "streamURL": "https://stream.clubdance.online:8002/retro",
-      "imageURL": "https://clubdance.online/ss_logo.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.pA9-5oeUI_otnBdSfn6-8QAAAA%3Fcb%3Dthfvnext%26pid%3DApi&f=1&ipt=5e2d581c9f2e7305a145120132d0cfbbc9cab88472ab36e841cf381657e1de3c&ipo=images",
       "desc": "Club Dance Online - Retro",
       "longDesc": "",
       "country": "HU",
@@ -286,14 +286,6 @@
       "_bitrate": 160,
       "_homepage": "https://clubdance.online/"
     },
-
-
-
-
-
-
-
-    
     {
       "name": "Cool FM",
       "streamURL": "http://mediagw.e-tiger.net/stream/cfmhq",
@@ -310,7 +302,7 @@
     {
       "name": "Cool FM - Goldie'S",
       "streamURL": "http://mediagw.e-tiger.net:8000/stream/goldhq",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Goldies.png",
       "desc": "Classic Hits | University Radio",
       "longDesc": "",
       "country": "HU",
@@ -336,7 +328,7 @@
     {
       "name": "Cool FM - Xbeat",
       "streamURL": "http://mediagw.e-tiger.net/stream/xbeathq",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Xbeat.png",
       "desc": "Dance | University Radio",
       "longDesc": "",
       "country": "HU",
@@ -347,9 +339,9 @@
       "_homepage": "http://coolfm.hu/"
     },
     {
-      "name": "Cool.FM DANCE 2000's",
+      "name": "Cool FM DANCE 2000's",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc04?ver=209775",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_DANCE-2000S.png",
       "desc": "Dance | Retro",
       "longDesc": "",
       "country": "HU",
@@ -360,9 +352,9 @@
       "_homepage": "https://coolfm.hu/"
     },
     {
-      "name": "Cool.FM GIRL POWER",
+      "name": "Cool FM GIRL POWER",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc15?ver=58649",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/1/83881.v5.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Girl-power.png",
       "desc": "Cool.FM GIRL POWER",
       "longDesc": "",
       "country": "HU",
@@ -373,9 +365,9 @@
       "_homepage": "https://coolfm.hu/"
     },
     {
-      "name": "Cool.FM PARTY Hits",
+      "name": "Cool FM PARTY Hits",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc18?ver=975254",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/1/83851.v6.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Party-Hits.png",
       "desc": "Hits | Party",
       "longDesc": "",
       "country": "HU",
@@ -386,9 +378,22 @@
       "_homepage": "https://coolfm.hu/"
     },
     {
-      "name": "Cool.FM REMIX MUSIC",
+      "name": "Cool FM DANCE 90'S",
+      "streamURL": "https://mediagw.e-tiger.net/stream/zc06",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_DANCE-90S.png",
+      "desc": "Dance | Retro",
+      "longDesc": "",
+      "country": "HU",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://coolfm.hu/"
+    },
+    {
+      "name": "Cool FM REMIX DANCE",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc23?ver=266114",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/5/83855.v4.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_DANCE-Remix.png",
       "desc": "Remix",
       "longDesc": "",
       "country": "HU",
@@ -399,9 +404,9 @@
       "_homepage": "https://coolfm.hu/"
     },
     {
-      "name": "COOLFM (Classic) Rock",
+      "name": "Cool FM Rock",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc10",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Rock.png",
       "desc": "Classic Rock | Rock",
       "longDesc": "",
       "country": "HU",
@@ -412,9 +417,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM 2000-es évek",
+      "name": "Cool FM 2000-es évek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc03",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_2000s.png",
       "desc": "00S | 2000S | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -425,9 +430,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM 2010-es évek",
+      "name": "Cool FM 2010-es évek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc02",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_2010s.png",
       "desc": "10S | 2010S | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -438,9 +443,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM 90-es évek",
+      "name": "Cool FM 90-es évek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc05",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_90s.png",
       "desc": "1990S | 90S | Top Hits",
       "longDesc": "",
       "country": "HU",
@@ -451,9 +456,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Acoustic",
+      "name": "Cool FM Acoustic",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc12",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Acoustic.png",
       "desc": "Acoustic | Guitar | Guitar Rock",
       "longDesc": "",
       "country": "HU",
@@ -464,9 +469,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Best Hits EVER",
+      "name": "Cool FM Best Hits",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc11",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2021/01/best-hits-ever.jpg",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_BEST-Hits.png",
       "desc": "Top Charts | Top Hits | Top40",
       "longDesc": "",
       "country": "HU",
@@ -477,9 +482,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Bside/Alternative",
+      "name": "Cool FM Bside/Alternative",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc16",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Bside.png",
       "desc": "Alternative | Alternative Rock | Indie",
       "longDesc": "",
       "country": "HU",
@@ -490,9 +495,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Chill",
+      "name": "Cool FM Chill Out",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc24",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Chill-Out.png",
       "desc": "Chillout | Lounge Music | Relax",
       "longDesc": "",
       "country": "HU",
@@ -505,7 +510,7 @@
     {
       "name": "COOLFM Country",
       "streamURL": "http://mediagw.viacomkft.hu:8000/stream/zc17",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Country.png",
       "desc": "COOLFM Country",
       "longDesc": "",
       "country": "HU",
@@ -516,9 +521,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Filmzenék",
+      "name": "Cool FM Filmzenék",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc01?ver=753658",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/K%C3%89SZ_Filmzen%C3%A9k_2-%C3%9AJ-R%C3%81DI%C3%93.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Filmzenek.png",
       "desc": "Film Score | Movie Scores | Movie Soundtracks | Soundtracks",
       "longDesc": "",
       "country": "HU",
@@ -529,9 +534,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Funky&Soul",
+      "name": "Cool FM Funky&Soul",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc25",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Soul-Funky.png",
       "desc": "Funky | Soul",
       "longDesc": "",
       "country": "HU",
@@ -542,9 +547,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Hazai Kedvencek",
+      "name": "Cool FM Hazai Kedvencek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc19",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2021/01/hazai-kedvencek.jpg",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Hazai-kedvencek.png",
       "desc": "All-Time Favourites | Hungarian Pop Music | Top",
       "longDesc": "",
       "country": "HU",
@@ -555,9 +560,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Jazz",
+      "name": "Cool FM Jazz",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc13",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Jazz_.png",
       "desc": "Jazz | Smooth Jazz",
       "longDesc": "",
       "country": "HU",
@@ -568,9 +573,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Karácsonyi Dalok",
+      "name": "Cool FM Karácsonyi Zenek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc27",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Karacsonyi-zenek.png",
       "desc": "Christmas Music | Holiday",
       "longDesc": "",
       "country": "HU",
@@ -581,9 +586,9 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "CoolFm latin",
+      "name": "Cool Fm Latino",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc07",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Latino-music.png",
       "desc": "Latin",
       "longDesc": "",
       "country": "HU",
@@ -594,9 +599,9 @@
       "_homepage": "https://coolfm.hu/"
     },
     {
-      "name": "COOLFM Love Songs",
+      "name": "Cool FM Love Songs",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc28",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/09/14v2.png",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Love-songs.png",
       "desc": "Easy Listening | Love Songs | Romantic",
       "longDesc": "",
       "country": "HU",
@@ -607,7 +612,7 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Nyári Slágerek",
+      "name": "Cool FM Nyári Slágerek",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc09",
       "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png",
       "desc": "Hits | Party | Summer",
@@ -620,10 +625,10 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Party",
-      "streamURL": "https://mediagw.e-tiger.net/stream/zc18",
-      "imageURL": "",
-      "desc": "Party Hits | Partymix | Top Hits",
+      "name": "Cool FM TRANCE",
+      "streamURL": "https://mediagw.e-tiger.net/stream/zc14",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_Trance.png",
+      "desc": "Trance",
       "longDesc": "",
       "country": "HU",
       "tel": "",
@@ -633,36 +638,10 @@
       "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
     },
     {
-      "name": "COOLFM Sportoláshoz",
-      "streamURL": "https://mediagw.e-tiger.net/stream/zc20",
-      "imageURL": "",
-      "desc": "Fitness Music | Running | Workout",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
-    },
-    {
-      "name": "COOLFM World Music",
+      "name": "Cool FM World Music",
       "streamURL": "https://mediagw.e-tiger.net/stream/zc26",
-      "imageURL": "",
+      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2025/02/ver.2_CH_World-Music.png",
       "desc": "World Music",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://coolfm.hu/radio/digitalis-radiok/"
-    },
-    {
-      "name": "COOLFM YouTube HOT HITS!",
-      "streamURL": "https://mediagw.e-tiger.net/stream/zc22",
-      "imageURL": "",
-      "desc": "Hot Adult Contemporary | Top Hits | Young Adults",
       "longDesc": "",
       "country": "HU",
       "tel": "",
@@ -674,11 +653,11 @@
     {
       "name": "Csillagpont Rádió",
       "streamURL": "http://streamer1.borsodweb.hu:48000/csillagpont",
-      "imageURL": "",
+      "imageURL": "https://www.csillagpontradio.hu/sites/default/themes/cspr_bootstrap/logo.png",
       "desc": "Local Radio",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3646515276",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
@@ -687,7 +666,7 @@
     {
       "name": "Csukás Meserádió",
       "streamURL": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
-      "imageURL": "https://mediaklikk.hu/wp-content/plugins/hms-mediaklikk/common/styles/images/csukas_logo_horizontal_v2.svg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.Pv4F7YEUWpRnphL0WK3GrQHaEu%3Fpid%3DApi&f=1&ipt=a52af2910571347a9dff24693da572702228cfda3f7c8bcf0e0762501f3d1392&ipo=images",
       "desc": "Children",
       "longDesc": "",
       "country": "HU",
@@ -698,243 +677,35 @@
       "_homepage": "https://mediaklikk.hu/csukas/"
     },
     {
-      "name": "DANCE 90'S",
-      "streamURL": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
-      "imageURL": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
-      "desc": "Dance | Retro",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://coolfm.hu/"
-    },
-    {
       "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.mp3",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.aac",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.ogg",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
+      "streamURL": "https://dancewave.online/station/dance-wave-retro-ogg/?play=1",
+      "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "90S Dance",
       "longDesc": "",
       "country": "HU",
       "tel": "",
       "whatsapp": "",
       "_codec": "OGG",
-      "_bitrate": 160,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.opus",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.mp3",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.aac",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.opus",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.opus",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://retro.dacemwave.online/"
-    },
-    {
-      "name": "Dance Wave Retro!",
-      "streamURL": "https://retro.dancewave.online/retrodance.mp3",
-      "imageURL": "https://dancewave.online/dwr_logo.png",
-      "desc": "90S Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://retro.dacemwave.online/"
     },
     {
       "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.mp3",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.ogg",
-      "imageURL": "https://dancewave.online/dw_logo.png",
+      "streamURL": "https://dancewave.online/station/dance-wave-ogg/?play=1",
+      "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "Club Dance Electronic House Trance",
       "longDesc": "",
       "country": "HU",
       "tel": "",
       "whatsapp": "",
       "_codec": "OGG",
-      "_bitrate": 160,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.opus",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.mp3",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.mp3",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.opus",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.opus",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "OGG",
-      "_bitrate": 96,
-      "_homepage": "https://dancewave.online/"
-    },
-    {
-      "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/dance.mp3",
-      "imageURL": "https://dancewave.online/dw_logo.png",
-      "desc": "Club Dance Electronic House Trance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://dancewave.online/"
     },
     {
       "name": "DANCEable Radio",
       "streamURL": "http://s9.myradiostream.com:35944/;",
-      "imageURL": "",
+      "imageURL": "https://myradiostream.com/station/uploads/logo/f576ba66ca87d279b1d5093843b3d7a48ac53c90.png",
       "desc": "Adult Album Alternative | Dance | Edm | Edm Podcast | Hits | New Releases | Pop",
       "longDesc": "",
       "country": "HU",
@@ -946,45 +717,19 @@
     },
     {
       "name": "Dankó Rádió",
-      "streamURL": "http://mr-stream.mediaconnect.hu/4747/mr7.aac",
-      "imageURL": "",
+      "streamURL": "https://icast.connectmedia.hu/4770/mr7.ogg",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/9_v.png",
       "desc": "Duna Média | Folk | Operetta | Public Radio",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3617596071",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "http://www.mediaklikk.hu/danko/"
     },
     {
-      "name": "Danubius",
-      "streamURL": "https://stream.danubiusradio.hu/danubius_320k",
-      "imageURL": "https://danubiusradio.hu/logo192.png",
-      "desc": "Danubius",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://danubiusradio.hu/"
-    },
-    {
-      "name": "Danubius",
-      "streamURL": "https://stream.danubiusradio.hu/danubius_128k",
-      "imageURL": "https://danubiusradio.hu/assets/img/front/danubius_radio_album_cover_v2.png",
-      "desc": "Danubius",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://danubiusradio.hu/"
-    },
-    {
-      "name": "Danubius",
+      "name": "Danubius Rádió",
       "streamURL": "http://stream.danubiusradio.hu/danubius_192k",
       "imageURL": "https://danubiusradio.hu/assets/img/front/danubius_radio_album_cover_v2.png",
       "desc": "Danubius",
@@ -997,52 +742,13 @@
       "_homepage": "https://danubiusradio.hu/"
     },
     {
-      "name": "Danubius Rádió",
-      "streamURL": "http://stream.danubiusradio.hu/danubius_128k",
-      "imageURL": "https://www.danubiusradio.hu/logo192.png",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.danubiusradio.hu/"
-    },
-    {
-      "name": "Danubius Rádió",
-      "streamURL": "https://stream.danubiusradio.hu/danubius_192k",
-      "imageURL": "https://danubiusradio.hu/logo192.png",
-      "desc": "Danubius Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://danubiusradio.hu/"
-    },
-    {
-      "name": "Danubius Rádió",
-      "streamURL": "http://stream.danubiusradio.hu/danubius_128k",
-      "imageURL": "https://www.danubiusradio.hu/popup-player/assets/img/player.png",
-      "desc": "Danubius Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://danubiusradio.hu/"
-    },
-    {
       "name": "Deja Vu Radio",
-      "streamURL": "https://carina.streamerr.co:8178/dejavuradio?type=http&nocache=297",
+      "streamURL": "https://adas.dejavuradio.hu:8178/dejavuradio",
       "imageURL": "https://mmo.aiircdn.com/1377/6669663b59417.png",
       "desc": "00S | 90S | Anthems | Classic | Dance | Electronic | House",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+36702505161",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -1062,9 +768,9 @@
       "_homepage": "https://dfmradio.hu/"
     },
     {
-      "name": "disco diamond 2",
+      "name": "Disco Diamond 2",
       "streamURL": "http://discodiamond.radioca.st/stream",
-      "imageURL": "",
+      "imageURL": "https://cdn.radio-addict.com/media/stream/f2a846a8-f211-498b-a59e-dd2445e25fb7_529C72F8B806F83511645EE10F94E4D9_D9azeCBCKt.png",
       "desc": "Classical",
       "longDesc": "",
       "country": "HU",
@@ -1072,12 +778,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://discodiamondradio.eu/d/#xl_xr_page_index"
     },
     {
       "name": "Disco Diamond Radio",
       "streamURL": "https://ddr2020.radioca.st/stream",
-      "imageURL": "",
+      "imageURL": "https://discodiamondradio.eu/d/index_htm_files/tileicon.png",
       "desc": "Disco Diamond Radio",
       "longDesc": "",
       "country": "HU",
@@ -1090,7 +796,7 @@
     {
       "name": "Diveky-radio-gramofon",
       "streamURL": "http://178.238.223.39:8000/gramofon",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/gramofon/22570.jpg",
       "desc": "Diveky-radio-gramofon",
       "longDesc": "",
       "country": "HU",
@@ -1103,7 +809,7 @@
     {
       "name": "Diveky-radio-klasszikusok",
       "streamURL": "http://178.238.223.39:8000/klasszikusok",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/operett/klasszikus/13994.jpg",
       "desc": "Diveky-radio-klasszikusok",
       "longDesc": "",
       "country": "HU",
@@ -1116,7 +822,7 @@
     {
       "name": "Diveky-radio-könnyűzene",
       "streamURL": "http://178.238.223.39:8000/konnyuzene",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/K%C3%B6nny%C5%B1zene/Dulfer.jpg",
       "desc": "Pop Music",
       "longDesc": "",
       "country": "HU",
@@ -1129,7 +835,7 @@
     {
       "name": "Diveky-radio-madeinhungary",
       "streamURL": "http://178.238.223.39:8000/madeinhungary",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/Made%20in%20Hungary/13984.jpg",
       "desc": "Diveky-radio-madeinhungary",
       "longDesc": "",
       "country": "HU",
@@ -1142,7 +848,7 @@
     {
       "name": "Diveky-radio-swing",
       "streamURL": "http://178.238.223.39:8000/swing",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/swing/13991.jpg",
       "desc": "Jazz",
       "longDesc": "",
       "country": "HU",
@@ -1155,7 +861,7 @@
     {
       "name": "Diveky-radio-táncdalok",
       "streamURL": "http://178.238.223.39:8000/tancdalok",
-      "imageURL": "",
+      "imageURL": "https://radio-d.hu/uploads/Avatars/M%C5%B1fajok/T%C3%A1ncdalok/13985.jpg",
       "desc": "Pop Dance",
       "longDesc": "",
       "country": "HU",
@@ -1164,19 +870,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://radio-d.hu/"
-    },
-    {
-      "name": "DomBRádiÓ-Online-Dombrád",
-      "streamURL": "http://dombradio.dyndns.tv:8000/live.mp3",
-      "imageURL": "",
-      "desc": "DomBRádiÓ-Online-Dombrád",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://dombradio.dyndns.tv/"
     },
     {
       "name": "DomBRádiÓ-Online-Dombrád",
@@ -1194,7 +887,7 @@
     {
       "name": "Droid Radio",
       "streamURL": "https://s41.radiolize.com/radio/8140/radio.mp3",
-      "imageURL": "https://www.dropbox.com/scl/fi/c4d5cx0ln4anyosv5szrn/DOD-FAVICON031326-3.001.jpeg?rlkey=wn0llvylw8cnpfh12m9hw750m&st=un0gotk4&dl=0",
+      "imageURL": "https://c-p.rmcdn.net/53fb082130e4844c7733c6f0/5753941/Screenshot-719b3cda-514c-43bb-a9c3-97a08528cd08_readyscr_1024.jpg",
       "desc": "Alternative Rock | Prog Rock",
       "longDesc": "",
       "country": "HU",
@@ -1207,7 +900,7 @@
     {
       "name": "Enying FM Hungary",
       "streamURL": "http://radioe.net:8080/efm_hd",
-      "imageURL": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2013/12/enying-fm-1.jpg",
       "desc": "Variety",
       "longDesc": "",
       "country": "HU",
@@ -1216,19 +909,6 @@
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.enyingfm.com/"
-    },
-    {
-      "name": "Euphonic Moments",
-      "streamURL": "http://5.189.174.137:8000/Euphonicmoments_radio256kbps.mp3",
-      "imageURL": "https://yt3.googleusercontent.com/ytc/AIdro_m2M8stb2L_OLmi4fhIKalcjwO2pXXfHSuizY8Fukjc4Q=s900-c-k-c0x00ffffff-no-rj",
-      "desc": "Euphonic Moments",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "https://euphonicmoments.com/radio/"
     },
     {
       "name": "Európa Rádió Miskolc",
@@ -1246,11 +926,11 @@
     {
       "name": "Ez az a nap! rádió",
       "streamURL": "https://listen.radioking.com/radio/320174/stream/367817",
-      "imageURL": "",
+      "imageURL": "https://radio.ezazanap.hu/wp-content/uploads/2020/11/icon_512.png",
       "desc": "Ez az a nap! rádió",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3614369865",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1259,7 +939,7 @@
     {
       "name": "FluxWave Radio",
       "streamURL": "https://www.live.fluxwaveradio.com/main-mp3",
-      "imageURL": "",
+      "imageURL": "https://www.fluxwave.fm/oscilora/images/icon-fluxwave-radio-1-2.jpg",
       "desc": "Variety | Various | Various Music",
       "longDesc": "",
       "country": "HU",
@@ -1268,32 +948,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.fluxwave.fm/"
-    },
-    {
-      "name": "FM 103.9 A Rock",
-      "streamURL": "https://stream.rockradio.hu/",
-      "imageURL": "https://rockradio.hu/wp-content/themes/rockradio/assets/dist/img/favicon/apple-icon-120x120.png",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://rockradio.hu/"
-    },
-    {
-      "name": "FM90 Campus Rádió",
-      "streamURL": "http://stream.fm90.hu:8000/;",
-      "imageURL": "",
-      "desc": "Alternative | Rock | University Radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.fm90.hu/"
     },
     {
       "name": "Folkrádio",
@@ -1307,19 +961,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.folkradio.hu/"
-    },
-    {
-      "name": "Folkrádió",
-      "streamURL": "https://stream.folkradio.hu/folkradio.mp3",
-      "imageURL": "https://folkradio.hu/favicon.ico",
-      "desc": "Folkrádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://folkradio.hu/"
     },
     {
       "name": "Forrás radio",
@@ -1337,11 +978,11 @@
     {
       "name": "Forrás Rádió",
       "streamURL": "http://91.82.85.44:9000/;stream",
-      "imageURL": "",
+      "imageURL": "https://ebfd9da436.clvaw-cdnwnd.com/304e643fe319090e9663ce9aead92213/200000282-eb94feb950/N%C3%A9vtelen%20terv-9.png",
       "desc": "Forrás Rádió",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+36209789785",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1349,7 +990,7 @@
     },
     {
       "name": "Friss FM 93.4",
-      "streamURL": "http://stream.frissfm.hu:10050/;",
+      "streamURL": "https://stream.frissfm.hu:10060/;?type=http&nocache=23",
       "imageURL": "http://frissfm.hu/favicon/apple-touch-icon.png",
       "desc": "Pop Music",
       "longDesc": "",
@@ -1361,22 +1002,9 @@
       "_homepage": "http://frissfm.hu/"
     },
     {
-      "name": "Győr+",
-      "streamURL": "https://stream.42netmedia.com:8443/sc_gyor1",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Győr+ Rádió",
       "streamURL": "https://stream.42netmedia.com:8443/sc_gyor1",
-      "imageURL": "https://www.gyorplusz.hu/wp-content/themes/gyorplusz/static/images/favicons/apple-icon-144x144.png",
+      "imageURL": "https://www.gyorplusz.hu/wp-content/uploads/2024/10/gyp-logo2024.png",
       "desc": "Classical | Comedy | Local News | Local Radio | Music | News",
       "longDesc": "",
       "country": "HU",
@@ -1389,11 +1017,11 @@
     {
       "name": "Hobby Rádió",
       "streamURL": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
-      "imageURL": "",
+      "imageURL": "https://hobbyradio.hu/wp-content/uploads/OGimage3.jpg",
       "desc": "70S | 80S | 90S | Talk",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+36309138080",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1413,32 +1041,6 @@
       "_homepage": "http://hujujuj.com/"
     },
     {
-      "name": "Hungarian dance",
-      "streamURL": "http://gamershouse.hu:8000/livemega.mp3",
-      "imageURL": "null",
-      "desc": "Hungarian dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://gamershouse.hu:8000/livemega.mp3"
-    },
-    {
-      "name": "I Love Pécs Rádió",
-      "streamURL": "http://radio.ilovepecs.hu:8200/ilp.mp3",
-      "imageURL": "",
-      "desc": "Alternative",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://ilovepecsradio.hu/"
-    },
-    {
       "name": "I Love Pécs Rádió",
       "streamURL": "https://stream.ilovepecsradio.hu/ilp.mp3",
       "imageURL": "https://ilovepecsradio.hu/images/ilp_radio_logo.png",
@@ -1454,28 +1056,15 @@
     {
       "name": "Inforádió",
       "streamURL": "http://stream.infostart.hu/lejatszo/index.html?sid=1",
-      "imageURL": "https://infostart.hu/images/apple-icon-120x120.png",
+      "imageURL": "https://infostart.hu/images/infostart1200.jpg",
       "desc": "News | Talk",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3614832950",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "https://infostart.hu/"
-    },
-    {
-      "name": "insane",
-      "streamURL": "http://radio.newinsane.info/",
-      "imageURL": "",
-      "desc": "insane",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://newinsane.info/ochi/insane.m3u"
     },
     {
       "name": "Jazzy",
@@ -1485,7 +1074,7 @@
       "longDesc": "",
       "country": "HU",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+36302010909",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://jazzy.hu/"
@@ -1498,7 +1087,7 @@
       "longDesc": "",
       "country": "HU",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+36302010909",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://jazzy.hu/"
@@ -1511,36 +1100,10 @@
       "longDesc": "",
       "country": "HU",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+36302010909",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://jazzy.hu/"
-    },
-    {
-      "name": "Juventus",
-      "streamURL": "http://s2.audiostream.hu:8080/juventus_192k",
-      "imageURL": "null",
-      "desc": "Music",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://s2.audiostream.hu:8080/juventus_192k"
-    },
-    {
-      "name": "Klasszik Rádió 92.1",
-      "streamURL": "http://www.klasszikradio.hu/klasszik.mp3",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://klasszikradio.hu/hu/"
     },
     {
       "name": "Klasszik Rádió 92.1",
@@ -1549,7 +1112,7 @@
       "desc": "Klasszik Rádió 92.1",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3615771548",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -1584,7 +1147,7 @@
     {
       "name": "Korona Fm100",
       "streamURL": "http://82.141.165.6:8000/",
-      "imageURL": "null",
+      "imageURL": "https://www.koronafm100.hu/wp-content/uploads/2024/09/koronaradio_logo-1-1-1.png",
       "desc": "Pop",
       "longDesc": "",
       "country": "HU",
@@ -1592,77 +1155,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://82.141.165.6:8000/home.html?sid=1"
-    },
-    {
-      "name": "KORONAfm100",
-      "streamURL": "http://82.141.165.6:8000/;stream",
-      "imageURL": "",
-      "desc": "KORONAfm100",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.koronaradio.hu/"
-    },
-    {
-      "name": "KoronaFM100",
-      "streamURL": "https://www.koronafm100.hu/live.mp3",
-      "imageURL": "",
-      "desc": "Various",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
       "_homepage": "https://www.koronafm100.hu/"
-    },
-    {
-      "name": "Kossuth",
-      "streamURL": "https://icast.connectmedia.hu/4736/mr1.mp3",
-      "imageURL": "",
-      "desc": "News",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": ""
-    },
-    {
-      "name": "Kossuth",
-      "streamURL": "https://icast.connectmedia.hu/4736/mr1.mp3",
-      "imageURL": "",
-      "desc": "Kossuth",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://icast.connectmedia.hu/4736/mr1.mp3"
-    },
-    {
-      "name": "Kossuth Radio",
-      "streamURL": "http://mr-stream.mediaconnect.hu/4734/mr1.aac",
-      "imageURL": "",
-      "desc": "Kossuth Radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 96,
-      "_homepage": "http://mediaklikk.hu/kossuth/"
     },
     {
       "name": "Kossuth Rádió",
       "streamURL": "http://mr-stream.mediaconnect.hu/4734/mr1.aac",
-      "imageURL": "",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/6_v.png",
       "desc": "Duna Média | News | Public Radio | Talk",
       "longDesc": "",
       "country": "HU",
@@ -1672,6 +1170,18 @@
       "_bitrate": 96,
       "_homepage": "http://www.mediaklikk.hu/kossuth/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Lahmacun Radio",
       "streamURL": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
