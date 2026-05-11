@@ -678,7 +678,7 @@
     },
     {
       "name": "Dance Wave Retro!",
-      "streamURL": "https://dancewave.online/station/dance-wave-retro-mp3/?play=1",
+      "streamURL": "http://retro.dancewave.online/retrodance.mp3",
       "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "90S Dance",
       "longDesc": "",
@@ -691,7 +691,7 @@
     },
     {
       "name": "Dance Wave!",
-      "streamURL": "https://dancewave.online/station/dance-wave-mp3/?play=1",
+      "streamURL": "http://dancewave.online/dance.mp3",
       "imageURL": "https://dancewave.online/images/dw_bg.png",
       "desc": "Club Dance Electronic House Trance",
       "longDesc": "",
