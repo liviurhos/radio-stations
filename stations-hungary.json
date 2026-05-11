@@ -1329,7 +1329,7 @@
     },
     {
       "name": "Megadance",
-      "streamURL": "s1.gamershouse.hu:8080/livemega.mp3",
+      "streamURL": "https://gamershouse.hu/livemega.mp3",
       "imageURL": "https://megadanceradio.hu/wp-content/uploads/2024/02/cropped-fologo.png",
       "desc": "Megadance",
       "longDesc": "",
