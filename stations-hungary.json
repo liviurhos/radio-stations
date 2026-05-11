@@ -1170,18 +1170,6 @@
       "_bitrate": 96,
       "_homepage": "http://www.mediaklikk.hu/kossuth/"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Lahmacun Radio",
       "streamURL": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
@@ -1196,7 +1184,7 @@
       "_homepage": "https://www.lahmacun.hu/"
     },
     {
-      "name": "Laza Rádió (OGG 320 Kbps)",
+      "name": "Laza Rádió",
       "streamURL": "http://stream.lazaradio.com:8100/live.ogg",
       "imageURL": "https://lazaradio.com/wp-content/uploads/2024/09/laza_logo-300x120.png",
       "desc": "Live | Mix | Retro",
@@ -1341,7 +1329,7 @@
     },
     {
       "name": "Megadance",
-      "streamURL": "https://gamershouse.hu:8080/livemega.mp3",
+      "streamURL": "https://gamershouse.hu/livemega.mp3",
       "imageURL": "https://megadanceradio.hu/wp-content/uploads/2024/02/cropped-fologo.png",
       "desc": "Megadance",
       "longDesc": "",
@@ -1364,42 +1352,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://mega-live.net/login.php"
-    },
-
-
-
-
-
-
-
-
-
-    
-    {
-      "name": "MegaMixer",
-      "streamURL": "http://gamershouse.hu:8000/livemega.mp3",
-      "imageURL": "null",
-      "desc": "Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://gamershouse.hu:8000/livemega.mp3"
-    },
-    {
-      "name": "MegaMixer",
-      "streamURL": "http://gamershouse.hu:8000/livemega.mp3",
-      "imageURL": "null",
-      "desc": "Dance",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://gamershouse.hu:8000/livemega.mp3"
     },
     {
       "name": "Mera",
