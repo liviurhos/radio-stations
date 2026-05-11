@@ -653,7 +653,7 @@
     {
       "name": "Csillagpont Rádió",
       "streamURL": "http://streamer1.borsodweb.hu:48000/csillagpont",
-      "imageURL": "https://duckduckgo.com/?q=Csillagpont+R%C3%A1di%C3%B3&ia=images&iax=images&iai=https%3A%2F%2Fwww.csillagpontradio.hu%2Fsites%2Fdefault%2Ffiles%2Fdefault_images%2Fcsillagpontradio_default_image.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.csillagpontradio.hu%2Fsites%2Fdefault%2Ffiles%2Fdefault_images%2Fcsillagpontradio_default_image.png&f=1&nofb=1&ipt=4cbe207cff0989e2f8fd037212d2d27207a0f0de38da8d0085e55c58ef69be64",
       "desc": "Local Radio",
       "longDesc": "",
       "country": "HU",
@@ -1185,7 +1185,7 @@
     {
       "name": "Lahmacun Radio",
       "streamURL": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://streaming.lahmacun.hu/api/station/1/art/b3a6d94a7f1488ea500ac5a9-1778400931.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "HU",
@@ -1196,22 +1196,9 @@
       "_homepage": "https://www.lahmacun.hu/"
     },
     {
-      "name": "Lahmacun radio",
-      "streamURL": "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
-      "imageURL": "",
-      "desc": "Lahmacun radio",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://lahmacun.hu/"
-    },
-    {
       "name": "Laza Rádió (OGG 320 Kbps)",
       "streamURL": "http://stream.lazaradio.com:8100/live.ogg",
-      "imageURL": "",
+      "imageURL": "https://lazaradio.com/wp-content/uploads/2024/09/laza_logo-300x120.png",
       "desc": "Live | Mix | Retro",
       "longDesc": "",
       "country": "HU",
@@ -1237,7 +1224,7 @@
     {
       "name": "Luxfunk Blackmix",
       "streamURL": "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream",
-      "imageURL": "https://www.luxfunkradio.com/logos/luxfunk_radio_blackmix_logo_black_r_400x400.jpg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.luxfunkradio.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fluxfunk_blackmix_logo_black_r_258x258-2.jpg&f=1&nofb=1&ipt=cc69bb802e4a4f0fbd32759aac268cc13b4b90a1862a3f5d170f9cef2b542fd0",
       "desc": "Breakbeat | Funky | Hip-Hop | Rnb | Soul",
       "longDesc": "",
       "country": "HU",
@@ -1250,7 +1237,7 @@
     {
       "name": "Luxfunk Dance",
       "streamURL": "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream",
-      "imageURL": "https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-180x180.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.luxfunkradio.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fluxfunk_blackmix_logo_black_r_258x258-2.jpg&f=1&nofb=1&ipt=cc69bb802e4a4f0fbd32759aac268cc13b4b90a1862a3f5d170f9cef2b542fd0",
       "desc": "Luxfunk Dance",
       "longDesc": "",
       "country": "HU",
@@ -1263,7 +1250,7 @@
     {
       "name": "Luxfunk Radio",
       "streamURL": "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream",
-      "imageURL": "https://www.luxfunkradio.com/logos/luxfunk_radio_logo_black_r_400x400.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.luxfunkradio.com%2Fwp-content%2Fuploads%2F2017%2F07%2Fluxfunk_blackmix_logo_black_r_258x258-2.jpg&f=1&nofb=1&ipt=cc69bb802e4a4f0fbd32759aac268cc13b4b90a1862a3f5d170f9cef2b542fd0",
       "desc": "Breakbeat | Funky | Hip-Hop | Rnb | Soul",
       "longDesc": "",
       "country": "HU",
@@ -1273,40 +1260,15 @@
       "_bitrate": 192,
       "_homepage": "https://www.luxfunkradio.com/"
     },
-    {
-      "name": "Lépés Rádió",
-      "streamURL": "http://stream.lepesradio.hu:4000/live.mp3",
-      "imageURL": "",
-      "desc": "Lépés Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://lepesradio.hu/"
-    },
+
     {
       "name": "Lépés Rádió",
       "streamURL": "http://stream.nmih.hu:4000/live.mp3",
-      "imageURL": "https://online-radio.hu/radio/logo/lepes-radio.png",
+      "imageURL": "https://lepesradio.hu/images/sampledata/Top%20logo%20416x100.png",
       "desc": "Electronic | Pop Rock | Top Hits",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://lepesradio.hu/"
-    },
-    {
-      "name": "Lépés Rádió",
-      "streamURL": "http://stream.nmih.hu:4000/live.mp3",
-      "imageURL": "https://scontent.fotp3-4.fna.fbcdn.net/v/t39.30808-6/277737567_377371304399291_4221378848616454439_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=rUfADwJ2GQAAX_v5m7F&_nc_ht=scontent.fotp3-4.fna&oh=00_AfAPMds_1VmbRIlMzE-daonobgNaFbaQOx7GdHzXrm16UQ&oe=65B52F58",
-      "desc": "News | Pop | Retro | Top Hits",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
+      "tel": "+36212333872",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
@@ -1315,21 +1277,8 @@
     {
       "name": "Magic Disco Radio",
       "streamURL": "https://free.rcast.net/66407",
-      "imageURL": "",
+      "imageURL": "https://magicdiscoradio.com/images/magic-logo-picture-2.png",
       "desc": "Hi-Energy | Italo Disco | New Italo Disco",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "http://www.magicdiscoradio.com/"
-    },
-    {
-      "name": "Magic Disco Rádió",
-      "streamURL": "http://live2.magicdiscoradio.com:4420/live.mp3",
-      "imageURL": "",
-      "desc": "Euro Disco | Hi-Nrg | Italo Disco",
       "longDesc": "",
       "country": "HU",
       "tel": "",
@@ -1354,7 +1303,7 @@
     {
       "name": "Magyar Katolikus Rádió",
       "streamURL": "http://katolikusradio.hu:9000/live_hi.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.katolikusradio.hu/design/img/alaplogo3.png",
       "desc": "Catholic | Religion",
       "longDesc": "",
       "country": "HU",
@@ -1367,11 +1316,11 @@
     {
       "name": "Manna FM 98.6",
       "streamURL": "http://icast.connectmedia.hu/4780/live.mp3",
-      "imageURL": "",
+      "imageURL": "https://mannafm.hu/wp-content/uploads/2021/09/cropped-ujmanna-favikon-s-180x180.jpg",
       "desc": "Christian | Christian Contemporary | Community Radio | Positive",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+3619111986",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1380,7 +1329,7 @@
     {
       "name": "Maxi rádió",
       "streamURL": "http://46.107.212.101:9240/live",
-      "imageURL": "",
+      "imageURL": "https://maxiradio.hu/wp-content/uploads/2023/09/cropped-facelogomaxiradio2023.jpg",
       "desc": "Pop",
       "longDesc": "",
       "country": "HU",
@@ -1393,59 +1342,20 @@
     {
       "name": "Megadance",
       "streamURL": "https://gamershouse.hu:8080/livemega.mp3",
-      "imageURL": "",
+      "imageURL": "https://megadanceradio.hu/wp-content/uploads/2024/02/cropped-fologo.png",
       "desc": "Megadance",
       "longDesc": "",
       "country": "HU",
-      "tel": "",
+      "tel": "+36307315823",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.megadance.hu/"
     },
     {
-      "name": "MegaDance Rádió",
-      "streamURL": "http://megadanceradio.hopto.org:8000/livemega.mp3",
-      "imageURL": "",
-      "desc": "MegaDance Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.megadanceradio.hu/"
-    },
-    {
-      "name": "Megadance Rádió",
-      "streamURL": "http://gamershouse.hu:8000/livemega.mp3",
-      "imageURL": "",
-      "desc": "Megadance Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://megadanceradio.hu/"
-    },
-    {
-      "name": "MegaDance Rádió",
-      "streamURL": "https://gamershouse.hu:8080/livemega.mp3",
-      "imageURL": "",
-      "desc": "MegaDance Rádió",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://megadanceradio.hu/"
-    },
-    {
       "name": "MegaLive",
       "streamURL": "https://mega-live.net:2053/live.mp3",
-      "imageURL": "",
+      "imageURL": "https://myonlineradio.hu/public/uploads/radio_img/megalive-radio/fb_cover.jpg",
       "desc": "Classical",
       "longDesc": "",
       "country": "HU",
@@ -1453,8 +1363,18 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": ""
+      "_homepage": "https://mega-live.net/login.php"
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "MegaMixer",
       "streamURL": "http://gamershouse.hu:8000/livemega.mp3",
