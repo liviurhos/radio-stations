@@ -1354,19 +1354,6 @@
       "_homepage": "https://mega-live.net/login.php"
     },
     {
-      "name": "Mera",
-      "streamURL": "https://stream.radio.co/s3fd8d173f/listen",
-      "imageURL": "",
-      "desc": "Talk & Speech",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.mera.hu/"
-    },
-    {
       "name": "Mercy Rádió",
       "streamURL": "http://stream.mercyradio.eu/mercyradio.mp3",
       "imageURL": "http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png",
@@ -1382,7 +1369,7 @@
     {
       "name": "Mercy Rádió - Kabaré",
       "streamURL": "http://stream.mercyradio.eu/kabare.mp3",
-      "imageURL": "http://mercyradio.eu/favicon.ico",
+      "imageURL": "http://mercyradio.eu/wp-content/uploads/2014/02/fredy-mediapartner.png",
       "desc": "Comedy | Talk",
       "longDesc": "",
       "country": "HU",
@@ -1407,8 +1394,8 @@
     },
     {
       "name": "Mixradio fresh",
-      "streamURL": "http://adas.adasszerver.hu/live",
-      "imageURL": "",
+      "streamURL": "https://stream.phost.hu:8006/live",
+      "imageURL": "https://www.mixradio.hu/images/xmix-logo-02.png.pagespeed.ic.WTwTVAT6Wg.png",
       "desc": "Fresh",
       "longDesc": "",
       "country": "HU",
@@ -1420,8 +1407,8 @@
     },
     {
       "name": "Mixradio Retró",
-      "streamURL": "http://45.67.156.157:18004/retro",
-      "imageURL": "null",
+      "streamURL": "https://stream.phost.hu:8004/retro",
+      "imageURL": "https://www.mixradio.hu/images/xmix-logo-02.png.pagespeed.ic.WTwTVAT6Wg.png",
       "desc": "Mixradio Retró",
       "longDesc": "",
       "country": "HU",
@@ -1430,76 +1417,11 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.mixradio.hu/"
-    },
-    {
-      "name": "Mixradio Retró",
-      "streamURL": "http://45.67.156.157:18004/retro",
-      "imageURL": "null",
-      "desc": "Mixradio Retró",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.mixradio.hu/"
-    },
-    {
-      "name": "MixradioRetro",
-      "streamURL": "https://stream.phost.hu:8004/retro",
-      "imageURL": "",
-      "desc": "MixradioRetro",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://stream.phost.hu:8004/retro"
-    },
-    {
-      "name": "MixradioRetro",
-      "streamURL": "https://stream.phost.hu:8004/retro",
-      "imageURL": "",
-      "desc": "MixradioRetro",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://stream.phost.hu:8004/retro"
-    },
-    {
-      "name": "MixradioRetro",
-      "streamURL": "https://stream.phost.hu:8004/retro",
-      "imageURL": "",
-      "desc": "MixradioRetro",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://stream.phost.hu:8004/retro"
-    },
-    {
-      "name": "Momo Rádió",
-      "streamURL": "https://s03.diazol.hu:7092/zene.mp3",
-      "imageURL": "",
-      "desc": "Folk",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": ""
     },
     {
       "name": "Momó Rádió",
       "streamURL": "https://stream.diazol.hu:7092/zene.mp3",
-      "imageURL": "",
+      "imageURL": "https://momoradio.hu/wp-content/uploads/2020/06/Logo-512x512-1.png",
       "desc": "Children | Kids | Music",
       "longDesc": "",
       "country": "HU",
@@ -1512,7 +1434,7 @@
     {
       "name": "Momó Rádió Mese",
       "streamURL": "https://stream.diazol.hu:7092/mese.mp3",
-      "imageURL": "",
+      "imageURL": "https://momoradio.hu/wp-content/uploads/2020/06/Logo-512x512-1.png",
       "desc": "Children | Fairytales | Kids",
       "longDesc": "",
       "country": "HU",
@@ -1525,7 +1447,7 @@
     {
       "name": "MR1 - Kossuth Rádió",
       "streamURL": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
-      "imageURL": "",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/6_v.png",
       "desc": "News | Propaganda | Public Radio | Talk",
       "longDesc": "",
       "country": "HU",
@@ -1538,7 +1460,7 @@
     {
       "name": "MR2 - Petőfi Rádió",
       "streamURL": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
-      "imageURL": "",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/21_v.png",
       "desc": "Hungarian Pop Music | Music | Pop | Public Radio",
       "longDesc": "",
       "country": "HU",
@@ -1551,7 +1473,7 @@
     {
       "name": "MR3 - Bartók Rádió",
       "streamURL": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
-      "imageURL": "",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/12_v.png",
       "desc": "Classical Music | Cultural | Music | Public Radio",
       "longDesc": "",
       "country": "HU",
@@ -1564,7 +1486,7 @@
     {
       "name": "MR5 - Parlamenti Adások",
       "streamURL": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
-      "imageURL": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Parlamenti_logo_150.png/revision/latest?cb=20160602193644",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/15_v.png",
       "desc": "Jazz | News | Politics | Public Radio",
       "longDesc": "",
       "country": "HU",
@@ -1577,7 +1499,7 @@
     {
       "name": "MR7 - Dankó Rádió",
       "streamURL": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
-      "imageURL": "",
+      "imageURL": "https://mediaklikk.hu/iface/channel_logos/9_v.png",
       "desc": "Folk Music | Music | Oldies | Public Radio",
       "longDesc": "",
       "country": "HU",
@@ -1590,7 +1512,7 @@
     {
       "name": "Mustár Rádió",
       "streamURL": "http://193.138.125.14:8500/;",
-      "imageURL": "",
+      "imageURL": "http://www.mustarhaz.hu/wp-content/uploads/logo3.png",
       "desc": "Local Radio | Non-Profit",
       "longDesc": "",
       "country": "HU",
@@ -1601,7 +1523,7 @@
       "_homepage": "http://www.mustarhaz.hu/mustarhaz/mustar-fm/"
     },
     {
-      "name": "Nemzeti Sport Radio",
+      "name": "Nemzeti Sportrádió",
       "streamURL": "https://icast.connectmedia.hu/4656/mr11.aac",
       "imageURL": "https://netradio.online/files/styles/180/public/logo/nemzeti-sportradio.jpg?itok=kDexZ43P",
       "desc": "Entertainment | Pop | Sport | Sports | Talk",
@@ -1612,19 +1534,6 @@
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "https://www.nemzetisport.hu/"
-    },
-    {
-      "name": "Nemzeti Sportrádió",
-      "streamURL": "https://icast.connectmedia.hu/4657/mr11.mp3",
-      "imageURL": "",
-      "desc": "Sports",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://m4sport.hu/musor"
     },
     {
       "name": "Next FM",
@@ -1642,7 +1551,7 @@
     {
       "name": "Nóta FM - 128k MP3",
       "streamURL": "http://live.notafm.hu:8000/notafm.mp3",
-      "imageURL": "",
+      "imageURL": "https://notafm.hu/wp-content/uploads/2023/01/cropped-NotaFM_logo_negyzet_feh_512px-180x180.png",
       "desc": "Folk",
       "longDesc": "",
       "country": "HU",
@@ -1653,9 +1562,9 @@
       "_homepage": "http://notafm.hu/"
     },
     {
-      "name": "oxigen",
+      "name": "Oxigen",
       "streamURL": "https://oxygenmusic.hu:8443/oxygenmusic",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "Classical",
       "longDesc": "",
       "country": "HU",
@@ -1668,7 +1577,7 @@
     {
       "name": "Oxygen Black Music",
       "streamURL": "https://oxygenmusic.hu:8443/blackmusic_128",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "Hip-Hop | Rap | Rnb",
       "longDesc": "",
       "country": "HU",
@@ -1720,7 +1629,7 @@
     {
       "name": "Oxygen Indie",
       "streamURL": "https://oxygenmusic.hu:8443/oxygenindie",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "Alternative | Indie | Indie Music | Indie Rock",
       "longDesc": "",
       "country": "HU",
@@ -1746,7 +1655,7 @@
     {
       "name": "Oxygen Kids",
       "streamURL": "https://oxygenmusic.hu:8443/oxygenkids",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "Kids | Soundtrack",
       "longDesc": "",
       "country": "HU",
@@ -1759,7 +1668,7 @@
     {
       "name": "Oxygen Lounge",
       "streamURL": "https://oxygenmusic.hu:8443/oxygenlounge",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "Chill | Easy Listening | Lounge Music",
       "longDesc": "",
       "country": "HU",
@@ -1785,7 +1694,7 @@
     {
       "name": "Oxygen Magyar Zene",
       "streamURL": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
-      "imageURL": "",
+      "imageURL": "https://www.oxygenmusic.hu/logo512.png",
       "desc": "European | Hungarian Pop Music | Pop Rock",
       "longDesc": "",
       "country": "HU",
@@ -1874,19 +1783,6 @@
       "_homepage": "https://oxygenmusic.hu/"
     },
     {
-      "name": "Oxygen Xmas (320)",
-      "streamURL": "https://oxygenmusic.hu:8000/xmas_320",
-      "imageURL": "https://oxygenmusic.hu/logo192.png",
-      "desc": "Christmas",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 160,
-      "_homepage": "https://oxygenmusic.hu/"
-    },
-    {
       "name": "OZONE FM",
       "streamURL": "https://oxygenmusic.hu:8000/ozonefm_128",
       "imageURL": "https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/ozone_fm_logo%20(1)_3ocrlth0_3dog9run.png",
@@ -1899,19 +1795,19 @@
       "_bitrate": 128,
       "_homepage": "https://oxygenmusic.hu/csatorna/ozone-fm"
     },
-    {
-      "name": "Ozonefm",
-      "streamURL": "https://oxygenmusic.hu:8443/ozonefm_320",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "HU",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": ""
-    },
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Paks fm",
       "streamURL": "http://str2.42net.hu:8000/paks_fm",
