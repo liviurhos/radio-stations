@@ -2525,9 +2525,9 @@
     },
     {
       "name": "TOP FM Base",
-      "streamURL": "https://stream2.rdstrm.com/prx-http/live.topfm.hu:8000/base.mp3",
+      "streamURL": "http://live.topfm.hu:8000/base.mp3",
       "imageURL": "https://topfm.hu/wp-content/uploads/2023/07/TOPFMbase_logo_negyzet_transp_250px.png",
-      "desc": "Contemporary Hits | Hits | Top Hits",
+      "desc": "Pop | Top 40 | Klub | Elektro | House",
       "longDesc": "",
       "country": "HU",
       "tel": "",
@@ -2538,9 +2538,9 @@
     },
     {
       "name": "TOP FM MAX",
-      "streamURL": "http://live.topfm.hu:8000/max.mp3",
+      "streamURL": "https://stream2.rdstrm.com/prx-http/live.topfm.hu:8000/max.mp3",
       "imageURL": "https://topfm.hu/wp-content/uploads/2023/07/TOPFMmax_logo_negyzet_transp_500px.png",
-      "desc": "Contemporary Hits | Hits | Top Hits",
+      "desc": "Contemporary Hits | Hits | Top Hits | Top 40",
       "longDesc": "",
       "country": "HU",
       "tel": "",
