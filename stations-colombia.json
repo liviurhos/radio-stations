@@ -1,7 +1,7 @@
 {
   "station": [
     {
-      "name": "((La Reina Putumayo 106.3 Fm))",
+      "name": "La Reina Putumayo 106.3 Fm",
       "streamURL": "https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream",
       "imageURL": "https://cdn.onlineradiobox.com/img/l/1/81111.v7.png",
       "desc": "Crossover | Merengue | Popular | Salsa | Vallenato",
@@ -27,19 +27,6 @@
       "_homepage": "https://los40.com.co/"
     },
     {
-      "name": "Abdulbasit Abdulsamad",
-      "streamURL": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-      "imageURL": "null",
-      "desc": "Abdulbasit Abdulsamad",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://mp3islam.com/"
-    },
-    {
       "name": "ACORD ANTIOQUIA RADIO",
       "streamURL": "https://radio25.virtualtronics.com:20061/;",
       "imageURL": "https://www.acordantioquia.com/wp-content/uploads/2023/02/logo-acord-home-vertical-e1698932649397.png",
@@ -55,7 +42,7 @@
     {
       "name": "Alerta Bogotá 104.4 fm",
       "streamURL": "http://179.1.139.84:8000/play/a041/index.m3u8",
-      "imageURL": "",
+      "imageURL": "https://i.alerta.com.co/__assets/favicon/apple-touch-icon.png",
       "desc": "Baladas Música Popular Colombiana Nacional Varios | Debates Y Deportes | Deporte | Futbol | Música Y Noticias | Noticias Locales | Noticias Nacionales E Internacionales | Noticias Opinion | Noticias Y Comentarios | Noticias Y Deportes | Servicio Social",
       "longDesc": "",
       "country": "CO",
@@ -67,22 +54,9 @@
     },
     {
       "name": "Alfa Stereo 106.3 FM",
-      "streamURL": "https://radiolatina.info/8088/stream",
-      "imageURL": "https://alfastereo.com/wp-content/uploads/2022/04/cropped-favicon-180x180.gif",
+      "streamURL": "https://stream.zeno.fm/z3c6nhq2bjkvv",
+      "imageURL": "https://alfastereo.com/wp-content/uploads/2026/02/Player_2025.jpg",
       "desc": "Crossover | Cumbia | Popular | Salsa | Tropical | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://alfastereo.com/"
-    },
-    {
-      "name": "Alfa Stereo 106.3 FM",
-      "streamURL": "https://radiolatina.info/8088/stream",
-      "imageURL": "",
-      "desc": "Alfa Stereo 106.3 FM",
       "longDesc": "",
       "country": "CO",
       "tel": "",
@@ -124,11 +98,11 @@
       "desc": "Entretenimiento | Música Variada | Radio Comunitaria | Radio Hablada",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+573146010165",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://asenred.com/ambiente-estereo/"
+      "_homepage": "https://www.colombia.com/radio/ambiente-estereo-88.5-fm-san-vicente-431"
     },
     {
       "name": "Andina Stereo 95.1 FM",
@@ -164,7 +138,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573028166209",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.angularstereo.com/"
@@ -172,12 +146,12 @@
     {
       "name": "Antena de los Andes 1520 AM",
       "streamURL": "https://radiolatina.live/9374/stream",
-      "imageURL": "",
+      "imageURL": "https://antenadelosandes.com/player/adla_logo.png",
       "desc": "Entretenimiento | Música Variada | Radio Hablada | Variety",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573187666929",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://antenadelosandes.com.co/player/"
@@ -190,10 +164,10 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573148295051",
       "_codec": "AAC",
       "_bitrate": 96,
-      "_homepage": "https://apartadostereofm.com/"
+      "_homepage": "https://www.colombia.com/radio/apartado-stereo-103.3-fm-apartado-223"
     },
     {
       "name": "Arauquita Stereo 88.3fm",
@@ -211,28 +185,15 @@
     {
       "name": "Arenosa stereo",
       "streamURL": "https://play8.tikast.com:20106/stream",
-      "imageURL": "https://www.arenosaestereo.com/wp-content/uploads/2022/10/favicon.png",
+      "imageURL": "https://arenosaestereo.com/wp-content/uploads/2025/09/cropped-NEW-LOGO-ARENOSA-512-180x180.png",
       "desc": "Champeta | Crossover | Cumbia | Música Variada | Popular | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+5717042521448",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.arenosaestereo.com/"
-    },
-    {
-      "name": "arjona stereo 93.5",
-      "streamURL": "https://accplus.tecnohost.ec/8160/stream",
-      "imageURL": "",
-      "desc": "arjona stereo 93.5",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://accplus.tecnohost.ec/8160/stream"
     },
     {
       "name": "Armonias Boyacenses 950 AM",
@@ -250,7 +211,7 @@
     {
       "name": "Aro Radio",
       "streamURL": "http://62.210.38.137:8132/stream",
-      "imageURL": "",
+      "imageURL": "https://cdn-profiles.tunein.com/s299684/images/logod.jpg?t=637237986160000000",
       "desc": "Aro Radio",
       "longDesc": "",
       "country": "CO",
@@ -268,7 +229,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573206696128",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://aviva2.com/web/"
@@ -289,7 +250,7 @@
     {
       "name": "Bacatá Stereo 94.4 FM",
       "streamURL": "http://radio25.virtualtronics.com:8356/;",
-      "imageURL": "https://bacatastereo.com/wp-content/uploads/2021/12/LOGO-BACATA-ST_2-300x88.png",
+      "imageURL": "https://bacatastereo.com/wp-content/uploads/2024/05/cropped-favicon-bacata-1-180x180.png",
       "desc": "Crossover | Entretenimiento | Noticias | Popular | Radio Hablada | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -306,7 +267,7 @@
       "desc": "Crossover | Entretenimiento | Local Radio | Noticias | Popular | Radio Hablada | Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+573147471076",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -315,7 +276,7 @@
     {
       "name": "Bandida",
       "streamURL": "https://latina.streeemer.com/listen/latina/radio.aac",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/673/bandida.9e68a0a7.png",
       "desc": "Bandida",
       "longDesc": "",
       "country": "CO",
@@ -326,22 +287,9 @@
       "_homepage": "https://www.emisorascolombianas.co/ae/bandida"
     },
     {
-      "name": "Barrancabermeja Virtual",
-      "streamURL": "https://stream1.305stream.com/proxy/client322?mp=/stream",
-      "imageURL": "https://img1.wsimg.com/isteam/ip/0b629c97-332d-4b08-89ea-9f7c1b979fa1/favicon/67a7a84a-e5e9-4f7f-90b4-2978b749e2d6.jpg/:/rs=w:32,h:32,m",
-      "desc": "Crossover | Latino | Salsa | Tropical | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://barrancabermejavirtual.co/"
-    },
-    {
       "name": "BELEN STEREO 95.3 FM",
       "streamURL": "https://server2.ejeserver.com:9976/stream",
-      "imageURL": "https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWz4hieddwrA7_viSiLuR9R4tAFemmhDoIQAzZAYv3altP0wugLR7fH1mKazFCulIPs5EJXZhRag3x0k74Aec06S4YkKb_ra3UvrYuM1O5acWQoS7DYSm0yOIeGcygoVlrDvyOnIWFdg_XKGsOubEpyyhjm=s0",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/86eqvx3ztgcw.jpg",
       "desc": "Crossover | Cumbia | Radio Comunitaria | Salsa | Tropical",
       "longDesc": "",
       "country": "CO",
@@ -351,6 +299,17 @@
       "_bitrate": 64,
       "_homepage": "https://redcomunitariaejecafetero.blogspot.com/2012/07/belen-estereo.html"
     },
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Blu Radio (Medellín) 97.9 FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac",
