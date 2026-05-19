@@ -1689,16 +1689,6 @@
       "_bitrate": 192,
       "_homepage": "https://radiozender.mpbnetwerken.nl/westsideradio.mp3"
     },
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Wired 99.9",
       "streamURL": "https://s2.radio.co/sf0986595a/listen",
@@ -1711,45 +1701,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.wiredfm.ie/"
-    },
-    {
-      "name": "Wired FM - FM 99.9 - Limerick, Ireland",
-      "streamURL": "https://s2.radio.co/sf0986595a/listen",
-      "imageURL": "",
-      "desc": "College | Education | Science | Technology",
-      "longDesc": "",
-      "country": "IE",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.wiredfm.ie/"
-    },
-    {
-      "name": "WLR FM",
-      "streamURL": "https://live-bauerie.sharp-stream.com/WLRAAC",
-      "imageURL": "https://www.wlrfm.com/images/ico/android-icon-192x192.png",
-      "desc": "WLR FM",
-      "longDesc": "",
-      "country": "IE",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 96,
-      "_homepage": "https://www.wlrfm.com/"
-    },
-    {
-      "name": "XT independent alternate",
-      "streamURL": "http://xt.stream.ie/xt",
-      "imageURL": "",
-      "desc": "Alternative / Indie | Alternative Rock",
-      "longDesc": "",
-      "country": "IE",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://xt.ie/"
     },
     {
       "name": "XT Independent Alternative",
@@ -1767,7 +1718,7 @@
     {
       "name": "Zenith Classic Rock",
       "streamURL": "http://91.189.64.188:3644/zenith128mp3",
-      "imageURL": "https://static.wixstatic.com/media/f5bab3e87742efe1e8c84b863e6cac36.wix_mp/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/f5bab3e87742efe1e8c84b863e6cac36.wix_mp",
+      "imageURL": "https://radio2026.icu/apple-touch-icon.png",
       "desc": "Album Tracks | Classic Rock | Progressive Rock",
       "longDesc": "",
       "country": "IE",
