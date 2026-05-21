@@ -299,21 +299,10 @@
       "_bitrate": 64,
       "_homepage": "https://redcomunitariaejecafetero.blogspot.com/2012/07/belen-estereo.html"
     },
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Blu Radio (Medellín) 97.9 FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac",
-      "imageURL": "",
+      "imageURL": "https://cdn.radoxo.com/images/colombia/blu-radio-medellin.webp?v=1779368402",
       "desc": "Business News | Cultural News | Economic News | Local News | News Talk Music | Sports News | Talk | World News",
       "longDesc": "",
       "country": "CO",
@@ -326,7 +315,7 @@
     {
       "name": "Blu Radio - Musica",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUSICABLU.mp3",
-      "imageURL": "https://caracoltv.brightspotcdn.com/dims4/default/be3d3b3/2147483647/strip/true/crop/315x314+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fbf%2F7e%2F3970272b49a4b5fa943fc505a9d1%2Fblu-radio-logo-2019-rgb.png",
+      "imageURL": "https://cdn.radoxo.com/images/colombia/blu-radio-medellin.webp?v=1779368402",
       "desc": "2000S | 80S | 90S | Classic Hits | Music | Musica",
       "longDesc": "",
       "country": "CO",
@@ -339,7 +328,7 @@
     {
       "name": "Blu Radio Bogotá 89.9",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3",
-      "imageURL": "https://caracoltv.brightspotcdn.com/dims4/default/7e7eadf/2147483647/strip/true/crop/44x44+0+0/resize/44x44!/quality/75/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd8%2Fba%2F2f4320784bfe8c03586592092f12%2Flogo-bluradio-dk-blanco-44.png",
+      "imageURL": "https://cdn.radoxo.com/images/colombia/blu-radio-medellin.webp?v=1779368402",
       "desc": "Deportes | Entretenimiento | Entrevistas | Information | Noticias | Noticias Y Comentarios | Radio Hablada | Sports | Talk",
       "longDesc": "",
       "country": "CO",
@@ -352,7 +341,7 @@
     {
       "name": "Blu Radio Cali 91.5 FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP_SC",
-      "imageURL": "https://caracoltv.brightspotcdn.com/dims4/default/7e7eadf/2147483647/strip/true/crop/44x44+0+0/resize/44x44!/quality/75/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd8%2Fba%2F2f4320784bfe8c03586592092f12%2Flogo-bluradio-dk-blanco-44.png",
+      "imageURL": "https://cdn.radoxo.com/images/colombia/blu-radio-medellin.webp?v=1779368402",
       "desc": "Debate | Deportes | Entretenimiento | Noticias | Noticias En Español | Noticias Nacionales E Internacionales | Noticias Y Comentarios | Radio Hablada",
       "longDesc": "",
       "country": "CO",
@@ -363,22 +352,9 @@
       "_homepage": "https://www.bluradio.com/"
     },
     {
-      "name": "Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)",
-      "streamURL": "http://27433.live.streamtheworld.com:3690/BLURADIO_SC",
-      "imageURL": "http://www.bluradio.com/favicon.ico",
-      "desc": "Armenian | Bogotá | Caribbean Music | Live Sports | Neiva | News | News Radio | Pereira | Sports News | Sports Talk | Talk Radio | Tunja | Villavicencio",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "http://www.bluradio.com/"
-    },
-    {
       "name": "Briceño Stereo 105.4 FM",
       "streamURL": "https://streamingmediaradio.live/8026/stream",
-      "imageURL": "",
+      "imageURL": "https://radio-co.com/wp-content/uploads/2026/01/Briceno-Stereo-330x330.jpg",
       "desc": "Champeta | Crossover | Entretenimiento | Local Radio | Popular | Reggaeton",
       "longDesc": "",
       "country": "CO",
@@ -402,22 +378,9 @@
       "_homepage": "https://brisafm.net/"
     },
     {
-      "name": "Brutal (Medellín) 91.9 Fm",
-      "streamURL": "https://streamingmediaradio.live/8086/stream",
-      "imageURL": "",
-      "desc": "Pop | Reggaeton | Urbano",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.brutalfm.com.co/"
-    },
-    {
-      "name": "buenísima radio tv",
+      "name": "Buenísima Radio TV",
       "streamURL": "https://radiohd.streaminghd.co:7319/stream",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/618/buenisima-radio-tv.74933448.png",
       "desc": "buenísima radio tv",
       "longDesc": "",
       "country": "CO",
@@ -425,12 +388,12 @@
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 64,
-      "_homepage": "https://radiohd.streaminghd.co:7319/stream"
+      "_homepage": ""
     },
     {
       "name": "Buturama Stereo 101.7 FM",
       "streamURL": "https://tupanel.info:2000/stream/ButuramaStereo",
-      "imageURL": "https://static.wixstatic.com/media/2df902_cfb23bb2424c4689a4fd3ea557256370~mv2.png/v1/crop/x_0,y_0,w_2889,h_972/fill/w_440,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Buturama%20BLANCO.png ",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/469/buturama-stereo.3b08f8b0.png",
       "desc": "Champeta | Entretenimiento | Latino | Salsa | Tropical",
       "longDesc": "",
       "country": "CO",
@@ -443,7 +406,7 @@
     {
       "name": "Bésame (Medellín) 94.9 FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas | Music | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -456,7 +419,7 @@
     {
       "name": "Bésame 100.7 FM Cúcuta",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CUCUTAAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -469,7 +432,7 @@
     {
       "name": "Bésame 104.7 FM Bucaramanga",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BUCARAMANGAAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -482,7 +445,7 @@
     {
       "name": "Bésame 106.5 FM Cali",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -495,7 +458,7 @@
     {
       "name": "Bésame 106.9 FM Popayán",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_POPAYANAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -508,7 +471,7 @@
     {
       "name": "Bésame 90.7 FM Armenia",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_ARMENIAAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica | Musica Romantica",
       "longDesc": "",
       "country": "CO",
@@ -521,7 +484,7 @@
     {
       "name": "Bésame 91.7 FM Manizales",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -534,7 +497,7 @@
     {
       "name": "Bésame 93.7 FM Pereira",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_PEREIRA_FMAAC.aac",
-      "imageURL": "https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/150/besame-fm-bogota.ef4221dc.jpg",
       "desc": "Baladas En Español | Entretenimiento | Musica Romantica | Pop",
       "longDesc": "",
       "country": "CO",
@@ -547,11 +510,11 @@
     {
       "name": "Cacica Stereo 89.7 FM",
       "streamURL": "http://sonic.paulatina.co:7062/;",
-      "imageURL": "https://cacicastereo.com/img/decor_1.png",
+      "imageURL": "https://cacicastereo.com/img/logo.png",
       "desc": "Crossover | Entretenimiento | Musica | Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+5755713872",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
@@ -560,7 +523,7 @@
     {
       "name": "Cafe Stereo 96.7 FM",
       "streamURL": "https://stremo.decibeles.net:8443/CafeStereo",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/1/88821.v10.png ",
+      "imageURL": "https://radio-co.com/wp-content/uploads/2025/07/Cafe-Stereo-330x330.jpg",
       "desc": "Crossover | Cumbia | Entretenimiento | Popular | Radio Comunitaria | Vallenato | Variety",
       "longDesc": "",
       "country": "CO",
@@ -570,6 +533,21 @@
       "_bitrate": 64,
       "_homepage": "http://stremo.decibeles.net:8001/CafeStereo"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Calentura stereo",
       "streamURL": "https://emisorasdigitales2.com/8174/stream",
