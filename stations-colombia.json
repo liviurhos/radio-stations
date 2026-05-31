@@ -533,30 +533,15 @@
       "_bitrate": 64,
       "_homepage": "http://stremo.decibeles.net:8001/CafeStereo"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Calentura stereo",
       "streamURL": "https://emisorasdigitales2.com/8174/stream",
-      "imageURL": "",
+      "imageURL": "https://tustreaming.co/AUDIO/CALENTURA/assets/logocalentura.png",
       "desc": "Calentura stereo",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+573160802550",
+      "whatsapp": "+573160802550",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.calenturastereo.com/"
@@ -564,12 +549,12 @@
     {
       "name": "Calidad Stereo 100.6 FM",
       "streamURL": "https://sonic.paulatina.co/7070/stream.mp3/live",
-      "imageURL": "https://www.calidadstereo.com/wp-content/uploads/2024/01/cropped-Paute-aqui-calidad-stereo.jpg",
+      "imageURL": "https://www.calidadstereo.com/wp-content/uploads/2023/04/logo-calidad-stereo.jpg",
       "desc": "Crossover | Entretenimiento | Merengue | Popular | Regional Mexican | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573214069850",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://www.calidadstereo.com/"
@@ -582,7 +567,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573153019580",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "https://www.candelaestereo.com/"
@@ -603,7 +588,7 @@
     {
       "name": "Canela Estereo 99.4 FM",
       "streamURL": "https://sv2.globalhostlive.com/proxy/canela/stream",
-      "imageURL": "https://www.canelaestereo.com/wp-content/uploads/2022/03/canela-660x330-2-110x75.jpg ",
+      "imageURL": "https://cdn.colombia.com/canales/canela-stereo-3146-v1.jpg",
       "desc": "Boleros | Colombian Music | Crossover | Cumbia | Entretenimiento | Popular | Ranchera | Regional Mexican | Salsa | Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -616,33 +601,33 @@
     {
       "name": "Capital Salsa",
       "streamURL": "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream",
-      "imageURL": "",
+      "imageURL": "https://capitalsalsa.com.co/wp-content/uploads/2023/03/cropped-CAPITAL-180x180.png",
       "desc": "Latin Salsa | Salsa | Salsa Colombiana",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573164418319",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://capitalsalsa.com.co/"
     },
     {
       "name": "Carbón Stereo 92.5  FM",
-      "streamURL": "http://51.15.160.78:8318/;",
-      "imageURL": "https://carbonstereo.com/wp-content/uploads/logo-app.png ",
+      "streamURL": "https://server4.hostradios.com/8186/stream",
+      "imageURL": "https://thumbnail.anii.io/co/radio-carbon-stereo-92-5-fm-albania-colombia.webp",
       "desc": "Crossover | Cumbia | Latino | Merengue | Popular | Reggaeton | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573173106033",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://carbonstereo.com/"
     },
     {
-      "name": "Cardenal Stereo 94.7 FM",
-      "streamURL": "http://198.27.78.145:8086/stream",
-      "imageURL": "https://sistemacardenal.com/wp-content/themes/enfold/images/layout/logo.png",
+      "name": "Cardenal Stereo - Riohacha 91.7 FM",
+      "streamURL": "https://usest-sp1.golivestream.net/8006/stream",
+      "imageURL": "https://cardenalstereo.com/wp-content/uploads/2025/08/CARDENAL-STEREO.png",
       "desc": "Musica | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -653,16 +638,16 @@
       "_homepage": "https://sistemacardenal.com/"
     },
     {
-      "name": "CARDENAL STEREO RIOHACHA 91.7 FM",
-      "streamURL": "http://198.27.78.145:8086/stream/2/;",
-      "imageURL": "https://sistemacardenal.com/wp-content/themes/enfold/images/layout/logo.png",
-      "desc": "Musica | Noticias | Vallenato",
+      "name": "Cardenal Stereo - Valledupar 1580 AM",
+      "streamURL": "https://usest-sp1.golivestream.net/8016/stream",
+      "imageURL": "https://cardenalstereo.com/wp-content/uploads/2025/08/CARDENAL-STEREO.png",
+      "desc": "Musica | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
-      "_bitrate": 128,
+      "_bitrate": 96,
       "_homepage": "https://sistemacardenal.com/"
     },
     {
@@ -694,12 +679,12 @@
     {
       "name": "Cascada Stereo 107.4 FM",
       "streamURL": "https://play8.tikast.com/proxy/cascada?mp=/stream",
-      "imageURL": "https://cascadacomunicaciones.com/wp-content/uploads/2019/04/cropped-cropped-pagina-cascada-estereo-logo-png-1-180x180.png",
+      "imageURL": "https://cascadacomunicaciones.com/wp-content/uploads/2019/04/cropped-pagina-cascada-estereo-logo-png-180x180.png",
       "desc": "Crossover | Cumbia | Entretenimiento | Local Radio | Popular | Radio Hablada | Reggaeton | Regional Mexican | Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573216477807",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://cascadacomunicaciones.com/"
@@ -712,36 +697,23 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573103726394",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://www.celesteestereofm.com/"
     },
     {
-      "name": "Celestial stereo link alterno",
+      "name": "Celestial HD Stereo",
       "streamURL": "https://stream2.305stream.com:8114/live",
-      "imageURL": "",
+      "imageURL": "https://celestialstereo.com/wp-content/uploads/2025/06/cropped-Diseno-sin-titulo-2025-07-07T191103.686.png",
       "desc": "Cristiana",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573113266367",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.celestialstereo.com/"
-    },
-    {
-      "name": "Celestial stereo pereira",
-      "streamURL": "https://stream2.305stream.com/proxy/client059?mp=/stream",
-      "imageURL": "",
-      "desc": "Cristiana | Musica Cristiana | Radio Cristiana",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://celestialstereo.com/"
     },
     {
       "name": "Cerinza FM 100.6",
@@ -764,7 +736,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573217644105",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://cerroazulfm.com/"
@@ -772,7 +744,7 @@
     {
       "name": "Cerro murillo stereo",
       "streamURL": "https://sonic.paulatina.co/8048/stream",
-      "imageURL": "",
+      "imageURL": "https://i0.wp.com/cerromurillostereo.com/wp-content/uploads/2024/11/cropped-IMG_4842.png?w=937&ssl=1",
       "desc": "Cerro murillo stereo",
       "longDesc": "",
       "country": "CO",
@@ -785,12 +757,12 @@
     {
       "name": "Cisneros Stereo 105.4 FM",
       "streamURL": "https://server2.ejeserver.com:8430/live",
-      "imageURL": "",
+      "imageURL": "https://la105fm.com/wp-content/uploads/2020/01/logo_cisneros.png",
       "desc": "Crossover | Cumbia | Entretenimiento | Popular | Radio Comunitaria | Radio Hablada | Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573136461115",
       "_codec": "AAC",
       "_bitrate": 64,
       "_homepage": "https://la105fm.com/"
@@ -798,7 +770,7 @@
     {
       "name": "Clasica FM919",
       "streamURL": "http://tupanel.info:8018/stream/",
-      "imageURL": "",
+      "imageURL": "https://cdn.radio-addict.com/media/stream/e229b2ba-49f3-4ac6-aac9-76dcc3c44a8a_4DACC8964DDA4EE416A14B62B2FD32E5_hkygcpeveush.png",
       "desc": "Rock",
       "longDesc": "",
       "country": "CO",
@@ -807,19 +779,6 @@
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://tupanel.info:2000/public/emisora919fm"
-    },
-    {
-      "name": "Colmundo Radio 1040 AM",
-      "streamURL": "https://streaming.shoutcast.com/colmundo-radio-bogota",
-      "imageURL": "http://colmundoradio.com.co/wp-content/uploads/2020/01/icon_home.png",
-      "desc": "Deportes | Entretenimiento | Information | Música Variada | Noticias | Noticias Y Comentarios | Radio Hablada",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://colmundoradio.com.co/"
     },
     {
       "name": "Colmundo Radio Bogota",
@@ -837,12 +796,12 @@
     {
       "name": "Colombia Crossover",
       "streamURL": "https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/;",
-      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198.png",
+      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198-1.pnghttps://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198.png",
       "desc": "Bachata | Caribe | Caribeño | Champeta | Crossover | Cumbia | Merengue | Metadata | Reggaeton | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573054038388",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://colombiacrossover.com/"
@@ -855,7 +814,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573054038388",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://colombiacrossover.com/colombia-lounge/"
@@ -863,12 +822,12 @@
     {
       "name": "Colombia Pop Rock",
       "streamURL": "https://play10.tikast.com/proxy/colpoprock?mp=/stream",
-      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-nueva-1024x1024.png",
+      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-poprock-png.png",
       "desc": "00S | 80S | 90S | Classic Pop | Classic Rock | Classics | Hard Rock | Lounge | Metadata | Pop | Rock",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573054038388",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://colombiacrossover.com/colombia-pop-rock/"
@@ -876,12 +835,12 @@
     {
       "name": "Colombia Salsa Dura",
       "streamURL": "https://play10.tikast.com/proxy/colsalsadura?mp=/stream",
-      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-salsa-dura-png-1024x985.png",
+      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-salsa-dura-sin-fondo.png",
       "desc": "Bomba | Fania | Plena | Salsa | Salsa Dura | Son Montuno | Timba",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573054038388",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://colombiacrossover.com/colombia-salsa-dura/"
@@ -894,7 +853,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573054038388",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://colombiacrossover.com/colombia-urbana/"
@@ -902,7 +861,7 @@
     {
       "name": "Conectando Estéreo 91.5 FM",
       "streamURL": "https://cloudstream2036.conectarhosting.com/8200/stream",
-      "imageURL": "",
+      "imageURL": "https://static-media.streema.com/media/cache/3b/3c/3b3c464323d8f4329c7414a7e1f7fca3.png",
       "desc": "Crossover",
       "longDesc": "",
       "country": "CO",
@@ -932,7 +891,7 @@
       "desc": "Latino | Music | Salsa",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+5731377844222",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -941,7 +900,7 @@
     {
       "name": "Cool-D Radio",
       "streamURL": "http://condor1760.startdedicated.com:8031/live",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs149415g.png&f=1&nofb=1&ipt=9910c0a62d196d1acdd54292dbbddfc43f16639aa2e33f51a2ff3dac4fbb58fe",
       "desc": "Hiphop | Hits | Pop | Rap",
       "longDesc": "",
       "country": "CO",
@@ -953,13 +912,13 @@
     },
     {
       "name": "Cristal Stereo Isnos 95.8 FM",
-      "streamURL": "http://104.131.99.205:9430/;",
-      "imageURL": "",
+      "streamURL": "http://138.197.101.251:9430/;stream.mp3",
+      "imageURL": "http://cristalstereoisnos.com/img/header.jpg",
       "desc": "Crossover | Cumbia | Entretenimiento | Popular | Radio Comunitaria | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573108024136",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://cristalstereoisnos.com/"
@@ -1004,19 +963,6 @@
       "_homepage": "https://cristalinahuila.com/"
     },
     {
-      "name": "CyC Radio (Instituto Caro y Cuervo)",
-      "streamURL": "https://stream.radio.co/s978e5f6bd/listen",
-      "imageURL": "",
-      "desc": "Classical | College Radio | Culture | Jazz | Languages | Literature | Music | University Radio",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://emisora.caroycuervo.gov.co/"
-    },
-    {
       "name": "Delfín Stereo 106.3 FM",
       "streamURL": "https://www.rads2.com/radio/8060/radio.mp3",
       "imageURL": "https://ssl.rads2.com/static/img/generic_song.jpg",
@@ -1024,7 +970,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573053821111",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://www.delfinstereo.com/"
@@ -1032,7 +978,7 @@
     {
       "name": "Diciebre Stereo",
       "streamURL": "https://c23.radioboss.fm:8195/stream",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/693/diciembre-stereo.eca6450d.png",
       "desc": "Diciebre Stereo",
       "longDesc": "",
       "country": "CO",
@@ -1047,19 +993,6 @@
       "streamURL": "http://stream.laut.fm/durisimaradio",
       "imageURL": "https://www.wix.com/favicon.ico",
       "desc": "Guagunco | Latin | Montuno | Otros | Romantica | Salsa | Timba",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://durisima20.wixsite.com/misitio"
-    },
-    {
-      "name": "Durisima Radio Online",
-      "streamURL": "http://stream.laut.fm/durisimaradio",
-      "imageURL": "https://www.wix.com/favicon.ico",
-      "desc": "Durisima Radio Online",
       "longDesc": "",
       "country": "CO",
       "tel": "",
@@ -1084,7 +1017,7 @@
     {
       "name": "Ebenezer stereo 88.2 la Paz Cesar",
       "streamURL": "https://sonic.paulatina.co/7128/stream",
-      "imageURL": "",
+      "imageURL": "https://www.ebenezerstereo.com/img/logo.png",
       "desc": "Ebenezer stereo 88.2 la Paz Cesar",
       "longDesc": "",
       "country": "CO",
@@ -1097,7 +1030,7 @@
     {
       "name": "Eco Stereo",
       "streamURL": "http://149.56.22.27:8022/stream",
-      "imageURL": "https://www.ecostereo.com/wp-content/uploads/2023/05/eco-stereo-300x300.png",
+      "imageURL": "https://ecostereo.com/wp-content/uploads/2026/02/cropped-cropped-cropped-bg_album_art.png",
       "desc": "Latina | Popular | Tropical",
       "longDesc": "",
       "country": "CO",
@@ -1121,34 +1054,21 @@
       "_homepage": "https://www.facebook.com/ecos1360radioficial/"
     },
     {
-      "name": "Ecos del Combeima (HJNC, 790 kHz AM, Ibagué, Tolima)",
-      "streamURL": "http://s2.viastreaming.net:8030/;",
-      "imageURL": "",
-      "desc": "Full Service | Local News | Local Talk | Music | News",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.ecosdelcombeima.com/"
-    },
-    {
       "name": "Edward Ortega Radio - Mas + Popular",
       "streamURL": "https://cloud11.vsgtech.co/proxy/maspopular/stream",
-      "imageURL": "https://edwardortegaradio.com/radio/m14/assets/img/logo.png",
+      "imageURL": "https://edwardortegaradio.com/images/edwardlogo.png",
       "desc": "Boleros | Hits | Mix | Popular | Rancheras | Regional Mexican | Retro | Tango | Tropical",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573168192587",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.edwardortegaradio.com/"
     },
     {
       "name": "El Café del Mundo",
-      "streamURL": "https://cloudstream2030.conectarhosting.com/8184/stream",
+      "streamURL": "https://elcafedelmundo.com/stream.php?t=1771531955894",
       "imageURL": "https://static-media.streema.com/media/cache/6b/11/6b11b6cd278f6b6b3a6f3a487cf5ab16.png",
       "desc": "Bossa Nova | Cuban Music | Flamenco | Folk | Jazz | Lounge | Music | Salsa",
       "longDesc": "",
@@ -1162,7 +1082,7 @@
     {
       "name": "El Sol (Medellín) 107.9 FM",
       "streamURL": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853",
-      "imageURL": "https://static.wordpress.rcnradio.com/elsol/favicon/apple-touch-icon.png",
+      "imageURL": "https://loyalty-imagenes.canalrcn.com/metadata/el-sol/icons/120x120.png",
       "desc": "Salsa",
       "longDesc": "",
       "country": "CO",
@@ -1174,13 +1094,13 @@
     },
     {
       "name": "Emisora Atlántico 1070 AM",
-      "streamURL": "https://master.letio.com/io/?gs=9104&type=live.m3u8",
-      "imageURL": "https://emisoraatlantico.com.co/wp-content/uploads/2016/02/logoEA.png",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BARRANQUILLA.mp3?dist=oro_web",
+      "imageURL": "https://media.emisoraatlantico.com.co/2026/03/noticias-en-vivo-emisora-atlantico.jpeg",
       "desc": "50S | 60S | 70S | Cumbia | Deportes | Mambo | Noticias | Rumba | Salsa | Tropical | Variety",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573226961070",
       "_codec": "UNKNOWN",
       "_bitrate": 146,
       "_homepage": "https://emisoraatlantico.com.co/"
@@ -1188,12 +1108,12 @@
     {
       "name": "Emisora cultural de Pereira Remitió Antonio Cañarte",
       "streamURL": "http://167.114.153.222:8028/;?type=http&nocache=17",
-      "imageURL": "",
+      "imageURL": "https://emisoraculturaldepereira.com/img/background.png",
       "desc": "Classic | Musica Tradicional | Rock",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573187900700",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://emisoraculturaldepereira.com/"
@@ -1211,6 +1131,18 @@
       "_bitrate": 128,
       "_homepage": "https://farallonesdigital.jimdofree.com/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Emisora Mariana 1400 AM",
       "streamURL": "https://servidor24.brlogic.com:7654/live",
