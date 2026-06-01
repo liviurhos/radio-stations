@@ -1145,19 +1145,6 @@
       "_homepage": "https://emisoramariana.org/"
     },
     {
-      "name": "Emisora Minuto de Dios",
-      "streamURL": "https://sp4.colombiatelecom.com.co/8002/stream",
-      "imageURL": "https://minutodedios.fm/wp-content/uploads/2021/10/cropped-favicon-180x180.png",
-      "desc": "Catholic Radio | Católica | Jesus | Musica Catolica | Religiosa | Religious",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://minutodedios.fm/"
-    },
-    {
       "name": "Energía 102.5 FM",
       "streamURL": "http://audio1.energia1025.com:8000/;",
       "imageURL": "https://energia1025.com/wp-content/uploads/2019/11/cropped-logoe2.png",
