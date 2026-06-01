@@ -796,7 +796,7 @@
     {
       "name": "Colombia Crossover",
       "streamURL": "https://radio35.virtualtronics.com/proxy/colombiacrossover?mp=/;",
-      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198-1.pnghttps://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198.png",
+      "imageURL": "https://colombiacrossover.com/wp-content/uploads/Logo-colombia-crossover-png-1198x1198-1.png",
       "desc": "Bachata | Caribe | Caribeño | Champeta | Crossover | Cumbia | Merengue | Metadata | Reggaeton | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -1131,35 +1131,23 @@
       "_bitrate": 128,
       "_homepage": "https://farallonesdigital.jimdofree.com/"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Emisora Mariana 1400 AM",
       "streamURL": "https://servidor24.brlogic.com:7654/live",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/5/25305.v6.png",
+      "imageURL": "https://emisoramariana.org/wp-content/uploads/2025/11/LOGO-AZUL-DORADO-1.png",
       "desc": "Bible | Catolica | Evangelio | Gospel | Religious",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573015116677",
       "_codec": "MP3",
       "_bitrate": 64,
-      "_homepage": "https://radios.com.co/emisora-mariana/"
+      "_homepage": "https://emisoramariana.org/"
     },
     {
-      "name": "Emisora Minuto de Dios Bogotá 107.9 FM",
+      "name": "Emisora Minuto de Dios",
       "streamURL": "https://sp4.colombiatelecom.com.co/8002/stream",
-      "imageURL": "https://images.app.goo.gl/DY1eDCAb4VT2Yb6X7",
+      "imageURL": "https://minutodedios.fm/wp-content/uploads/2021/10/cropped-favicon-180x180.png",
       "desc": "Catholic Radio | Católica | Jesus | Musica Catolica | Religiosa | Religious",
       "longDesc": "",
       "country": "CO",
@@ -1167,20 +1155,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://minutodedios.fm/bogota/"
-    },
-    {
-      "name": "Energia 102.5 FM",
-      "streamURL": "https://audio1.energia1025.com/radio/8000/stream.mp3",
-      "imageURL": "https://energia1025.com/wp-content/uploads/2019/11/cropped-logoenergia-2-180x180.png",
-      "desc": "Salsa",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://energia1025.com/"
+      "_homepage": "https://minutodedios.fm/"
     },
     {
       "name": "Energía 102.5 FM",
@@ -1198,7 +1173,7 @@
     {
       "name": "energía 103.7",
       "streamURL": "https://radiostreamcolombia.albpo.com:8070/radio.mp3",
-      "imageURL": "",
+      "imageURL": "http://radiostreamcolombia.albpo.com/api/nowplaying/energia_103.7/art/1780313548.jpg",
       "desc": "energía 103.7",
       "longDesc": "",
       "country": "CO",
@@ -1208,6 +1183,21 @@
       "_bitrate": 192,
       "_homepage": "https://radiostreamcolombia.albpo.com/public/energia_103.7"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Estrella Estéreo (HJTD 104.3 MHz, La Estrella/Medellín, Antioquia)",
       "streamURL": "http://68.233.236.92:8006/;",
