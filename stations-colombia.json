@@ -731,7 +731,7 @@
     {
       "name": "Cerro Azul Stereo 107.4 FM",
       "streamURL": "http://radiolatina.info:9025/;",
-      "imageURL": "https://cerroazulfm.com/wp/wp-content/uploads/2023/12/WhatsApp-Image-2023-12-13-at-2.47.51-PM.jpeg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fradiosaovivo.online%2Fuploads%2Fradios%2F2022%2F07%2Fradio-cerro-azul-stereo-107-4-fm.jpg&f=1&nofb=1&ipt=f95613c1b1998ee62ca51ce42f830f1a7316bf97b045724929a8055b70e97dfc",
       "desc": "Crossover | Cumbia | Entretenimiento | Latino | Popular | Radio Comunitaria | Radio Hablada | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -1277,7 +1277,7 @@
     {
       "name": "Fuego AM 1130",
       "streamURL": "https://radio35.virtualtronics.com:20017/stream",
-      "imageURL": "https://fuegoam.com.co/wp-content/uploads/2023/01/cropped-fuego-am-logo-negro.jpg",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fradiosaovivo.online%2Fuploads%2Fradios%2F2023%2F09%2Fradio-fuego-1130-am.jpg&f=1&nofb=1&ipt=2db5245681d0f966423debd02b718ed71483b629221bfea522a6b96018be444b",
       "desc": "Bible | Cristiana | Evangelio | Gospel",
       "longDesc": "",
       "country": "CO",
@@ -1287,20 +1287,6 @@
       "_bitrate": 128,
       "_homepage": "https://fuegoam.com.co/"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Global Estéreo 96.8 FM La Plata, Huila",
       "streamURL": "http://radiolatina.info/9840/stream",
@@ -1309,7 +1295,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573174470940",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.emisoraglobalestereo.com/"
@@ -1317,7 +1303,7 @@
     {
       "name": "Guarne Estéreo 88.1 FM",
       "streamURL": "http://streamingmediaradio.live:8046/stream",
-      "imageURL": "https://www.facebook.com/favicon.ico",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/885/guarne-estereo.25f4855b.jpg",
       "desc": "Community Radio | Music | Música Variada",
       "longDesc": "",
       "country": "CO",
@@ -1356,7 +1342,7 @@
     {
       "name": "HJMO - La FM Bogotá 94.9 FM",
       "streamURL": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe?aid=6271a4d5d206c3172f3c9a9c&pid=sR66otPFYVH3COaPvQsDYgj4TC1khK3P&sid=rd3blGfLcEBmEeiXR7YfQyOM0r0dWIfi&uid=pNLRZjrYOCf71dkLTshHFJVkLOYHJzUY&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1768543304362&ot=Z9sYngzRnYabwKpTcjO1Vg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632c9b23d1dcd7027f32f7fe&propertyName=demo-rcn-app-web&listenerId=pNLRZjrYOCf71dkLTshHFJVkLOYHJzUY",
-      "imageURL": "https://www.lafm.com.co/themes/custom/rcnradio/logo.svg",
+      "imageURL": "https://d371i8ihhgym7w.cloudfront.net/33246.png",
       "desc": "Deportes | Entretenimiento | Musica | Noticias",
       "longDesc": "",
       "country": "CO",
@@ -1395,12 +1381,12 @@
     {
       "name": "Improvisando Radio",
       "streamURL": "https://radio25.virtualtronics.com/proxy/improvisandoradio?mp=/stream",
-      "imageURL": "",
+      "imageURL": "https://www.improvisandoradio.co/wp-content/uploads/2023/06/cropped-Logo-IR-Android-150.png",
       "desc": "Alternative Rock",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573193937324",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.improvisandoradio.co/"
@@ -1413,80 +1399,28 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573165281236",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "https://www.inci.gov.co/inciradio"
     },
     {
-      "name": "Javeriana Estéreo 91,9",
-      "streamURL": "https://radio06.cehis.net/proxy/javerian?mp=%2Fstream",
-      "imageURL": "",
+      "name": "Javeriana Estéreo",
+      "streamURL": "https://radio06.cehis.net:9001/stream",
+      "imageURL": "https://javerianaestereo.com/documents/4772835/4785241/Logo-Menu-javeriana-estereo.png/2e4574e5-524c-4cfd-63be-75d57104a3eb",
       "desc": "Javeriana Estéreo 91,9",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573175151794",
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "https://javerianaestereo.com/player-javeriana-estereo"
     },
     {
-      "name": "Javeriana Etéreo",
-      "streamURL": "https://radio06.cehis.net:9001/stream",
-      "imageURL": "https://javerianaestereo.com/o/puj-portal-themeV2/images/favicon.ico",
-      "desc": "Classical | Eclectic Programming | Rock",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://javerianaestereo.com/"
-    },
-    {
       "name": "JT 1",
       "streamURL": "http://sc10.conectarhosting.com/proxy/joventaoistaportal1?mp=/stream",
-      "imageURL": "null",
-      "desc": "Espiritual",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.joventaoista.org/"
-    },
-    {
-      "name": "JT 2",
-      "streamURL": "http://sc10.conectarhosting.com/proxy/joventaoistaportal2?mp=/stream",
-      "imageURL": "null",
-      "desc": "Espiritual",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.joventaoista.org/"
-    },
-    {
-      "name": "JT 2",
-      "streamURL": "https://sc10.conectarhosting.com/proxy/joventaoistaportal2?mp=/stream",
-      "imageURL": "null",
-      "desc": "Espiritual",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://joventaoista.org/"
-    },
-    {
-      "name": "JT 3",
-      "streamURL": "http://sc10.conectarhosting.com/proxy/joventaoistaportal3?mp=/stream",
-      "imageURL": "null",
+      "imageURL": "https://www.joventaoista.org/wp-content/uploads/2020/02/bandera.jpeg",
       "desc": "Espiritual",
       "longDesc": "",
       "country": "CO",
@@ -1525,33 +1459,20 @@
     {
       "name": "La Ciento 7 Digital - FM 107.8",
       "streamURL": "https://radiohd.streaminghd.co:7190/live",
-      "imageURL": "https://streaminghd.co/cliente/uploads/logos/laciento7digital_1739388700.png",
+      "imageURL": "https://streaminghd.co/uploads/logos/laciento7digital_1739388700.png",
       "desc": "Crossover | Entretenimiento | Music | Popular | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573228455559",
       "_codec": "AAC",
       "_bitrate": 64,
       "_homepage": "https://streaminghd.co/user/laciento7digital"
     },
     {
-      "name": "La Costeña Stereo 91.0 FM",
-      "streamURL": "https://play8.tikast.com:20060/stream",
-      "imageURL": "https://xn--lacosteastereo-wnb.com/wp-content/uploads/2023/04/Portada-Pagina-Web-La-Costena-2023.png",
-      "desc": "Entretenimiento | Music | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://xn--lacosteastereo-wnb.com/"
-    },
-    {
       "name": "La Discoteca Radio",
       "streamURL": "https://streamingmediaradio.live:8002/stream",
-      "imageURL": "https://ladiscotecaradio.com/wp-content/uploads/2023/03/1.png",
+      "imageURL": "https://ladiscotecaradio.com/wp-content/uploads/2025/10/cropped-Diseno-sin-titulo-91-1.png",
       "desc": "Latino | Merengue | Música Urbana | Reggaeton | Urbano",
       "longDesc": "",
       "country": "CO",
@@ -1569,7 +1490,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573114267856",
       "_codec": "MP3",
       "_bitrate": 160,
       "_homepage": "https://laenamoradafm.com/"
@@ -1577,12 +1498,12 @@
     {
       "name": "La Isla 89.5 Fm",
       "streamURL": "https://radiohd.streaminghd.co:7238/stream?1708935217",
-      "imageURL": "",
+      "imageURL": "https://streaminghd.co/uploads/logos/laislafm_1761833977.jpeg",
       "desc": "La Isla 89.5 Fm",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573154261470",
       "_codec": "AAC",
       "_bitrate": 128,
       "_homepage": "https://streaminghd.co/user/laislafm"
@@ -1603,7 +1524,7 @@
     {
       "name": "La Kalle",
       "streamURL": "http://26683.live.streamtheworld.com/LA_KALLE_SC",
-      "imageURL": "",
+      "imageURL": "https://lakalle.bluradio.com/apple-touch-icon.png",
       "desc": "Folk Music | Local Music | Popular | Ranchera | Urban",
       "longDesc": "",
       "country": "CO",
@@ -1614,35 +1535,9 @@
       "_homepage": "http://lakalle.bluradio.com/"
     },
     {
-      "name": "LA KALLE 96.9 FM",
-      "streamURL": "https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac",
-      "imageURL": "https://cdn.colombia.com/canales/la-kalle-3023-v1.jpg",
-      "desc": "LA KALLE 96.9 FM",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 128,
-      "_homepage": "https://www.colombia.com/radio/la-kalle-96.9-fm-bogota-3706"
-    },
-    {
-      "name": "La Kalle FM",
-      "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/LA_KALLE.mp3",
-      "imageURL": "",
-      "desc": "Classical | Hits | Reggaetón | Sudamericana",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "http://lakalle.co/"
-    },
-    {
       "name": "La Mega (Medellín) 92.9 FM",
       "streamURL": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab",
-      "imageURL": "",
+      "imageURL": "https://loyalty-imagenes.canalrcn.com/metadata/la-mega/icons/120x120.png",
       "desc": "Entretenimiento | Music | Pop | Reggaeton | Urbano",
       "longDesc": "",
       "country": "CO",
@@ -1655,7 +1550,7 @@
     {
       "name": "La Mega (Pereira) 105.2 FM",
       "streamURL": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af",
-      "imageURL": "https://www.lamega.com.co/logo-lamega-30.svg",
+      "imageURL": "https://loyalty-imagenes.canalrcn.com/metadata/la-mega/icons/120x120.png",
       "desc": "Entretenimiento | Latino | Latinoamérica | Music | Música Urbana | Pop | Pop Latino | Pop Music | Pop Rock | Reguetón | Rock | Urbano",
       "longDesc": "",
       "country": "CO",
@@ -1673,11 +1568,25 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573053007919",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://onlineradiobox.com/co/laochentera/"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "La Pachanguera FM",
       "streamURL": "http://radiolatina.info:8772/",
