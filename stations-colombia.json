@@ -1170,21 +1170,6 @@
       "_bitrate": 192,
       "_homepage": "https://radiostreamcolombia.albpo.com/public/energia_103.7"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Estrella Estéreo (HJTD 104.3 MHz, La Estrella/Medellín, Antioquia)",
       "streamURL": "http://68.233.236.92:8006/;",
@@ -1201,7 +1186,7 @@
     {
       "name": "Fiesta 102.7 FM",
       "streamURL": "https://server1.intermediacolombia.com:8008/stream",
-      "imageURL": "https://www.fiestafm.com.co/images/logo-repro.png",
+      "imageURL": "https://www.fiestafm.com.co/images/logo.png",
       "desc": "Crossover | Grupera | Latino | Popular | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -1214,7 +1199,7 @@
     {
       "name": "Fiesta 106.2 FM",
       "streamURL": "https://server1.intermediacolombia.com:8006/stream",
-      "imageURL": "https://www.fiestafm.com.co/images/logo-repro.png",
+      "imageURL": "https://www.fiestafm.com.co/images/logo.png",
       "desc": "Latino | Music | Popular | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -1225,14 +1210,14 @@
       "_homepage": "https://www.fiestafm.com.co/san-alberto/"
     },
     {
-      "name": "fiesta stereo 107.7 fm Barrancas",
+      "name": "Fiesta Stereo 107.7 FM Barrancas",
       "streamURL": "https://streaming.radiosenlinea.com.ar/8744/stream",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.colombia.com%2Fcanales%2Ffiesta-stereo-6404.jpg&f=1&nofb=1&ipt=f1ed57f1179bb081251fd1d001f6ec0a66d766d82fa988fc42833b516011e2f7",
       "desc": "fiesta stereo 107.7 fm Barrancas",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573013880314",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://www.fiestastereobarrancas.com/"
@@ -1240,7 +1225,7 @@
     {
       "name": "Fiesta Stereo 88.1 FM",
       "streamURL": "https://streaming.radiosenlinea.com.ar/8800/stream",
-      "imageURL": "",
+      "imageURL": "https://www.fiestastereo881.com/wp-content/uploads/2024/02/cropped-Lofo-Fiesta-RGB.png",
       "desc": "African Music | Crossover | Entretenimiento | Latino | Noticias | Tropical",
       "longDesc": "",
       "country": "CO",
@@ -1264,19 +1249,6 @@
       "_homepage": "https://fiestastereo958.com/"
     },
     {
-      "name": "Fiesta Stereo 95.8 FM La Plata, Huila",
-      "streamURL": "https://radiohd.streaminghd.co:7523/stream",
-      "imageURL": "https://fiestastereo958.com/wp-content/uploads/2021/11/logobg.png",
-      "desc": "Fiesta Stereo 95.8 FM La Plata, Huila",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 64,
-      "_homepage": "https://fiestastereo958.com/"
-    },
-    {
       "name": "Frecuencia Bolivariana 1160 AM",
       "streamURL": "https://radiolatina.info/9326/stream",
       "imageURL": "https://i0.wp.com/frecuenciabolivariana.com.co/wp-content/uploads/2023/01/Logo-Frecuencia-Bolivariana-2023.png?fit=2642%2C1088&ssl=1",
@@ -1284,7 +1256,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573135276516",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://frecuenciabolivariana.com.co/"
@@ -1303,31 +1275,32 @@
       "_homepage": "https://frecuenciau.udemedellin.edu.co/"
     },
     {
-      "name": "Fuego AM",
-      "streamURL": "https://radio35.virtualtronics.com:20017/stream",
-      "imageURL": "",
-      "desc": "Fuego AM",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://fuegoam.com.co/"
-    },
-    {
       "name": "Fuego AM 1130",
       "streamURL": "https://radio35.virtualtronics.com:20017/stream",
-      "imageURL": "https://fuegoam.com.co/wp-content/uploads/2023/01/cropped-fuego-am-logo-negro-159x33.jpg",
+      "imageURL": "https://fuegoam.com.co/wp-content/uploads/2023/01/cropped-fuego-am-logo-negro.jpg",
       "desc": "Bible | Cristiana | Evangelio | Gospel",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573227291386",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://fuegoam.com.co/"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Global Estéreo 96.8 FM La Plata, Huila",
       "streamURL": "http://radiolatina.info/9840/stream",
