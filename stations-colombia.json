@@ -1619,8 +1619,8 @@
       "desc": "La Reina Barranquilla",
       "longDesc": "",
       "country": "CO",
-      "tel": "+573217829986",
-      "whatsapp": "",
+      "tel": "",
+      "whatsapp": "+573217829986",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://lareinadelvallenato.co/"
@@ -1638,18 +1638,6 @@
       "_bitrate": 64,
       "_homepage": "https://lareinadelvallenato.co/"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "La Sonora 100.6 Samacá",
       "streamURL": "https://sonic.paulatina.co/8122/stream",
@@ -1729,9 +1717,9 @@
       "_homepage": "https://www.brsradio.co/"
     },
     {
-      "name": "la super estación latina 104.1 armenia",
+      "name": "La Super Etación Latina 104.1",
       "streamURL": "https://server1.intermediacolombia.com:8010/stream",
-      "imageURL": "",
+      "imageURL": "https://www.superestacionarmenia.com/wp-content/uploads/2023/07/logo-1.png",
       "desc": "2000S | 70S | 80S | 90S | Anglo | Baladas | Baladas En Español | Clásicos | Clásicos En Español | Clásicos En Inglés | Deportes | Futbol | Fútbol | Latina | Música En Español E Inglés | Noticias | Noticias Locales | Noticias Nacionales E Internacionales | Noticias Y Deportes | Pop En Inglés | Rock | Rock En Espanol | Rock En Español E Inglés | Romantica | Romántica | Salsa",
       "longDesc": "",
       "country": "CO",
@@ -1755,19 +1743,6 @@
       "_homepage": "http://www.vozdeetashtitlan.org/"
     },
     {
-      "name": "La Voz de Etashtitlan",
-      "streamURL": "http://sc10.conectarhosting.com/proxy/vzdetashtitlan?mp=/stream",
-      "imageURL": "null",
-      "desc": "Espiritual",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.vozdeetashtitlan.org/"
-    },
-    {
       "name": "La Voz de los Llaneros 106.3FM",
       "streamURL": "https://1063.meta.gov.co/",
       "imageURL": "https://static-media.streema.com/media/cache/8d/bd/8dbdd33d18d2e6d5856eaaedf5bb3a21.jpg",
@@ -1778,7 +1753,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://www.facebook.com/106.3fmoficial/"
+      "_homepage": "https://meta.gov.co/"
     },
     {
       "name": "La voz de mi tierrita 94.1 FM",
@@ -1827,7 +1802,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573157427985",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://lavozdelnorte.com.co/"
@@ -1918,7 +1893,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573016355586",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://madrigalfm.com/"
@@ -1926,7 +1901,7 @@
     {
       "name": "Majuy Stereo",
       "streamURL": "https://yesfm.vip:8010/laquemegusta.mp3/stream",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fradio-co.com%2Fwp-content%2Fuploads%2F2025%2F08%2FMajuy-Stereo-107.4-FM.jpg&f=1&nofb=1&ipt=2b8a8f320c960140ba1aa6374e15fcaf614c71f30f9fe25dee2b598827e752bd",
       "desc": "Majuy Stereo",
       "longDesc": "",
       "country": "CO",
@@ -1936,6 +1911,16 @@
       "_bitrate": 128,
       "_homepage": "https://cotafm.com/"
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Marandua Stereo",
       "streamURL": "http://radiolatina.info/9430/stream",
