@@ -1911,29 +1911,6 @@
       "_bitrate": 128,
       "_homepage": "https://cotafm.com/"
     },
-
-
-
-
-
-
-
-
-
-    
-    {
-      "name": "Marandua Stereo",
-      "streamURL": "http://radiolatina.info/9430/stream",
-      "imageURL": "",
-      "desc": "Marandua Stereo",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://marandua.com.co/"
-    },
     {
       "name": "Marandua Stereo 100.7 FM",
       "streamURL": "http://radiolatina.info/9430/stream",
@@ -1948,9 +1925,9 @@
       "_homepage": "https://marandua.com.co/marandua-stereo-vivo/"
     },
     {
-      "name": "mas radio pb",
+      "name": "Mas Radio PB",
       "streamURL": "https://radiolatina.info/8076/stream",
-      "imageURL": "",
+      "imageURL": "https://www.ipucpatiobonito.com/img/logo.png",
       "desc": "Cristiana",
       "longDesc": "",
       "country": "CO",
@@ -1963,7 +1940,7 @@
     {
       "name": "MaximusRockFM",
       "streamURL": "http://stream.laut.fm/maximusrockfm",
-      "imageURL": "",
+      "imageURL": "https://maximusrockfm.com/wp-content/uploads/2026/04/emisora-de-rock-y-metal.png",
       "desc": "Alternative Rock | Metal | Rock",
       "longDesc": "",
       "country": "CO",
@@ -1972,19 +1949,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://maximusrockfm.000.pe/"
-    },
-    {
-      "name": "Medellin 104.9 - Olimpica Stereo",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac?1707017722",
-      "imageURL": "http://www.olimpicastereo.com.co/icon?b8748d2f62517688",
-      "desc": "Medellin 104.9 - Olimpica Stereo",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://www.olimpicastereo.com.co/"
     },
     {
       "name": "Metrópolis Stereo",
@@ -2000,13 +1964,13 @@
       "_homepage": "https://metropolisfm.co/"
     },
     {
-      "name": "Mi%Vallenatísima",
+      "name": "Mi Vallenatísima",
       "streamURL": "https://streaming.radiosenlinea.com.ar:10865/stream",
       "imageURL": "https://play-lh.googleusercontent.com/occPjKzfar8zpBBY5gz1SiZh55fVdL56fpyVQCWOoBYBF8xlE_JFP3o7YzdKkD3m2g=s360-rw",
       "desc": "Tropical | Vallenato",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+573007611507",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2065,71 +2029,6 @@
       "_homepage": "https://mixradio.co/category/cali/"
     },
     {
-      "name": "Mix Radio 103.9",
-      "streamURL": "https://master.letio.com/io/?gs=9156&type=master.m3u8",
-      "imageURL": "http://mixradio.co/icon?b8748d2f62517688",
-      "desc": "Champeta | Reggaeton",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "UNKNOWN",
-      "_bitrate": 146,
-      "_homepage": "http://mixradio.co/"
-    },
-    {
-      "name": "Musical Stereo",
-      "streamURL": "https://sonic.paulatina.co/8156/stream",
-      "imageURL": "",
-      "desc": "70S | 80S | Baladas | Clasicos | Música Tropical",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.musicalstereo.com/"
-    },
-    {
-      "name": "Musical Stereo",
-      "streamURL": "https://sonic.paulatina.co/8156/stream",
-      "imageURL": "",
-      "desc": "70S | 80S | Baladas | Clasicos | Tropical",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.musicalstereo.com/"
-    },
-    {
-      "name": "Musical Stereo",
-      "streamURL": "https://sonic.paulatina.co/8156/stream",
-      "imageURL": "",
-      "desc": "70S | 80S",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.musicalstereo.com/"
-    },
-    {
-      "name": "Musical Stereo",
-      "streamURL": "https://sonic.paulatina.co/8156/stream",
-      "imageURL": "",
-      "desc": "Musical Stereo",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.musicalstereo.com/"
-    },
-    {
       "name": "Musical Stereo",
       "streamURL": "https://sonic.paulatina.co/8156/stream/;",
       "imageURL": "https://www.musicalstereo.com/wp-content/uploads/2023/10/musical-stereo.png",
@@ -2145,21 +2044,8 @@
     {
       "name": "Nevermore Radio - Nevermore Network",
       "streamURL": "https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3",
-      "imageURL": "https://nevermorenetwork.com/logo.svg",
+      "imageURL": "https://nevermorenetwork.com/apple-touch-icon.png",
       "desc": "Alternative | Ambient | Black Metal | Death Metal | Eclectic | Electronic | Metal",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://nevermorenetwork.com/"
-    },
-    {
-      "name": "Nevermore Radio - Nevermore Network",
-      "streamURL": "https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3",
-      "imageURL": "https://nevermorenetwork.com/logo.svg",
-      "desc": "Alternative | Ambient | Black Metal | Death Metal | Eclectic | Electronic | Emo | Experimental | Hardcore | Metal",
       "longDesc": "",
       "country": "CO",
       "tel": "",
@@ -2171,7 +2057,7 @@
     {
       "name": "Nueva Era Algeciras Sterio 107.8 FM",
       "streamURL": "https://radiohd.streaminghd.co:7154/stream",
-      "imageURL": "https://streaminghd.co/user/algecirasst",
+      "imageURL": "https://cdn.radio-addict.com/media/stream/997664f1-2f43-4149-917a-de15f64279ee_228D7C4116C262B8E57793D79D5AEB27_whDN4ALZ1NaMwDcPgiRrpxWJ-Rei84Z3M6uvSizknMFP_o8vpJjR8BJh6KpVjArCu1c=w240-h480-rw",
       "desc": "Bachata | Crossover | Merengue | Music | Popular | Radio Comunitaria | Salsa",
       "longDesc": "",
       "country": "CO",
@@ -2179,12 +2065,12 @@
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 64,
-      "_homepage": "https://streaminghd.co/uploads/algecirasst.jpg"
+      "_homepage": "http://algradio.mex.tl/"
     },
     {
       "name": "Olimpica Stereo 101.5 Fm Sincelejo",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?1715700010",
-      "imageURL": "",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Latin Music",
       "longDesc": "",
       "country": "CO",
@@ -2197,7 +2083,7 @@
     {
       "name": "Olimpica Stereo 90.5 fm Cartagena",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CARTAGENAAAC_SC?1715570345",
-      "imageURL": "",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Latina",
       "longDesc": "",
       "country": "CO",
@@ -2210,7 +2096,7 @@
     {
       "name": "Olimpica Stereo 90.5 Fm Monteria",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972",
-      "imageURL": "http://olimpicastereo.com.co/icon?b8748d2f62517688",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Latin Music",
       "longDesc": "",
       "country": "CO",
@@ -2223,7 +2109,7 @@
     {
       "name": "Olimpica Stereo Bucaramanga 97.7 FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BUCARAMANGAAAC.aac",
-      "imageURL": "https://olimpicastereo.com.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-olimpica-stereo-bucket.s3.us-east-1.amazonaws.com%2Flogo_olimpica_stereo_179b80381a.webp&w=384&q=75",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Crossover | Cumbia | Entretenimiento | Merengue | Popular | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -2236,7 +2122,7 @@
     {
       "name": "Olímpica Stereo (Medellín) 104.9-FM",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac",
-      "imageURL": "https://olimpicastereo.com.co/wp-content/uploads/2019/12/Logo_olimpica_stereologo.png",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Salsa | Vallenato | Various",
       "longDesc": "",
       "country": "CO",
@@ -2262,7 +2148,7 @@
     {
       "name": "olímpica stereo Valledupar 93.7 fm",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_VALLEDUPARAAC.aac",
-      "imageURL": "",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Olimpica Stereo",
       "longDesc": "",
       "country": "CO",
@@ -2288,7 +2174,7 @@
     {
       "name": "Olímpica Stéreo 104.5 Cali",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_CALI.mp3",
-      "imageURL": "https://olimpicastereo.com.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-olimpica-stereo-bucket.s3.us-east-1.amazonaws.com%2Flogo_olimpica_stereo_179b80381a.webp&w=384&q=75",
+      "imageURL": "https://olimpicastereo.com.co/icon?b8748d2f62517688",
       "desc": "Crossover | Entretenimiento | Music | Popular | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -2299,19 +2185,6 @@
       "_homepage": "https://olimpicastereo.com.co/"
     },
     {
-      "name": "Olímpica Stéreo 92.1 Barranquilla",
-      "streamURL": "https://master.letio.com/io/?gs=9102&type=live.mp3",
-      "imageURL": "https://olimpicastereo.com.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-olimpica-stereo-bucket.s3.us-east-1.amazonaws.com%2Flogo_olimpica_stereo_179b80381a.webp&w=384&q=75",
-      "desc": "Champeta | Entretenimiento | Music | Salsa | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "UNKNOWN",
-      "_bitrate": 146,
-      "_homepage": "https://olimpicastereo.com.co/"
-    },
-    {
       "name": "Oyente Stereo",
       "streamURL": "https://server2.ejeserver.com:8364/stream",
       "imageURL": "https://www.emisoraoyentestereo.com.co/images/radio.jpeg",
@@ -2319,7 +2192,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573113569173",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.emisoraoyentestereo.com.co/"
@@ -2327,7 +2200,7 @@
     {
       "name": "Pingüino Estéreo",
       "streamURL": "http://radiolatina.info:9750/",
-      "imageURL": "http://pinguinostereo1069.blogspot.com/favicon.ico",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbnail.anii.io%2Fco%2Fradio-pinguino-estereo-106-9-fm-cali-colombia.webp&f=1&nofb=1&ipt=deb00f25c77f026948639373c29572a707f6ad9227d45a069dbdb32cd75dbef8",
       "desc": "Community Radio",
       "longDesc": "",
       "country": "CO",
@@ -2340,7 +2213,7 @@
     {
       "name": "POPAYAN FM 105.1",
       "streamURL": "http://148.72.152.176:8018/stream",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.colombia.com%2Fcanales%2F-3415.jpg&f=1&nofb=1&ipt=699bf3fc147497ba2cc70711fef5d4288d8139808959a7f9cad2683493a66fdf",
       "desc": "POPAYAN FM 105.1",
       "longDesc": "",
       "country": "CO",
@@ -2358,7 +2231,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573147705692",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://puertoberriostereo.com/"
@@ -2366,7 +2239,7 @@
     {
       "name": "PUERTO ESTEREO 98.4 FM",
       "streamURL": "https://radiohd.streaminghd.co:7286/stream",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.d0xII7FwH029kvRTXadduAHaHa%3Fpid%3DApi&f=1&ipt=8a440c2a66fa93ef13c934a7f2a419da96e6cce869e5d351931549974f5cba78&ipo=images",
       "desc": "PUERTO ESTEREO 98.4 FM",
       "longDesc": "",
       "country": "CO",
@@ -2384,23 +2257,10 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573165765809",
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "https://autentica1080am.com/"
-    },
-    {
-      "name": "Radio Auténtica Bogotá 540 AM",
-      "streamURL": "https://radiolatina.info:10835/;",
-      "imageURL": "https://crabogota.com/images/logo2.png",
-      "desc": "Biblia | Cristiana | Evangelio | Evangélica | Religious",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "https://crabogota.com/"
     },
     {
       "name": "Radio Auténtica Cali 660 AM",
@@ -2410,28 +2270,28 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573176546323",
       "_codec": "MP3",
       "_bitrate": 64,
       "_homepage": "https://autenticacali.com/"
     },
     {
-      "name": "Radio Bandida",
-      "streamURL": "https://latina.streeemer.com/listen/latina/radio.aac",
-      "imageURL": "",
-      "desc": "Radio Bandida",
+      "name": "Radio Auténtica Bogotá 540 AM",
+      "streamURL": "https://radiolatina.info:10835/;",
+      "imageURL": "https://crabogota.com/images/logo2.png",
+      "desc": "Biblia | Cristiana | Evangelio | Evangélica | Religious",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
+      "whatsapp": "+573505440366",
+      "_codec": "MP3",
       "_bitrate": 64,
-      "_homepage": "https://www.emisorascolombianas.co/ae/bandida"
+      "_homepage": "https://crabogota.com/"
     },
     {
       "name": "Radio Capital 1250 AM",
       "streamURL": "https://radiolatina.info/9322/;",
-      "imageURL": "https://www.1250amcapitalradio.com/favicon.ico",
+      "imageURL": "https://1250amcapitalradio.com/wp-content/uploads/2024/05/cropped-Logo-Radio-Capital-180x180.png",
       "desc": "Colombian Music | Crossover | Entretenimiento | Popular | Radio Hablada | Social | Vallenato | Variety",
       "longDesc": "",
       "country": "CO",
@@ -2439,7 +2299,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://www.1250amcapitalradio.com/"
+      "_homepage": "https://1250amcapitalradio.com/"
     },
     {
       "name": "Radio Ipiales Caracol (HJJJ, 1400 kHz AM)",
@@ -2457,7 +2317,7 @@
     {
       "name": "radio ipuc",
       "streamURL": "https://virtualtronics.net/proxy/ipuc?mp=/stream/1/",
-      "imageURL": "",
+      "imageURL": "https://cdn.colombia.com/canales/radio-ipuc-2176.jpg",
       "desc": "Cristiana | Pentecostal",
       "longDesc": "",
       "country": "CO",
@@ -2475,7 +2335,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+51930349536",
       "_codec": "AAC+",
       "_bitrate": 320,
       "_homepage": "https://www.masrocknpop.com/"
@@ -2488,7 +2348,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573204893420",
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "https://meridiano70.co/"
@@ -2496,26 +2356,13 @@
     {
       "name": "Radio Nacional de Colombia",
       "streamURL": "http://shoutcast.rtvc.gov.co:8000/;",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn-radiotime-logos.tunein.com%2Fs131166g.png&f=1&nofb=1&ipt=b772f01da6ffd8372cc04e62f191f58e203943fee91914f952015154d91ae4d2",
       "desc": "Radio Nacional de Colombia",
       "longDesc": "",
       "country": "CO",
       "tel": "",
       "whatsapp": "",
       "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": ""
-    },
-    {
-      "name": "Radio Nacional de Colombia",
-      "streamURL": "https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8",
-      "imageURL": "https://radionacional-v3.s3.amazonaws.com/s3fs-public/Favicon-Radio-Nacional.svg",
-      "desc": "Radio Nacional de Colombia",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
       "_bitrate": 64,
       "_homepage": "https://www.radionacional.co/"
     },
@@ -2533,27 +2380,14 @@
       "_homepage": "https://www.policia.gov.co/"
     },
     {
-      "name": "Radio Policía (Medellín) Nacional 96.4 FM",
-      "streamURL": "https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream",
-      "imageURL": "",
-      "desc": "Classic Hits | Cumbia | Hits | Popular | Reggaeton | Salsa | Urbano",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.policia.gov.co/"
-    },
-    {
       "name": "Radio Recuerdos 1230 AM",
       "streamURL": "https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;",
-      "imageURL": "https://radiorecuerdos1230.com/images/radio%20recuerdos3.png",
+      "imageURL": "https://radiorecuerdos1230.com/images/152x152/18188739/logoradiorecuerdossin-01-SJbofWdca7JixoLphS2-2A-G_I--lY1A_k1T8NOGQYVDQ.png",
       "desc": "40S | 50S | 60S | 70S | 80S | Entretenimiento | Música Popular Mexicana | Popular | Ranchera | Retro",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573224345019",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://radiorecuerdos1230.com/"
@@ -2561,7 +2395,7 @@
     {
       "name": "Radio Tiempo",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?1715700626",
-      "imageURL": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240514_113926016.jpg?alt=media&token=39840063-eb0c-4a70-b5fc-56dba7e63fd9",
+      "imageURL": "https://static-media.streema.com/media/cache/69/a8/69a8ef2eda05a23db7ce4fe3b461c337.jpg",
       "desc": "Romantic Pop",
       "longDesc": "",
       "country": "CO",
@@ -2586,17 +2420,27 @@
     },
     {
       "name": "Radio Tiempo Barranquilla",
-      "streamURL": "https://master.letio.com/io/?gs=9100&type=master.m3u8",
+      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BARRANQUILLAAAC.aac?dist=oro_web",
       "imageURL": "https://www.radiotiempo.co/icon?b8748d2f62517688",
       "desc": "Radio Tiempo Barranquilla",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573013000961",
       "_codec": "UNKNOWN",
       "_bitrate": 146,
       "_homepage": "https://www.radiotiempo.co/"
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Radio Tiempo Cali 89.5 FM",
       "streamURL": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
