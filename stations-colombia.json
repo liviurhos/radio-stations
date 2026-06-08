@@ -1573,24 +1573,10 @@
       "_bitrate": 64,
       "_homepage": "https://onlineradiobox.com/co/laochentera/"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "La Pachanguera FM",
       "streamURL": "http://radiolatina.info:8772/",
-      "imageURL": "",
+      "imageURL": "https://www.lapachanguerafm.com/es/images/logo2.png",
       "desc": "La Pachanguera FM",
       "longDesc": "",
       "country": "CO",
@@ -1598,7 +1584,7 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://www.lapachanguerafm.com/"
+      "_homepage": "https://www.lapachanguerafm.com/es/"
     },
     {
       "name": "La Poderosa 104.1 FM",
@@ -1608,7 +1594,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573136002051",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://lapoderosa1041.com/"
@@ -1621,7 +1607,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573058139844",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.radiocristianamanizales.com/"
@@ -1629,11 +1615,11 @@
     {
       "name": "La Reina Barranquilla",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLAAAC.aac?dist=oro_web",
-      "imageURL": "https://lareinadelvallenato.co/favicon.ico",
+      "imageURL": "https://lareinadelvallenato.co/_next/image?url=https%3A%2F%2Fstrapi-aws-s3-images-lareinadelvallenato-bucket.s3.us-east-1.amazonaws.com%2Flogo_la_reina_2826ff997c.webp&w=640&q=75",
       "desc": "La Reina Barranquilla",
       "longDesc": "",
       "country": "CO",
-      "tel": "",
+      "tel": "+573217829986",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 64,
@@ -1647,11 +1633,23 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573205432955",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://lareinadelvallenato.co/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "La Sonora 100.6 Samacá",
       "streamURL": "https://sonic.paulatina.co/8122/stream",
