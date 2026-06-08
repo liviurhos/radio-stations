@@ -1407,7 +1407,7 @@
     {
       "name": "Javeriana Estéreo",
       "streamURL": "https://radio06.cehis.net:9001/stream",
-      "imageURL": "https://javerianaestereo.com/documents/4772835/4785241/Logo-Menu-javeriana-estereo.png/2e4574e5-524c-4cfd-63be-75d57104a3eb",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.colombia.com%2Fcanales%2Fjaveriana-estereo-1884.jpg&f=1&nofb=1&ipt=0941fcc026701785bde51e5c79460509af80df0576b0d16afba4401ddb91c160",
       "desc": "Javeriana Estéreo 91,9",
       "longDesc": "",
       "country": "CO",
@@ -2421,7 +2421,7 @@
     {
       "name": "Radio Tiempo Barranquilla",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BARRANQUILLAAAC.aac?dist=oro_web",
-      "imageURL": "https://www.radiotiempo.co/icon?b8748d2f62517688",
+      "imageURL": "https://static-media.streema.com/media/cache/69/a8/69a8ef2eda05a23db7ce4fe3b461c337.jpg",
       "desc": "Radio Tiempo Barranquilla",
       "longDesc": "",
       "country": "CO",
@@ -2431,16 +2431,6 @@
       "_bitrate": 146,
       "_homepage": "https://www.radiotiempo.co/"
     },
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Radio Tiempo Cali 89.5 FM",
       "streamURL": "https://26583.live.streamtheworld.com/RT_CALIAAC_SC",
@@ -2457,7 +2447,7 @@
     {
       "name": "Radio Tiempo Cartagena Colombia",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_CARTAGENAAAC.aac?dist=RtCarWeb",
-      "imageURL": "https://radiotiempo.co/icon?b8748d2f62517688",
+      "imageURL": "https://static-media.streema.com/media/cache/69/a8/69a8ef2eda05a23db7ce4fe3b461c337.jpg",
       "desc": "Radio Tiempo Cartagena Colombia",
       "longDesc": "",
       "country": "CO",
@@ -2467,32 +2457,7 @@
       "_bitrate": 64,
       "_homepage": "https://radiotiempo.co/"
     },
-    {
-      "name": "Radio Tiempo Medellín",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_MEDELLINAAC.aac",
-      "imageURL": "",
-      "desc": "Clásica Romántica",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.radiotiempo.co/"
-    },
-    {
-      "name": "Radio UNAL Bogota",
-      "streamURL": "https://radio.unal.edu.co/streaming/bogota/;stream.mp3",
-      "imageURL": "https://radio.unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/favicon.ico",
-      "desc": "University",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radio.unal.edu.co/"
-    },
+
     {
       "name": "Radio Universidad Nacional",
       "streamURL": "https://radio.unal.edu.co/streaming/bogota/stream.mp3",
@@ -2509,7 +2474,7 @@
     {
       "name": "RADIO UNO PEREIRA 94.7 FM",
       "streamURL": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629aa6",
-      "imageURL": "https://static.wordpress.rcnradio.com/radiouno/logo.webp",
+      "imageURL": "https://loyalty-imagenes.canalrcn.com/metadata/radio-uno/icons/120x120.png",
       "desc": "Crossover | Entretenimiento | Music | Popular | Vallenato",
       "longDesc": "",
       "country": "CO",
@@ -2520,40 +2485,53 @@
       "_homepage": "https://radiouno.rcnradio.com/ibague/pereira"
     },
     {
-      "name": "Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)",
-      "streamURL": "https://radiolatina.info/8170/stream",
+      "name": "Radio Viva Online Bogota",
+      "streamURL": "https://radiolatina.info/8034/stream",
       "imageURL": "https://www.radiovivafenix.com/cms/wp-content/uploads/2020/09/icon-2.png",
       "desc": "Culture | Ipiales | Live Sports | Local Talk | Music | News | Regional Music | Sports News",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573115169825",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.radiovivafenix.com/891/"
     },
     {
-      "name": "Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)",
-      "streamURL": "https://radiolatina.info/8172/stream",
+      "name": "Radio Viva Fenix 780 A.M Pasto",
+      "streamURL": "https://radiolatina.info/8166/stream",
       "imageURL": "https://www.radiovivafenix.com/cms/wp-content/uploads/2020/09/icon-2.png",
       "desc": "Culture | Ipiales | Live Sports | Local Talk | Music | News | Regional Music | Sports News",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573115169825",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.radiovivafenix.com/1220/"
     },
     {
-      "name": "Radio Viva Fenix Pasto (HJFV, 780 kHz AM)",
-      "streamURL": "https://radiolatina.info/8166/stream",
+      "name": "Radio Viva Fenix 1290 A.M Cali",
+      "streamURL": "https://radiolatina.info/8048/stream",
       "imageURL": "https://www.radiovivafenix.com/cms/wp-content/uploads/2020/09/icon.png",
       "desc": "Culture | Live Sports | Local Talk | Music | News | Pasto | Regional Music | Sports News",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573115169825",
+      "_codec": "MP3",
+      "_bitrate": 192,
+      "_homepage": "https://www.radiovivafenix.com/780/"
+    },
+    {
+      "name": "Radio Viva Fenix 104.1 A.M Atlántico",
+      "streamURL": "https://radiolatina.info/8168/stream",
+      "imageURL": "https://www.radiovivafenix.com/cms/wp-content/uploads/2020/09/icon.png",
+      "desc": "Culture | Live Sports | Local Talk | Music | News | Pasto | Regional Music | Sports News",
+      "longDesc": "",
+      "country": "CO",
+      "tel": "",
+      "whatsapp": "+573115169825",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://www.radiovivafenix.com/780/"
@@ -2561,7 +2539,7 @@
     {
       "name": "Radio Voces del Pacífico (106.6 FM)",
       "streamURL": "https://virtualtronics.net/proxy/pacifico?mp=/stream",
-      "imageURL": "https://www.soydebuenaventura.com/favicon.ico",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/5/59675.v12.png",
       "desc": "Radio Voces del Pacífico (106.6 FM)",
       "longDesc": "",
       "country": "CO",
@@ -2585,22 +2563,9 @@
       "_homepage": "https://radiovoltio.com/"
     },
     {
-      "name": "Radio Voltio",
-      "streamURL": "https://radio.lacasaradio.com/radiovoltio/stream",
-      "imageURL": "https://radiovoltio.com/wp-content/uploads/2025/08/cropped-Copia-de-dummy.png",
-      "desc": "Crossover | Merengue | Popular | Regional | Salsa | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://radiovoltio.com/"
-    },
-    {
       "name": "Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac",
-      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/cropped-favicon-new1-180x180.png",
+      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/LOGO-RADIOACKTIVA-WEB-286X84.png",
       "desc": "97.9 Fm | Bogotá | Classic Rock | Classic Rock Oldies | Classic Rock; Alternative Rock | Classic Rock; Alternative Rock Indie | Colombia | Entretenimiento | Español | Estación | Juvenil | Latinoamérica | Moi Merino | Music | Música | Prisa Radio | Radio | Real Classic Rock | Rock | Rock Classics | Rock En Español | Rock En Ingles | Rock International | Rock Latino | Rock Music | Suramérica",
       "longDesc": "",
       "country": "CO",
@@ -2613,21 +2578,8 @@
     {
       "name": "Radioacktiva (Medellín) - 102.3 FM - PRISA Radio - Medellín, Colombia",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
-      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/favicon-200x200-1-150x100.png",
+      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/LOGO-RADIOACKTIVA-WEB-286X84.png",
       "desc": "102.3 Fm | Classic Rock | Classic Rock Oldies | Classic Rock; Alternative Rock | Classic Rock; Alternative Rock Indie | Colombia | Entretenimiento | Español | Estación | Juvenil | Latinoamérica | Medellín | Moi Merino | Music | Música | Prisa Radio | Radio | Real Classic Rock | Rock | Rock Classics | Rock En Español | Rock En Ingles | Rock International | Rock Latino | Rock Music | Suramérica",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "https://www.radioacktiva.com/"
-    },
-    {
-      "name": "Radioacktiva (Medellín) 102.3 FM",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac",
-      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2022/03/favicon.png",
-      "desc": "Alternative | Rock",
       "longDesc": "",
       "country": "CO",
       "tel": "",
@@ -2650,35 +2602,9 @@
       "_homepage": "https://www.radioacktiva.com/"
     },
     {
-      "name": "RadioActiva 97.9FM. El planeta Rock",
-      "streamURL": "http://27583.live.streamtheworld.com:3690/RADIO_ACTIVAAAC_SC",
-      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/favicon-200x200-1-150x100.png",
-      "desc": "Classic Rock | Español | Guns N' Roses | Rock En Español",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 64,
-      "_homepage": "http://www.radioacktiva.com/rock-espanol"
-    },
-    {
-      "name": "Radioaktiva",
-      "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVA.mp3",
-      "imageURL": "https://www.radioacktiva.com/wp-content/uploads/2024/12/favicon-200x200-1-150x100.png",
-      "desc": "Rock",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.radioacktiva.com/"
-    },
-    {
-      "name": "radioparallevar",
+      "name": "RadioParaLlevar",
       "streamURL": "https://laradio.stream/proxy/rumbafm/stream",
-      "imageURL": "",
+      "imageURL": "https://radioparallevar.com/wp-content/uploads/2021/09/rpll_hd-white.png",
       "desc": "radioparallevar",
       "longDesc": "",
       "country": "CO",
@@ -2691,20 +2617,20 @@
     {
       "name": "RENCORDRADIO",
       "streamURL": "https://sonicpanel.streaming10.net/8134/stream",
-      "imageURL": "",
+      "imageURL": "https://static.wixstatic.com/media/e5ce9d_edc381f54cbe43148272e46f83c93aa0%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e5ce9d_edc381f54cbe43148272e46f83c93aa0%7Emv2.jpg",
       "desc": "Música Latina | Salsa | Vallenato",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573502411872",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.rencordradio.com/"
     },
     {
       "name": "Romántica Radio Digital",
-      "streamURL": "https://stream.radiolive.com.co/listen/romantica_radio_digital/radio.mp3",
-      "imageURL": "",
+      "streamURL": "https://tuner.romanticaradio.com.co/listen/romantica_radio_895fm/radio.mp3",
+      "imageURL": "https://www.cadena5.com.co/en-vivo/wp-custom/player/assets/imgs/romantica_radio.png",
       "desc": "Romántica Radio Digital",
       "longDesc": "",
       "country": "CO",
@@ -2712,17 +2638,17 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "https://www.cadena5.com.co/"
+      "_homepage": "https://www.cadena5.com.co/en-vivo/index.php/romantica-radio/"
     },
     {
       "name": "Romántica Stereo 88.1 FM Pasto",
-      "streamURL": "http://radiolatina.info:7096/stream?type=http&nocache=24848",
-      "imageURL": "",
+      "streamURL": "https://radiolatina.info/7096/stream?ver=828461",
+      "imageURL": "https://romanticastereo.com/wp-content/uploads/2017/04/cropped-favicon-romantica-stereo-88-1-180x180.png",
       "desc": "Romántica Stereo 88.1 FM Pasto",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573176471518",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://romanticastereo.com/"
@@ -2730,16 +2656,26 @@
     {
       "name": "Sabor Boricua Radio",
       "streamURL": "http://usa19.fastcast4u.com:6170/live",
-      "imageURL": "",
+      "imageURL": "https://saborboricuaradio.com/wp-content/uploads/2025/08/cropped-cropped-rsw-1200h-902cg-true-180x180.webp",
       "desc": "Cumbia | Merengue | Musica Latina | Salsa",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34677266531",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://saborboricua.com/"
+      "_homepage": "https://saborboricuaradio.com/"
     },
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "sistema Cardenal Valledupar 1050 am",
       "streamURL": "http://198.27.78.145:8086/stream/4/;",
