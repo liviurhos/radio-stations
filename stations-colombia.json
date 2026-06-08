@@ -2756,33 +2756,7 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.3fronterasfmradio.com/"
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    {
-      "name": "Tropicana Bogotá (HJRX 102.9) Caracol Radio",
-      "streamURL": "http://26673.live.streamtheworld.com:3690/TROPICANA_SC",
-      "imageURL": "https://www.tropicanafm.com/wp-content/uploads/2021/02/cropped-favicon_tropicana-180x180.png",
-      "desc": "Salsa | Tropical | Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.tropicanafm.com/"
-    },
+    }, 
     {
       "name": "Tropicana Cali 93.1 fm",
       "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALI.mp3",
@@ -2817,15 +2791,15 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573112480589",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://tu955.com/"
     },
     {
       "name": "UN Radio Bogotá",
-      "streamURL": "https://radio.unal.edu.co/streaming/bogota/",
-      "imageURL": "",
+      "streamURL": "https://radio.unal.edu.co/streaming/bogota/stream.mp3",
+      "imageURL": "https://radio.unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/escudoUnal_black.png",
       "desc": "University Radio",
       "longDesc": "",
       "country": "CO",
@@ -2843,7 +2817,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573152672605",
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "https://uniautonomafm.co/"
@@ -2851,7 +2825,7 @@
     {
       "name": "Unicórdoba Estéreo 90.0 FM",
       "streamURL": "https://unicordobaestereo.unicordoba.edu.co/unicor",
-      "imageURL": "https://www.unicordoba.edu.co/wp-content/uploads/2018/11/university_mobile_logo_retina1.png",
+      "imageURL": "https://unicordoba.edu.co/wp-content/uploads/2025/07/Escudo-unicordoba-2025-1.png",
       "desc": "Cultural | Culture | Education | Educativa | Entretenimiento | Música Variada | University Radio",
       "longDesc": "",
       "country": "CO",
@@ -2864,12 +2838,12 @@
     {
       "name": "Veracruz stereo",
       "streamURL": "https://radio.veracruzstereo.com:8000/live",
-      "imageURL": "",
+      "imageURL": "https://veracruzestereo.com/wp-content/uploads/2024/04/cropped-favicon-web-veracruz-180x180.png",
       "desc": "2000S | 70S | 80S | 90S | Baladas En Inglés | Club | Clásicos | Clásicos En Español | Clásicos En Inglés | Dance | Disco | Electro | Electrónica | Música En Inglés | Pop En Español E Inglés | Rock | Rock En Espanol | Rock En Español E Inglés | Rock En Inglés | Techno",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573105060144",
       "_codec": "AAC",
       "_bitrate": 256,
       "_homepage": "https://veracruzestereo.com/"
@@ -2877,33 +2851,20 @@
     {
       "name": "Vibra Radio 96.9",
       "streamURL": "https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9",
-      "imageURL": "https://www.vibra.red/assets/static/vibra-blanco-new.a0d7643.895cf579f4664c2af677d2e695c2a333.svg",
+      "imageURL": "https://www.vibra.red/assets/static/vibra-cln.cbab2cf.9c529bf86788a399682ed536e4884115.png",
       "desc": "Vibra Radio 96.9",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+5216676917926",
       "_codec": "MP3",
       "_bitrate": 64,
       "_homepage": "https://www.vibra.red/"
     },
     {
-      "name": "W Radio",
-      "streamURL": "http://27613.live.streamtheworld.com:3690/WRADIO_SC",
-      "imageURL": "",
-      "desc": "W Radio",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://wradio.com.co/"
-    },
-    {
       "name": "W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio",
       "streamURL": "http://26653.live.streamtheworld.com/WRADIO_SC",
-      "imageURL": "http://wradio.com.co/pf/resources/wradio-colombia/touch-icon-ipad.png?d=172",
+      "imageURL": "https://cr00.epimg.net/especiales/recursosgraficos/wradio_generico_imagen_control.jpg",
       "desc": "News | News And Talk | Talk Radio",
       "longDesc": "",
       "country": "CO",
@@ -2916,7 +2877,7 @@
     {
       "name": "Walkman Radio",
       "streamURL": "https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream",
-      "imageURL": "http://walkmanradio.com/wp-content/uploads/2020/05/cropped-Walkman-radio-favicon-02-32x32.png",
+      "imageURL": "https://cdn.radoxo.com/images/colombia/walkman-radio.webp?v=1780956001",
       "desc": "Anglo | Classic Hits | Dance | Disco | Pop | Rock",
       "longDesc": "",
       "country": "CO",
@@ -2928,8 +2889,8 @@
     },
     {
       "name": "Yacopi Stereo 107.8 FM",
-      "streamURL": "https://play8.tikast.com:20033/stream/1/",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/4/135914.v4.png",
+      "streamURL": "https://streamhdglobal.com:8024/stream?n=6084dede76df6caee870",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/100/yacopi-stereo.2f1577ca.png",
       "desc": "Crossover | Cumbia | Entretenimiento | Local Radio | Merengue | Radio Comunitaria | Radio Hablada | Regional Mexican | Tropical | Vallenato | Variety",
       "longDesc": "",
       "country": "CO",
@@ -2941,35 +2902,9 @@
     },
     {
       "name": "ZonaSalsa",
-      "streamURL": "http://s40.myradiostream.com:8520/listen.mp3?1507069161743",
-      "imageURL": "",
-      "desc": "ZonaSalsa",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 96,
-      "_homepage": ""
-    },
-    {
-      "name": "ZonaSalsa",
       "streamURL": "https://cast6.asurahosting.com/proxy/salsafou/stream",
       "imageURL": "http://foro.zonasalsa.info/images/logos/zs-android-chrome-192x192.png",
       "desc": "Guaguanco | Latin Jazz | Salsa",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 96,
-      "_homepage": "http://zonsalsaradio.com/"
-    },
-    {
-      "name": "ZonaSalsa Radio",
-      "streamURL": "https://cast6.asurahosting.com/proxy/salsafou/stream",
-      "imageURL": "",
-      "desc": "ZonaSalsa Radio",
       "longDesc": "",
       "country": "CO",
       "tel": "",
