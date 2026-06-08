@@ -2666,29 +2666,6 @@
       "_bitrate": 128,
       "_homepage": "https://saborboricuaradio.com/"
     },
-
-
-
-
-
-
-
-
-
-    
-    {
-      "name": "sistema Cardenal Valledupar 1050 am",
-      "streamURL": "http://198.27.78.145:8086/stream/4/;",
-      "imageURL": "",
-      "desc": "Vallenato",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cardenalstereo.com/"
-    },
     {
       "name": "Su Presencia",
       "streamURL": "http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_a",
@@ -2697,33 +2674,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://supresenciaradio.com/"
-    },
-    {
-      "name": "Su Presencia Radio",
-      "streamURL": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
-      "imageURL": "https://supresenciaradio.com/wp-content/uploads/2017/12/logo-spradio.png",
-      "desc": "Cristiana | Gospel | Radio Cristiana | Religion",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://supresenciaradio.com/"
-    },
-    {
-      "name": "Su Presencia Radio",
-      "streamURL": "https://supresenciaradio.out.airtime.pro/supresenciaradio_a",
-      "imageURL": "https://supresenciaradio.com/wp-content/uploads/2021/01/ntn24.jpg",
-      "desc": "Su Presencia Radio",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573105512625",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://supresenciaradio.com/"
@@ -2731,7 +2682,7 @@
     {
       "name": "SupaJamz Radio",
       "streamURL": "http://usa19.fastcast4u.com:6210/live",
-      "imageURL": "http://supajamzradio.com/favicon.ico",
+      "imageURL": "https://supajamzradio.com/wp-content/uploads/2024/02/supa-jamz.brand_.webp",
       "desc": "Cumbia | Merengue | Musica Latina | Salsa",
       "longDesc": "",
       "country": "CO",
@@ -2757,12 +2708,12 @@
     {
       "name": "Super Estación 88.9",
       "streamURL": "https://emisorasdigitales2.com/8018/stream",
-      "imageURL": "https://superestacion.fm/wp-content/uploads/2024/02/LOGO-1.png",
+      "imageURL": "https://public-rf-upload.minhawebradio.net/253003/mobileicon/245abe076aa9ed3a435ca0d35c623492x192.png",
       "desc": "80S En Español | Pop En Español E Inglés | Rock | Rock En Español",
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573209563239",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://superestacion.fm/"
@@ -2781,19 +2732,6 @@
       "_homepage": "https://telemedellin.tv/radio"
     },
     {
-      "name": "Telemedellín Radio",
-      "streamURL": "https://colombiawebs.com.co/proxy/stream320?mp=/stream",
-      "imageURL": "https://colombiawebs.com.co/proxy/stream320?mp=/stream",
-      "desc": "Telemedellín Radio",
-      "longDesc": "",
-      "country": "CO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://telemedellin.tv/radio"
-    },
-    {
       "name": "Toca Stereo 105.3 fm",
       "streamURL": "https://colombiawebs.com.co/proxy/tocaestereo/stream/1/",
       "imageURL": "https://cdn.colombia.com/canales/toca-stereo-2314.jpg",
@@ -2801,7 +2739,7 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573123316892",
       "_codec": "AAC+",
       "_bitrate": 96,
       "_homepage": "https://tocastereo.co/"
@@ -2814,11 +2752,24 @@
       "longDesc": "",
       "country": "CO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+573125669252",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.3fronterasfmradio.com/"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Tropicana Bogotá (HJRX 102.9) Caracol Radio",
       "streamURL": "http://26673.live.streamtheworld.com:3690/TROPICANA_SC",
