@@ -559,38 +559,10 @@
       "_bitrate": 128,
       "_homepage": "http://www.cadenamix.es/"
     },
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-    
-    {
-      "name": "Cadena100",
-      "streamURL": "https://cadena100-cope.flumotion.com/playlist.m3u8",
-      "imageURL": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png",
-      "desc": "Cadena100",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 64,
-      "_homepage": "https://www.cadena100.es/"
-    },
     {
       "name": "Cafe Del Mar",
       "streamURL": "https://streams.radio.co/se1a320b47/listen",
-      "imageURL": "",
+      "imageURL": "https://cafedelmar.com/apple-touch-icon.png",
       "desc": "Cafe Del Mar",
       "longDesc": "",
       "country": "ES",
@@ -624,25 +596,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
-      "_homepage": "https://cafedelmar.com/"
-    },
-    {
-      "name": "Cafe del Mar Channel 2",
-      "streamURL": "https://s4.radio.co/seeae9c220/listen",
-      "imageURL": "https://images.radio.co/station_logos/se1a320b47.20210412021711.png",
-      "desc": "Cafe del Mar Channel 2",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
       "_homepage": "https://cafedelmar.com/radio"
     },
     {
       "name": "Cafe Mambo Ibiza Radio",
       "streamURL": "http://streamer.radio.co/sd7b28e5f3/listen",
-      "imageURL": "",
+      "imageURL": "https://cafemamboibiza.com/images/FAVICON-M.png",
       "desc": "Dj Sets | Ibiza",
       "longDesc": "",
       "country": "ES",
@@ -651,58 +610,6 @@
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "https://cafemamboibiza.com/radio/"
-    },
-    {
-      "name": "Café del Mar",
-      "streamURL": "https://streams.radio.co/se1a320b47/listen",
-      "imageURL": "https://cafedelmar.com/apple-touch-icon.png",
-      "desc": "Chillout | Ibiza | Lounge",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://cafedelmar.com/radio/"
-    },
-    {
-      "name": "Café del Mar CALM",
-      "streamURL": "https://streamer.radio.co/sb748f24ad/listen",
-      "imageURL": "https://cafedelmar.com/apple-touch-icon.png",
-      "desc": "Ambient | Chillout | Electronic | Ibiza",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 192,
-      "_homepage": "https://cafedelmar.com/radio"
-    },
-    {
-      "name": "Café del Mar Radio",
-      "streamURL": "https://streams.radio.co/se1a320b47/listen",
-      "imageURL": "https://images.radio.co/station_logos/se1a320b47.20210412021711.png",
-      "desc": "Café del Mar Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://cafedelmar.com/"
-    },
-    {
-      "name": "Café del Mar Radio",
-      "streamURL": "https://streams.radio.co/se1a320b47/listen",
-      "imageURL": "https://cdmspace.fra1.digitaloceanspaces.com/495c49ed63d48d73585af236c13b19ae.jpg",
-      "desc": "Café del Mar Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://cafedelmar.com/"
     },
     {
       "name": "Canal Blau",
@@ -720,7 +627,7 @@
     {
       "name": "Canal Fiesta Radio",
       "streamURL": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
-      "imageURL": "https://www.canalsur.es/css/cssimg/favicon.ico",
+      "imageURL": "https://static.canalsur.es/canalsur/public/file/2026/0506/13/apple-touch-icon-web-editorial.png",
       "desc": "Music | Musica | Regional Radio",
       "longDesc": "",
       "country": "ES",
@@ -733,7 +640,7 @@
     {
       "name": "Canal Sur Radio Andalucía",
       "streamURL": "https://rtva-live-radio.flumotion.com/rtva/csr.mp3",
-      "imageURL": "https://www.canalsur.es/css/cssimg/favicon.ico",
+      "imageURL": "https://static.canalsur.es/canalsur/public/file/2026/0506/13/apple-touch-icon-web-editorial.png",
       "desc": "Local News | Talk",
       "longDesc": "",
       "country": "ES",
@@ -746,7 +653,7 @@
     {
       "name": "Canal Sur Radio Sevilla",
       "streamURL": "https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3",
-      "imageURL": "https://www.canalsur.es/css/cssimg/favicon.ico",
+      "imageURL": "https://static.canalsur.es/canalsur/public/file/2026/0506/13/apple-touch-icon-web-editorial.png",
       "desc": "Canal Sur Radio Sevilla",
       "longDesc": "",
       "country": "ES",
@@ -759,12 +666,12 @@
     {
       "name": "Capital Radio Madrid",
       "streamURL": "https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900",
-      "imageURL": "https://www.capitalradio.es/app/9644025b12d643217ddf0d3cceb1c14682d572a8902c1994dc4b748093e9e34e38d23089779944468cbd8a79db4b59d83e4ba08ab22d8ce64b834f5dac488e2a4fde9c281a8c1561973561/logo_icono.svg",
+      "imageURL": "https://cdn.capitalradio.es/embed/cfe0ab9a7aeacaf4ae8932d963f17b93885be1552218464/capitalradio.jpg",
       "desc": "Economia | Economic | Economic News | Economics | Local News | News | News Talk | Talk",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34687050600",
       "_codec": "AAC",
       "_bitrate": 73,
       "_homepage": "http://www.capitalradio.es/"
@@ -772,7 +679,7 @@
     {
       "name": "Carrusel FM",
       "streamURL": "http://server6.20comunicacion.com:8921/;",
-      "imageURL": "",
+      "imageURL": "http://www.carruselfm.com/images/logo.png",
       "desc": "Just Great Songs | Music",
       "longDesc": "",
       "country": "ES",
@@ -785,11 +692,11 @@
     {
       "name": "Chanquete FM 102.5",
       "streamURL": "http://185.23.192.118:8014/;",
-      "imageURL": "http://www.chanquetefm.com/imagenes/para-escuchar-online.png ",
+      "imageURL": "http://www.chanquetefm.com/imagenes/fondo-boceto.png",
       "desc": "Entretenimiento | Hits | Music | Pop En Español | Reggaeton | Top 40 | Urbano",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34695888555",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -798,7 +705,7 @@
     {
       "name": "Chocolate FM",
       "streamURL": "http://streaming5.elitecomunicacion.es:8082/live.mp3",
-      "imageURL": "https://www.chocolatefm.com/__ovh/common/img/favicon.ico",
+      "imageURL": "https://www.chocolatefm.com/apple-touch-icon.png",
       "desc": "Chr | Dance | Español | Latin | Latin Music | Latino | Pop | Pop Latino | Reggaeton | Top 40 | Trap",
       "longDesc": "",
       "country": "ES",
@@ -809,48 +716,9 @@
       "_homepage": "https://www.chocolatefm.com/"
     },
     {
-      "name": "Chocolate FM",
-      "streamURL": "https://streaming2.elitecomunicacion.es:8082/live.mp3",
-      "imageURL": "https://chocolatefm.com/img/artwork.png",
-      "desc": "Chocolate FM",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://chocolatefm.com/"
-    },
-    {
-      "name": "Chocolate FM",
-      "streamURL": "https://streaming2.elitecomunicacion.es:8082/live.mp3",
-      "imageURL": "https://chocolatefm.com/img/chocfm_movil.png",
-      "desc": "Chocolate FM",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://chocolatefm.com/"
-    },
-    {
-      "name": "Chocolate FM HD",
-      "streamURL": "http://streaming5.elitecomunicacion.es:8030/live.mp3",
-      "imageURL": "https://www.chocolatefm.com/apple-touch-icon.png",
-      "desc": "Chr | Dance | Español | Hd | Latin | Latin Music | Latino | Pop | Pop Latino | Reggaeton | Top 40 | Trap",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://www.chocolatefm.com/"
-    },
-    {
       "name": "Classic Rock Granada",
       "streamURL": "https://streaming2.elitecomunicacion.es:8054/stream",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthf.bing.com%2Fth%2Fid%2FOIP.3jB7YwocFGtFev_ltTebzQHaHa%3Fcb%3Dthfc1falcon2%26pid%3DApi&f=1&ipt=5c2acdaee6dcccc309ed38cc6d8defb217a8b038db0d7e9382c53329521074b6&ipo=images",
       "desc": "Hard Rock | Heavy Metal | Rock",
       "longDesc": "",
       "country": "ES",
@@ -861,144 +729,14 @@
       "_homepage": "http://www.classicrock.com.es/"
     },
     {
-      "name": "COPE + Sevilla",
-      "streamURL": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
-      "imageURL": "",
-      "desc": "Local News",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/cope-mas-sevilla"
-    },
-    {
-      "name": "COPE A CORUÑA",
-      "streamURL": "https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3",
-      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-      "desc": "COPE A CORUÑA",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/emisoras/galicia/a-coruna-provincia/a-coruna"
-    },
-    {
-      "name": "COPE Albacete",
-      "streamURL": "https://wecast-bl03.flumotion.com/copesedes/albacete.mp3",
-      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-      "desc": "Albacete | Cope",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/albacete"
-    },
-    {
-      "name": "COPE Cartagena",
-      "streamURL": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3",
-      "imageURL": "https://www.cope.es/favicon.ico",
-      "desc": "Culture | News | Religion",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena"
-    },
-    {
-      "name": "COPE Gijón",
-      "streamURL": "https://wecast-bl02.flumotion.com/copesedes/gijon.mp3",
-      "imageURL": "https://cope-cdnsta.agilecontent.com/img/brand/favicon.ico",
-      "desc": "Talk Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/gijon"
-    },
-    {
-      "name": "COPE Málaga",
-      "streamURL": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
-      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-      "desc": "COPE Málaga",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/malaga"
-    },
-    {
-      "name": "COPE Santander",
-      "streamURL": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3",
-      "imageURL": "http://static-1.ivooxcdn.com/radios/0/4/0/3/6371460973040_XXL.jpg",
-      "desc": "Entertainment | News",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/santander"
-    },
-    {
-      "name": "Cope Sevilla",
-      "streamURL": "http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3",
-      "imageURL": "",
-      "desc": "Cope Sevilla",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/sevilla"
-    },
-    {
-      "name": "COPE Tenerife",
-      "streamURL": "https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3",
-      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-      "desc": "Magazine | Noticias",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/cope-mas-tenerife"
-    },
-    {
-      "name": "COPE Tenerife",
-      "streamURL": "https://wecast23-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
-      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-      "desc": "COPE Tenerife",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 96,
-      "_homepage": "https://www.cope.es/directos/cope-mas-tenerife"
-    },
-    {
       "name": "Corazón FM 89.2",
       "streamURL": "https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3",
-      "imageURL": "",
+      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2022/11/11020420/Corazon_1000x1000-con-fondo.png",
       "desc": "Baladas | Musica Romantica | Romantic | Romantica",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34602242526",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.emisorasmusicales.net/emisoras/corazon-fm/"
@@ -1006,7 +744,7 @@
     {
       "name": "Costa Blanca FM",
       "streamURL": "https://costablancafm.stream:18106/",
-      "imageURL": "",
+      "imageURL": "https://costablanca.fm/wp-content/uploads/2021/10/cropped-site-pictogram-180x180.jpg",
       "desc": "Costa Blanca FM",
       "longDesc": "",
       "country": "ES",
@@ -1017,35 +755,9 @@
       "_homepage": "https://costablanca.fm/"
     },
     {
-      "name": "COSTA DEL MAR",
-      "streamURL": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill",
-      "imageURL": "",
-      "desc": "Chillaut",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 96,
-      "_homepage": "https://laradiofm.com/Station-559"
-    },
-    {
-      "name": "Costa Del Mar",
-      "streamURL": "http://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5",
-      "imageURL": "",
-      "desc": "Costa Del Mar",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://cdm-radio.com/"
-    },
-    {
       "name": "Costa del Mar - Chillout",
       "streamURL": "https://radio4.cdm-radio.com:18020/stream-mp3-Chill",
-      "imageURL": "",
+      "imageURL": "https://www.costadelmar-radio.com/wp-content/uploads/Pochette-Chillout.png",
       "desc": "Chillout",
       "longDesc": "",
       "country": "ES",
@@ -1056,22 +768,9 @@
       "_homepage": "https://www.costadelmar-radio.com/chillout/"
     },
     {
-      "name": "Costa Del Mar - Chillout (AAC 96kbps)",
-      "streamURL": "http://stream.cdm-chillout.com:8020/stream-AAC-Chill",
-      "imageURL": "http://www.costadelmar-radio.com/favicon.ico",
-      "desc": "Chill | Chillout",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 96,
-      "_homepage": "http://www.costadelmar-radio.com/chillout/"
-    },
-    {
       "name": "Costa Del Mar Dance",
       "streamURL": "https://radio4.cdm-radio.com:18000/stream-mp3-Dance",
-      "imageURL": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+      "imageURL": "https://www.costadelmar-radio.com/wp-content/uploads/Pochette-Dance.png",
       "desc": "Costa Del Mar Dance",
       "longDesc": "",
       "country": "ES",
@@ -1084,7 +783,7 @@
     {
       "name": "Costa Del Mar Smooth Jazz",
       "streamURL": "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
-      "imageURL": "",
+      "imageURL": "https://www.costadelmar-radio.com/wp-content/uploads/Pochette-Smooth.png",
       "desc": "Smooth Jazz | Smooth Lounge",
       "longDesc": "",
       "country": "ES",
@@ -1097,7 +796,7 @@
     {
       "name": "Cristianos - Christen auf Spanisch",
       "streamURL": "http://cristianos.stream.laut.fm/cristianos?pl=pls&t302=2026-01-15_00-06-05&uuid=a2e3b06c-a0f6-4fe9-bbef-a871081124f2",
-      "imageURL": "",
+      "imageURL": "https://assets.laut.fm/16f075bd0b3eb08919ad5e56bbdcc61c?t=_120x120",
       "desc": "Christian | Gospel",
       "longDesc": "",
       "country": "ES",
@@ -1110,7 +809,7 @@
     {
       "name": "CUAC FM (MP3)",
       "streamURL": "https://streaming.cuacfm.org/cuacfm-128k.mp3",
-      "imageURL": "https://cuacfm.org/wp-content/uploads/2015/04/favicon-cuacfm.png",
+      "imageURL": "https://cuacfm.org/wp-content/uploads/2026/03/cuac_logo_26.svg",
       "desc": "CUAC FM (MP3)",
       "longDesc": "",
       "country": "ES",
@@ -1123,7 +822,7 @@
     {
       "name": "Das Inselradio Mallorca",
       "streamURL": "http://addrad.io/445fxk9",
-      "imageURL": "",
+      "imageURL": "https://www.inselradio.com/fileadmin/Inselradio/Logos/logo_INSLFM.svg?ts=1767741337",
       "desc": "Das Inselradio Mallorca",
       "longDesc": "",
       "country": "ES",
@@ -1132,19 +831,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.inselradio.com/home"
-    },
-    {
-      "name": "Das Inselradio Malorca",
-      "streamURL": "https://addrad.io/445fxk9",
-      "imageURL": "",
-      "desc": "Das Inselradio Malorca",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.inselradio.com/"
     },
     {
       "name": "Decada FM 100.1",
@@ -1162,7 +848,7 @@
     {
       "name": "delicious.beach - formentera lounge radio",
       "streamURL": "https://server31435.streamplus.de/;stream.mp3",
-      "imageURL": "https://www.facebook.com/photo/?fbid=329078695877906&set=a.329078679211241",
+      "imageURL": "https://instagram.fbrs5-1.fna.fbcdn.net/v/t51.82787-19/658451913_18099957080294586_219071239399719556_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDcuYzIifQ&_nc_ht=instagram.fbrs5-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGA5ULi_ztWEqdtC26ZNPLafb_wrj9sP1bISaokQEc4KTK4c8tlgD3ZZmRfnQbWa7U&_nc_ohc=SXttzrF2powQ7kNvwGSnsbx&_nc_gid=hd1t2bA-tUeC9DS81yuLUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af-G554lI572OPv8e9LQgS_xVtLd_j1BX9SYXZiVJ5kmWA&oe=6A2E7BDC&_nc_sid=8b3546",
       "desc": "Bossa Nova | Chillout | Jazz | Lounge",
       "longDesc": "",
       "country": "ES",
@@ -1174,7 +860,7 @@
     },
     {
       "name": "Digital hits",
-      "streamURL": "http://digitalhits.frilab.com:8000/digitalhits",
+      "streamURL": "http://dhits.frilab.com:9000/dhits",
       "imageURL": "https://static.wixstatic.com/media/0d8711_bcc75cdcd35f4f2a859c06910d746739%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/0d8711_bcc75cdcd35f4f2a859c06910d746739%7emv2.png",
       "desc": "Digital hits",
       "longDesc": "",
@@ -1186,22 +872,9 @@
       "_homepage": "http://www.digitalhits.cat/"
     },
     {
-      "name": "Digital Hits FM",
-      "streamURL": "https://dhits.frilab.com:8443/dhits",
-      "imageURL": "",
-      "desc": "Dance | Remember",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.digitalhits.cat/"
-    },
-    {
       "name": "Diversia Radio Activa",
       "streamURL": "https://vivo.miradio.in/8120/stream",
-      "imageURL": "https://diversaradioactiva.org/wp-content/uploads/2019/10/cropped-logo-redes2-32x32.jpg",
+      "imageURL": "https://diversaradioactiva.org/wp-content/uploads/2025/09/logooo.png",
       "desc": "Diversia Radio Activa",
       "longDesc": "",
       "country": "ES",
@@ -1212,23 +885,10 @@
       "_homepage": "https://diversaradioactiva.org/"
     },
     {
-      "name": "DMT-FM - EU Server 320k",
+      "name": "DMT-FM",
       "streamURL": "https://dc1.serverse.com/proxy/ywycfrxn/live",
-      "imageURL": "https://dmt-fm.com/wp-content/uploads/2022/02/cropped-radio-icon-32x32.png",
+      "imageURL": "https://dmt-fm.com/wp-content/uploads/2023/11/2025-logo-round-Corners-2.png",
       "desc": "Psytrance",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC+",
-      "_bitrate": 320,
-      "_homepage": "https://dmt-fm.com/"
-    },
-    {
-      "name": "DMT-FM Psytrance - EU Server",
-      "streamURL": "https://eu2-centova.serverse.com/proxy/ywycfrxn/stream",
-      "imageURL": "",
-      "desc": "DMT-FM Psytrance - EU Server",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -1244,25 +904,24 @@
       "desc": "Regional",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34912882200",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.dynamisradio.org/"
     },
-    {
-      "name": "Dynamis Radio Madrid",
-      "streamURL": "https://control.streaming-pro.com:8014/stream",
-      "imageURL": "",
-      "desc": "Religion",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.dynamisradio.org/"
-    },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "EDM Festival - Online Radio",
       "streamURL": "https://stream.technolovers.fm/edm?ref=radiobrowser",
@@ -6087,19 +5746,6 @@
       "_homepage": "https://cadenaser.com/"
     },
     {
-      "name": "Cadena Ser + Valencia",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_VALENCIA.mp3",
-      "imageURL": "https://cadenaser00.epimg.net/estaticos/recursosgraficos/img/app/ser_192.png",
-      "desc": "Debates Y Deportes | Noticias",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://cadenaser.com/"
-    },
-    {
       "name": "Cadena Ser + Valladolid",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_VALLADOLID.mp3",
       "imageURL": "https://cadenaser00.epimg.net/estaticos/recursosgraficos/img/app/ser_192.png",
@@ -6436,6 +6082,123 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://cadenaser.com/radio-sevilla/"
+    },
+    {
+      "name": "COPE + Sevilla",
+      "streamURL": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
+      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-57x57.png",
+      "desc": "Local News",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/cope-mas-sevilla"
+    },
+    {
+      "name": "COPE A CORUÑA",
+      "streamURL": "https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3",
+      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
+      "desc": "COPE A CORUÑA",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/emisoras/galicia/a-coruna-provincia/a-coruna"
+    },
+    {
+      "name": "COPE Albacete",
+      "streamURL": "https://wecast-bl03.flumotion.com/copesedes/albacete.mp3",
+      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
+      "desc": "Albacete | Cope",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/albacete"
+    },
+    {
+      "name": "COPE Cartagena",
+      "streamURL": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3",
+      "imageURL": "https://www.cope.es/favicon.ico",
+      "desc": "Culture | News | Religion",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena"
+    },
+    {
+      "name": "COPE Gijón",
+      "streamURL": "https://wecast-bl02.flumotion.com/copesedes/gijon.mp3",
+      "imageURL": "https://www.cope.es/favicon.ico",
+      "desc": "Talk Radio",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/gijon"
+    },
+    {
+      "name": "COPE Málaga",
+      "streamURL": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
+      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
+      "desc": "COPE Málaga",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/malaga"
+    },
+    {
+      "name": "COPE Santander",
+      "streamURL": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3",
+      "imageURL": "https://www.cope.es/favicon.ico",
+      "desc": "Entertainment | News",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/santander"
+    },
+    {
+      "name": "Cope Sevilla",
+      "streamURL": "http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3",
+      "imageURL": "https://www.cope.es/favicon.ico",
+      "desc": "Cope Sevilla",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/sevilla"
+    },
+    {
+      "name": "COPE Tenerife",
+      "streamURL": "https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3",
+      "imageURL": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
+      "desc": "Magazine | Noticias",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 96,
+      "_homepage": "https://www.cope.es/directos/cope-mas-tenerife"
     },
     {
       "name": "华夏之声China FM·西班牙马德里FM92.9",
