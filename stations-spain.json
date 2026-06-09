@@ -1,9 +1,61 @@
 {
   "station": [
     {
+      "name": "#1 Splash 50s",
+      "streamURL": "https://c4.auracast.net/listen/hits50s/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/7261cdede3d894ea52a493fbe08698e7.jpg",
+      "desc": "1950S | 50'S | 50Er | 50S | 50S Y Más | Classic 50S | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash 60s",
+      "streamURL": "https://c4.auracast.net/listen/hits60s/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/9e9aee9275b8c60596976e38906854da.jpg",
+      "desc": "1960S | 60'S | 60Er | 60S | 60S Y Más | Classic 60S | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash 70s",
+      "streamURL": "https://c4.auracast.net/listen/hits70s/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/5f0d29f29d626b7501116beb4fc07401.jpg",
+      "desc": "1970S | 70'S | 70Er | 70S | 70S Y Más | Classic 70S | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash 80s",
+      "streamURL": "https://ais-sa9.cdnstream1.com/1898_128",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/0758-2018-08-06.jpg",
+      "desc": "1980S | 80'S | 80Er | 80S | 80S Y Más | Classic 80S | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
       "name": "#1 Splash 90s",
       "streamURL": "https://c4.auracast.net/radio/8050/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/c4baabcdabb1e97be933897c3c0e1c9c.jpg",
       "desc": "1990S | 90'S | 90Er | 90S | 90S Y Más | Classic 90S | Splash",
       "longDesc": "",
       "country": "ES",
@@ -16,8 +68,60 @@
     {
       "name": "#1 Splash 90s Dance",
       "streamURL": "https://c6.auracast.net/radio/8090/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/accb98123d7d32ee76fe126f725a2d3c.jpg",
       "desc": "1990S | 90'S | 90Er | 90S | 90S Dance | 90S Y Más | Dance | Pop Dance | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Classical",
+      "streamURL": "https://ais-sa2.cdnstream1.com/2208_128.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/7859-2018-08-06.jpg",
+      "desc": "Classical | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Country",
+      "streamURL": "https://c5.auracast.net/listen/route_66_country_radio/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/b372c4c80bb09d84d2dcef980ee89013.jpg",
+      "desc": "Country | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Dance",
+      "streamURL": "https://c3.auracast.net/listen/1_radio_dance/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/1871-2018-08-06.jpg",
+      "desc": "Dance | Splash",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Love",
+      "streamURL": "https://ais-sa2.cdnstream1.com/2210_128.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/7466-2018-08-07.jpg",
+      "desc": "Romantic | Love | Splash",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -29,7 +133,7 @@
     {
       "name": "#1 Splash Coffee",
       "streamURL": "https://ais-sa2.cdnstream1.com/2345_128.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/68199e84276d80cdc864dd2cce379e0e.jpg",
       "desc": "Ambient | Ambient And Relaxation Music | Ambiental | Chillout | Easy Listening | Slow | Splash",
       "longDesc": "",
       "country": "ES",
@@ -42,7 +146,7 @@
     {
       "name": "#1 Splash Lounge",
       "streamURL": "https://ais-sa2.cdnstream1.com/2209_128.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/4024-2018-08-06.jpg",
       "desc": "Chill | Chillout | Ibiza | Lounge | Lounge Music | Lounge Radio | Relax | Smooth Lounge | Splash | Vocal Lounge",
       "longDesc": "",
       "country": "ES",
@@ -55,8 +159,47 @@
     {
       "name": "#1 Splash Spa",
       "streamURL": "https://ais-sa2.cdnstream1.com/2347_128.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/7fbb17af3c2a01f249471546005315f5.jpg",
       "desc": "Ambient | Ambient And Relaxation Music | Ambiental | Chillout | Downtempo | Easy Listening | Zen Ambient",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Jazz",
+      "streamURL": "https://ais-sa2.cdnstream1.com/2346_128.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/3019-2018-08-06.jpg",
+      "desc": "Jazz",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Oldies",
+      "streamURL": "https://c3.auracast.net/listen/oldies/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/9713-2018-08-07.jpg",
+      "desc": "Oldies",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.splashradio.eu/"
+    },
+    {
+      "name": "#1 Splash Spain",
+      "streamURL": "https://c2.auracast.net/listen/1000spain/radio.mp3",
+      "imageURL": "https://www.splashradio.eu/assets/images/emisoras/9624-2018-08-07.jpg",
+      "desc": "Oldies | Spanish",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -68,7 +211,7 @@
     {
       "name": "+Buena FM",
       "streamURL": "https://sonic.mediatelekom.net/8156/stream",
-      "imageURL": "https://masbuenafm.com/favicon.ico",
+      "imageURL": "https://masbuenafm.com/wp-content/uploads/2023/02/logo-mb-web.jpg",
       "desc": "Club Dance | Dance | Electronic | Electronic Dance Music | Entretenimiento | Eurodance | House | Music",
       "longDesc": "",
       "country": "ES",
@@ -79,9 +222,9 @@
       "_homepage": "https://masbuenafm.com/"
     },
     {
-      "name": "1 Slow-Radio - laut.fm",
+      "name": "1 Slow-Radio",
       "streamURL": "https://1slowradio.stream.laut.fm/1_slowradio",
-      "imageURL": "",
+      "imageURL": "https://assets.laut.fm/9670c7c141ede546101df1cdfe18e0b4?t=_120x120",
       "desc": "60Er | 70Er | 80Er | 90Er | Easy Listening | Lovesongs | Oldies | Schlager | Slow",
       "longDesc": "",
       "country": "ES",
@@ -94,20 +237,20 @@
     {
       "name": "100 % SALSA",
       "streamURL": "https://stm01.streammaximum.com:8194/;",
-      "imageURL": "https://www.100porcientosalsa.com/wp-content/uploads/2024/08/LOGOBALANCE.png",
+      "imageURL": "https://100porcientosalsa.com/assets/uploads/logo_20260122_000918_cb3908c8.png",
       "desc": "Latino | Music | Salsa",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34630666195",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.100porcientosalsa.com/"
     },
     {
-      "name": "1000 80s Hits",
+      "name": "1000 Hits 80s",
       "streamURL": "https://ais-sa9.cdnstream1.com/1898_128",
-      "imageURL": "",
+      "imageURL": "https://www.1000hits80s.eu/wp-content/uploads/2017/10/cropped-1000Hits80s_300x300-180x180.jpg",
       "desc": "80 | 80'S | 80Er | 80S | 80S Radio | All 80S | Hits 80S | The Best Of 80'S",
       "longDesc": "",
       "country": "ES",
@@ -116,32 +259,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.1000hits80s.eu/"
-    },
-    {
-      "name": "1000 HITS 80s",
-      "streamURL": "http://c2.auracast.net:8048/stream",
-      "imageURL": "",
-      "desc": "70S | 80S | 90S | Italo | Italo Dance | Italo Disco | Oldies",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.1000hits80s.eu/"
-    },
-    {
-      "name": "1000 HITS Classical",
-      "streamURL": "https://ais-sa2.cdnstream1.com/2208_128.mp3",
-      "imageURL": "",
-      "desc": "Classical | Classical Baroque | Classical Guitar | Classical Music | Classical Piano | Contemporary Classical",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.splashradio.eu/"
     },
     {
       "name": "1000 Hits Spain",
@@ -155,19 +272,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.facebook.com/1000hitspain"
-    },
-    {
-      "name": "24h RTVE Original TELEVISION",
-      "streamURL": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-      "imageURL": "null",
-      "desc": "24h RTVE Original TELEVISION",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC,H.264",
-      "_bitrate": 3012,
-      "_homepage": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     },
     {
       "name": "24h RTVE Televisión",
@@ -185,7 +289,7 @@
     {
       "name": "80s Super Dancefloor",
       "streamURL": "https://s41.myradiostream.com:33604/;",
-      "imageURL": "",
+      "imageURL": "https://www.radio.net/175/80ssuperdancefloor.png?version=1ef9b5eb2529c07957d7caef364808d62d086e13",
       "desc": "80S | Classic Hits | Oldies",
       "longDesc": "",
       "country": "ES",
@@ -196,7 +300,7 @@
       "_homepage": "https://sdf80s.es/"
     },
     {
-      "name": "90 FM (95.2(",
+      "name": "90 FM (95.2)",
       "streamURL": "http://185.23.192.118:8010/;",
       "imageURL": "http://www.90fm.es/wp-content/uploads/2019/11/favicon2.png",
       "desc": "90S | Adult Contemporary | Hits | Oldies",
@@ -222,22 +326,9 @@
       "_homepage": "https://999plazaradio.valenciaplaza.com/"
     },
     {
-      "name": "999 Valencia Radio",
-      "streamURL": "https://stream1.solstreaming.com:8112/stream",
-      "imageURL": "https://la999.es/wp-content/uploads/2020/06/circulo999blanco-negro.png",
-      "desc": "999 Valencia Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://la999.es/"
-    },
-    {
       "name": "_80 EXITOS",
       "streamURL": "https://80sexitos.stream.laut.fm/80sexitos",
-      "imageURL": "",
+      "imageURL": "https://musica80.radioclub.es/wp-content/uploads/2018/12/cropped-80EXITS512-180x180.jpg",
       "desc": "70S | 80S | 90S | Dance | Disco | Musica Romantica",
       "longDesc": "",
       "country": "ES",
@@ -248,22 +339,9 @@
       "_homepage": "https://musica80.radioclub.es/"
     },
     {
-      "name": "__80 EXITOS",
-      "streamURL": "https://80sexitos.stream.laut.fm/80sexitos",
-      "imageURL": "",
-      "desc": "00S | 70S | 80S | 90S | Pop | Rock | Romantic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://musica80.radioclub.es/"
-    },
-    {
-      "name": "_Funky Corner Radio (Spain)",
+      "name": "Funky Corner Radio (Spain)",
       "streamURL": "https://ais-sa2.cdnstream1.com/2447_96.aac",
-      "imageURL": "",
+      "imageURL": "https://www.funkycorner.it/images/Logo%20FUNKY%20CORNER%20General%20082024.png",
       "desc": "70S | 70S Disco | 80S | Black | Black Music | Disco | Funk | Funky | Motown | Music | Musica | Oldies | P-Funk | Philadelphia | R&B | R'N'B | Rare Groove | Rnb | Soul | The Sound Of Philadelphia",
       "longDesc": "",
       "country": "ES",
@@ -276,7 +354,7 @@
     {
       "name": "Absolute Chillout",
       "streamURL": "http://edge4.peta.live365.net/b05055_128mp3",
-      "imageURL": "http://www.absolutechillout.com/favicon.ico",
+      "imageURL": "https://www.absolutechillout.com/index_html_files/16092@2x.png",
       "desc": "Absolute Chillout",
       "longDesc": "",
       "country": "ES",
@@ -287,20 +365,7 @@
       "_homepage": "http://www.absolutechillout.com/"
     },
     {
-      "name": "ABSOLUTE CHILLOUT",
-      "streamURL": "http://streaming.live365.com/b05055_128mp3",
-      "imageURL": "http://www.absolutechillout.com/index_html_files/Absolute-Chillout-Splash.jpg",
-      "desc": "ABSOLUTE CHILLOUT",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.absolutechillout.com/"
-    },
-    {
-      "name": "Adagio Radio HD",
+      "name": "Adagio Radio",
       "streamURL": "https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3",
       "imageURL": "https://static.wixstatic.com/media/d466c9_91c8e281e4a24260996aaa6009cabd5c~mv2.png/v1/fill/w_320,h_314,al_c,q_85,usm_4.00_1.00_0.00/adagio3.webp",
       "desc": "Classical",
@@ -312,19 +377,18 @@
       "_bitrate": 256,
       "_homepage": "http://www.adagioradio.es/"
     },
-    {
-      "name": "AdagioRadio",
-      "streamURL": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3",
-      "imageURL": "",
-      "desc": "Clasica | Opera | Symphony",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 256,
-      "_homepage": "http://www.adagioradio.com/"
-    },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "AFN 360 Rota",
       "streamURL": "http://25603.live.streamtheworld.com/AFNE_RTA_SC",
