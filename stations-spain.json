@@ -910,22 +910,10 @@
       "_bitrate": 128,
       "_homepage": "https://www.dynamisradio.org/"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "EDM Festival - Online Radio",
       "streamURL": "https://stream.technolovers.fm/edm?ref=radiobrowser",
-      "imageURL": "null",
+      "imageURL": "https://www.di.fm/assets/apple-touch-icon-5b0e5e709e9e01a378447d6b6c8cb02c5a85b6711c636e93e8c7c350ce26e82a.png",
       "desc": "Edm",
       "longDesc": "",
       "country": "ES",
@@ -937,8 +925,8 @@
     },
     {
       "name": "EDM Radio",
-      "streamURL": "https://laut.fm/edmradio",
-      "imageURL": "null",
+      "streamURL": "https://stream.laut.fm/edmradio",
+      "imageURL": "https://www.di.fm/assets/apple-touch-icon-5b0e5e709e9e01a378447d6b6c8cb02c5a85b6711c636e93e8c7c350ce26e82a.png",
       "desc": "Dance Top 100 | Edm | Electronic Dance Music | Music",
       "longDesc": "",
       "country": "ES",
@@ -953,19 +941,6 @@
       "streamURL": "http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
       "imageURL": "https://images14.eitb.eus/multimedia/recursos/generales/streaming/logo_zuzenean_euskal_kantak.png",
       "desc": "Basque Music",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 128,
-      "_homepage": "https://www.eitb.eus/eu/irratia/eitb-euskal-kantak/"
-    },
-    {
-      "name": "EITB Euskal Kantak",
-      "streamURL": "http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
-      "imageURL": "https://www.eitb.eus/apple-touch-icon.png",
-      "desc": "EITB Euskal Kantak",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -995,7 +970,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34636690588",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://eixamplebarcelonaradio.com/"
@@ -1016,34 +991,8 @@
     {
       "name": "El Salto Radio",
       "streamURL": "https://radio.radiobot.org/listen/salto/elsaltoradio.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.elsaltodiario.com/uploads/avatars/thumb/avatar_web.png",
       "desc": "El Salto Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.elsaltodiario.com/el-salto-radio"
-    },
-    {
-      "name": "El Salto Radio",
-      "streamURL": "https://radio.radiobot.org/listen/salto/elsaltoradio.mp3",
-      "imageURL": "https://www.elsaltodiario.com/uploads/iconos/h200/nuevo_logo_El_Salto_lema_DEF.png?v=63799527616",
-      "desc": "News | Noticias | Podcast",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.elsaltodiario.com/"
-    },
-    {
-      "name": "El Salto radio",
-      "streamURL": "https://radio.radiobot.org/listen/salto/elsaltoradio.mp3",
-      "imageURL": "https://www.elsaltodiario.com/favicon.ico",
-      "desc": "El Salto radio",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -1060,7 +1009,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34626092709",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://emeradiofm.com/"
@@ -1068,7 +1017,7 @@
     {
       "name": "ENERGIA FM - CARAVACA DE LA CRUZ 90.0",
       "streamURL": "http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthfvnext.bing.com%2Fth%2Fid%2FOIP.gsJZbYAuLN07fl0Qj3oAowAAAA%3Fcb%3Dthfvnextfalcon2%26pid%3DApi&f=1&ipt=9a412625960a5233203f547e49f05308a3b5a9ffa376db17b1b9e3c3bf6ca121&ipo=images",
       "desc": "90.0 | Caravaca | Energia",
       "longDesc": "",
       "country": "ES",
@@ -1086,7 +1035,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34691726650",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://energiaflamenca.com/"
@@ -1094,7 +1043,7 @@
     {
       "name": "Espana Network",
       "streamURL": "https://cast3.asurahosting.com/proxy/paolo/stream",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/582/radio-espana-network.406b0f62.jpg",
       "desc": "Espana Network",
       "longDesc": "",
       "country": "ES",
@@ -1102,8 +1051,20 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://espananetwork.net/site/"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Esplugues FM",
       "streamURL": "https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream",
