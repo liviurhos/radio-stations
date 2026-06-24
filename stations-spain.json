@@ -1509,31 +1509,35 @@
       "_homepage": "https://www.grabaradioibiza.com/"
     },
     {
-      "name": "HappyFM-Fuerteventura",
-      "streamURL": "https://happyfuerteventura.streaming-pro.com:6003/live",
-      "imageURL": "",
-      "desc": "HappyFM-Fuerteventura",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.happyfmfuerteventura.es/"
-    },
-    {
       "name": "Hit radio",
       "streamURL": "http://stm1.emiteonline.com:8004/hitelgrado",
-      "imageURL": "",
+      "imageURL": "https://liveonlineradio.net/wp-content/uploads/2021/02/Hit-Radio-El-Grado-1.jpg",
       "desc": "Musica Popular | Noticias",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34653981474",
       "_codec": "MP3",
       "_bitrate": 96,
       "_homepage": "http://www.hitradiofm.es/index.html"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
     {
       "name": "Hits 1 Ibiza",
       "streamURL": "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
