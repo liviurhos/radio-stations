@@ -1186,7 +1186,7 @@
     {
       "name": "FlaixBAC",
       "streamURL": "https://stream.flaixbac.cat/icecast",
-      "imageURL": "https://flaixbac.cat/favicon_bac_32x32.png",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.2LO13ZLUn0o6Pkw7D941nQAAAA%3Fpid%3DApi&f=1&ipt=9b7d36625b7324dbf06b426a2d4145ca393c868deb2663dda697f717fa02ddb9&ipo=images",
       "desc": "Pop",
       "longDesc": "",
       "country": "ES",
@@ -1873,22 +1873,10 @@
       "_bitrate": 128,
       "_homepage": "https://www.locafm.com/deep-techno/player.html"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "LOCA FM House",
       "streamURL": "http://s02.fjperezdj.com:8026/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
@@ -1896,12 +1884,12 @@
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/house/player.html"
     },
     {
       "name": "Loca FM Industrial",
       "streamURL": "http://s02.fjperezdj.com:8076/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
@@ -1909,12 +1897,12 @@
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/industrial/player.html"
     },
     {
       "name": "Loca FM live",
       "streamURL": "http://s3.we4stream.com:8045/liv",
-      "imageURL": "http://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca FM live",
       "longDesc": "",
       "country": "ES",
@@ -1927,7 +1915,7 @@
     {
       "name": "LOCA FM TechHouse",
       "streamURL": "http://s02.fjperezdj.com:8046/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
@@ -1935,39 +1923,39 @@
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/tech-house/player.html"
     },
     {
       "name": "LOCA FM Techno",
       "streamURL": "http://s02.fjperezdj.com:8050/live",
-      "imageURL": "",
-      "desc": "Electronic",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
+      "desc": "Electronic | Techno",
       "longDesc": "",
       "country": "ES",
       "tel": "",
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/techno/player.html"
     },
     {
       "name": "LOCA FM Trance",
       "streamURL": "http://s02.fjperezdj.com:8055/live",
-      "imageURL": "",
-      "desc": "Electronic",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
+      "desc": "Electronic | Trance",
       "longDesc": "",
       "country": "ES",
       "tel": "",
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/trance/player.html"
     },
  
     {
       "name": "Loca FM Urban",
       "streamURL": "http://locafm02.we4stream.com:8015/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Latin Music | Latin Pop | Latin Urban | Latino | Latino Urbano | Musica Latina | Música Urbana | Pop Latino | Reggaeton | Reggaetón | Urban | Urbana | Urbano",
       "longDesc": "",
       "country": "ES",
@@ -1980,7 +1968,7 @@
     {
       "name": "Loca Progressive House",
       "streamURL": "https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca Progressive House",
       "longDesc": "",
       "country": "ES",
@@ -1993,7 +1981,7 @@
     {
       "name": "LocaFM 90's",
       "streamURL": "https://s2.we4stream.com/listen/loca_90s_/live",
-      "imageURL": "https://radios.com.es/uploads/img/loca-fm-90-s.png",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "90'S | Dance",
       "longDesc": "",
       "country": "ES",
@@ -2006,7 +1994,7 @@
     {
       "name": "LocaFM Melodic Deep",
       "streamURL": "http://s02.fjperezdj.com:8056/live",
-      "imageURL": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "LocaFM Melodic Deep",
       "longDesc": "",
       "country": "ES",
@@ -2019,7 +2007,7 @@
     {
       "name": "LOCAFM REMEMBER",
       "streamURL": "http://s02.fjperezdj.com:8035/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
@@ -2027,13 +2015,39 @@
       "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/remember/player.html"
     },
     {
       "name": "Lola FM 80`s",
       "streamURL": "https://digitalcreative.es:9000/lolafm_80s",
-      "imageURL": "",
+      "imageURL": "https://lolafm.es/wp-content/uploads/2021/10/logo_lola_fm-07.png",
       "desc": "Lola FM 80`s",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 128,
+      "_homepage": "https://lolafm.es/"
+    },
+    {
+      "name": "Lola FM",
+      "streamURL": "https://srv7031.dns-lcinternet.com/8096/stream",
+      "imageURL": "https://lolafm.es/wp-content/uploads/2021/10/cropped-logo_lola-09-180x180.png",
+      "desc": "Lola FM",
+      "longDesc": "",
+      "country": "ES",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 128,
+      "_homepage": "https://lolafm.es/"
+    },
+    {
+      "name": "Lola FM Dance",
+      "streamURL": "https://digitalcreative.es:9000/lolafm_dance",
+      "imageURL": "https://lolafm.es/wp-content/uploads/2021/10/logo_lola_fm-06.png",
+      "desc": "Lola FM",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -2046,20 +2060,7 @@
       "name": "Los 40",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
       "imageURL": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://play.los40.com/"
-    },
-    {
-      "name": "LOS 40",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-      "imageURL": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
-      "desc": "R&B/Urban",
+      "desc": "Pop |R&B | Urban",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -2082,58 +2083,6 @@
       "_homepage": "https://los40.com/"
     },
     {
-      "name": "Los 40 Dance",
-      "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
-      "imageURL": "https://recursosweb.prisaradio.com/fotos/original/010002753887.png",
-      "desc": "Dance | Dance Music | Edm | Electro | Electronic | House",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://los40.com/"
-    },
-    {
-      "name": "LOS 40 DANCE",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Los 40 españa",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-      "imageURL": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
-      "desc": "Los 40 españa",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://los40.com/"
-    },
-    {
-      "name": "LOS 40 Principales España",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-      "imageURL": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
-      "desc": "Music | Pop | Top 40",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://los40.com/"
-    },
-    {
       "name": "Los 40 Urban",
       "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
       "imageURL": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
@@ -2145,45 +2094,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://los40.com/seccion/los40urban/"
-    },
-    {
-      "name": "LOS 40 URBAN",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
-      "imageURL": "",
-      "desc": "R&B/Urban",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Los Megaexitos",
-      "streamURL": "https://losmegaexitos.radioca.st/lms",
-      "imageURL": "https://losmegaexitos.es/apple-icon-120x120.png",
-      "desc": "Music",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://losmegaexitos.es/"
-    },
-    {
-      "name": "LOS40",
-      "streamURL": "https://20103.live.streamtheworld.com/LOS40_SC",
-      "imageURL": "https://logo.clearbit.com/los40.com",
-      "desc": "Exitos | Hits | Pop | Popular",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://los40.com/"
     },
     {
       "name": "LOS40 Classic",
@@ -2199,35 +2109,22 @@
       "_homepage": "https://play.los40.com/emisora/los40_classic/"
     },
     {
-      "name": "Los40 Dance",
-      "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
-      "imageURL": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
-      "desc": "Los40 Dance",
+      "name": "Los Megaexitos",
+      "streamURL": "https://losmegaexitos.radioca.st/lms",
+      "imageURL": "https://losmegaexitos.es/imagen-social.png",
+      "desc": "Music",
       "longDesc": "",
       "country": "ES",
       "tel": "",
       "whatsapp": "",
       "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://play.los40.com/emisora/los40_dance/"
+      "_bitrate": 192,
+      "_homepage": "https://losmegaexitos.es/"
     },
     {
       "name": "Lounge Radio Ibiza",
       "streamURL": "https://stream.laut.fm/lounge-radio-ibiza",
-      "imageURL": "",
-      "desc": "Lounge Radio Ibiza",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://laut.fm/lounge-radio-ibiza"
-    },
-    {
-      "name": "Lounge Radio Ibiza",
-      "streamURL": "https://lounge-radio-ibiza.stream.laut.fm/lounge-radio-ibiza?pl=m3u&t302=2026-01-15_07-49-47&uuid=76e9513e-5c01-407a-9538-f7c4a8d29d26",
-      "imageURL": "https://lounge-radio-ibiza.com/wp-content/uploads/2023/09/logo-mobile.png",
+      "imageURL": "https://loungeradioibiza.b-cdn.net/wp-content/uploads/2021/11/cropped-Lounge-Radio-Ibiza-SoundWave-180x180.png",
       "desc": "Lounge Radio Ibiza",
       "longDesc": "",
       "country": "ES",
@@ -2238,9 +2135,9 @@
       "_homepage": "https://lounge-radio-ibiza.com/"
     },
     {
-      "name": "LOVE RADIO - LOVE.radio",
+      "name": "LOVE RADIO",
       "streamURL": "https://loveradio.streamingmedia.it/espana",
-      "imageURL": "",
+      "imageURL": "https://love.radio/wp-content/uploads/2020/10/cropped-LOVE.RADIO-only-love-songs_logo-180x180.png",
       "desc": "Amor Sólo Música Romántica | Love | Love Songs | Lovesongs | Musica Romantica | Romantic",
       "longDesc": "",
       "country": "ES",
@@ -2266,7 +2163,7 @@
     {
       "name": "Mariskal Rock",
       "streamURL": "https://media.profesionalhosting.com:8047/stream",
-      "imageURL": "",
+      "imageURL": "https://mariskalrock.com/wp-content/uploads/2020/09/cropped-favicon-180x180.png",
       "desc": "Alternative Rock | Blues Rock | Classic Rock | Hard Rock | Indie Rock | Pop Rock | Progressive Rock | Punk Rock | Rock | Soft Rock",
       "longDesc": "",
       "country": "ES",
@@ -2284,7 +2181,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+639542847",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://masterfm.es/"
@@ -2303,22 +2200,9 @@
       "_homepage": "https://mdtradio.com/"
     },
     {
-      "name": "MDT RADIO Murcia 97.1 FM",
-      "streamURL": "https://streams1.mdtradio.com:8443/MdtMurciaEstudio",
-      "imageURL": "https://mdtradio.com/wp-content/uploads/2022/11/logobanner.png",
-      "desc": "MDT RADIO Murcia 97.1 FM",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://mdtradio.com/"
-    },
-    {
       "name": "Mediterrani FM Barcelona",
       "streamURL": "https://listen1.myradio24.com/37511",
-      "imageURL": "https://egbfm.com/.cm4all/mediadb/LOGO-Mediterrani-FM.jpg",
+      "imageURL": "https://lh3.googleusercontent.com/sitesv/AA5AbUCvrtNIzvvbZa0tH82R8-JOv59B5YbgLs7qBYcMexcT-WAWvNZIiUCHlA5lcJXRl5jFLA5qIuauKsDX8G7IFeLn2zetMMst0LcByrOOcHI063RslnhxC2HvOTWedkTkL95WcNL0pNMpQqATE41A74iUipaQazk1msnGnHjcofLFrphpbqZNxNNJEsHrRmo=w1280",
       "desc": "70S | 80S | 90S | Pop",
       "longDesc": "",
       "country": "ES",
@@ -2329,31 +2213,32 @@
       "_homepage": "https://www.mediterranifm.cat/"
     },
     {
-      "name": "MEGA STAR FM",
-      "streamURL": "https://megastar-cope.flumotion.com/playlist.m3u8",
-      "imageURL": "",
-      "desc": "International",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "AAC",
-      "_bitrate": 64,
-      "_homepage": ""
-    },
-    {
       "name": "MegaStarFM",
       "streamURL": "http://flucast-bl05.flumotion.com/cope/megastar.mp3",
       "imageURL": "https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png",
       "desc": "Pop | Top 40",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34900100016",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.megastar.fm/"
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Melodia Para Dos",
       "streamURL": "https://sp.totalstreaming.net:8170/stream",
