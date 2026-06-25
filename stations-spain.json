@@ -848,7 +848,7 @@
     {
       "name": "delicious.beach - formentera lounge radio",
       "streamURL": "https://server31435.streamplus.de/;stream.mp3",
-      "imageURL": "https://instagram.fbrs5-1.fna.fbcdn.net/v/t51.82787-19/658451913_18099957080294586_219071239399719556_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDcuYzIifQ&_nc_ht=instagram.fbrs5-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGA5ULi_ztWEqdtC26ZNPLafb_wrj9sP1bISaokQEc4KTK4c8tlgD3ZZmRfnQbWa7U&_nc_ohc=SXttzrF2powQ7kNvwGSnsbx&_nc_gid=hd1t2bA-tUeC9DS81yuLUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af-G554lI572OPv8e9LQgS_xVtLd_j1BX9SYXZiVJ5kmWA&oe=6A2E7BDC&_nc_sid=8b3546",
+      "imageURL": "https://www.radio.net/300/deliciousbeach.png",
       "desc": "Bossa Nova | Chillout | Jazz | Lounge",
       "longDesc": "",
       "country": "ES",
@@ -1222,23 +1222,10 @@
       "_bitrate": 320,
       "_homepage": "https://www.canalsur.es/radio/flamencoradio-1313.html"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "FORMULA 10 MUSICA",
       "streamURL": "https://formula10musica.stream.laut.fm/formula10musica",
-      "imageURL": "",
+      "imageURL": "https://img.webme.com/pic/f/formula10musica/formula10musica%201400px.png",
       "desc": "80S | 90S | Hits | Pop",
       "longDesc": "",
       "country": "ES",
@@ -1251,7 +1238,7 @@
     {
       "name": "Formula 30",
       "streamURL": "http://stm1.emiteonline.com:8001/formula30",
-      "imageURL": "",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/qswzefeg5zyp.jpg",
       "desc": "Dance | Electronic | Pop",
       "longDesc": "",
       "country": "ES",
@@ -1264,11 +1251,11 @@
     {
       "name": "Fred Film Radio(Español)",
       "streamURL": "https://s10.webradio-hosting.com/proxy/fredradiosp/stream",
-      "imageURL": "",
+      "imageURL": "https://fredfmstatic.s3.eu-central-1.amazonaws.com/wp-content/uploads/2025/04/Fred600x600.png",
       "desc": "Culture | Film | Movie",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+442081444342",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -1277,12 +1264,12 @@
     {
       "name": "Free FM",
       "streamURL": "https://rocafmadrid.radioca.st/",
-      "imageURL": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
+      "imageURL": "https://freefmradio.net/assets/img/freefmworld-logo-oficial.jpg",
       "desc": "80'S | 90'S | Classic Rock | Free | Free Fm | Free Radio | Oldies | Pop Music | Rock",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34659423007",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://freefmradio.net/"
@@ -1290,38 +1277,25 @@
     {
       "name": "Free FM 80s",
       "streamURL": "https://freefm80.radioca.st/",
-      "imageURL": "https://lh6.googleusercontent.com/BR3eGbrdzStCIwJbWJaqGlKSHEGpU6wENZQ2c3IJYNvi8884X7n0EJoshH7p4unOWTayGTUqxa0MgOW7wDIrDA=w1280",
+      "imageURL": "https://freefmradio.net/assets/img/freefmworld-logo-oficial.jpg",
       "desc": "#80 | #Freefm #80S #90S #80 | 1980S | 90'S",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34659423007",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://freefmradio.net/"
     },
     {
-      "name": "Free FM 80s Madrid",
-      "streamURL": "https://freefm80.radioca.st/",
-      "imageURL": "https://lh3.googleusercontent.com/XPHNaTU-6vmmfsmAUR9n-eNva_rMGrnq7QQesAoDEY2TjSjcmE7W6-7K1LvxblesgBPLF4-UkLj_rInJX_2FODY0XyhIJo9xBG79V0dMS_B1JC7D2pg0p8rYmVM8HRsy=w1280",
-      "desc": "#80 | #80S",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "http://www.freefmworld.com/"
-    },
-    {
       "name": "Free FM Chill",
       "streamURL": "https://freefmchill.radioca.st/",
-      "imageURL": "https://lh3.googleusercontent.com/9u-dekaPrK3ofEaKOK0dUp5aQQnRCBnR2bAOYFBLRYjQHLLnTaneDm7NY7qtiuHYnEMo6KOheQ7eyCdvcDiZZjL3e60Lzd38yXpxwSSFEcqR5eVd95T7as-SybDgi5BW0g=w1280",
+      "imageURL": "https://freefmradio.net/assets/img/freefmworld-logo-oficial.jpg",
       "desc": "#80S | #Chill | #Freefm",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34659423007",
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://www.freefmworld.com/"
@@ -1329,7 +1303,7 @@
     {
       "name": "Free FM Classics",
       "streamURL": "https://xxdelgado.radioca.st/",
-      "imageURL": "",
+      "imageURL": "https://freefmradio.net/assets/img/freefmworld-logo-oficial.jpg",
       "desc": "Clasicos | Clasicos En Ingles | Classic Hits | Goldies | Italian Oldies | Música Pop | Oldies | Oldies 50'S/60'S | Spanish",
       "longDesc": "",
       "country": "ES",
@@ -1338,45 +1312,6 @@
       "_codec": "MP3",
       "_bitrate": 320,
       "_homepage": "http://freefmradio.net/"
-    },
-    {
-      "name": "Free FM Madrid",
-      "streamURL": "https://rocafmadrid.radioca.st/stream",
-      "imageURL": "",
-      "desc": "70 80 Hits | 80'S | 80Er | 80S | 80S Rock | Classic Rock | Rock | The Best Of 80'S",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "http://freefmradio.net/"
-    },
-    {
-      "name": "Free FM Mdrid",
-      "streamURL": "https://rocafmadrid.radioca.st/",
-      "imageURL": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
-      "desc": "80S | 90S | Free | Music | Pop Music | Top 100",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "http://freefmradio.net/"
-    },
-    {
-      "name": "FUNKY TRACKS RADIO",
-      "streamURL": "https://streaming2.elitecomunicacion.es:8134/stream",
-      "imageURL": "",
-      "desc": "80S | 90S | Disco | Funky | Funky House",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://www.funkytracksradio.com/"
     },
     {
       "name": "FUNKY TRACKS RADIO",
@@ -1392,22 +1327,9 @@
       "_homepage": "https://www.funkytracksradio.com/"
     },
     {
-      "name": "FUNKY TRACKS RADIO Barcelona",
-      "streamURL": "http://streaming2.elitecomunicacion.es:8134/stream",
-      "imageURL": "https://cdn.webrad.io/images/logos/emisora-org-es/funky-tracks.png",
-      "desc": "80S | Disco | Funky | Funky 70 | Funky House",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://www.funkytracksradio.com/"
-    },
-    {
       "name": "Gaztea Irratia",
       "streamURL": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gaztea_Spain.svg",
+      "imageURL": "https://gaztea.eus/content/dam/eitb-gaztea/images/favicon/gaztea%20login.png",
       "desc": "Music",
       "longDesc": "",
       "country": "ES",
@@ -1420,7 +1342,7 @@
     {
       "name": "Gente Radio",
       "streamURL": "https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live",
-      "imageURL": "",
+      "imageURL": "https://genteradio.net/player/tmp/images/default.png",
       "desc": "Local News | Magazines | Music",
       "longDesc": "",
       "country": "ES",
@@ -1433,7 +1355,7 @@
     {
       "name": "Gladys Palmera Coleccion",
       "streamURL": "http://streams.radio.co/s496c4d2e8/listen",
-      "imageURL": "",
+      "imageURL": "https://gladyspalmera.com/wp-content/uploads/2017/01/RGP.png",
       "desc": "Worldbeat",
       "longDesc": "",
       "country": "ES",
@@ -1446,7 +1368,7 @@
     {
       "name": "Gladys Palmera Latin Fresh",
       "streamURL": "https://streamer.radio.co/s00c7ec6fa/listen",
-      "imageURL": "",
+      "imageURL": "https://gladyspalmera.com/wp-content/uploads/2017/01/RGP.png",
       "desc": "Latin | Worldbeat",
       "longDesc": "",
       "country": "ES",
@@ -1459,7 +1381,7 @@
     {
       "name": "Gladys Palmera Radio Online",
       "streamURL": "http://streamer.radio.co/sb28a7fb81/listen",
-      "imageURL": "",
+      "imageURL": "https://gladyspalmera.com/wp-content/uploads/2017/01/RGP.png",
       "desc": "Worldbeat",
       "longDesc": "",
       "country": "ES",
@@ -1472,12 +1394,12 @@
     {
       "name": "Globo FM",
       "streamURL": "http://sonic.sistemahost.es:8200/",
-      "imageURL": "",
+      "imageURL": "https://www.globofm.es/wp-content/uploads/2023/08/cropped-logo-180x180.png",
       "desc": "Music | Spanish Oldies | Spoken Word",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34722412691",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.globofm.es/"
@@ -1485,7 +1407,7 @@
     {
       "name": "Gozadera Fm",
       "streamURL": "https://streaming.shoutcast.com/gozadera",
-      "imageURL": "https://gozadera.es/favicon.ico",
+      "imageURL": "https://gozadera.es/logo-light.png",
       "desc": "Gozadera Fm",
       "longDesc": "",
       "country": "ES",
@@ -1521,23 +1443,6 @@
       "_bitrate": 96,
       "_homepage": "http://www.hitradiofm.es/index.html"
     },
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-    
     {
       "name": "Hits 1 Ibiza",
       "streamURL": "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
@@ -1546,28 +1451,15 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+33651810876",
       "_codec": "MP3",
       "_bitrate": 256,
       "_homepage": "https://www.hits1radio.com/"
     },
     {
-      "name": "Hits 80s",
-      "streamURL": "https://makri.cdnstream.com/1898_128",
-      "imageURL": "",
-      "desc": "Classic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://usastreams.com/"
-    },
-    {
       "name": "Hola 95.7 FM 1 Costa Calma",
       "streamURL": "http://5.135.183.124:8207/stream",
-      "imageURL": "",
+      "imageURL": "https://holafm.com/wp-content/uploads/2025/06/HolaFM_Logo_2025_1200x750.png",
       "desc": "Pop | Soft Rock",
       "longDesc": "",
       "country": "ES",
@@ -1593,7 +1485,7 @@
     {
       "name": "IB3 Ràdio Mallorca",
       "streamURL": "https://icecast.ib3radio.com/ib3radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://d3u5tmyuxvrrla.cloudfront.net/apple-touch-icon-180x180-precomposed.png",
       "desc": "Local Radio",
       "longDesc": "",
       "country": "ES",
@@ -1604,22 +1496,9 @@
       "_homepage": "https://ib3radio.com/"
     },
     {
-      "name": "IB3 Ràdio Menorca",
-      "streamURL": "http://streaming01.ib3radio.com:8000/ib3radio_menorca",
-      "imageURL": "",
-      "desc": "News | Talk",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://ib3tv.com/radio"
-    },
-    {
       "name": "Ibiza Radios Deep House",
       "streamURL": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-      "imageURL": "null",
+      "imageURL": "https://static.wixstatic.com/media/e8dc1c_70623f2d75dd47f796262da9502df6c6~mv2.png/v1/fill/w_194,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e8dc1c_70623f2d75dd47f796262da9502df6c6~mv2.png",
       "desc": "Deep House",
       "longDesc": "",
       "country": "ES",
@@ -1627,12 +1506,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 64,
-      "_homepage": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj"
+      "_homepage": "https://vvprod.wixsite.com/ibiza-radios/deep-house-1"
     },
     {
       "name": "Ibiza Radios Hits",
       "streamURL": "https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits",
-      "imageURL": "",
+      "imageURL": "https://static.wixstatic.com/media/e8dc1c_4300da08ab19405a9906d82f194e943b~mv2.png/v1/fill/w_194,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e8dc1c_4300da08ab19405a9906d82f194e943b~mv2.png",
       "desc": "Ibiza Radios Hits",
       "longDesc": "",
       "country": "ES",
@@ -1645,21 +1524,8 @@
     {
       "name": "Ibiza Radios Relax",
       "streamURL": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
-      "imageURL": "",
+      "imageURL": "https://static.wixstatic.com/media/e8dc1c_91cd2ab40d6647a1b96f0aa8adf7dcc4~mv2.png/v1/fill/w_194,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e8dc1c_91cd2ab40d6647a1b96f0aa8adf7dcc4~mv2.png",
       "desc": "Relaxing",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.ibiza-radios.com/"
-    },
-    {
-      "name": "Ibiza Relax",
-      "streamURL": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
-      "imageURL": "",
-      "desc": "Relaxation Music",
       "longDesc": "",
       "country": "ES",
       "tel": "",
@@ -1671,7 +1537,7 @@
     {
       "name": "Ibiza Sonica",
       "streamURL": "https://ibizasonica.streaming-pro.com:8000/ibizasonica",
-      "imageURL": "https://ibizasonica.com/favicon.ico",
+      "imageURL": "https://d2zc6zei1a4ice.cloudfront.net/media/playlist-group-logo-web-player/18/Ibiza_Sonica_Lught_Theme_1.png?Expires=1797897600&Signature=pzSjyvwjgREaTo41EVIt-~tz~ylZ6ZBanr~JuR41SspBAGsomyJqMv3nxd5~nsvEl4ouKzzUkogb8MIkfRVyImEU4mR01ICnMB2LLab-h5ZYD74eTjS~V1QrL72zpEujgGwSQV-pI5--y~jlKVt2OZVjL6ba018bi4Ql2aBFi1K-v56LzfHgZD9M7LrQ74dzs1P8DDtT~iBoENCqrvkYpWFx8uoXkvzpwlnvT2Y3EkJLPa48Lad4u2erxN3l2G2t4agUrsmjw4q5ocYrwSNG1rsmntgNdysdgwXBAXPOQ-6uwjflF1RZPJ6suyFa37czYSH9WZeuwYU9EftRphLE6Q__&Key-Pair-Id=KWDD4JQ4TPZC8",
       "desc": "Chill | Electronic",
       "longDesc": "",
       "country": "ES",
@@ -1684,7 +1550,7 @@
     {
       "name": "Ibiza Stardust Radio",
       "streamURL": "https://www.radioking.com/play/ibiza-stardust-radio-1",
-      "imageURL": "",
+      "imageURL": "https://www.ibizastardustradio.com/upload/design/63ebc17848b5c2.89470539.png",
       "desc": "Deep House | House | Ibiza",
       "longDesc": "",
       "country": "ES",
@@ -1695,61 +1561,22 @@
       "_homepage": "https://www.ibizastardustradio.com/"
     },
     {
-      "name": "Ibiza Stardust Radio",
-      "streamURL": "https://www.radioking.com/play/ibiza-stardust-radio-1",
-      "imageURL": "https://ibizastardustradio.com/upload/design/63ebc17848b5c2.89470539.png",
-      "desc": "Ibiza Stardust Radio",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://ibizastardustradio.com/"
-    },
-    {
       "name": "Ibiza World Club Tour Channel",
       "streamURL": "https://ibiza-audiomediaradio.radioca.st/ibiza",
-      "imageURL": "https://www.hits1radio.com/wp-content/uploads/2020/06/IBIZA-World-Club-1-100x100.png",
+      "imageURL": "https://assets.radioplayer.org/250/2503477/600/600/mcx8nd2v.png",
       "desc": "Dance | Dj | Dj Mix | Dj Mixes | Dj Remix | Dj Sets | Djs | Electronic | Hits | House",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+33651810876",
       "_codec": "MP3",
       "_bitrate": 320,
-      "_homepage": "https://www.hits1radio.com/"
-    },
-    {
-      "name": "Ibiza_Radios/Deep House",
-      "streamURL": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-      "imageURL": "null",
-      "desc": "Ibiza_Radios/Deep House",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj"
-    },
-    {
-      "name": "Ibiza_Radios/Deep House",
-      "streamURL": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-      "imageURL": "null",
-      "desc": "Ibiza_Radios/Deep House",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 64,
-      "_homepage": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj"
+      "_homepage": "https://www.hits1radio.com/radiochannel/ibiza-world-club-tour-channel/"
     },
     {
       "name": "Imagina Radio",
       "streamURL": "https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.imaginaradio.cat/wp-content/uploads/2020/04/logoimaginamini.png",
       "desc": "2000S | 80S | 90S",
       "longDesc": "",
       "country": "ES",
@@ -1762,7 +1589,7 @@
     {
       "name": "INFORMA RADIO",
       "streamURL": "https://24x7.red:42045/informa",
-      "imageURL": "https://informaradio.edatv.news/fav-300x300.png",
+      "imageURL": "https://informaradio.edatv.news/logo_INFORMA_RADIO.png",
       "desc": "Albacete | Almería | Andalucía | Aragon | Bilbao | Cadiz | Castilla Y León | Catalunya | Conservative | Conservative Talk | Cordoba | Cultura | Cultural | Cultural News | Cultural Reports | Culture | Economia | Economic | Economic News | Economics | España | Español | Galicia | Historia | Historico | History | Internacional | Leon | Liberal | Madrid | Murcia | Nacional | News | News Talk | Noticias | Noticias En Español | Noticias Locales | Noticias Nacionales E Internacionales | Noticias Y Comentarios | Noticieros | Patriot | Patriots | Political | Political Talk | Politics | Politics & Current Affairs | Pontevedra | Sevilla | Spanish | Spanish Broadcasting System | Spanish Christian | Talk | Talk Radio | Toledo | World News | World Radio | Zamora",
       "longDesc": "",
       "country": "ES",
@@ -1773,22 +1600,9 @@
       "_homepage": "https://informaradio.edatv.news/"
     },
     {
-      "name": "Informa Radio",
-      "streamURL": "https://24x7.red:42045/informa",
-      "imageURL": "",
-      "desc": "News",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://edatv.news/"
-    },
-    {
       "name": "Inolvidable FM",
       "streamURL": "https://uk1.streamingpulse.com/ssl/inolvidablefm",
-      "imageURL": "",
+      "imageURL": "https://www.inolvidablefm.es/cmsAdmin/uploads/o_1cip71di11qji1q9jcsoai11pgoa.png",
       "desc": "Oldies | Pop | Rock",
       "longDesc": "",
       "country": "ES",
@@ -1801,12 +1615,12 @@
     {
       "name": "Inselradio Mallorca",
       "streamURL": "http://addrad.io/445fxk9",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radiowoche.de%2Fwp-content%2Fuploads%2F2016%2F03%2Flogo_das_inselradio-1.png&f=1&nofb=1&ipt=2281369d3d44480e9ce98c15d9b8c0a861aa89864775dca632855d80f9edf721",
       "desc": "Pop | Rock",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34683500100",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.inselradio.com/"
@@ -1814,7 +1628,7 @@
     {
       "name": "Intimidad Radio",
       "streamURL": "https://eu1.lhdserver.es:9119/stream",
-      "imageURL": "https://intimidadradio.com/favicon.ico",
+      "imageURL": "https://intimidadradio.com/wp-content/uploads/2020/12/cropped-Bx6y1LsQ.png",
       "desc": "Cultura | Cultural | Culture",
       "longDesc": "",
       "country": "ES",
@@ -1827,7 +1641,7 @@
     {
       "name": "Intimidad Relax",
       "streamURL": "https://eu1.lhdserver.es:9121/stream",
-      "imageURL": "https://intimidadradio.com/favicon.ico",
+      "imageURL": "https://intimidadradio.com/wp-content/uploads/2020/12/cropped-Bx6y1LsQ.png",
       "desc": "Relax",
       "longDesc": "",
       "country": "ES",
@@ -1840,7 +1654,7 @@
     {
       "name": "Jazz Crusader",
       "streamURL": "https://jazzcrusader.stream.laut.fm/jazzcrusader",
-      "imageURL": "https://scontent-mty2-1.xx.fbcdn.net/v/t39.30808-6/475450305_594017990055290_4591500008743388319_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Mu6SJyDo4t0Q7kNvgHfBg_v&_nc_oc=Adj9R7tSc5BBPlH57UC62f-Cnh86xgf2TC6UTQ0HAy3M6wn8uV-mZHL8kf1JEWZYuGc&_nc_zt=23&_nc_ht=scontent-mty2-1.xx&_nc_gid=AnMUs15mvAfbM0p04F0wfae&oh=00_AYE0WOGyxLt7E42lVR-Qhx_Bu3GZi9uvSA5m13PRKBmw_g&oe=67D3CA98",
+      "imageURL": "https://online-radio.eu/logo/25/25850.jpg",
       "desc": "Acid Jazz | Chillout | Funk | Rnb | Smooth Jazz | Soul",
       "longDesc": "",
       "country": "ES",
@@ -1853,7 +1667,7 @@
     {
       "name": "Jazz Radio Spain",
       "streamURL": "https://stream.tunerplay.com/radio/8020/jazzradiospain.mp3",
-      "imageURL": "https://tunerplay.com/wp-content/themes/tunerplay/img/favicon/apple-touch-icon.png",
+      "imageURL": "https://tunerplay.com/wp-content/uploads/2023/12/Jazz-Radio-Spain-206-2200.png",
       "desc": "Jazz Radio Spain",
       "longDesc": "",
       "country": "ES",
@@ -1864,26 +1678,13 @@
       "_homepage": "http://www.jazzradiospain.com/"
     },
     {
-      "name": "Kiss FM",
-      "streamURL": "https://frontend.streamonkey.net/fhn-gong971/stream/mp3",
-      "imageURL": "",
-      "desc": "Kiss FM",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.kissfm.es/"
-    },
-    {
       "name": "Kiss FM España",
-      "streamURL": "https://live.kissfm.ro/kissfm.aacp",
-      "imageURL": "",
+      "streamURL": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=1&gdpr_consent=CQmXFsAQmXFsAAKA9AESCkFgAAAAAEPgAAiQAAAZOABMNDogjLIgUCBQEIIEACgrCACgQBAAAkBRAQAmDAhyBgAusIkAIAUAAwQAgABBgACAAASABCIAIACAQAgQCBQABgAQBAQAMDAAGAChEAgABAdAxTAggECwASIwoDBAhAASCAlsqEEoGBBXCFIscAggREwUAACIABUBAIB4WAhJKCViQQBcQXQAIAAAAUQIsCKQswBRUGQLQVgScBkaYAk-YJEkOgiAJghIyDIhNUEg8UxRAghyA2KWYA6eIKAGXayQh_qBZuAXAlgAAAAA.IMnNR_G__bXlv-bb36btkeYxf9_hr7sQxBgbIsm4FzLvW7JwG32EbNEyatiYKmRIAu3TBIQNtHJjURUChKIgVrzDsaE2U4TtKJ-BkiHMZY2tQCFhvm4tjeQCZYur_90d0mR-t7dr-2dzy27hnv3a9fuS1UJydKYetHfv-ZhOS-_IU9_x-_4v4_MbpEm8eSVv_tWtt43c64vv6dpuxt-Tyff6f__f73fe7X__e__33_-qX3_r76-__________f__________9_______wAAA.YAAAAAAAAAAA",
+      "imageURL": "https://static.mytuner.mobi/media/tvos_radios/117/kiss-fm.51b9402b.jpg",
       "desc": "Decades",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34914440490",
       "whatsapp": "",
       "_codec": "AAC",
       "_bitrate": 80,
@@ -1905,7 +1706,7 @@
     {
       "name": "La Diez Capital Radio",
       "streamURL": "https://panel5.soydigital.fm/8030/stream",
-      "imageURL": "",
+      "imageURL": "https://www.ladiez.es/images/logo-la10-capitalradio.png",
       "desc": "Entrevistas | Magazines | Noticias Locales",
       "longDesc": "",
       "country": "ES",
@@ -1916,14 +1717,14 @@
       "_homepage": "https://www.ladiez.es/"
     },
     {
-      "name": "La flamenca",
+      "name": "La Flamenca",
       "streamURL": "https://stream.emisorasmusicales.net/listen/la_flamenca/laflamenca.mp3",
-      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/23102601/la-flamenca-.svg",
+      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/emisorasmusicales-logo.png",
       "desc": "La flamenca",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34602242526",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.emisorasmusicales.net/"
@@ -1931,64 +1732,38 @@
     {
       "name": "La Jungla Radio",
       "streamURL": "https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3",
-      "imageURL": "",
+      "imageURL": "https://lajunglaradio.com/wp-content/uploads/2021/07/cropped-Logotipo-La-Jungla-Radio-510-180x180.png",
       "desc": "La Jungla Radio",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://lajunglaradio.com/"
-    },
-    {
-      "name": "La jungla Radio",
-      "streamURL": "https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3",
-      "imageURL": "https://www.google.com/s2/favicons?domain=www.lajunglaradio.com",
-      "desc": "Entretenimiento | Musica",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://lajunglaradio.com/"
-    },
-    {
-      "name": "LA JUNGLA RADIO",
-      "streamURL": "https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3",
-      "imageURL": "https://lajunglaradio.com/wp-content/uploads/2021/07/Logotipo-La-Jungla-Radio-510-300x300.png",
-      "desc": "LA JUNGLA RADIO",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+655080808",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://lajunglaradio.com/"
     },
     {
       "name": "LA KALLE 88.8  FM",
-      "streamURL": "https://icecasthd.net/proxy/lakalle/lakalle",
-      "imageURL": "",
+      "streamURL": "https://www.123live.com/stream.php?id=9007&sid=f23b4878-0137-469c-91c7-446252899a93",
+      "imageURL": "https://www.lakallefm.com/wp-content/uploads/2024/05/favicon.png",
       "desc": "LA KALLE 88.8  FM",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34664031911",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "https://www.lakallefm.com/"
     },
     {
-      "name": "La mega",
+      "name": "La Mega",
       "streamURL": "https://stream.emisorasmusicales.net/listen/la_mega/lamega.mp3",
-      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/23102600/la-mega.svg",
+      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/emisorasmusicales-logo.png",
       "desc": "La mega",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34602242526",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.emisorasmusicales.net/"
@@ -1996,12 +1771,12 @@
     {
       "name": "La Mega Radio",
       "streamURL": "http://streaming2.elitecomunicacion.es:8220//stream?type=.mp3",
-      "imageURL": "https://www.lamegamalaga.es/favicon.ico",
+      "imageURL": "https://lamegamalaga.es/wp-content/uploads/2026/05/cropped-LAMEGA_logo_transparente-180x180.png",
       "desc": "90S | Electronic | House | Pop | Rock",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34653200600",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.lamegamalaga.es/"
@@ -2009,25 +1784,25 @@
     {
       "name": "La Movida Latina",
       "streamURL": "https://server2.ejeserver.com:8400/stream",
-      "imageURL": "https://static.wixstatic.com/media/7ccdcc_8d4e472bce864c9c8939f60f80f0d9fa%7emv2_d_1900_1478_s_2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/7ccdcc_8d4e472bce864c9c8939f60f80f0d9fa%7emv2_d_1900_1478_s_2.png",
+      "imageURL": "https://static.wixstatic.com/media/708de3_2c3e2326c58d4ecfadfceb3b615eb741~mv2.png/v1/crop/x_0,y_525,w_1340,h_333/fill/w_1200,h_298,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LA%20MOVIDA%20LATINA%20COMUNIDAD.png",
       "desc": "La Movida Latina",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+34677847417",
+      "whatsapp": "+34677847417",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.lamovidalatina.com/"
     },
     {
-      "name": "Loca Ambient",
+      "name": "Loca FM Ambient",
       "streamURL": "http://s02.fjperezdj.com:8036/live",
-      "imageURL": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
+      "imageURL": "http://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca Ambient",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.locafm.com/"
@@ -2035,103 +1810,39 @@
     {
       "name": "LOCA FM",
       "streamURL": "http://s3.we4stream.com:8045/live",
-      "imageURL": "",
+      "imageURL": "http://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 160,
-      "_homepage": ""
-    },
-    {
-      "name": "Loca FM",
-      "streamURL": "http://s47.myradiostream.com:13914/;",
-      "imageURL": "",
-      "desc": "Hits",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.locafm.com/"
-    },
-    {
-      "name": "Loca FM",
-      "streamURL": "https://s3.we4stream.com:2020/stream/locafm",
-      "imageURL": "",
-      "desc": "Loca FM",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 160,
       "_homepage": "https://www.locafm.com/"
     },
+   
     {
       "name": "Loca FM 80s",
       "streamURL": "http://s02.fjperezdj.com:8075/live",
-      "imageURL": "https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png",
+      "imageURL": "http://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca FM 80s",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.locafm.com/loca-80-s/player.html"
     },
     {
-      "name": "LOCA FM 80s",
-      "streamURL": "http://s02.fjperezdj.com:8075/live",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
-      "name": "Loca FM Ambient",
-      "streamURL": "http://s02.fjperezdj.com:8036/live",
-      "imageURL": "",
-      "desc": "Loca FM Ambient",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.locafm.com/ambient/player.html"
-    },
-    {
-      "name": "LOCA FM Child Out",
-      "streamURL": "http://s02.fjperezdj.com:8006/live",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
-    {
       "name": "Loca FM chillout",
       "streamURL": "http://s02.fjperezdj.com:8006/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca FM chillout",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.locafm.com/chill-out/player.html"
@@ -2139,29 +1850,41 @@
     {
       "name": "LOCA FM DANCE",
       "streamURL": "http://s02.fjperezdj.com:8025/live",
-      "imageURL": "",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Electronic",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.locafm.com/dance/player.html"
     },
     {
       "name": "Loca FM Deep Techno",
-      "streamURL": "http://s02.fjperezdj.com:8066/live",
-      "imageURL": "",
+      "streamURL": "https://s3.we4stream.com:2020/stream/locafm",
+      "imageURL": "https://www.locafm.com/assets/img/meta/generica.jpg",
       "desc": "Loca FM Deep Techno",
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.locafm.com/deep-techno/player.html"
     },
+
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "LOCA FM House",
       "streamURL": "http://s02.fjperezdj.com:8026/live",
@@ -2170,7 +1893,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
@@ -2183,7 +1906,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
@@ -2196,7 +1919,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 160,
       "_homepage": "http://www.locafm.com/"
@@ -2209,7 +1932,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
@@ -2222,7 +1945,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
@@ -2235,24 +1958,12 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
     },
-    {
-      "name": "Loca FM Twchno",
-      "streamURL": "http://s02.fjperezdj.com:8050/live",
-      "imageURL": "",
-      "desc": "Electronic",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": ""
-    },
+ 
     {
       "name": "Loca FM Urban",
       "streamURL": "http://locafm02.we4stream.com:8015/live",
@@ -2261,7 +1972,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 160,
       "_homepage": "http://www.locafm.com/loca-urban/player.html"
@@ -2274,7 +1985,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.locafm.com/"
@@ -2287,7 +1998,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.locafm.com/loca-90-s/player.html"
@@ -2300,7 +2011,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.locafm.com/melodic-deep/player.html"
@@ -2313,7 +2024,7 @@
       "longDesc": "",
       "country": "ES",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+34633437343",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": ""
