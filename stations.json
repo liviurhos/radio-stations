@@ -132,7 +132,7 @@
      },
 	{
       "name": "ProB Radio",
-      "streamURL": "https://live.radioprob.ro/8888/live",
+      "streamURL": "https://live.radioprob.ro:8888/;",
       "imageURL": "https://www.radioprob.ro/apple-touch-icon-v1.png",
       "desc": "Clubbing | Dance | Downtempo | House | Tech House",
       "longDesc": "",
