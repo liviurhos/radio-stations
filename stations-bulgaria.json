@@ -912,7 +912,7 @@
     },
     {
       "name": "Radio Folk BG",
-      "streamURL": "http://listen.folkbg.net:8001/folkbg",
+      "streamURL": "https://listen.folkbg.net:8443/folkbg",
       "imageURL": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
       "desc": "Radio Folk BG",
       "longDesc": "",
