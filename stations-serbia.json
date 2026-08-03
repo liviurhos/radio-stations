@@ -79,19 +79,6 @@
       "_homepage": "https://www.antenaradio.rs/"
     },
     {
-      "name": "B92",
-      "streamURL": "http://stream.b92.net:7999/radio-b92.mp3",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/B92_Belgrade_2004_logo.svg/250px-B92_Belgrade_2004_logo.png",
-      "desc": "B92",
-      "longDesc": "",
-      "country": "RS",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://b92s.net/"
-    },
-    {
       "name": "BANKER",
       "streamURL": "https://banker96-naxinacional.streaming.rs:8542/;stream.nsv",
       "imageURL": "https://radiobanker.rs/wp-content/uploads/2018/11/cropped-BANKER-radio-LOGO-512px-270x270.png",
@@ -129,6 +116,19 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://radiobelacrkva.rs/"
+    },
+    {
+      "name": "B92",
+      "streamURL": "http://stream.b92.net:7999/radio-b92.mp3",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/B92_Belgrade_2004_logo.svg/250px-B92_Belgrade_2004_logo.png",
+      "desc": "B92",
+      "longDesc": "",
+      "country": "RS",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://b92s.net/"
     },
     {
       "name": "Bravo FM 103.7MHz",
