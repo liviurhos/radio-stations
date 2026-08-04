@@ -2225,24 +2225,10 @@
       "_bitrate": 128,
       "_homepage": "http://www.megastar.fm/"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "name": "Melodia Para Dos",
       "streamURL": "https://sp.totalstreaming.net:8170/stream",
-      "imageURL": "",
+      "imageURL": "https://radio-es.com/wp-content/uploads/2025/06/Melodia-Para-Dos.jpg",
       "desc": "Romantic",
       "longDesc": "",
       "country": "ES",
@@ -2255,7 +2241,7 @@
     {
       "name": "Mi Amigo Radio, de échte",
       "streamURL": "https://stan319bisbis.radioca.st/stream",
-      "imageURL": "https://miamigoradio.es/favicon.ico",
+      "imageURL": "https://miamigoradio.es/wp-content/uploads/2025/01/logo2-1.png",
       "desc": "60S | 70S | 80S | 90S",
       "longDesc": "",
       "country": "ES",
@@ -2268,7 +2254,7 @@
     {
       "name": "Misterium II",
       "streamURL": "http://streamingv2.shoutcast.com/misterium-ii",
-      "imageURL": "",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/pepgbxqgzn8e.jpg",
       "desc": "Classical",
       "longDesc": "",
       "country": "ES",
@@ -2294,11 +2280,11 @@
     {
       "name": "Mix Radio Gran Canaria",
       "streamURL": "https://mixfm.radionetz.de/mixfm.mp3",
-      "imageURL": "",
+      "imageURL": "https://mixradio.eu/wp-content/uploads/2025/07/Logo-Mix-Radio-Neu_transparent.png",
       "desc": "Mix Radio Gran Canaria",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34928761301",
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
@@ -2307,7 +2293,7 @@
     {
       "name": "Mix80Radio",
       "streamURL": "https://stream.tunerplay.com/radio/8040/radio.mp3",
-      "imageURL": "",
+      "imageURL": "https://mix80radio.net/img/logo.png",
       "desc": "Mix80Radio",
       "longDesc": "",
       "country": "ES",
@@ -2318,22 +2304,9 @@
       "_homepage": "https://www.tunerplay.live/mix80radio"
     },
     {
-      "name": "Montserrat Ràdio",
-      "streamURL": "https://enacast.com/radioabadiademontserrat/streams/HD",
-      "imageURL": "",
-      "desc": "Christian | Montserrat",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.montserratcomunicacio.cat/"
-    },
-    {
       "name": "MortalFM",
       "streamURL": "http://server6.20comunicacion.com:8044/;",
-      "imageURL": "",
+      "imageURL": "https://www.mortalfm.es/wp-content/uploads/2026/03/cropped-LOGO-CIRCULO-scaled-1-180x180.png",
       "desc": "Dance | Fm | Mortal",
       "longDesc": "",
       "country": "ES",
@@ -2346,7 +2319,7 @@
     {
       "name": "Multicanal Radio",
       "streamURL": "https://a2.asurahosting.com:8800/radio.mp3",
-      "imageURL": "https://multicanalradio.com/wp-content/uploads/2023/10/logo_and.png",
+      "imageURL": "https://back.ww-cdn.com/superstatic/version/4258640/iphone/10/photo/navBar_titleImage@2x.png?v=1770401434",
       "desc": "Multicanal Radio",
       "longDesc": "",
       "country": "ES",
@@ -2359,7 +2332,7 @@
     {
       "name": "musicBox",
       "streamURL": "http://stm1.emiteonline.com:8025/musicbox",
-      "imageURL": "",
+      "imageURL": "https://www.allradio.net/icon-512x512.png",
       "desc": "Oldies",
       "longDesc": "",
       "country": "ES",
@@ -2367,12 +2340,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": ""
+      "_homepage": "https://www.musicboxradio.es/"
     },
     {
       "name": "Muy buena",
       "streamURL": "https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3",
-      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04135742/MuyBuena-1-1.svg",
+      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/emisorasmusicales-logo.png",
       "desc": "Muy buena",
       "longDesc": "",
       "country": "ES",
@@ -2383,22 +2356,9 @@
       "_homepage": "https://www.emisorasmusicales.net/"
     },
     {
-      "name": "Muy buena Valencia",
-      "streamURL": "https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3",
-      "imageURL": "https://media.emisorasmusicales.net/wp-content/uploads/2020/03/04135742/MuyBuena-1-1.svg",
-      "desc": "Muy buena Valencia",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 160,
-      "_homepage": "https://www.emisorasmusicales.net/emisoras/muybuena/"
-    },
-    {
       "name": "Nostalgia",
       "streamURL": "https://azura.abcorp.es/listen/nostalgia/live",
-      "imageURL": "https://nostalgiafm.es/favicon.ico",
+      "imageURL": "https://nostalgiafm.es/logo-dark.png",
       "desc": "Nostalgia",
       "longDesc": "",
       "country": "ES",
@@ -2410,8 +2370,8 @@
     },
     {
       "name": "Ona Mediterrània",
-      "streamURL": "https://streaming.enacast.com/onamediterrania128.mp3",
-      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_ona_mediterr%C3%A0nia.jpg",
+      "streamURL": "https://streaming.enacast.com/onamediterrania56.mp3",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/p3k8ksanradt.jpeg",
       "desc": "Palma",
       "longDesc": "",
       "country": "ES",
@@ -2422,22 +2382,9 @@
       "_homepage": "http://www.onamediterrania.cat/"
     },
     {
-      "name": "onda 10",
-      "streamURL": "https://onda10.stream.laut.fm/onda10?t302=2026-01-15_02-15-39&uuid=2c19045a-392c-41c4-8692-c5be55266fbc",
-      "imageURL": "",
-      "desc": "Pop",
-      "longDesc": "",
-      "country": "ES",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://onda10.es/"
-    },
-    {
       "name": "Onda 80 Radio Bellvitge",
-      "streamURL": "https://antares.dribbcast.com/proxy/onda80/stream",
-      "imageURL": "",
+      "streamURL": "https://radiostreamingserver.com/listen/onda80bellvitge/radio.mp3",
+      "imageURL": "https://onda80bellvitge.com/on/air/./data/images/default.jpg",
       "desc": "70S | 80S | 90S | Disco | Rock | Romantic",
       "longDesc": "",
       "country": "ES",
@@ -2463,7 +2410,7 @@
     {
       "name": "ONDA CERO (España)",
       "streamURL": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-      "imageURL": "",
+      "imageURL": "https://www.radio.es/300/onda-cero-madrid.png",
       "desc": "Noticias Y Música",
       "longDesc": "",
       "country": "ES",
@@ -2476,11 +2423,11 @@
     {
       "name": "Onda Cero Cinca",
       "streamURL": "https://sonando-us.digitalproserver.com/litera.aac",
-      "imageURL": "",
+      "imageURL": "https://www.ondacerocinca.es/wp-content/uploads/2022/07/onda-cero-cinca-logo.png",
       "desc": "Onda Cero Cinca",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
+      "tel": "+34974415414",
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 76,
@@ -2489,7 +2436,7 @@
     {
       "name": "Onda Cero Cádiz",
       "streamURL": "https://atres-live.ondacero.es/live/delegaciones/oc/cadiz/master.m3u8",
-      "imageURL": "https://static.ondacero.es/img/favicon.ico?ondacero",
+      "imageURL": "https://image.ondacero.es/clipping/cmsimages01/2024/02/14/24E7CD33-DE9A-4BF0-88D3-B3C1FE84AD25/onda-cero-cadiz-3000_96.jpg",
       "desc": "Noticias",
       "longDesc": "",
       "country": "ES",
@@ -2502,7 +2449,7 @@
     {
       "name": "Onda Cero Madrid",
       "streamURL": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-      "imageURL": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+      "imageURL": "https://www.radio.es/300/onda-cero-madrid.png",
       "desc": "Onda Cero Madrid",
       "longDesc": "",
       "country": "ES",
@@ -2580,7 +2527,7 @@
     {
       "name": "Onda Cero Valencia",
       "streamURL": "https://atres-live.ondacero.es/live/delegaciones/oc/valencia/master.m3u8",
-      "imageURL": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+      "imageURL": "https://www.radio.es/300/onda-cero-madrid.png",
       "desc": "General | Talk",
       "longDesc": "",
       "country": "ES",
@@ -2606,7 +2553,7 @@
     {
       "name": "Onda Sevilla Radio",
       "streamURL": "https://streaming2.elitecomunicacion.es:8630/stream?type=.mp3",
-      "imageURL": "",
+      "imageURL": "https://www.ondasevillaradio.es/images/logoosr.png",
       "desc": "Fandangos | Flamenco | Sevillanas | Solea | Zarzuela",
       "longDesc": "",
       "country": "ES",
@@ -2618,20 +2565,20 @@
     },
     {
       "name": "Onda Vasca Gipuzkoa",
-      "streamURL": "http://www.ondavasca.com:8000/gipuzkoa",
-      "imageURL": "",
+      "streamURL": "https://ondavascaplayer.com:8001/bizkaia",
+      "imageURL": "https://assets.ondavasca.com/front/ondavasca/dist/img/favicon/apple-touch-icon.png",
       "desc": "Local News",
       "longDesc": "",
       "country": "ES",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+34944132580",
+      "whatsapp": "+34688854852",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "http://www.ondavasca.com/"
     },
     {
       "name": "Ondamar80",
-      "streamURL": "https://antares.dribbcast.com/proxy/ondamar80?mp=/live",
+      "streamURL": "https://radiostreamingserver.com/listen/ondamar80/live?_t=1785881354596",
       "imageURL": "https://cdn.onlineradiobox.com/img/logo/5/55175.v7.png",
       "desc": "00S | 80S | 90S | Disco | Pop",
       "longDesc": "",
@@ -2671,7 +2618,7 @@
     {
       "name": "Original EDM FESTIVAL",
       "streamURL": "https://stream.0nlineradio.com/edm-festival?ref=radiobrowser",
-      "imageURL": "null",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.AuuLk-7K0uQr8dnU905BawAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=f7c952542524ebe4b15da4dc39e26c1d69b2498b26a5445219d5a5c6753dd2a3&ipo=images",
       "desc": "Edm | Edm Festival",
       "longDesc": "",
       "country": "ES",
@@ -2692,12 +2639,12 @@
       "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 128,
-      "_homepage": "http://radiooromalaga.radio.es/"
+      "_homepage": "http://www.radiooro.es/"
     },
     {
       "name": "Otaku MusicRadio",
       "streamURL": "http://kathy.torontocast.com:2880/;",
-      "imageURL": "",
+      "imageURL": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fliveonlineradio.net%2Fwp-content%2Fuploads%2F2015%2F12%2FOtaku-Music-Radio.jpg&f=1&nofb=1&ipt=5bc0796b6a73428c2a837120a633010171d432e90f5a2b63fe10fac5a59314d7",
       "desc": "Anime | Japanese | Otaku",
       "longDesc": "",
       "country": "ES",
@@ -2707,6 +2654,17 @@
       "_bitrate": 192,
       "_homepage": "https://www.otakumusicradio.com/"
     },
+
+
+
+
+
+
+
+
+
+
+    
     {
       "name": "Pepe Radio",
       "streamURL": "http://server10.emitironline.com:8032/",
