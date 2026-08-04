@@ -443,6 +443,32 @@
       "_homepage": "http://eteatru.ro/"
     },
 	{
+      "name": "Radio Atomic",
+      "streamURL": "https://radio.sonicpanel.ro:8018/stream",
+      "imageURL": "https://myradioonline.net/wp-content/uploads/2026/04/Radio-Atomic-Romania.png",
+      "desc": "Manele",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://radioatomic.ro/"
+    },
+	{
+      "name": "SunMotion Radio",
+      "streamURL": "https://radio.sunmotionradio.ro/listen/sunmotionradio/radio.mp3",
+      "imageURL": "https://www.sunmotionradio.ro/assets/Logo3.png",
+      "desc": "dance | house | deep house | electronică",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "MP3",
+      "_bitrate": 128,
+      "_homepage": "https://www.sunmotionradio.ro/"
+    },
+	{
       "name": "Magic FM",
       "streamURL": "https://live.magicfm.ro/magicfm.aacp",
       "imageURL": "https://myradioonline.ro/public/uploads/radio_img/magic-fm/fb_cover.jpg",
@@ -623,6 +649,32 @@
       "_codec": "AAC+",
       "_bitrate": 64,
       "_homepage": "http://radiocafe.ro/"
+    },
+	{
+      "name": "Radio Zeus Romania",
+      "streamURL": "http://radiozeus.sytes.net:8050/steam",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/9/142039.v4.png",
+      "desc": "Manele",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "https://radiozeus.freewb.ro/"
+    },
+	{
+      "name": "Radio Fiesta Romania",
+      "streamURL": "http://radiozeus.sytes.net:8050/steam",
+      "imageURL": "https://www.radiofiestafm.ro/wp-content/uploads/2026/05/cropped-cropped-cropped-66796.v5-180x180.png",
+      "desc": "Manele",
+      "longDesc": "",
+      "country": "RO",
+      "tel": "",
+      "whatsapp": "+40787800522",
+      "_codec": "AAC+",
+      "_bitrate": 64,
+      "_homepage": "https://www.radiofiestafm.ro/"
     },
     {
       "name": "Taraf România - Dance",
@@ -2719,13 +2771,13 @@
     },
     {
       "name": "Radio VIP",
-      "streamURL": "http://live1.radiovip.ro:8969/;",
-      "imageURL": "https://radiovip.ro/wp-content/uploads/2026/03/cropped-820b06fc-daf9-4d0b-a5cd-8d721aec37da.png",
+      "streamURL": "https://live1.radiovip.ro:8969/stream",
+      "imageURL": "https://myradioonline.net/wp-content/uploads/2026/04/Radio-Vip-Manele.png",
       "desc": "Manele | Manele Și Petrecere | Muzică De Petrecere | Petrecere",
       "longDesc": "",
       "country": "RO",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+40787800522",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://radiovip.ro/"
