@@ -444,7 +444,7 @@
     },
 	{
       "name": "Radio Atomic",
-      "streamURL": "https://radio.sonicpanel.ro:8018/stream",
+      "streamURL": "http://ascultalive.radioatomic.ro:8018/stream",
       "imageURL": "https://myradioonline.net/wp-content/uploads/2026/04/Radio-Atomic-Romania.png",
       "desc": "Manele",
       "longDesc": "",
