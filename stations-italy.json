@@ -2043,7 +2043,7 @@
     },
     {
       "name": "Radio 80",
-      "streamURL": "http://str01.fluidstream.net:7020/;stream.mp3",
+      "streamURL": "https://rh.fluidstream.eu/lovefm.mp3?FLID=1",
       "imageURL": "https://www.radio80.it/wp-content/uploads/2025/06/cropped-radio-80-sito-180x180.png",
       "desc": "80S | Noventa Padovana",
       "longDesc": "",
@@ -2069,7 +2069,7 @@
     },
     {
       "name": "Radio Allegria",
-      "streamURL": "http://audio.nemostream.tv:8110/live",
+      "streamURL": "https://s2.yesstreaming.net:17050/stream",
       "imageURL": "http://cdn-radiotime-logos.tunein.com/s256193q.png",
       "desc": "Italian Pop | Local Music",
       "longDesc": "",
@@ -2127,7 +2127,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393534506215",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.radioantenna1.com/"
@@ -2681,7 +2681,7 @@
     {
       "name": "Radio Digitalia - Ricordi",
       "streamURL": "https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258",
-      "imageURL": "https://www.radiodigitalia.net/images/cropped-Logo_trasp_traccia_bianca-1-217x104_v2nu4846.png",
+      "imageURL": "https://www.radiodigitalia.net/images/Logo_base_200x90_w95w4twb.jpg",
       "desc": "60S | 70S | Italian Pop | Oldies",
       "longDesc": "",
       "country": "IT",
@@ -2888,7 +2888,7 @@
     },
     {
       "name": "Radio Ibiza",
-      "streamURL": "http://wma08.fluidstream.net:5010/;stream.aac",
+      "streamURL": "https://kisskiss.fluidstream.eu/ibiza.aac?id=rQA8YSNpCM&FLID=1",
       "imageURL": "https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png",
       "desc": "Dance | Electronica | Napoli",
       "longDesc": "",
@@ -2928,7 +2928,7 @@
     {
       "name": "Radio Irene",
       "streamURL": "http://centauri.shoutca.st:8402/;stream.mp3",
-      "imageURL": "https://image.jimcdn.com/app/cms/image/transf/none/path/s675bb103aa2abcec/image/id622a339c4db4ea1/version/1510517411/image.jpg",
+      "imageURL": "https://image.jimcdn.com/app/cms/image/transf/dimension=206x10000:format=png/path/s675bb103aa2abcec/image/i9c5fa3f2d3eb5ea1/version/1729062401/image.png",
       "desc": "00S | 70S | 80S | 90S | Foggia | Pop",
       "longDesc": "",
       "country": "IT",
@@ -2938,13 +2938,6 @@
       "_bitrate": 256,
       "_homepage": "http://www.radioirene.it/"
     },
-
-
-
-
-
-
-    
     {
       "name": "Radio Italia",
       "streamURL": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8",
@@ -3026,7 +3019,7 @@
     {
       "name": "Radio Jukebox Piemonte",
       "streamURL": "http://stream15.top-ix.org/radiojukebox",
-      "imageURL": "https://www.radiojukeboxfm.it/wp-content/uploads/2025/07/JukeBox_2020_logo.png",
+      "imageURL": "https://radiojukebox.info/wp-content/uploads/2025/10/cropped-Progetto-senza-titolo-2-180x180.png",
       "desc": "Pop | Torino",
       "longDesc": "",
       "country": "IT",
@@ -3038,7 +3031,7 @@
     },
     {
       "name": "Radio Kiss Kiss Italia",
-      "streamURL": "http://wma06.fluidstream.net:3614/;listen.pls",
+      "streamURL": "https://kisskiss.fluidstream.eu/KKItalia.aac?id=TYl2yVnaXn&FLID=1",
       "imageURL": "https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png",
       "desc": "Pop",
       "longDesc": "",
@@ -3051,7 +3044,7 @@
     },
     {
       "name": "Radio Kiss Kiss",
-      "streamURL": "http://wma08.fluidstream.net:4610/",
+      "streamURL": "https://kisskiss.fluidstream.eu/KissKiss.aac?FLID=8&type=.aac",
       "imageURL": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
       "desc": "Adult Contemporary | Pop",
       "longDesc": "",
@@ -3194,7 +3187,7 @@
     },
     {
       "name": "Radio Liberta",
-      "streamURL": "http://onair15.xdevel.com:8258/;stream.aac",
+      "streamURL": "https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio",
       "imageURL": "https://s3.eu-central-1.amazonaws.com/static.radioliberta.net/wp-content/uploads/2024/05/18104309/cropped-android-chrome-512x512-1-180x180.png",
       "desc": "News | Talk | Talk & Speech",
       "longDesc": "",
@@ -3299,25 +3292,12 @@
     {
       "name": "Radio Marconi \"Musica & Notizie\"",
       "streamURL": "http://onair15.xdevel.com:8922/;stream.mp3",
-      "imageURL": "https://media.tunedradios.com/w_250,h_250,q_40/static/radio/8281/logo/cf0b9ca344d3ec2a83679ddf7aae6bea.webp",
+      "imageURL": "https://mi-radio.it/milano/rmarconi2/foto/1.jpg",
       "desc": "Italian Pop | News | Pop",
       "longDesc": "",
       "country": "IT",
       "tel": "",
       "whatsapp": "+393355858800",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.radiomarconi.info/"
-    },
-    {
-      "name": "Radio Marconi 2",
-      "streamURL": "http://onair22.streaming.xdevel.com:7598/;stream.mp3",
-      "imageURL": "",
-      "desc": "Classical",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
       "_codec": "MP3",
       "_bitrate": 192,
       "_homepage": "http://www.radiomarconi.info/"
@@ -3506,7 +3486,7 @@
     },
     {
       "name": "Radio Norba",
-      "streamURL": "http://onair20.xdevel.com:8348/;",
+      "streamURL": "https://onair20.xdevel.com/proxy/sc_rno?mp=/;mp3/;",
       "imageURL": "https://radionorba.it/wp-content/uploads/2021/05/cropped-logo-radionorba-180x180.png",
       "desc": "Radio Norba",
       "longDesc": "",
@@ -3623,7 +3603,7 @@
     },
     {
       "name": "Radio Onda Rossa",
-      "streamURL": "http://stream.auto.ondarossa.net/ondarossa.mp3",
+      "streamURL": "http://radio.dyne.org:8000/ondarossa.mp3",
       "imageURL": "http://www.ondarossa.info/themes/custom/ror2010/img/logo.png",
       "desc": "Various",
       "longDesc": "",
@@ -3662,7 +3642,7 @@
     },
     {
       "name": "Radio Padova",
-      "streamURL": "http://str01.fluidstream.net:6020/listen.pls",
+      "streamURL": "https://ice10.fluidstream.net:8080/rpd.aac",
       "imageURL": "https://www.radiopadova.com/wp-content/uploads/2025/03/radio-padova-logo.png",
       "desc": "Hot Adult Contemporary | Traffic",
       "longDesc": "",
@@ -3714,13 +3694,13 @@
     },
     {
       "name": "Radio Pico",
-      "streamURL": "http://onair11.xdevel.com:8064/",
+      "streamURL": "https://stream9.xdevel.com/audio0s976126-1032/stream/icecast.audio",
       "imageURL": "https://www.radiopico.it/wp-content/uploads/2020/05/logo.png",
       "desc": "Contemporary Hits",
       "longDesc": "",
       "country": "IT",
-      "tel": "",
-      "whatsapp": "",
+      "tel": "+39053522414",
+      "whatsapp": "+393334690700",
       "_codec": "AAC+",
       "_bitrate": 128,
       "_homepage": "http://www.radiopico.it/"
@@ -3806,7 +3786,7 @@
     {
       "name": "Radio Puglia",
       "streamURL": "http://audio1.meway.tv:8108/stream",
-      "imageURL": "http://www.radiopuglia.it/img/logo-header.png",
+      "imageURL": "https://www.radiopuglia.it/wp/wp-content/uploads/2025/02/cropped-logo-180x180.png",
       "desc": "Pop | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -3884,7 +3864,7 @@
     {
       "name": "Radio Romanista",
       "streamURL": "https://romanista.newradio.it/stream",
-      "imageURL": "https://radioromanista.it/wp-content/uploads/2023/01/Logo-2.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw2zTzD7fJ9oVPuVK2YUcFlw2I3apk3pCrF5SdN_5YYQ&s=10",
       "desc": "Roma | Sport | Talk",
       "longDesc": "",
       "country": "IT",
@@ -3935,7 +3915,7 @@
     },
     {
       "name": "Radio Serie A Con RDS",
-      "streamURL": "https://stream.rds.radio/audio/seriea.stream_aac/playlist.m3u8",
+      "streamURL": "https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8",
       "imageURL": "https://media.rds.it/web/web-site-brandnew/RDS.jpg",
       "desc": "Radio Serie A Con RDS",
       "longDesc": "",
@@ -4769,7 +4749,7 @@
     {
       "name": "Today Dance Radio",
       "streamURL": "http://protostar.shoutca.st:8390/;",
-      "imageURL": "http://www.todaydanceradio.com/_media/img/thumb/tdr-today-dance-radio-icon.png",
+      "imageURL": "https://static2.mytuner.mobi/media/tvos_radios/309/today-dance-radio.9f1e58ae.png",
       "desc": "Dance | Disco | Funky | Top 40",
       "longDesc": "",
       "country": "IT",
@@ -4873,7 +4853,7 @@
     {
       "name": "VCR | Venice Classic Radio Auditorium",
       "streamURL": "https://uk2.streamingpulse.com/ssl/vcr1",
-      "imageURL": "https://www.veniceclassicradio.eu/player/new/image/a.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7NuSNcaAtXRGpX16R6w7fQUmHa6OWnCZEqL4_m2cNSj_uDLqRWbnOzM&s=10",
       "desc": "VCR | Venice Classic Radio Auditorium",
       "longDesc": "",
       "country": "IT",
@@ -4886,7 +4866,7 @@
     {
       "name": "Venice Classic Radio *LIVE",
       "streamURL": "http://116.202.241.212:8020/",
-      "imageURL": "https://www.veniceclassicradio.eu/player/new/image/l.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw9JFl7TP1abpCHcaBOLE_R3UQhiRD3tLri7NLz1yVw&s",
       "desc": "Classical | Live",
       "longDesc": "",
       "country": "IT",
@@ -4912,7 +4892,7 @@
     {
       "name": "Viniles Radio",
       "streamURL": "https://s3.radio.co/sfaf3f1f4a/listen",
-      "imageURL": "https://vinilesradio.it/assets/images/logo.jpg",
+      "imageURL": "https://vinilesradio.it/assets/img/og-vinilesradio.jpg",
       "desc": "House | Italian | Lounge",
       "longDesc": "",
       "country": "IT",
@@ -5142,19 +5122,6 @@
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.virginradio.it/sezioni/1981/music-star-queen"
-    },
-    {
-      "name": "VirginRadio - Pink Floyd",
-      "streamURL": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
-      "imageURL": "https://img.radios.com.br/radio/lg/radio68351_1524770855.png",
-      "desc": "Pop Rock | Rock",
-      "longDesc": "",
-      "country": "IT",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd"
     },
     {
       "name": "YES! Radio Dance",
