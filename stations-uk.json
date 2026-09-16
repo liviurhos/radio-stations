@@ -147,15 +147,10 @@
       "imageURL": "https://liviurhos.github.io/radio-stations/images/lbcnews.png",
       "country": "uk"
     },
-    {
-      "name": "Kiss",
-      "streamURL": "https://edge-baueralll-01-gos2.sharp-stream.com/kissnational.aac?time=1764520735891",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/kissuk.png",
-      "country": "uk"
-    },
+    
     {
       "name": "Joy Hits",
-      "streamURL": "https://joyhits.online/joyhitshq.mp3",
+      "streamURL": "https://stream.joyhits.online:8072/joyhits.aac",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/joyhits.png",
       "country": "uk"
     },
@@ -257,7 +252,7 @@
     },
 	{
       "name": "Radio Caroline",
-      "streamURL": "https://stream1.rdstrm.com/prx-http/sc6.radiocaroline.net:8040/;",
+      "streamURL": "https://stream.radiocaroline.net/;",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/radiocaroline.png",
       "country": "uk",
 	  "tel":"+442083403831"
@@ -335,7 +330,7 @@
     {
       "name": "Eirewave",
       "streamURL": "https://stream.rcs.revma.com/ng2u4zvag5uvv",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/eirawave.png",
+      "imageURL": "https://eirewave.com/assets/img/EIREWAVE_share.png",
       "country": "uk"
     },
 	{
@@ -371,8 +366,7 @@
       "streamURL": "https://a2.asurahosting.com:7400/radio.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/flexfm.png",
       "country": "uk",
-	  "tel":"+447888941014",
-      "whatsapp": "+447888941014" 
+	  "tel":"+447888941014" 
     },
     {
       "name": "BFBS Gurkha Radio",
@@ -391,7 +385,7 @@
     },
     {
       "name": "Sheffield Live!",
-      "streamURL": "https://stream3.rdstrm.com/prx-http/live.sheffieldlive.org:8000/shefflive.mp3",
+      "streamURL": "https://live.sheffieldlive.org/shefflive.mp3",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/sheffieldlive.png",
       "country": "uk",
 	  "tel":"+441142814082"
@@ -426,14 +420,14 @@
     },
 	{
       "name": "Tide Radio",
-      "streamURL": "https://uksoutha.streaming.broadcast.radio/tide-media-group",
+      "streamURL": "https://uksoutha.streaming.broadcast.radio/tide-radio-uk?t=1789548955302",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/tideradio.png",
       "country": "uk",
 	  "whatsapp": "+447482858592" 
     },
     {
       "name": "Redrose Radio",
-      "streamURL": "https://listen.red-roseradio.co.uk:8008/stream",
+      "streamURL": "https://stream3.themediasite.co.uk:8266/stream?t=1789549006174",
       "imageURL": "https://liviurhos.github.io/radio-stations/images/redroseradio.png",
       "country": "uk",
 	  "tel":"+441772915854",
