@@ -158,7 +158,7 @@
     },
     {
       "name": "Radio Energy Chill (Italy)",
-      "streamURL": "https://gmusto5.radioca.st/mp3",
+      "streamURL": "https://stream.radioenergy.to/chillmp3",
       "imageURL": "https://radioenergy.to/wp-content/uploads/2018/03/LogoEnergy.png",
       "desc": "70S | 80S | 90S | Classic Hits | Classic Rock | Disco | Funk | Oldies | Pop | Pop Rock | Rock | Soul",
       "longDesc": "",
@@ -171,7 +171,7 @@
     },
     {
       "name": "Radio Energy Classic (Italy)",
-      "streamURL": "https://gmusto3.radioca.st/stream",
+      "streamURL": "https://stream.radioenergy.to/classicmp3",
       "imageURL": "https://radioenergy.to/wp-content/uploads/2018/03/LogoEnergy.png",
       "desc": "70S | 80S | 90S | Classic Hits | Classic Rock | Disco | Funk | Oldies | Pop | Pop Rock | Rock | Soul",
       "longDesc": "",
@@ -184,7 +184,7 @@
     },
     {
       "name": "Abruzzo FM",
-      "streamURL": "http://sc1.streamingpulse.com:8004/;stream.mp3",
+      "streamURL": "https://de1.streamingpulse.com/ssl/radioabruzzo",
       "imageURL": "https://www.abruzzo.fm/testatanewabruzzo.jpg",
       "desc": "Folk Music | Local Music | Pescara",
       "longDesc": "",
@@ -509,7 +509,7 @@
     },
     {
       "name": "Radio Monte Carlo 2",
-      "streamURL": "https://stream.rcs.revma.com/fxp289cp81uvv",
+      "streamURL": "https://stream.rcs.revma.com/txdn8d324ucwv",
       "imageURL": "https://www.rmc2.net/wp-content/uploads/2020/08/01_MC2_1200px.jpg",
       "desc": "Dance",
       "longDesc": "",
@@ -970,7 +970,7 @@
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.deegay.fm/"
@@ -978,12 +978,12 @@
     {
       "name": "DeeGay Club",
       "streamURL": "https://stream.deegay.fm/deegay3.mp3",
-      "imageURL": "https://www.deegay.fm/favicon.ico",
+      "imageURL": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_184543.png",
       "desc": "Electronic | House",
       "longDesc": "",
       "country": "IT",
       "tel": "",
-      "whatsapp": "",
+      "whatsapp": "+393929939393",
       "_codec": "MP3",
       "_bitrate": 128,
       "_homepage": "https://www.deegay.fm/"
@@ -1134,7 +1134,7 @@
     {
       "name": "DumDUM",
       "streamURL": "https://sr11.inmystream.it/proxy/dumdumradio",
-      "imageURL": "https://www.dumdumrepublic.com/images/favicon-96x96.png",
+      "imageURL": "https://www.dumdumrepublic.com/apple-touch-icon.png",
       "desc": "Indie Rock | Instrumental | Organic House",
       "longDesc": "",
       "country": "IT",
@@ -1147,7 +1147,7 @@
     {
       "name": "Electro Lounge",
       "streamURL": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-01-14_23-25-32&uuid=4a7f7217-7b1e-45d3-8bd7-ee9f329c080e",
-      "imageURL": "https://www.electrolounge.eu/wp-content/uploads/2025/01/extendify-demo-logo.png",
+      "imageURL": "https://assets.laut.fm/91af9a1c4f20713e88658965c52e5c8f?t=_120x120",
       "desc": "Electro Lounge",
       "longDesc": "",
       "country": "IT",
@@ -1160,7 +1160,7 @@
     {
       "name": "Electrolounge Milano",
       "streamURL": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2026-01-15_02-06-49&uuid=90028019-e71d-4978-9be5-a4da5703b257",
-      "imageURL": "https://www.electrolounge.eu/wp-content/uploads/2025/01/extendify-demo-logo.png",
+      "imageURL": "https://assets.laut.fm/91af9a1c4f20713e88658965c52e5c8f?t=_120x120",
       "desc": "Chillout | Deep House | Electronic | Electronic Music | Lounge",
       "longDesc": "",
       "country": "IT",
@@ -1381,7 +1381,7 @@
     {
       "name": "INmyradio - Discosauro",
       "streamURL": "http://sr2.inmystream.info:8015/;",
-      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-discosauro.jpg",
+      "imageURL": "https://www.inmyradio.net/wp-content/uploads/2026/06/2026-logo-disco-sauro-768x768.png",
       "desc": "Dance | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
@@ -1394,7 +1394,7 @@
     {
       "name": "INmyradio - Network Satellite",
       "streamURL": "http://sr2.inmystream.info:8123/;",
-      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-network-satellite.jpg",
+      "imageURL": "https://inmyradio.net/wp-content/uploads/2026/06/2026-network-satellite-768x768.png",
       "desc": "Deep House | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
@@ -1407,7 +1407,7 @@
     {
       "name": "INmyradio - Pleasure Dome",
       "streamURL": "https://sr2.inmystream.it/proxy/pleasure?mp=/;stream.mp3",
-      "imageURL": "https://inmyradio.net/wp-content/uploads/2023/07/2022-pleasure-dome.jpg",
+      "imageURL": "https://inmyradio.net/wp-content/uploads/2026/06/2026-pleasuredome-logo-768x768.png",
       "desc": "Deep House | Electronica | Italia Network | Milano",
       "longDesc": "",
       "country": "IT",
@@ -1784,7 +1784,7 @@
     {
       "name": "Lolli Radio Happy Station",
       "streamURL": "https://stream.lolliradio.net/lolli_happy.mp3",
-      "imageURL": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_happy-150x150.jpg",
+      "imageURL": "https://titoli.fluidstream.it/lolli_playlist/happy/OnAir.jpg?cache=1789550931342",
       "desc": "World Music",
       "longDesc": "",
       "country": "IT",
@@ -1797,7 +1797,7 @@
     {
       "name": "Lolli Radio Italia",
       "streamURL": "https://stream.lolliradio.net/lolli_italia.mp3",
-      "imageURL": "http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg",
+      "imageURL": "https://titoli.fluidstream.it/lolli_playlist/italia/OnAir.jpg?cache=1789550848815",
       "desc": "Italian Pop",
       "longDesc": "",
       "country": "IT",
@@ -1810,7 +1810,7 @@
     {
       "name": "Lolli Radio Oldies",
       "streamURL": "http://oldies.lolliradio.net:8070/listen.pls",
-      "imageURL": "https://www.lolliradio.net/wp-content/uploads/2016/03/18.jpg",
+      "imageURL": "https://titoli.fluidstream.it/lolli_playlist/oldies/OnAir.jpg?cache=1789550850528",
       "desc": "Oldies",
       "longDesc": "",
       "country": "IT",
@@ -1823,7 +1823,7 @@
     {
       "name": "Lolli Radio Soft",
       "streamURL": "https://stream.lolliradio.net/lolli_soft.mp3",
-      "imageURL": "https://www.lolliradio.net/wp-content/uploads/2016/03/16.jpg",
+      "imageURL": "https://titoli.fluidstream.it/lolli_playlist/soft/OnAir.jpg?cache=1789551039600",
       "desc": "Soft Adult Contemporary",
       "longDesc": "",
       "country": "IT",
@@ -1849,7 +1849,7 @@
     {
       "name": "Love FM",
       "streamURL": "http://wma07.fluidstream.net:7600/;stream.mp3",
-      "imageURL": "https://www.lovefm.it/themes/default/assets/img_c/favicon.ico",
+      "imageURL": "https://www.lovefm.it/themes/default/assets/img_c/logo320.png",
       "desc": "Canosa Di Puglia | Love Songs | Soft Adult Contemporary | Soft Music",
       "longDesc": "",
       "country": "IT",
