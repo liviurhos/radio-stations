@@ -795,7 +795,7 @@
     },
     {
       "name": "Tequila România - Radio 100% RO",
-      "streamURL": "https://stream.zeno.fm/xby5dqhb6uhvv",
+      "streamURL": "http://romaneasca.radiotequila.ro:8989",
       "imageURL": "https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",
       "desc": "Dance | Muzica Usoara Romaneasca | Pop",
       "longDesc": "",
@@ -808,7 +808,7 @@
     },
     {
       "name": "Radio Tequila - Dance",
-      "streamURL": "https://stream.zeno.fm/wnx6fv0pkkhvv",
+      "streamURL": "http://dance.radiotequila.ro:7000",
       "imageURL": "https://play-lh.googleusercontent.com/rW1UDPKMMmZBFU4Hp2MCRmsfkTqcsD3kGZoy87LI_MFYsvM22lsGEyeNMHApTA7iQKY",
       "desc": "Pop",
       "longDesc": "",
