@@ -429,32 +429,7 @@
       "_bitrate": 256,
       "_homepage": "http://www.radioromaniacultural.ro/"
     },
-    {
-      "name": "eteatru",
-      "streamURL": "http://stream2.srr.ro:8078/eteatru.mp3",
-      "imageURL": "https://eteatru.ro/templates/default/images/custom/facebook-share.jpg",
-      "desc": "Teatru",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://eteatru.ro/"
-    },
-	{
-      "name": "Radio Atomic",
-      "streamURL": "http://ascultalive.radioatomic.ro:8018/stream",
-      "imageURL": "https://myradioonline.net/wp-content/uploads/2026/04/Radio-Atomic-Romania.png",
-      "desc": "Manele",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://radioatomic.ro/"
-    },
+    
 	{
       "name": "SunMotion Radio",
       "streamURL": "https://radio.sunmotionradio.ro/listen/sunmotionradio/radio.mp3",
@@ -510,7 +485,7 @@
     {
       "name": "Kiss Kiss In The Mix",
       "streamURL": "https://live.kissfm.ro/kkm.radio",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
+      "imageURL": "https://api.kissfm.ro/resized/streams/2024/10/07/kiss-kiss-in-the-mix_5e241bcf7e0136f58e4b45f006280476.jpg",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -523,7 +498,7 @@
     {
       "name": "Kiss & Chill",
       "streamURL": "https://dc.digi.live.kissfm.ro/kissnchill",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
+      "imageURL": "https://api.kissfm.ro/resized/streams/2024/10/07/kiss-and-chill_74b1b3542d21400470a12bd127553b1f.jpg?w=640&h=640&c=1",
       "desc": "Romanian Pop",
       "longDesc": "",
       "country": "RO",
@@ -533,19 +508,7 @@
       "_bitrate": 80,
       "_homepage": "https://www.kissfm.ro/"
     },
-    {
-      "name": "Kiss Hits From The 10s",
-      "streamURL": "https://live.kissfm.ro/kiss.hits.from.the.10s",
-      "imageURL": "https://liviurhos.github.io/radio-stations/images/kiss_fm.png",
-      "desc": "Romanian Pop",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "+40213188000",
-      "whatsapp": "+40722206020",
-      "_codec": "AAC",
-      "_bitrate": 80,
-      "_homepage": "https://www.kissfm.ro/"
-    },
+    
     {
       "name": "Radio Manele FM",
       "streamURL": "http://a.fmradiomanele.ro:8054/;",
@@ -666,7 +629,7 @@
 	{
       "name": "Radio Fiesta Romania",
       "streamURL": "http://sirius.shoutca.st:8130/stream/;",
-      "imageURL": "https://www.radiofiestafm.ro/wp-content/uploads/2026/05/cropped-cropped-cropped-66796.v5-180x180.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdMG23kLnNJZxYq02SDG24oMyrBxs3JCXUJZ0IvS6Bqw&s=10",
       "desc": "Manele",
       "longDesc": "",
       "country": "RO",
@@ -952,7 +915,7 @@
     {
       "name": "Realitatea FM",
       "streamURL": "https://shout.realitatea.net:8001/rfmweb",
-      "imageURL": "https://radiorfm.ro/wp-content/uploads/favicon.png",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWOPpw2zMRrV7nsdCJRmysrsTCSHF6Jp4biHP61aHFQ&s=10",
       "desc": "News | Talk",
       "longDesc": "",
       "country": "RO",
@@ -1017,7 +980,7 @@
     {
       "name": "Super FM",
       "streamURL": "https://live.superfm.ro/stream.mp3",
-      "imageURL": "https://superfm.ro/static/images/logo_red_white.png",
+      "imageURL": "https://superfm.ro/apple-touch-icon.png",
       "desc": "Super FM",
       "longDesc": "",
       "country": "RO",
@@ -1313,19 +1276,7 @@
      "_bitrate": 96,
      "_homepage": "https://www.radiovipdiaspora.com/"
      },
-    {
-     "name": "Electro Manele",
-     "streamURL": "https://stream.radioem.ro/8046/stream",
-     "imageURL": "https://liviurhos.github.io/radio-stations/images/electromanele.png",
-     "desc": "",
-     "longDesc": "",
-     "country": "RO",
-     "tel": "+40730906935",
-     "whatsapp": "",
-     "_codec": "",
-     "_bitrate": 96,
-     "_homepage": "https://radioem.ro/"
-     },
+  
     {
      "name": "Radio Infinit",
      "streamURL": "http://86.127.68.115:18000/infinit64.ogg",
@@ -1432,7 +1383,7 @@
     },
     {
       "name": "Radio Etno Mania",
-      "streamURL": "https://radio.sonicpanel.ro:9300/",
+      "streamURL": "http://live.radioetnomania.com:9300/stream",
       "imageURL": "https://radioetnomania.com/wp-content/uploads/2023/04/cropped-Radio-Etno-Mania-180x180.png",
       "desc": "Folk | Muzică Populară | Petrecere | Populară",
       "longDesc": "",
@@ -1459,7 +1410,7 @@
     {
       "name": "Paprika Rádió",
       "streamURL": "http://stream1.paprikaradio.ro:8000/;stream",
-      "imageURL": "https://www.paprikaradio.ro/themes/ketikidis-octobercms-success/assets/images/logo_shadow6.png",
+      "imageURL": "https://paprikaradio.ro/wp-content/uploads/2026/03/cropped-paprika-radio-180x180.png",
       "desc": "Adult Contemporary | Hits | Top 40",
       "longDesc": "",
       "country": "RO",
@@ -1599,19 +1550,7 @@
       "_bitrate": 320,
       "_homepage": "https://discomix.ro/"
     },
-    {
-      "name": "Medias fm",
-      "streamURL": "http://mediasfm.eushells.ro:8082/;stream.nsv",
-      "imageURL": "https://www.radiomedias.ro/wp-content/uploads/2022/08/logo.webp",
-      "desc": "Medias fm",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "+40269834554",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://www.radiomedias.ro/"
-    },
+    
     {
       "name": "Radio Nebunya",
       "streamURL": "http://asculta.radionebunya.ro:7575/",
@@ -1666,7 +1605,7 @@
     },
     {
       "name": "Radio Prahova",
-      "streamURL": "https://streamx.rph.ro:8100/relay;",
+      "streamURL": "https://r2.mediastreaming.ro/listen/rph/radio.mp3",
       "imageURL": "https://radioprahova.ro/uploads/logo/logo-rph.png",
       "desc": "Radio Prahova",
       "longDesc": "",
@@ -1823,7 +1762,7 @@
     {
       "name": "Radio Folclor",
       "streamURL": "https://ssl.omegahost.ro/8092/stream",
-      "imageURL": "https://radiofolclor.ro/wp-content/uploads/2024/01/cropped-cropped-logo-radio-folclor-2ro-180x180.png",
+      "imageURL": "https://radiofolclor.ro/logo.png",
       "desc": "Folclor | Folk | Muzică De Petrecere | Muzică Populară | Muzică Românească | Petrecere | Populară | Romanian | Romanian Music",
       "longDesc": "",
       "country": "RO",
@@ -1849,7 +1788,7 @@
     {
       "name": "Radio Romantic",
       "streamURL": "https://radio-romantic.ro/stream",
-      "imageURL": "https://radio-romantic.ro/default.png",
+      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/romantic-fm/fb_cover.jpg",
       "desc": "Radio Romantic",
       "longDesc": "",
       "country": "RO",
@@ -1862,7 +1801,7 @@
     {
       "name": "TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7",
       "streamURL": "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3",
-      "imageURL": "https://radiocaleasprecer.ro/imagini%20app/radio-calea-sprece-rlogo-dark.png",
+      "imageURL": "https://radiocaleasprecer.com/favicon.png",
       "desc": "Christian",
       "longDesc": "",
       "country": "RO",
@@ -1963,19 +1902,7 @@
       "_bitrate": 128,
       "_homepage": "http://www.radiocondor.ro/"
     },
-    {
-      "name": "Radio Claudia",
-      "streamURL": "http://ssl.kenhost.ro:8091/stream",
-      "imageURL": "https://scontent.fbrs5-1.fna.fbcdn.net/v/t1.6435-9/131646769_2012440812223633_3374550937063412131_n.png?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=tZiCk6R1hngQ7kNvwHaye7G&_nc_oc=AdlNUP6VqW1Jn24Czjdp2dHHYLXJQLIB-q5rGZ54hLHawicHsPZXrnaJH44ynCDxpbo&_nc_zt=23&_nc_ht=scontent.fbrs5-1.fna&_nc_gid=Vdzm3yWUWZ3QO9mrmmew0Q&_nc_ss=8&oh=00_AfzbOWGM6qeQkbf9JTxmspNdvxnuqsHrdKTLSwkFkD-xmg&oe=69E0AC9E",
-      "desc": "Manele | Manele Și Petrecere | Romanian Folk",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "+4915163144961",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "https://www.facebook.com/www.ClaudiaFm.ml/"
-    },
+  
     {
       "name": "Supravibe Radio",
       "streamURL": "https://supraviberadio-radiohosting.radioca.st/stream",
@@ -2005,7 +1932,7 @@
     {
       "name": "Radio ZEN",
       "streamURL": "https://streaming.shoutcast.com/radiozen",
-      "imageURL": "https://radiozen.ro/wp-content/uploads/2021/04/logo-radiozen.ro_.png",
+      "imageURL": "https://cdn.onlineradiobox.com/img/l/7/65217.v7.png",
       "desc": "Lounge | Chillout | Nu-jazz | Nu-soul | Pop ",
       "longDesc": "",
       "country": "RO",
@@ -2044,7 +1971,7 @@
     {
       "name": "Radio Mynele",
       "streamURL": "https://live.radiomynele.ro/8000/stream",
-      "imageURL": "https://radiomynele.ro/wp-content/uploads/2026/01/cropped-ChatGPT_Image_26_ian._2026_20_28_36-180x180.png",
+      "imageURL": "https://radiomynele.ro/imagini/logon.png",
       "desc": "Mamele Și Petrecere | Manele | Muzică De Petrecere | Petrecere",
       "longDesc": "",
       "country": "RO",
@@ -2147,8 +2074,8 @@
     },
     {
       "name": "Radio Dreams Dance Hits Adrenaline",
-      "streamURL": "http://5.2.184.92:3390/radiodreams.g1.ro?icy=https",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/7/99457.v3.png",
+      "streamURL": "http://radiodreams.g1.ro:3390/stream",
+      "imageURL": "https://radiodreams.g1.ro/img/logo.png",
       "desc": "Club House | Dance | Eurodance | House",
       "longDesc": "",
       "country": "RO",
@@ -2156,21 +2083,9 @@
       "whatsapp": "",
       "_codec": "AAC+",
       "_bitrate": 128,
-      "_homepage": "https://radiodreams.ro/"
+      "_homepage": "https://radiodreams.g1.ro/"
     },
-    {
-      "name": "Radio Rahanopolis",
-      "streamURL": "http://86.120.124.101:8000/128",
-      "imageURL": "https://cdn.onlineradiobox.com/img/l/2/19842.v2.png",
-      "desc": "1960S | 60S | Classical | Electronic | Hip-Hop | Jazz | Lounge | Old School | Oldies | Rock And Roll | Rock'N'Roll",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 128,
-      "_homepage": "http://www.rahanopolis.ro/"
-    },
+  
     {
       "name": "BigFM Deva",
       "streamURL": "http://82.208.143.10:8000/;",
@@ -2288,19 +2203,7 @@
       "_bitrate": 192,
       "_homepage": "https://www.cozyfm.ro/"
     },
-    {
-      "name": "Radio ROT Romania",
-      "streamURL": "http://radiorot.ovh:8000/radio.mp3",
-      "imageURL": "https://www.radioexpert.net/radio-logo/romania/radio-rot-855-bucure%C8%99ti-romania-320.jpg",
-      "desc": "Hits",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://radiorot.ro/"
-    },
+    
     {
       "name": "Moinesti FM",
       "streamURL": "https://listen.moinestifm.ro/radio.aac",
@@ -2379,19 +2282,7 @@
       "_bitrate": 256,
       "_homepage": "https://lixty.com/fr/s/ro-radio-sweet-vibes"
     },
-    {
-      "name": "Fresh FM",
-      "streamURL": "https://radio.onlinehost.ro/listen/freshfm/radio.mp3",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTV0xH65sXFvm263t-t5Dj7-UwpKe0t0ObnA&s",
-      "desc": "Adult Contemporary | Dance | Fresh | News | Oldies | Pop",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "+40745450021",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "https://freshfm.ro/"
-    },
+  
     {
       "name": "Agnus Rádió",
       "streamURL": "http://radio2.tirek.hu:8000/agnusradio",
@@ -2433,7 +2324,7 @@
     },
     {
       "name": "Napoca FM",
-      "streamURL": "https://streaming.napocalive.ro/napoca-fm",
+      "streamURL": "http://nfm-s1.bit-ns.cloud/stream1",
       "imageURL": "https://napocafm.ro/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-16-at-15.39.52-1024x576.jpeg",
       "desc": "Dance | Dance Pop | Pop | Pop Music | Romanian Pop",
       "longDesc": "",
@@ -2486,7 +2377,7 @@
     {
       "name": "Radio T",
       "streamURL": "http://82.77.249.68:8000/;stream.mp3",
-      "imageURL": "https://radiot.ro/img/logo.gif",
+      "imageURL": "https://radiot.ro/images/branding/social.jpg",
       "desc": "Radio T",
       "longDesc": "",
       "country": "RO",
@@ -2613,19 +2504,7 @@
       "_bitrate": 128,
       "_homepage": ""
     },
-    {
-      "name": "Nicecream.fm - Red",
-      "streamURL": "https://play.nicecream.fm/radio/8000/red.mp3",
-      "imageURL": "https://nicecream.fm/og.png",
-      "desc": "Ad Free | Chill | Downtempo | Music | Sunset | Swing",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://nicecream.fm/"
-    },
+   
     {
       "name": "Dux Radio",
       "streamURL": "https://radio.duxradio.ro:8002/stream",
@@ -2665,19 +2544,7 @@
       "_bitrate": 128,
       "_homepage": "https://oxoradio.eu/"
     },
-    {
-      "name": "Alien Club Fantasy",
-      "streamURL": "http://radio.club-fantasy-hub.ro:8000/;",
-      "imageURL": "https://d371i8ihhgym7w.cloudfront.net/16697570.png",
-      "desc": "Dance | Muzică Românească | Pop | Romanian",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 320,
-      "_homepage": "http://club-fantasy-hub.ro/"
-    },
+  
     {
       "name": "Radio Unique",
       "streamURL": "http://listen.radiounique.ro:8106/live",
@@ -2821,19 +2688,7 @@
       "_bitrate": 128,
       "_homepage": "https://replicaradio.com/"
     },
-    {
-      "name": "Electric Castle",
-      "streamURL": "https://electriccastle.out.airtime.pro/electriccastle_a",
-      "imageURL": "https://electriccastle.ro/assets/img/meta/ec-radio.png",
-      "desc": "Electric Castle",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "+40750115435",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "https://electriccastle.ro/radio"
-    },
+   
     {
       "name": "radio 1 pitesti",
       "streamURL": "https://ssl.radios.show/8050/stream",
@@ -2940,7 +2795,7 @@
     },
     {
       "name": "Radio Crasna",
-      "streamURL": "http://ssl.omegahost.ro/8006/stream/",
+      "streamURL": "https://radio.ascultatare.ro/8028/stream",
       "imageURL": "https://cdn.onlineradiobox.com/img/l/8/109058.v38.png",
       "desc": "Latino | Manele | Muzica Populara | Pop Dance",
       "longDesc": "",
@@ -2964,19 +2819,7 @@
       "_bitrate": 128,
       "_homepage": "https://radioeasy.ro/"
     },
-    {
-      "name": "RADIO MAGIA INIMII TALE",
-      "streamURL": "https://a9.asurahosting.com:7030/radio.mp3",
-      "imageURL": "https://myradioonline.ro/public/uploads/radio_img/magia-inimii-tale/fb_cover.jpg",
-      "desc": "Blues | Country | Manele Și Petrecere | Muzica Inimii Tale | Muzica Usoara Romaneasca | Muzica Usoara Straina",
-      "longDesc": "",
-      "country": "RO",
-      "tel": "",
-      "whatsapp": "",
-      "_codec": "MP3",
-      "_bitrate": 192,
-      "_homepage": "http://www.musicmagiainimiitale.com/wp/"
-    },
+    
     {
       "name": "Radio Momente Magice",
       "streamURL": "http://radio.sonicpanel.ro:8070/",
@@ -3031,7 +2874,7 @@
     },
     {
       "name": "Autobaza Radio",
-      "streamURL": "http://live.smartradio.ro:9128/live",
+      "streamURL": "http://s3.myradiostream.com:7022/;",
       "imageURL": "https://www.autobazaradio.ro/logo-autobaza-radio-alb.png",
       "desc": "Autobaza Radio",
       "longDesc": "",
